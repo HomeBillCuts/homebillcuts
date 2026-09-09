@@ -74,12 +74,12 @@ A perfect install with identical setpoints 24/7 does not magically shrink kWh. P
 
 ## Product placeholders (hardware only)
 
-> **Affiliate disclosure:** Product links use `{{AFFILIATE:...}}` placeholders. When live, some may be affiliate links (including Amazon Associates once enrolled). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/). Installation labor is never an affiliate product — hire licensed local pros and compare quotes.
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/). Installation labor is never an affiliate product — hire licensed local pros and compare quotes.
 
-- Nest-style learning thermostat: {{AFFILIATE:nest-learning-thermostat}}
-- Budget / Alexa-friendly smart thermostat: {{AFFILIATE:amazon-smart-thermostat}}
-- Ecobee-style sensor thermostat: {{AFFILIATE:ecobee-smart-thermostat}}
-- C-wire / power accessory (model-specific): {{AFFILIATE:thermostat-c-wire-adapter}}
+- Nest-style learning thermostat: [View on Amazon](https://www.amazon.com/dp/B0D5BGST5N/?tag=homebillcuts-20)
+- Budget / Alexa-friendly smart thermostat: [View on Amazon](https://www.amazon.com/dp/B08J4C8871/?tag=homebillcuts-20)
+- Ecobee-style sensor thermostat: [View on Amazon](https://www.amazon.com/dp/B09XXS48P8/?tag=homebillcuts-20)
+- C-wire / power accessory (model-specific): [View on Amazon](https://www.amazon.com/dp/B08M45SHJ4/?tag=homebillcuts-20)
 
 ## Bottom line
 

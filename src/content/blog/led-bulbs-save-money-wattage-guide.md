@@ -68,7 +68,7 @@ Other practical gotchas:
 
 ## Shortlist: LED buys that make sense
 
-> **Affiliate disclosure:** Product links use `{{AFFILIATE:...}}` placeholders. When live, some may be affiliate links (including Amazon Associates once enrolled). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
 
 ### Best everyday swap: ENERGY STAR multipack A19 soft white (~800 lm)
 
@@ -76,7 +76,7 @@ Other practical gotchas:
 
 **Watch-outs:** Verify dimmable vs. non-dimmable against your switches. Multipacks only “save money” if the lumen and color match what you’ll actually use — don’t force 5000K garage bulbs into bedrooms.
 
-- LED bulbs multipack: {{AFFILIATE:led-bulbs-multipack}}
+- LED bulbs multipack: [View on Amazon](https://www.amazon.com/dp/B0DVWMMK17/?tag=homebillcuts-20)
 
 ### Best for dimmers: labeled dimmable A19 + compatible dimmer check
 
@@ -84,7 +84,7 @@ Other practical gotchas:
 
 **Watch-outs:** Old leading-edge dimmers may still misbehave; budget for a dimmer refresh if a whole room flickers.
 
-- Dimmable LED A19 pack: {{AFFILIATE:dimmable-led-a19-pack}}
+- Dimmable LED A19 pack: [View on Amazon](https://www.amazon.com/dp/B07CFRB7L3/?tag=homebillcuts-20)
 
 ### Best for cans / porch: BR30 / outdoor wet-location rated lamps
 
@@ -92,7 +92,7 @@ Other practical gotchas:
 
 **Watch-outs:** Check aperture size (BR30 vs BR40) and whether your can needs a dedicated retrofit trim.
 
-- BR30 / outdoor LED lamps: {{AFFILIATE:br30-outdoor-led-bulbs}}
+- BR30 / outdoor LED lamps: [View on Amazon](https://www.amazon.com/dp/B08KRL8D1P/?tag=homebillcuts-20)
 
 ## Pair LEDs with behavior (still free)
 

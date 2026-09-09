@@ -57,7 +57,7 @@ Renters: prefer removable sweeps and adhesive strips; keep original hardware to 
 
 ## Shortlist: weatherstripping and draft stoppers
 
-> **Affiliate disclosure:** Product links use `{{AFFILIATE:...}}` placeholders. When live, some may be affiliate links (including Amazon Associates once enrolled). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
 
 ### Best first buy for most exterior doors: adjustable door sweep + threshold kit
 
@@ -65,7 +65,7 @@ Renters: prefer removable sweeps and adhesive strips; keep original hardware to 
 
 **Watch-outs:** Measure door thickness and swing clearance so the sweep doesn’t bind on flooring. Uneven slabs may need planing or a pro. Garage-entry doors often need a heavier seal than a light foam strip.
 
-- Door sweep / weatherstrip kit: {{AFFILIATE:door-sweep-weatherstrip-kit}}
+- Door sweep / weatherstrip kit: [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
 
 ### Best renter-friendly draft stopper: weighted fabric door draft snake (plus removable rope caulk)
 
@@ -73,8 +73,8 @@ Renters: prefer removable sweeps and adhesive strips; keep original hardware to 
 
 **Watch-outs:** Snakes don’t seal side jambs; they’re a partial fix. Don’t use them as an excuse to ignore a missing sweep on a door you own and can service. Keep clear of wet entries where fabric mildews.
 
-- Draft stopper / door snake: {{AFFILIATE:door-draft-stopper}}
-- Removable rope caulk (seasonal): {{AFFILIATE:rope-caulk-window-kit}}
+- Draft stopper / door snake: [View on Amazon](https://www.amazon.com/dp/B09W2NZGDQ/?tag=homebillcuts-20)
+- Removable rope caulk (seasonal): [View on Amazon](https://www.amazon.com/dp/B000LNODSQ/?tag=homebillcuts-20)
 
 ### Best for door and window perimeters: V-strip / spring bronze or quality silicone kerf weatherstrip
 
@@ -82,7 +82,7 @@ Renters: prefer removable sweeps and adhesive strips; keep original hardware to 
 
 **Watch-outs:** Cheap foam tape fails fast in sun and friction. Clean surfaces with isopropyl before adhesive products. Kerf slots must exist (or be cut carefully) for kerf bulbs — don’t force the wrong profile.
 
-- V-strip / silicone weatherstrip assortment: {{AFFILIATE:v-strip-weatherstripping}}
+- V-strip / silicone weatherstrip assortment: [View on Amazon](https://www.amazon.com/dp/B01GWEUIHM/?tag=homebillcuts-20)
 
 ### Best “whole door” upgrade path: prehung weatherstripped exterior door (when the slab is shot)
 

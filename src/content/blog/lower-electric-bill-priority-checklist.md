@@ -90,14 +90,14 @@ Measurement prevents buying the wrong “smart” gadget.
 
 ## Optional products (only after the checklist)
 
-> **Affiliate disclosure:** Some links below may be affiliate links. If you buy through them, HomeBillCuts may earn a commission at no extra cost to you. We do not guarantee savings. See our [Disclosure](/disclosure/) page. Replace `{{AFFILIATE:...}}` tokens with your real tracked URLs before publishing promotions.
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below may be affiliate links. If you buy through them, HomeBillCuts may earn a commission at no extra cost to you. We do not guarantee savings. See our [Disclosure](/disclosure/) page.
 
 Useful *after* free/cheap steps:
 
-- **LED bulbs** for remaining high-use sockets — {{AFFILIATE:led-bulbs-multipack}}
-- **Door sweep / weatherstrip kit** — {{AFFILIATE:door-sweep-weatherstrip-kit}}
-- **Kill-a-watt style plug meter** — {{AFFILIATE:plug-energy-meter}}
-- **Smart power strip** for AV setups — {{AFFILIATE:smart-power-strip}}
+- **LED bulbs** for remaining high-use sockets — [View on Amazon](https://www.amazon.com/dp/B0DVWMMK17/?tag=homebillcuts-20)
+- **Door sweep / weatherstrip kit** — [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
+- **Kill-a-watt style plug meter** — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
+- **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 
 For thermostats and whole-home monitors, use the dedicated guides linked above rather than impulse-buying the first ad you see.
 

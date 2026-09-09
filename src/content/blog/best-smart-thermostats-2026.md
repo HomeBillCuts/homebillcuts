@@ -58,7 +58,7 @@ Before checkout:
 
 ## 2026 shortlist (practical picks)
 
-> **Affiliate disclosure:** Product links use `{{AFFILIATE:...}}` placeholders. When live, some may be affiliate links (including Amazon Associates once enrolled). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
 
 ### Best overall for most US forced-air homes: Google Nest Learning Thermostat (or current Nest equivalent)
 
@@ -66,7 +66,7 @@ Before checkout:
 
 **Watch-outs:** Works best with a C-wire in many setups; some users dislike subscription upsells for advanced features on related products — verify what’s included at purchase time. Learning features only save energy if they reduce runtime vs. your old habits.
 
-- Learn more / buy: {{AFFILIATE:nest-learning-thermostat}}
+- Learn more / buy: [View on Amazon](https://www.amazon.com/dp/B0D5BGST5N/?tag=homebillcuts-20)
 
 ### Best value workhorse: Amazon Smart Thermostat (or current Energy Star budget pick)
 
@@ -74,7 +74,7 @@ Before checkout:
 
 **Watch-outs:** Fewer advanced heat-pump nuances than premium models; confirm C-wire needs and HVAC compatibility. “Cheap” only wins if you actually configure schedules.
 
-- Learn more / buy: {{AFFILIATE:amazon-smart-thermostat}}
+- Learn more / buy: [View on Amazon](https://www.amazon.com/dp/B08J4C8871/?tag=homebillcuts-20)
 
 ### Best for Apple-centric homes: Ecobee Smart Thermostat (room-sensor models)
 
@@ -82,7 +82,7 @@ Before checkout:
 
 **Watch-outs:** Higher price; sensor placement matters; cloud dependence varies by feature. Sensors help comfort — bill impact still depends on setpoints.
 
-- Learn more / buy: {{AFFILIATE:ecobee-smart-thermostat}}
+- Learn more / buy: [View on Amazon](https://www.amazon.com/dp/B09XXS48P8/?tag=homebillcuts-20)
 
 ### Best if you want open / local-leaning control: Honeywell Home / Resideo or similar professional lines
 
@@ -90,7 +90,7 @@ Before checkout:
 
 **Watch-outs:** App quality varies by model generation — buy the current firmware-supported SKU. Contractor markup can erase “savings” if you’re only upgrading for app features you won’t use.
 
-- Learn more / buy: {{AFFILIATE:honeywell-home-smart-thermostat}}
+- Learn more / buy: [View on Amazon](https://www.amazon.com/dp/B07N849J21/?tag=homebillcuts-20)
 
 > These are shortlist *categories*, not lab-tested rankings with fabricated kWh deltas. Model numbers change — verify 2026 compatibility sheets and your wiring photos before ordering.
 

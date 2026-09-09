@@ -120,13 +120,13 @@ A monitor that sits unused is the most expensive option.
 - Your utility already provides granular interval data you’re ignoring
 - A $30 plug-in meter would answer the only question you have (one appliance)
 
-## Affiliate links (placeholders)
+## Affiliate links
 
-> **Affiliate disclosure:** The tokens below are placeholders for future affiliate URLs (for example Amazon Associates once enrolled, or direct partner programs). If you purchase through an affiliate link we place later, we may earn a commission at no additional cost to you. Recommendations are not savings guarantees. See the [Disclosure](/disclosure/) page. We do **not** invent tracking IDs in this content.
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). If you purchase through an affiliate link, we may earn a commission at no additional cost to you. Recommendations are not savings guarantees. See the [Disclosure](/disclosure/) page.
 
-- Emporia Vue kit (current generation): {{AFFILIATE:emporia-vue-energy-monitor}}
-- Sense energy monitor kit: {{AFFILIATE:sense-energy-monitor}}
-- Plug-in meter (for single 120V appliances first): {{AFFILIATE:plug-energy-meter}}
+- Emporia Vue kit (current generation): [View on Amazon](https://www.amazon.com/dp/B0C79TVH4Y/?tag=homebillcuts-20)
+- Sense energy monitor kit: [View on Amazon](https://www.amazon.com/dp/B09W2ZYD1R/?tag=homebillcuts-20)
+- Plug-in meter (for single 120V appliances first): [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
 Also consider whether a [smart thermostat](/blog/best-smart-thermostats-2026/) solves a scheduling problem before (or after) you invest in monitoring.
 

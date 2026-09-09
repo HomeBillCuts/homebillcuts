@@ -34,7 +34,7 @@ It helps less when:
 
 Whole-home mysteries still belong to interval data or a [home energy monitor comparison](/blog/emporia-vue-vs-sense/).
 
-Plug meter placeholder: {{AFFILIATE:plug-energy-meter}}
+Plug meter: [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
 ## Safety limits you should not ignore
 
@@ -60,7 +60,7 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 
 ## Shortlist: smart plugs and strips
 
-> **Affiliate disclosure:** Product links use `{{AFFILIATE:...}}` placeholders. When live, some may be affiliate links (including Amazon Associates once enrolled). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
+> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
 
 ### Best simple cutoff: Wi‑Fi mini smart plug (schedule + manual button)
 
@@ -68,7 +68,7 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 
 **Watch-outs:** Confirm 15A vs. lower ratings. 2.4 GHz Wi‑Fi requirements still catch people on 5 GHz-only SSIDs. Cloud outages happen — don’t put critical loads solely on cloud control.
 
-- Mini smart plug: {{AFFILIATE:smart-plug-mini}}
+- Mini smart plug: [View on Amazon](https://www.amazon.com/dp/B091699Z3W/?tag=homebillcuts-20)
 
 ### Best for AV centers: smart power strip with switched + always-on outlets
 
@@ -76,7 +76,7 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 
 **Watch-outs:** Total strip load rating still applies. Don’t plug heaters into them. Cable management and surge claims vary — treat “surge protection” as a bonus, not a panel replacement.
 
-- Smart power strip: {{AFFILIATE:smart-power-strip}}
+- Smart power strip: [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 
 ### Best for measurement nerds: energy-monitoring smart plug
 
@@ -84,7 +84,7 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 
 **Watch-outs:** Meter accuracy varies; use it for relative decisions, not utility-grade billing. Monitoring doesn’t save energy until you act on it.
 
-- Energy-monitoring smart plug: {{AFFILIATE:smart-plug-energy-monitor}}
+- Energy-monitoring smart plug: [View on Amazon](https://www.amazon.com/dp/B08LZWBTR6/?tag=homebillcuts-20)
 
 ### Best “dumb but effective” alternative: switched mechanical strip
 
@@ -92,7 +92,7 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 
 **Watch-outs:** Humans forget — that’s the only reason to automate.
 
-- Heavy-duty switched power strip: {{AFFILIATE:switched-power-strip}}
+- Heavy-duty switched power strip: [View on Amazon](https://www.amazon.com/dp/B004UCUIE2/?tag=homebillcuts-20)
 
 ## Automation patterns that work
 
