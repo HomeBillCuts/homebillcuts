@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => data.draft !== true))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+---
+<BaseLayout
+  title="HomeBillCuts"
+  description="Bill-first US home energy efficiency: practical checklists and honest product shortlists. No guaranteed dollar savings."
+  canonicalPath="/"
+>
+  <section class="hero">
+    <h1>Cut home energy waste — starting with your electric bill.</h1>
+    <p>
+      HomeBillCuts is a bill-first guide for US households. We prioritize cheap diagnostics and
+      high-leverage habits before shiny gadgets, and we never invent “guaranteed” savings figures.
+      Results depend on your climate, rates, home, and how you use energy.
+    </p>
+    <div class="hero-actions">
+      <a class="button button--primary" href="/start-here/">Start Here</a>
+      <a class="button button--secondary" href="/blog/lower-electric-bill-priority-checklist/">
+        Priority checklist
+      </a>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="latest-guides">
+    <h2 id="latest-guides">Latest guides</h2>
+    <div class="card-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="email-heading">
+    <div class="email-capture">
+      <h2 id="email-heading">Email updates (placeholder)</h2>
+      <p class="note">
+        Optional checklist reminders and new guide alerts. No spam. This form is a placeholder —
+        wire it to your email provider later (e.g. Buttondown, ConvertKit, or MailerLite).
+      </p>
+      <form action="#" method="post" onsubmit="return false;" aria-label="Email signup placeholder">
+        <label class="sr-only" for="email">Email address</label>
+        <input id="email" name="email" type="email" placeholder="you@example.com" autocomplete="email" disabled />
+        <button class="button button--primary" type="submit" disabled>Notify me (soon)</button>
+      </form>
+      <p class="note">See our <a href="/privacy/">Privacy Policy</a> for how we plan to handle email addresses.</p>
+    </div>
+  </section>
+</BaseLayout>

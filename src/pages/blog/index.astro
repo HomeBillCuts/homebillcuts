@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => data.draft !== true)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+<BaseLayout
+  title="Guides"
+  description="HomeBillCuts guides — checklists, thermostat buyer’s notes, and energy monitor comparisons."
+  canonicalPath="/blog/"
+>
+  <section class="section" style="margin-top:0">
+    <h1 style="margin:0 0 0.5rem; letter-spacing:-0.02em;">Guides</h1>
+    <p style="color:var(--color-muted); margin:0 0 1.5rem; max-width:40rem;">
+      Bill-first articles for US homes. Start with the
+      <a href="/start-here/">Start Here hub</a> if you want a suggested order.
+    </p>
+    <div class="card-grid">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </section>
+</BaseLayout>

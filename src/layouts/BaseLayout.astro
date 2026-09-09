@@ -1,0 +1,98 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonicalPath?: string;
+  ogType?: 'website' | 'article';
+  pubDate?: Date;
+}
+
+const {
+  title,
+  description = 'Practical US home energy efficiency checklists and product shortlists — bill-first, honest, no guaranteed savings.',
+  canonicalPath = Astro.url.pathname,
+  ogType = 'website',
+  pubDate,
+} = Astro.props;
+
+const siteName = 'HomeBillCuts';
+const siteUrl = Astro.site ?? new URL('https://homebillcuts.com');
+const canonical = new URL(canonicalPath, siteUrl).toString();
+const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+const pathname = Astro.url.pathname;
+
+const nav = [
+  { href: '/', label: 'Home' },
+  { href: '/start-here/', label: 'Start Here' },
+  { href: '/blog/', label: 'Guides' },
+  { href: '/about/', label: 'About' },
+  { href: '/contact/', label: 'Contact' },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate" type="application/rss+xml" title="HomeBillCuts RSS" href="/rss.xml" />
+
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="en_US" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+
+    {pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="logo" href="/">Home<span>Bill</span>Cuts</a>
+        <nav class="nav" aria-label="Primary">
+          {nav.map((item) => (
+            <a
+              href={item.href}
+              aria-current={pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href)) ? 'page' : undefined}
+            >
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="site-main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="/start-here/">Start Here</a>
+          <a href="/blog/">Guides</a>
+          <a href="/about/">About</a>
+          <a href="/contact/">Contact</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/disclosure/">Disclosure</a>
+          <a href="/rss.xml">RSS</a>
+        </nav>
+        <p>
+          © {new Date().getFullYear()} HomeBillCuts. Practical home energy guidance for US households.
+          We do not promise dollar savings — results vary by home, climate, rates, and habits.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
