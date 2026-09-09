@@ -5,7 +5,7 @@ import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog', ({ data }) => data.draft !== true))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+  .slice(0, 6);
 ---
 <BaseLayout
   title="HomeBillCuts"
@@ -20,18 +20,45 @@ const posts = (await getCollection('blog', ({ data }) => data.draft !== true))
       Results depend on your climate, rates, home, and how you use energy.
     </p>
     <div class="hero-actions">
-      <a class="button button--primary" href="/start-here/">Start Here</a>
+      <a class="button button--primary" href="/start-here/">Start Here — free path first</a>
       <a class="button button--secondary" href="/blog/lower-electric-bill-priority-checklist/">
-        Priority checklist
+        This month’s checklist
       </a>
     </div>
+    <p class="note" style="margin-top:1rem;">
+      Prefer a topic? Jump to
+      <a href="/blog/best-weatherstripping-draft-stoppers/">draft sealing</a>,
+      <a href="/blog/led-bulbs-save-money-wattage-guide/">LED wattage swaps</a>,
+      <a href="/blog/best-smart-plugs-vampire-power/">vampire-power plugs</a>, or
+      <a href="/blog/smart-thermostat-install-cost-vs-diy/">thermostat DIY vs install cost</a>.
+    </p>
+  </section>
+
+  <section class="section" aria-labelledby="how-it-works">
+    <h2 id="how-it-works">How to use this site</h2>
+    <ol>
+      <li><a href="/start-here/">Start Here</a> — suggested reading order, habits before hardware.</li>
+      <li><a href="/blog/lower-electric-bill-priority-checklist/">Priority checklist</a> — what to do this billing cycle.</li>
+      <li><a href="/blog/">Browse all guides</a> — thermostats, monitors, LEDs, weatherstripping, smart plugs.</li>
+    </ol>
+    <p class="note">
+      We use affiliate placeholders where products appear. No invented tracking tags, and no promised dollar savings.
+      See the <a href="/disclosure/">Disclosure</a> page.
+    </p>
   </section>
 
   <section class="section" aria-labelledby="latest-guides">
     <h2 id="latest-guides">Latest guides</h2>
+    <p style="color:var(--color-muted); margin:0 0 1.25rem; max-width:40rem;">
+      Newest first. Pick one guide, take one action this week, then come back for the next lever —
+      not a cart full of gadgets.
+    </p>
     <div class="card-grid">
       {posts.map((post) => <PostCard post={post} />)}
     </div>
+    <p style="margin-top:1.25rem;">
+      <a class="button button--secondary" href="/blog/">See all guides</a>
+    </p>
   </section>
 
   <section class="section" aria-labelledby="email-heading">

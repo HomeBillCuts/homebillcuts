@@ -9,14 +9,20 @@ const posts = (await getCollection('blog', ({ data }) => data.draft !== true)).s
 ---
 <BaseLayout
   title="Guides"
-  description="HomeBillCuts guides — checklists, thermostat buyer’s notes, and energy monitor comparisons."
+  description="HomeBillCuts guides — electric bill checklists, weatherstripping, LEDs, smart plugs, thermostats, and energy monitors."
   canonicalPath="/blog/"
 >
   <section class="section" style="margin-top:0">
     <h1 style="margin:0 0 0.5rem; letter-spacing:-0.02em;">Guides</h1>
-    <p style="color:var(--color-muted); margin:0 0 1.5rem; max-width:40rem;">
-      Bill-first articles for US homes. Start with the
-      <a href="/start-here/">Start Here hub</a> if you want a suggested order.
+    <p style="color:var(--color-muted); margin:0 0 1rem; max-width:42rem;">
+      Bill-first articles for US homes — checklists, weatherization, lighting, vampire-power plugs,
+      thermostats, and monitors. No guaranteed dollar savings; take one useful action per visit.
+    </p>
+    <p style="margin:0 0 1.5rem;">
+      <a class="button button--primary" href="/start-here/">Suggested reading order</a>
+      <a class="button button--secondary" href="/blog/lower-electric-bill-priority-checklist/" style="margin-left:0.5rem;">
+        Priority checklist
+      </a>
     </p>
     <div class="card-grid">
       {posts.map((post) => <PostCard post={post} />)}
