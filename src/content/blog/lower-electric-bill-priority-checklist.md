@@ -36,7 +36,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 
 > **Safety note:** Turn power off at the disconnect/breaker before opening equipment panels you are not trained to service. Do not bypass safeties. If you smell gas, leave and call your utility’s emergency line. Leave panel wiring and refrigerant work to licensed pros.
 
-- Replace or clean **air filters** if dirty (restricted airflow raises runtime and can freeze coils).
+- Replace or clean **air filters** if dirty (restricted airflow raises runtime and can freeze coils). See our [HVAC air filter MERV & sizing guide](/blog/hvac-air-filters-merv-efficiency/) before you buy a multipack.
 - Clear debris from outdoor condenser coils; keep 1–2 feet of clearance.
 - Close supply registers in unused rooms *only if* your system is designed for it — many modern systems dislike heavy restriction.
 - Confirm ceiling fans circulate air for comfort so you can ease thermostat setpoints (fans cool people, not rooms).
@@ -106,7 +106,7 @@ For thermostats and whole-home monitors, use the dedicated guides linked above r
 | Day | Action |
 | --- | --- |
 | Day 1 | Read the bill; note kWh and rate type |
-| Day 2 | Fix thermostat schedule; replace HVAC filter |
+| Day 2 | Fix thermostat schedule; replace HVAC filter ([guide](/blog/hvac-air-filters-merv-efficiency/)) |
 | Day 3 | Set water heater target; fix drips |
 | Day 4 | LED + vampire-load walkthrough |
 | Day 5 | Dryer vent / laundry timing check |
