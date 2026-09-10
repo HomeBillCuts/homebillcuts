@@ -66,7 +66,7 @@ Keep or replace like-for-like with a quality resistance tank when:
 - You’re bridging a short ownership horizon and capital must stay tiny.
 - You’ve already cut waste: lower setpoint (with scald-safe delivery), fix leaks, and efficient dishwashers/washers.
 
-Even then, **insulation jackets**, pipe insulation, and leak fixes remain cheap. A hybrid is not required to stop obvious waste.
+Even then, **insulation jackets**, pipe insulation, and leak fixes remain cheap — see the [hot water pipe insulation & tank jacket guide](/blog/insulate-hot-water-pipes-water-heater-jacket/) for a cheaper near-term step before you replace the tank. A hybrid is not required to stop obvious waste.
 
 ## Amazon-relevant accessories (not the tank itself)
 

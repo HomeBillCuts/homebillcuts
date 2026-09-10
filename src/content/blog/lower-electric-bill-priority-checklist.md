@@ -47,6 +47,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 - Fix dripping hot taps; a constant drip wastes both water and energy.
 - Use dishwasher/washer “eco” or cold-wash cycles when they still clean well for your soil level.
 - If you have a heat pump water heater, confirm it’s in an efficient mode and has adequate space airflow.
+- Insulate accessible hot pipes in unconditioned basements, crawlspaces, or garages — see the [pipe insulation & tank jacket guide](/blog/insulate-hot-water-pipes-water-heater-jacket/). Electric-tank blankets only when the manufacturer allows; skip gas tanks.
 
 ### 4. Lighting and always-on loads (quick wins)
 
@@ -98,6 +99,7 @@ Useful *after* free/cheap steps:
 - **Door sweep / weatherstrip kit** — [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
 - **Kill-a-watt style plug meter** — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
+- **Foam pipe insulation** for exposed hot runs — [View on Amazon](https://www.amazon.com/dp/B0CJXFLQV5/?tag=homebillcuts-20)
 
 For thermostats and whole-home monitors, use the dedicated guides linked above rather than impulse-buying the first ad you see.
 
