@@ -90,7 +90,10 @@ Renters: prefer removable sweeps and adhesive strips; keep original hardware to 
 
 **Watch-outs:** Installation quality dominates product marketing. Flashing and sealing the rough opening matter more than a brand slogan. This is no longer a “this month, $20” project — prioritize only after kits fail or the door is clearly failed.
 
-- Insulated exterior door (measure first): {{AFFILIATE:insulated-exterior-door}}
+- Example insulated fiberglass prehung entry (36″×80″, left-hand inswing — **verify handing, jamb depth, and rough opening before buy**): [Ohana Depot fiberglass prehung on Amazon](https://www.amazon.com/dp/B0DBSNCXBB/?tag=homebillcuts-20)
+- Alternate steel insulated-core prehung example (34″×80″ RH inswing — measure; sizes differ): [National Door Company on Amazon](https://www.amazon.com/dp/B0BDPKCBZS/?tag=homebillcuts-20)
+
+Hiring a pro for flashing and structural fit is often cheaper than a DIY miss on the weather barrier. For seasonal *window* drafts, see [window insulation kits](/blog/window-insulation-kits-winter-drafts/).
 
 ## Install habits that keep seals working
 

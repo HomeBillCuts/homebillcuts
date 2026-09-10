@@ -64,7 +64,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 
 ### 6. Weatherization lite (this month, not a full retrofit)
 
-- Door sweeps and plastic film kits for leaky single-pane windows in winter.
+- Door sweeps ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) and plastic [window insulation film kits](/blog/window-insulation-kits-winter-drafts/) for leaky single-pane windows in winter.
 - Close fireplace dampers when not in use.
 - Seal obvious gaps around cable/pipe penetrations with appropriate materials.
 - Use curtains strategically: block harsh sun in cooling season; let sun in during heating season on south-facing glass (US).
