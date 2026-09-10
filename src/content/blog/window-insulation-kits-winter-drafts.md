@@ -6,7 +6,7 @@ pubDate: 2026-09-10
 
 Single-pane and leaky double-hung windows dump heat all winter. Indoor **shrink-film window insulation kits** are a cheap, removable way to cut drafts before you jump to full window replacement. This guide is **bill-first**: when kits help, how to install them so the tape holds, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge seals (sweeps, V-strip) belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); this page is about **film across the glass face**.
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge seals (sweeps, V-strip) belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); daily-use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) are a separate layer. This page is about **film across the glass face**.
 
 ## When shrink film helps *your* bill
 
@@ -32,6 +32,7 @@ It usually won’t help much when:
 | Gap under an exterior door | Door sweep / threshold ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) |
 | Flat sash / stop leaks you can feel with incense | V-strip, foam tape, rope caulk |
 | Whole window face drafts / “cold glass” rooms | Indoor shrink film kit (this page) |
+| Daily open/close + light control on cold glass | [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) |
 | Failed, warped exterior door slab | Insulated exterior door (measure first) — see weatherstripping “whole door” section |
 
 Film does **not** replace fixing a banana-shaped door. Pair film on glass with sweeps on doors when both leak.
@@ -92,4 +93,4 @@ Measure the opening first. Patio kits are one big sheet — harder solo, worth a
 
 ## Bottom line
 
-For drafty US windows heading into heating season, indoor shrink-film kits are a **low-cost, reversible** weatherization step — not a substitute for attic air sealing or a failed HVAC system. Buy the pack size that matches how many openings you measured, install on clean dry frames, and keep egress and combustion air safe. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+For drafty US windows heading into heating season, indoor shrink-film kits are a **low-cost, reversible** weatherization step — not a substitute for attic air sealing or a failed HVAC system. Buy the pack size that matches how many openings you measured, install on clean dry frames, and keep egress and combustion air safe. Pair with [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) when you want daytime open/close control. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).

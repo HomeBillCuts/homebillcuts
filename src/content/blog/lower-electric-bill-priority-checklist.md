@@ -68,7 +68,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 - Door sweeps ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) and plastic [window insulation film kits](/blog/window-insulation-kits-winter-drafts/) for leaky single-pane windows in winter.
 - Close fireplace dampers when not in use.
 - Seal obvious gaps around cable/pipe penetrations with appropriate materials.
-- Use curtains strategically: block harsh sun in cooling season; let sun in during heating season on south-facing glass (US).
+- Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
 
 Whole-home air sealing and insulation pay off over years — worth planning, but not required to start lowering *this* bill.
 
