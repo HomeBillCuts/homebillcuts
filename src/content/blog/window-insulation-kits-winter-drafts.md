@@ -31,6 +31,7 @@ It usually won’t help much when:
 | --- | --- |
 | Gap under an exterior door | Door sweep / threshold ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) |
 | Flat sash / stop leaks you can feel with incense | V-strip, foam tape, rope caulk |
+| Baseboards, penetrations, exterior-wall outlets | [Caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) |
 | Whole window face drafts / “cold glass” rooms | Indoor shrink film kit (this page) |
 | Daily open/close + light control on cold glass | [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) |
 | Failed, warped exterior door slab | Insulated exterior door (measure first) — see weatherstripping “whole door” section |

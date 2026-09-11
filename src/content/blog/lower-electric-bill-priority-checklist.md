@@ -68,7 +68,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 
 - Door sweeps ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) and plastic [window insulation film kits](/blog/window-insulation-kits-winter-drafts/) for leaky single-pane windows in winter.
 - Close fireplace dampers when not in use.
-- Seal obvious gaps around cable/pipe penetrations with appropriate materials.
+- Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
 
 Whole-home air sealing and insulation pay off over years — worth planning, but not required to start lowering *this* bill.
@@ -98,6 +98,7 @@ Useful *after* free/cheap steps:
 
 - **LED bulbs** for remaining high-use sockets — [View on Amazon](https://www.amazon.com/dp/B0DVWMMK17/?tag=homebillcuts-20)
 - **Door sweep / weatherstrip kit** — [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
+- **Outlet / switch foam gaskets** — [View on Amazon](https://www.amazon.com/dp/B002TIHKZE/?tag=homebillcuts-20)
 - **Kill-a-watt style plug meter** — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 - **Foam pipe insulation** for exposed hot runs — [View on Amazon](https://www.amazon.com/dp/B0CJXFLQV5/?tag=homebillcuts-20)
