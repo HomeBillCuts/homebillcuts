@@ -48,6 +48,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 - Use dishwasher/washer “eco” or cold-wash cycles when they still clean well for your soil level.
 - If you have a heat pump water heater, confirm it’s in an efficient mode and has adequate space airflow.
 - Insulate accessible hot pipes in unconditioned basements, crawlspaces, or garages — see the [pipe insulation & tank jacket guide](/blog/insulate-hot-water-pipes-water-heater-jacket/). Electric-tank blankets only when the manufacturer allows; skip gas tanks.
+- If showers or taps still feel like old high-flow fixtures, consider [WaterSense showerheads and faucet aerators](/blog/low-flow-showerheads-faucet-aerators/) after you fix drips — less hot water used is less water reheated.
 
 ### 4. Lighting and always-on loads (quick wins)
 

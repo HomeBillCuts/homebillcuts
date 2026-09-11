@@ -6,7 +6,7 @@ pubDate: 2026-09-09
 
 Water heating is often the second-largest electric load in all-electric US homes (after space conditioning). A **heat pump water heater (HPWH / hybrid)** can use far fewer kWh than a standard resistance tank — but only when the install location, plumbing, condensate, and noise fit your house. This is a **bill-impact overview**, not a guaranteed savings calculator.
 
-New here? Use the [Start Here hub](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/) before shopping major appliances. Pair efficiency upgrades with visibility from a [home energy monitor](/blog/emporia-vue-vs-sense/) when you want proof on the bill.
+New here? Use the [Start Here hub](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/) before shopping major appliances. Cheaper near-term levers — [low-flow showerheads and aerators](/blog/low-flow-showerheads-faucet-aerators/) plus [pipe insulation](/blog/insulate-hot-water-pipes-water-heater-jacket/) — still apply before or alongside a tank swap. Pair big upgrades with visibility from a [home energy monitor](/blog/emporia-vue-vs-sense/) when you want proof on the bill.
 
 ## What changes on the electric bill?
 

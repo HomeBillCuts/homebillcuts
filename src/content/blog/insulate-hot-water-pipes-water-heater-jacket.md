@@ -6,7 +6,7 @@ pubDate: 2026-09-10
 
 Hot water that sits in unconditioned basements, crawlspaces, or long garage runs cools between draws — then the tank reheats more often. **Foam pipe insulation** and (sometimes) an **electric storage-tank jacket** are cheap weatherization steps that reduce that waste. This guide is **bill-first**: when they help, how to measure, safety limits, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). When the tank itself is due for replacement, compare hybrids in the [heat pump water heater guide](/blog/heat-pump-water-heater-vs-standard/) — pipe insulation is the cheaper near-term step, not a substitute for a worn-out heater.
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Cutting hot gallons at the fixture with [low-flow showerheads and aerators](/blog/low-flow-showerheads-faucet-aerators/) pairs well with insulating the runs that remain. When the tank itself is due for replacement, compare hybrids in the [heat pump water heater guide](/blog/heat-pump-water-heater-vs-standard/) — pipe insulation is the cheaper near-term step, not a substitute for a worn-out heater.
 
 ## When pipe insulation helps *your* bill
 
