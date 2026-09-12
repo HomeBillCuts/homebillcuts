@@ -68,6 +68,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 
 - Door sweeps ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) and plastic [window insulation film kits](/blog/window-insulation-kits-winter-drafts/) for leaky single-pane windows in winter.
 - Close fireplace dampers when not in use; for leaky or unused flues, see [fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/).
+- Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
 

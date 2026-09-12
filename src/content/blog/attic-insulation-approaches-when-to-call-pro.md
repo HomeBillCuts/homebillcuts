@@ -6,7 +6,7 @@ pubDate: 2026-09-09
 
 Attic insulation is one of the highest-leverage envelope upgrades in many US homes — but only after air sealing and only when depth, ventilation, and moisture are handled correctly. This guide is **bill-first**: how to decide DIY vs pro, what approaches fit which attic, and which Amazon-ready materials make sense when the ASIN is clear. It is **not** a promise of a specific dollar cut on your next electric bill.
 
-If you haven’t done the free stuff yet, start with our [priority checklist](/blog/lower-electric-bill-priority-checklist/) and the [Start Here hub](/start-here/). Drafty doors and hatches often waste more than thin batts alone — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/).
+If you haven’t done the free stuff yet, start with our [priority checklist](/blog/lower-electric-bill-priority-checklist/) and the [Start Here hub](/start-here/). Drafty doors and hatches often waste more than thin batts alone — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [attic stair & hatch covers](/blog/attic-stair-hatch-insulation-covers/) before you bury a leaky pull-down stair under new insulation.
 
 ## Will attic insulation lower *your* electric bill?
 
@@ -31,7 +31,7 @@ It usually won’t help much when:
 1. **Measure depth** in several spots (gently — don’t compress loose fill). Note material type if you can tell (fiberglass, cellulose, mineral wool).
 2. **Map coverage gaps** at eaves, around chimneys (with proper clearances), and near HVAC platforms.
 3. **Check ventilation paths** — soffit intakes should not be blocked by insulation; baffles/rafter vents keep channels open.
-4. **Air-seal first** — attic hatches, can lights (rated covers where required), plumbing/electrical penetrations, and dropped soffits. Pair sealing habits with [draft stoppers](/blog/best-weatherstripping-draft-stoppers/) downstairs.
+4. **Air-seal first** — attic hatches and pull-down stairs ([cover kits guide](/blog/attic-stair-hatch-insulation-covers/)), can lights (rated covers where required), plumbing/electrical penetrations, and dropped soffits. Pair sealing habits with [draft stoppers](/blog/best-weatherstripping-draft-stoppers/) downstairs.
 5. **Look for moisture clues** — staining, musty smell, damp sheathing, or past ice dams. Pause DIY if you see active water or suspect knob-and-tube / damaged wiring in cavities.
 
 Renters: usually this is a landlord/owner decision. Document depth with photos and propose a cost share rather than DIY without approval.
