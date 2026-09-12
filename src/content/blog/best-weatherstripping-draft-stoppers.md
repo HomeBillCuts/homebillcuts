@@ -5,7 +5,7 @@ pubDate: 2026-09-06
 ---
 Drafty doors and windows waste conditioned air and make HVAC run longer. Weatherstripping and door draft stoppers are among the cheapest fixes on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) — but only if you seal the right gaps and keep safety/egress in mind. This guide is for typical US homes, not a promise of a specific dollar cut on your next bill.
 
-Attic pull-down stairs need a dedicated cover more than a door sweep — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
+Attic pull-down stairs need a dedicated cover more than a door sweep — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/). Overhead garage doors (bottom rubber, side/top stop, thresholds) are covered in [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
 
 New here? Use the [Start Here hub](/start-here/) for reading order. For cold glass itself (not just edge gaps), see [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). For static cracks, penetrations, and exterior-wall outlets, see [air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/). For unused fireplaces and leaky dampers, see [fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/).
 

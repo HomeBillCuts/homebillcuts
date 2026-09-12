@@ -7,7 +7,7 @@ Heating season is when leaky envelopes show up on the bill: conditioned air esca
 
 Pull-down attic stairs and thin hatches are often larger leaks than a few outlet gaps — cover them with [attic stair & hatch insulation kits](/blog/attic-stair-hatch-insulation-covers/) while you caulk and foam.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Door bottoms and sash edges belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/). Cold glass faces are covered by [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). Idle fireplaces with leaky dampers need [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/). Big attic leaks often dwarf trim caulk — see [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/).
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Door bottoms and sash edges belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/). Big overhead garage leaks need [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/). Cold glass faces are covered by [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). Idle fireplaces with leaky dampers need [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/). Big attic leaks often dwarf trim caulk — see [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/).
 
 ## Why small holes show up on winter bills
 

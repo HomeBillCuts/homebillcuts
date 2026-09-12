@@ -67,6 +67,7 @@ A programmable or smart thermostat can help *if* you actually use schedules. Pro
 ### 6. Weatherization lite (this month, not a full retrofit)
 
 - Door sweeps ([weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/)) and plastic [window insulation film kits](/blog/window-insulation-kits-winter-drafts/) for leaky single-pane windows in winter.
+- Replace cracked [garage door bottom seals / side stop weatherstrip](/blog/garage-door-weather-seals-bottom-seals/) on attached garages (measure T-slots; re-test opener auto-reverse).
 - Close fireplace dampers when not in use; for leaky or unused flues, see [fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/).
 - Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
