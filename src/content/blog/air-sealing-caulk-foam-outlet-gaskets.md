@@ -6,7 +6,7 @@ pubDate: 2026-09-11
 
 Heating season is when leaky envelopes show up on the bill: conditioned air escapes through tiny holes, and your furnace or heat pump works harder to keep up. **Caulk, low-expansion foam, foam backer rod, and outlet/switch gaskets** are the cheap sealing kit that sits *beside* door sweeps and window film — not a replacement for either. This guide is **bill-first**: where to look, which product for which gap, safety limits, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Door bottoms and sash edges belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/). Cold glass faces are covered by [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). Big attic leaks often dwarf trim caulk — see [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/).
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Door bottoms and sash edges belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/). Cold glass faces are covered by [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). Idle fireplaces with leaky dampers need [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/). Big attic leaks often dwarf trim caulk — see [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/).
 
 ## Why small holes show up on winter bills
 
