@@ -32,7 +32,7 @@ Heating and cooling usually dominate electric bills where you have A/C, heat pum
 
 A programmable or smart thermostat can help *if* you actually use schedules. Product shopping belongs later — see our [2026 smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/).
 
-If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/).
+If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/). For overnight comfort while you drop the thermostat, a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) warms the bed instead of the whole house — still only if you actually change the setpoint.
 
 ### 2. HVAC basics you can do safely (cheap / free)
 

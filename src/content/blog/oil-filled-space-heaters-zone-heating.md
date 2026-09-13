@@ -137,4 +137,4 @@ Smart schedules help you remember the setback — see [best smart thermostats (2
 
 ## Bottom line
 
-Oil-filled space heaters are a **zone-heating tool**, not a furnace replacement. Used with a lower whole-house setpoint, sealed rooms, and basic fire safety, they can shift comfort to where you sit without heating empty square footage. Used with the thermostat left high, they’re just another 1500 W load. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+Oil-filled space heaters are a **zone-heating tool**, not a furnace replacement. Used with a lower whole-house setpoint, sealed rooms, and basic fire safety, they can shift comfort to where you sit without heating empty square footage. Used with the thermostat left high, they’re just another 1500 W load. For overnight sleep-only warmth at even lower wattage, see [heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/). For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
