@@ -6,7 +6,7 @@ pubDate: 2026-09-10
 
 Single-pane and leaky double-hung windows dump heat all winter. Indoor **shrink-film window insulation kits** are a cheap, removable way to cut drafts before you jump to full window replacement. This guide is **bill-first**: when kits help, how to install them so the tape holds, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge seals (sweeps, V-strip) belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); daily-use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) are a separate layer. This page is about **film across the glass face**.
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge seals (sweeps, V-strip) belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); daily-use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) are a separate layer. A sealed room also makes [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) less wasteful. This page is about **film across the glass face**.
 
 ## When shrink film helps *your* bill
 

@@ -32,6 +32,8 @@ Heating and cooling usually dominate electric bills where you have A/C, heat pum
 
 A programmable or smart thermostat can help *if* you actually use schedules. Product shopping belongs later — see our [2026 smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/).
 
+If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/).
+
 ### 2. HVAC basics you can do safely (cheap / free)
 
 > **Safety note:** Turn power off at the disconnect/breaker before opening equipment panels you are not trained to service. Do not bypass safeties. If you smell gas, leave and call your utility’s emergency line. Leave panel wiring and refrigerant work to licensed pros.
@@ -105,7 +107,7 @@ Useful *after* free/cheap steps:
 - **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 - **Foam pipe insulation** for exposed hot runs — [View on Amazon](https://www.amazon.com/dp/B0CJXFLQV5/?tag=homebillcuts-20)
 
-For thermostats and whole-home monitors, use the dedicated guides linked above rather than impulse-buying the first ad you see.
+For thermostats and whole-home monitors, use the dedicated guides linked above rather than impulse-buying the first ad you see. For occupied-room winter strategy, see [oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) before stacking plug-in heat on top of a high central setpoint.
 
 ## A simple one-week plan
 

@@ -6,7 +6,7 @@ pubDate: 2026-09-03
 
 Smart thermostats are heavily marketed as bill-cutters. Sometimes they help. Sometimes they mostly send you pretty graphs. This 2026 buyer’s guide is **bill-first**: when a smart thermostat is worth it for US homes, which features matter for electric costs, and a short product list — without invented savings guarantees.
 
-If you haven’t done the free stuff yet, start with our [priority checklist](/blog/lower-electric-bill-priority-checklist/) and the [Start Here hub](/start-here/).
+If you haven’t done the free stuff yet, start with our [priority checklist](/blog/lower-electric-bill-priority-checklist/) and the [Start Here hub](/start-here/). Pairing a modest heating setback with [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) in the room you actually occupy is a common winter strategy — only when you don’t leave central heat on high at the same time.
 
 ## Will a smart thermostat lower *your* electric bill?
 

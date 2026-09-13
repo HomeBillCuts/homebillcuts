@@ -6,7 +6,7 @@ pubDate: 2026-09-10
 
 Windows are thin compared with walls. **Thermal and blackout curtains** add a fabric layer that slows radiative and convective loss at the glass — useful in heating season and for rooms that bake in afternoon sun. This guide is **bill-first**: when curtains help, how to size them, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge leaks belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); removable shrink film is covered in [window insulation kits](/blog/window-insulation-kits-winter-drafts/). This page is about **drapes you open and close every day**.
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge leaks belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); removable shrink film is covered in [window insulation kits](/blog/window-insulation-kits-winter-drafts/). Curtains also pair with [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use, then keep the glass covered at night. This page is about **drapes you open and close every day**.
 
 ## When thermal curtains help *your* bill
 
