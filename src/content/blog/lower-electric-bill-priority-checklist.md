@@ -62,7 +62,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 ### 5. Laundry and kitchen timing (TOU-friendly)
 
 - Run dishwashers and dryers in off-peak windows if you’re on TOU.
-- Clean dryer lint filter every load; check the exterior vent periodically.
+- Clean dryer lint filter every load; check the exterior vent periodically — if loads need extra cycles, see [dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/).
 - Air-dry when weather and time allow.
 - Use lids on pots; match burner size; prefer microwave/toaster oven for small meals.
 
@@ -117,7 +117,7 @@ For thermostats and whole-home monitors, use the dedicated guides linked above r
 | Day 2 | Fix thermostat schedule; replace HVAC filter ([guide](/blog/hvac-air-filters-merv-efficiency/)) |
 | Day 3 | Set water heater target; fix drips |
 | Day 4 | LED + vampire-load walkthrough |
-| Day 5 | Dryer vent / laundry timing check |
+| Day 5 | Dryer vent / laundry timing check ([guide](/blog/dryer-vent-cleaning-kits-energy-fire-safety/)) |
 | Day 6 | Quick air leaks + window dampers |
 | Day 7 | Decide if you need measurement tools |
 
