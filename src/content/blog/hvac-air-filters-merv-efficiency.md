@@ -126,6 +126,14 @@ If your size isn’t 16×25×1, search the same brand + MERV with *your* nominal
 - Exact static-pressure targets without a manometer and manufacturer curves.
 - Brand loyalty wars; buy for size + MERV fit, then price per filter-month.
 
+## Related reading
+
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — filters are maintenance; setpoints and sealing come first
+- [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — schedules that cut runtime after airflow is healthy
+- [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — when a pro install is worth it
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — prove whether filter cadence changed HVAC kWh
+
+
 ## Bottom line
 
 For most US homes, the revenue-smart filter move is boring: **correct size, MERV your equipment can breathe through, changed on a real schedule**. That protects airflow (and often your bill) better than chasing the highest number on the shelf. Amazon multipacks make the cadence easy — just double-check actual dimensions before you click.

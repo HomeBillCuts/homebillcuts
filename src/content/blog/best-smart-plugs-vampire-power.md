@@ -1,6 +1,6 @@
 ---
 title: "Best Smart Plugs to Kill Vampire Power"
-description: "Best smart plugs and strips for cutting vampire / standby power in US homes — when they help, safety limits, and honest product placeholders."
+description: "Best smart plugs and power strips for cutting vampire / standby power in US homes — when they help, safety limits, and a short Amazon list."
 pubDate: 2026-09-08
 ---
 
@@ -58,7 +58,7 @@ Prioritize:
 
 Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” and ecosystems you’ll abandon in six months.
 
-## Shortlist: smart plugs and strips
+## Amazon shortlist: smart plugs and strips worth considering
 
 > **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
 
@@ -102,6 +102,13 @@ Deprioritize: rainbow light shows, voice gimmicks as a “savings feature,” an
 4. **One-hour auto-off** for bathroom fans’ accessory heaters — only within plug ratings.
 
 Pair with HVAC habits and [draft sealing](/blog/best-weatherstripping-draft-stoppers/) so you’re not optimizing 8W while the attic hatch dumps conditioned air.
+
+## Related reading
+
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — whole-home monitors when one plug meter isn’t enough
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where vampire loads sit vs HVAC and water heating
+- [LED bulbs wattage guide](/blog/led-bulbs-save-money-wattage-guide/) — cut lighting watts before you automate them
+
 
 ## Bottom line
 

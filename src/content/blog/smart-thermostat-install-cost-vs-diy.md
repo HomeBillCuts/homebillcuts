@@ -70,9 +70,9 @@ DIY wins on cash only if:
 - The system works correctly afterward, **and**
 - You use schedules / geofencing to cut runtime you previously wasted.
 
-A perfect install with identical setpoints 24/7 does not magically shrink kWh. Pair the device with habits, [air sealing](/blog/best-weatherstripping-draft-stoppers/), and optionally measurement via [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/). Vampire loads won’t be fixed by a thermostat — use [smart plugs](/blog/best-smart-plugs-vampire-power/) for those.
+A perfect install with identical setpoints 24/7 does not magically shrink kWh. Pair the device with habits, [air sealing](/blog/best-weatherstripping-draft-stoppers/), and optionally measurement via [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/). Vampire loads won’t be fixed by a thermostat — use [smart plugs](/blog/best-smart-plugs-vampire-power/) for those. In winter, pairing a lower whole-house setpoint with [oil-filled zone heaters](/blog/oil-filled-space-heaters-zone-heating/) or [heated mattress pads](/blog/heated-mattress-pads-zone-heating/) often beats a perfect install with identical setpoints.
 
-## Product placeholders (hardware only)
+## Hardware shortlist (Amazon — confirm C-wire / compatibility first)
 
 > **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/). Installation labor is never an affiliate product — hire licensed local pros and compare quotes.
 
@@ -80,6 +80,14 @@ A perfect install with identical setpoints 24/7 does not magically shrink kWh. P
 - Budget / Alexa-friendly smart thermostat: [View on Amazon](https://www.amazon.com/dp/B08J4C8871/?tag=homebillcuts-20)
 - Ecobee-style sensor thermostat: [View on Amazon](https://www.amazon.com/dp/B09XXS48P8/?tag=homebillcuts-20)
 - C-wire / power accessory (model-specific): [View on Amazon](https://www.amazon.com/dp/B08M45SHJ4/?tag=homebillcuts-20)
+
+## Related reading
+
+- [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — what to buy before you hire (or DIY)
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where thermostat habits sit vs weatherization
+- [Oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) — drop whole-house runtime safely
+- [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — sleep warm, lower overnight setpoints
+
 
 ## Bottom line
 

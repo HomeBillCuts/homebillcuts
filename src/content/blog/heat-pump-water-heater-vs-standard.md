@@ -4,7 +4,7 @@ description: "Honest HPWH vs conventional electric water heater comparison for U
 pubDate: 2026-09-09
 ---
 
-Water heating is often the second-largest electric load in all-electric US homes (after space conditioning). A **heat pump water heater (HPWH / hybrid)** can use far fewer kWh than a standard resistance tank — but only when the install location, plumbing, condensate, and noise fit your house. This is a **bill-impact overview**, not a guaranteed savings calculator.
+Water heating is often the second-largest electric load in all-electric US homes (after space conditioning). A **heat pump water heater (HPWH / hybrid)** can use far fewer kWh than a standard resistance tank — but only when the install location, plumbing, condensate, and noise fit your house. This is a **bill-impact overview**, not a guaranteed savings calculator. If you’re keeping a healthy resistance tank for now, a properly rated [electric water heater timer](/blog/electric-water-heater-timers-cut-standby/) can still cut overnight or off-peak recovery — different lever, different install rules.
 
 New here? Use the [Start Here hub](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/) before shopping major appliances. Cheaper near-term levers — [low-flow showerheads and aerators](/blog/low-flow-showerheads-faucet-aerators/) plus [pipe insulation](/blog/insulate-hot-water-pipes-water-heater-jacket/) — still apply before or alongside a tank swap. Pair big upgrades with visibility from a [home energy monitor](/blog/emporia-vue-vs-sense/) when you want proof on the bill.
 
@@ -113,6 +113,14 @@ Shop local supply, utility marketplace, or Amazon only when the exact model, war
 - If you add a hybrid, learn the app/modes so vacation and heat-pump-priority settings stay enabled.
 
 For space-conditioning synergy, a well-set [smart thermostat](/blog/best-smart-thermostats-2026/) keeps you from accidentally reheating every BTU the HPWH removed from a conditioned basement.
+
+## Related reading
+
+- [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule lever for standard resistance tanks
+- [Insulate hot water pipes & tank jackets](/blog/insulate-hot-water-pipes-water-heater-jacket/) — cheap near-term heat-loss cuts
+- [Low-flow showerheads & aerators](/blog/low-flow-showerheads-faucet-aerators/) — fewer hot gallons before you replace the tank
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — verify water-heating kWh after an upgrade
+
 
 ## Bottom line
 

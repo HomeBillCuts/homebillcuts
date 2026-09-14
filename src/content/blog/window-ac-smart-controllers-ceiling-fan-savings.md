@@ -6,7 +6,7 @@ pubDate: 2026-09-09
 
 Window ACs and ductless heads with IR remotes often run longer than they should because nobody wants to babysit the remote. **Smart AC controllers** (Sensibo-style) add schedules, geofencing, and temperature triggers. Separately, a **ceiling fan + thermostat** combo can let you raise the cooling setpoint a bit while staying comfortable — if you actually change the setpoint. This guide stays bill-first and skips guaranteed dollar savings.
 
-Start with habits on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and reading order on [Start Here](/start-here/). Central HVAC homes should also see our [smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/).
+Start with habits on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and reading order on [Start Here](/start-here/). Central HVAC homes should also see our [smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/). For the glass itself, stack with [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) and, in winter, [window insulation kits](/blog/window-insulation-kits-winter-drafts/).
 
 ## Part A — Smart controllers for window / portable / mini-split ACs
 
@@ -111,6 +111,14 @@ Stack with a [smart thermostat](/blog/best-smart-thermostats-2026/) on central s
 5. **Filter reminders** — a smart schedule on a clogged filter wastes money.
 
 Measure when you can: a [plug meter](/blog/best-smart-plugs-vampire-power/) works on many window ACs’ 120V cords (stay inside ratings; never defeat dedicated circuits or oversized loads). Whole-home context: [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/).
+
+## Related reading
+
+- [Thermal & blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — cut solar gain so AC runs less
+- [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — seasonal film for drafty glass
+- [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — central systems that actually change setpoints
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — cooling order of operations
+
 
 ## Bottom line
 

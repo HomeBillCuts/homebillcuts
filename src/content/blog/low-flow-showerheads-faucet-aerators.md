@@ -117,7 +117,15 @@ Stock spare tips for guest baths and the kitchen once you’ve confirmed thread 
 2. Swap the **longest-use shower** first; live with it a week.
 3. Update **bath aerators**, then kitchen if splash/flow still wasteful.
 4. Insulate accessible hot pipes in cold basements/garages ([pipe guide](/blog/insulate-hot-water-pipes-water-heater-jacket/)).
-5. Only then shop heater replacements ([HPWH guide](/blog/heat-pump-water-heater-vs-standard/)) if the tank is old, undersized, or expensive to run.
+5. On a healthy resistance tank with a predictable schedule, consider a pro-installed [water heater timer](/blog/electric-water-heater-timers-cut-standby/) before (or instead of) a premature tank swap.
+6. Only then shop heater replacements ([HPWH guide](/blog/heat-pump-water-heater-vs-standard/)) if the tank is old, undersized, or expensive to run.
+
+## Related reading
+
+- [Insulate hot water pipes & tank jackets](/blog/insulate-hot-water-pipes-water-heater-jacket/) — keep the gallons you still heat hotter longer
+- [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby recovery on electric storage tanks
+- [Heat pump water heater vs standard](/blog/heat-pump-water-heater-vs-standard/) — when the tank itself is the problem
+
 
 ## Bottom line
 

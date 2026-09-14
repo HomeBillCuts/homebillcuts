@@ -6,7 +6,7 @@ pubDate: 2026-09-10
 
 Windows are thin compared with walls. **Thermal and blackout curtains** add a fabric layer that slows radiative and convective loss at the glass — useful in heating season and for rooms that bake in afternoon sun. This guide is **bill-first**: when curtains help, how to size them, and a short Amazon list — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge leaks belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); removable shrink film is covered in [window insulation kits](/blog/window-insulation-kits-winter-drafts/). Curtains also pair with [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use, then keep the glass covered at night. This page is about **drapes you open and close every day**.
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Edge leaks belong in the [weatherstripping guide](/blog/best-weatherstripping-draft-stoppers/); removable shrink film is covered in [window insulation kits](/blog/window-insulation-kits-winter-drafts/). Curtains also pair with [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use, then keep the glass covered at night. This page is about **drapes you open and close every day**. In cooling season, pair closed west/east panels with [window AC smart controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) so you’re not fighting solar gain with more runtime.
 
 ## When thermal curtains help *your* bill
 
@@ -129,6 +129,14 @@ Renters: tension rods or existing brackets avoid new holes when leases are stric
 - Curtains will not fix a failed furnace, undersized heat pump, or missing attic insulation.
 - Leaving blackout panels closed 24/7 on south glass in winter can *increase* heating need by blocking useful sun.
 - “Guaranteed $X/month” claims ignore your rate and climate — treat them as ads.
+
+## Related reading
+
+- [Window AC smart controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — cut cooling runtime after you shade the glass
+- [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — shrink film when curtains aren’t enough at the sash
+- [Weatherstripping & draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal edges before adding fabric layers
+- [Oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm one room, keep curtains closed at night
+
 
 ## Bottom line
 
