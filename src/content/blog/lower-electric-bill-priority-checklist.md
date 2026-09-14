@@ -51,6 +51,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - If you have a heat pump water heater, confirm it’s in an efficient mode and has adequate space airflow.
 - Insulate accessible hot pipes in unconditioned basements, crawlspaces, or garages — see the [pipe insulation & tank jacket guide](/blog/insulate-hot-water-pipes-water-heater-jacket/). Electric-tank blankets only when the manufacturer allows; skip gas tanks.
 - If showers or taps still feel like old high-flow fixtures, consider [WaterSense showerheads and faucet aerators](/blog/low-flow-showerheads-faucet-aerators/) after you fix drips — less hot water used is less water reheated.
+- On a standard electric resistance tank with a predictable schedule (or TOU rates), a properly rated [hardwired water heater timer](/blog/electric-water-heater-timers-cut-standby/) can cut overnight or peak-window recovery — electrician install for 240V; never use lamp timers on hardwired tanks.
 
 ### 4. Lighting and always-on loads (quick wins)
 
