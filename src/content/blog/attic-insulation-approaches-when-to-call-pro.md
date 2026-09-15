@@ -107,6 +107,14 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 3. Pair with smarter controls: a disciplined [smart thermostat](/blog/best-smart-thermostats-2026/) and optional [whole-home monitor](/blog/emporia-vue-vs-sense/) show whether runtime actually dropped.
 4. Keep filters clean; insulation doesn’t replace HVAC maintenance.
 
+## Related reading
+
+- [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — seal the hatch before (or with) adding depth
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — bypasses under the insulation matter first
+- [Garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage envelope leaks
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — living-space drafts while you plan attic work
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — when attic projects beat gadget buys
+
 ## Bottom line
 
 Attic insulation earns its keep when you **air-seal first**, protect ventilation, hit climate-appropriate depth, and stay honest about DIY limits. Call a pro for moisture, foam, dense-pack, or electrical red flags. Shop materials with eyes open — Amazon is handy for PPE and some rolls; full-attic jobs often belong at a local supplier with delivery. Next steps: [Start Here](/start-here/), the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/), or [draft sealing](/blog/best-weatherstripping-draft-stoppers/).

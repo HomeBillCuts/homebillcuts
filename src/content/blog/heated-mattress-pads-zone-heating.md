@@ -141,6 +141,14 @@ Often yes if the protector is thin and breathable and the pad maker allows it �
 **What about pets?**  
 Many low-voltage SoftHeat listings emphasize pet-safer design claims; chewing and claws still damage any heated bedding. Inspect regularly.
 
+## Related reading
+
+- [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — room air heat when you need more than bedding warmth
+- [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — overnight setbacks that make pads pay off
+- [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — bedroom envelope helpers
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal the sleep room first
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — zone heat after filters and schedules
+
 ## Bottom line
 
 Heated mattress pads are a **sleep-zone heating tool**: warm the person, then drop the overnight thermostat within safe comfort limits. Electric blankets are a secondary top-layer option. Neither replaces sealing drafts or fixing HVAC basics, and neither saves money if you leave the furnace on its old schedule. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

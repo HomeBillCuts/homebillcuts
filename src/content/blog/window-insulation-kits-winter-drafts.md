@@ -92,6 +92,14 @@ Measure the opening first. Patio kits are one big sheet — harder solo, worth a
 3. Ease thermostat setbacks slightly only after drafts drop — comfort first, then setpoint ([smart thermostat guide](/blog/best-smart-thermostats-2026/)).
 4. In spring, remove film carefully; scrape residual tape with a plastic scraper, not a razor on vinyl.
 
+## Related reading
+
+- [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix
+- [Window AC controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — cooling-season window strategy
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — cheap envelope wins before gadgets
+
 ## Bottom line
 
 For drafty US windows heading into heating season, indoor shrink-film kits are a **low-cost, reversible** weatherization step — not a substitute for attic air sealing or a failed HVAC system. Buy the pack size that matches how many openings you measured, install on clean dry frames, and keep egress and combustion air safe. Pair with [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) when you want daytime open/close control. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).

@@ -135,6 +135,14 @@ Smart schedules help you remember the setback — see [best smart thermostats (2
 4. Buy oil-filled for quiet lingering heat; keep ceramic for occasional spot use.
 5. Re-check the next bill’s **kWh**. If usage climbed, you’re stacking heat — revisit setpoints.
 
+## Related reading
+
+- [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight sleep-zone warmth at lower wattage
+- [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — house-wide setbacks that make zone heat work
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal the room before you heat it
+- [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — drafty glass in the occupied room
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — when plug-in heat is a strategy vs a stack
+
 ## Bottom line
 
 Oil-filled space heaters are a **zone-heating tool**, not a furnace replacement. Used with a lower whole-house setpoint, sealed rooms, and basic fire safety, they can shift comfort to where you sit without heating empty square footage. Used with the thermostat left high, they’re just another 1500 W load. For overnight sleep-only warmth at even lower wattage, see [heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/). For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

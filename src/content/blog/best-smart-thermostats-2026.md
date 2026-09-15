@@ -117,6 +117,14 @@ If you have a heat pump:
 - Guaranteed annual savings charts without your climate/rates
 - Recommending thermostats for line-voltage systems without calling out specialty hardware
 
+## Related reading
+
+- [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — wiring, C-wire, and when to hire out
+- [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use after a house-wide setback
+- [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — measure HVAC runtime before you upgrade controls
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where thermostats sit vs filters and weatherization
+
 ## Bottom line
 
 Buy a smart thermostat **after** you’ve fixed obvious waste and confirmed you’ll use schedules or occupancy features. Pick compatibility first, ecosystem second, and marketing claims last. For the broader action order, return to [Start Here](/start-here/) or the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/).

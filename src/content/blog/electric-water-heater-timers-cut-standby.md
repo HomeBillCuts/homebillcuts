@@ -150,6 +150,14 @@ Use these **only** for small **120V grounded plug-in** point-of-use heaters alre
 4. On TOU rates, shift dishwasher/laundry into cheaper windows from the [priority checklist](/blog/lower-electric-bill-priority-checklist/) even before touching the heater circuit.
 5. When the tank fails, evaluate a [heat pump water heater](/blog/heat-pump-water-heater-vs-standard/) — efficient recovery beats clever OFF schedules on a resistance dinosaur.
 
+## Related reading
+
+- [Insulate hot water pipes & water heater jackets](/blog/insulate-hot-water-pipes-water-heater-jacket/) — cut standby before (or with) a timer
+- [Heat pump water heater vs standard](/blog/heat-pump-water-heater-vs-standard/) — when replacement beats clever OFF schedules
+- [Low-flow showerheads & faucet aerators](/blog/low-flow-showerheads-faucet-aerators/) — less hot water per use
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — drips and setpoint before hardwired timers
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — measure water-heater kWh if you can
+
 ## Bottom line
 
 For US homes with **predictable schedules** and a **standard electric resistance storage tank**, a properly rated **hardwired timer or 40A-class switch — installed by an electrician —** can cut overnight or off-peak recovery energy. It is **not** a lamp-timer DIY, **not** a guaranteed savings coupon, and **not** the first lever before drips, setpoint, and pipe insulation. Match amp/voltage, protect safeties, measure when you can, and keep showers hot enough that the household actually sticks with the schedule. For the broader order of operations, return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

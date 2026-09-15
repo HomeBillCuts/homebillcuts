@@ -109,6 +109,13 @@ For always-on electronics that dwarf a nightlight, see our guide to [smart plugs
 - That LEDs replace the need for HVAC maintenance or sane [thermostat](/blog/best-smart-thermostats-2026/) schedules
 - That every ultra-cheap bulk import matches its lumen label for five years
 
+## Related reading
+
+- [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cut standby after you’ve swapped high-hour lamps
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — see whether lighting is actually a big slice of your kWh
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — LEDs after setpoints and filters
+- [Window AC controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — summer comfort without over-cooling
+
 ## Bottom line
 
 Yes — **LEDs save money versus leaving incandescents and halogens in high-hour sockets**, especially when you match lumens and buy reputable packs. No — they rarely outperform fixing setpoints, filters, and air leaks on a percentage-of-bill basis. Swap the bright, busy rooms first, use the wattage→lumen table, and keep expectations honest. Continue with [Start Here](/start-here/) for what to tackle next.

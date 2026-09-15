@@ -128,6 +128,13 @@ It usually won’t move the needle much when:
 - You install a tent but leave the zipper open or the gasket cocked.
 - Moisture or pests need remediation before any cover work.
 
+## Related reading
+
+- [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — depth and when to call a pro after the hatch is sealed
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — other attic bypasses (wires, plumbing, top plates)
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — hatch weatherstrip edges and living-space doors
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where attic leaks sit vs filters and setpoints
+
 ## Bottom line
 
 Treat the attic stair or hatch as a **door to outdoors above your head**: measure the rough opening, pick **rigid box** (Battic-style) vs **zipper tent** vs **DIY hatch foam + weatherstrip**, install for a continuous air seal, and respect attic safety. Then continue with [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) and broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) rather than stopping at one product. For order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

@@ -122,6 +122,15 @@ For thermostats and whole-home monitors, use the dedicated guides linked above r
 | Day 6 | Quick air leaks + window dampers |
 | Day 7 | Decide if you need measurement tools |
 
+## Related reading
+
+- [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
+- [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
+- [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts
+- [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks
+- [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
+- [Dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/) — shorter cycles and fire-risk cleanup
+
 ## Bottom line
 
 Lowering an electric bill is mostly **prioritization**: setpoints and maintenance beat gadgets; measurement beats guesswork; honesty beats guaranteed-savings marketing. Work the checklist top-down, then decide whether a [smart thermostat](/blog/best-smart-thermostats-2026/) or [energy monitor](/blog/emporia-vue-vs-sense/) is actually justified for your home.

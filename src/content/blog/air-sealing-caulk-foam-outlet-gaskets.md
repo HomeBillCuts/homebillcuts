@@ -116,6 +116,14 @@ It usually won’t move the needle much when:
 - You only caulk cosmetic interior trim that never sees outdoors.
 - Combustion or moisture problems need a pro — sealing over symptoms can make those worse.
 
+## Related reading
+
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — doors and operable gaps after fixed cracks
+- [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass in older homes
+- [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — seal first, then add depth
+- [Garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/) — big envelope holes next to living space
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where air sealing sits this billing cycle
+
 ## Bottom line
 
 Before winter, spend an afternoon on **gaskets, caulk, and the right foam for the gap** — then layer door weatherstrip and window film where glass and moving parts still leak. Keep foam out of electrical-box interiors, use window-rated foam on frames, and don’t starve combustion appliances of air. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

@@ -147,6 +147,14 @@ If the door is off-track, cables are frayed, or the opener struggles, fix the do
 - Fireplace flue leaks ([draft blockers](/blog/fireplace-chimney-draft-blockers/))
 - Measurement when usage is still mysterious — see [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/)
 
+## Related reading
+
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — house-to-garage man-doors and sweeps
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — penetrations and shared walls
+- [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — glass leaks in rooms above or beside the garage
+- [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — other big envelope holes
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — cheap sealing before heating upgrades
+
 ## Bottom line
 
 Start with **daylight under the door**, match the **T-bead or retainer**, then add **side/top stop** if jambs gap. Use a **threshold** when water or pests still win. Keep opener safety systems honest — never defeat auto-reverse to force a fat seal. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

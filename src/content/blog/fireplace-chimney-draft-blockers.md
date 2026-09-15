@@ -121,6 +121,13 @@ It usually won’t move the needle much when:
 - You only cover the opening cosmetically while leaving a wide-open damper behind a loose panel.
 - You need the fireplace for heat this season — blockers are for *idle* flues.
 
+## Related reading
+
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — other stack-effect holes besides the flue
+- [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — doors and thresholds that pull with the chimney
+- [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — another common conditioned-to-attic leak
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — free damper checks before shopping
+
 ## Bottom line
 
 For an **unused** fireplace, stop the stack-effect leak with a product that matches the opening: **magnetic cover** on ferrous frames, **wool flue plug** or **chimney balloon** sized to the flue. Prioritize safety — never with an active fire, remove before burning, never with active vented gas logs unless disabled/removed, mind CO and combustion air, and pull the blocker for sweeps. Pair with [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) rather than treating the chimney as the only hole. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

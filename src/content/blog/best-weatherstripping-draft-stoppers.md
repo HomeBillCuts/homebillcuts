@@ -111,6 +111,14 @@ Hiring a pro for flashing and structural fit is often cheaper than a DIY miss on
 - A failing [thermostat schedule](/blog/best-smart-thermostats-2026/) you never set
 - Measurement when usage is still mysterious — see [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/)
 
+## Related reading
+
+- [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — fixed cracks and penetrations before moving parts
+- [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
+- [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts that feel like “mystery cold”
+- [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — seal order vs HVAC and setpoints
+
 ## Bottom line
 
 Start with **visible exterior-door gaps**, use a real sweep/threshold fix, then weatherstrip perimeters with materials that rebound. Treat fabric draft snakes as temporary or rental-friendly helpers. Skip guaranteed-savings claims on product pages — your leakiness and rates decide the outcome. For the broader order of operations, return to [Start Here](/start-here/).

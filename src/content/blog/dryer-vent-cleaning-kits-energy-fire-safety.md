@@ -147,6 +147,13 @@ If you smell gas, see scorch marks, or the dryer repeatedly overheats — stop u
 4. Keep loads reasonable; heavy comforters often need **split cycles** even with a clear vent.
 5. Pair laundry timing with your rate plan on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) — a clear vent plus off-peak drying stacks the easy wins.
 
+## Related reading
+
+- [HVAC air filters & MERV](/blog/hvac-air-filters-merv-efficiency/) — another maintenance item that cuts runtime
+- [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — laundry timing and free wins this billing cycle
+- [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — other always-on laundry-room loads
+- [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — see dryer kWh if you’re still guessing
+
 ## Bottom line
 
 Dryer vent cleaning is one of the few “maintenance” tasks that can cut **runtime energy** and **fire risk** at the same time. Brush out lint, replace crushed non-listed foil with proper metal transition duct, verify strong airflow at the outdoor hood, and re-check cycle times. Skip guaranteed-savings claims on kit listings — your duct length, dryer type, and habits decide the outcome. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
