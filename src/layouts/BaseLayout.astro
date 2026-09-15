@@ -7,6 +7,7 @@ interface Props {
   canonicalPath?: string;
   ogType?: 'website' | 'article';
   pubDate?: Date;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -15,6 +16,7 @@ const {
   canonicalPath = Astro.url.pathname,
   ogType = 'website',
   pubDate,
+  jsonLd,
 } = Astro.props;
 
 const siteName = 'HomeBillCuts';
@@ -30,6 +32,32 @@ const nav = [
   { href: '/about/', label: 'About' },
   { href: '/contact/', label: 'Contact' },
 ];
+
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: siteName,
+  url: siteUrl.toString(),
+};
+
+const websiteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteName,
+  url: siteUrl.toString(),
+  publisher: {
+    '@type': 'Organization',
+    name: siteName,
+    url: siteUrl.toString(),
+  },
+};
+
+const extraLd = jsonLd
+  ? Array.isArray(jsonLd)
+    ? jsonLd
+    : [jsonLd]
+  : [];
+const jsonLdBlocks = [organizationLd, websiteLd, ...extraLd];
 ---
 <!doctype html>
 <html lang="en">
@@ -54,6 +82,10 @@ const nav = [
     <meta name="twitter:description" content={description} />
 
     {pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
+
+    {jsonLdBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>

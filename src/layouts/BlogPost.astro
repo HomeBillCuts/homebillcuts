@@ -23,13 +23,66 @@ const formattedUpdated = updatedDate
       timeZone: 'UTC',
     })
   : null;
+
+const canonicalPath = `/blog/${post.id}/`;
+const canonicalUrl = new URL(canonicalPath, Astro.site ?? 'https://homebillcuts.com').toString();
+const dateModified = (updatedDate ?? pubDate).toISOString();
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  dateModified,
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalUrl,
+  },
+  author: {
+    '@type': 'Organization',
+    name: 'HomeBillCuts',
+    url: 'https://homebillcuts.com',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'HomeBillCuts',
+    url: 'https://homebillcuts.com',
+  },
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: 'https://homebillcuts.com/',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Guides',
+      item: 'https://homebillcuts.com/blog/',
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: title,
+      item: canonicalUrl,
+    },
+  ],
+};
 ---
 <BaseLayout
   title={title}
   description={description}
-  canonicalPath={`/blog/${post.id}/`}
+  canonicalPath={canonicalPath}
   ogType="article"
   pubDate={pubDate}
+  jsonLd={[articleLd, breadcrumbLd]}
 >
   <article class="prose">
     <p class="meta">
