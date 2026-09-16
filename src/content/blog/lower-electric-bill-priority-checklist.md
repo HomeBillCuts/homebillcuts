@@ -52,6 +52,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Insulate accessible hot pipes in unconditioned basements, crawlspaces, or garages — see the [pipe insulation & tank jacket guide](/blog/insulate-hot-water-pipes-water-heater-jacket/). Electric-tank blankets only when the manufacturer allows; skip gas tanks.
 - If showers or taps still feel like old high-flow fixtures, consider [WaterSense showerheads and faucet aerators](/blog/low-flow-showerheads-faucet-aerators/) after you fix drips — less hot water used is less water reheated.
 - On a standard electric resistance tank with a predictable schedule (or TOU rates), a properly rated [hardwired water heater timer](/blog/electric-water-heater-timers-cut-standby/) can cut overnight or peak-window recovery — electrician install for 240V; never use lamp timers on hardwired tanks.
+- Before hard freezes, protect freeze-prone exposed pipes in crawlspaces and garages: insulate first, then consider listed [pipe heat tape](/blog/pipe-freeze-heat-tape-protection/) where freeze risk remains — never roof de-icing cable on water pipes.
 
 ### 4. Lighting and always-on loads (quick wins)
 
@@ -124,6 +125,7 @@ For thermostats and whole-home monitors, use the dedicated guides linked above r
 
 ## Related reading
 
+- [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts

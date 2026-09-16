@@ -122,10 +122,12 @@ Only for **electric resistance storage** tanks that allow a blanket — verify t
 2. Keep the tank setpoint honest (~120°F when appropriate for your household) so you’re not insulating against an unnecessarily hot set point.
 3. Pair with draft sealing on doors and windows from the [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [window film](/blog/window-insulation-kits-winter-drafts/) guides when the mechanical room shares air with a leaky envelope.
 4. On predictable schedules with a healthy **electric resistance** tank, ask an electrician about a properly rated [water heater timer](/blog/electric-water-heater-timers-cut-standby/) after drips and insulation are done.
-5. When the tank fails or you’re planning a remodel, treat a [heat pump water heater](/blog/heat-pump-water-heater-vs-standard/) as the upgrade path — insulation doesn’t fix a resistance tank’s fundamental kWh use.
+5. If freeze risk remains on crawlspace or garage lines after insulation and sealing, see [pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — insulation for bill waste; listed heat tape when pipes can still freeze.
+6. When the tank fails or you’re planning a remodel, treat a [heat pump water heater](/blog/heat-pump-water-heater-vs-standard/) as the upgrade path — insulation doesn’t fix a resistance tank’s fundamental kWh use.
 
 ## Related reading
 
+- [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — when freeze risk remains after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — cut overnight recovery on standard electric tanks
 - [Heat pump water heater vs standard](/blog/heat-pump-water-heater-vs-standard/) — when replacement beats another jacket
 - [Low-flow showerheads & aerators](/blog/low-flow-showerheads-faucet-aerators/) — cut hot gallons at the fixture
@@ -133,4 +135,4 @@ Only for **electric resistance storage** tanks that allow a blanket — verify t
 
 ## Bottom line
 
-For US homes with hot pipes in cold unconditioned spaces, foam sleeves (plus tape at fittings) are a **low-cost, high-sanity** water-heating tweak — not a miracle bill cutter and not a reason to blanket a gas tank. Measure OD carefully, leave T&P and controls uncovered, and skip any jacket the manufacturer forbids. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+For US homes with hot pipes in cold unconditioned spaces, foam sleeves (plus tape at fittings) are a **low-cost, high-sanity** water-heating tweak — not a miracle bill cutter and not a reason to blanket a gas tank. Measure OD carefully, leave T&P and controls uncovered, and skip any jacket the manufacturer forbids. Insulation cuts bill waste; if freeze risk remains on exposed lines, see [pipe freeze heat tape](/blog/pipe-freeze-heat-tape-protection/). For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).
