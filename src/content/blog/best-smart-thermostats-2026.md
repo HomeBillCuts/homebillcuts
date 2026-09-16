@@ -1,7 +1,17 @@
 ---
-title: "Best Smart Thermostats for Lowering Electric Bills (2026 Buyer’s Guide)"
-description: "Honest 2026 smart thermostat shortlist for US homes focused on electric bills — when they help, when they don’t, and what to buy."
+title: "Best Smart Thermostats for Lowering Heating Bills (2026 Buyer’s Guide)"
+description: "Honest 2026 smart thermostat shortlist for US homes in heating season — when they cut runtime, when they don’t, and what to buy. No guaranteed savings."
 pubDate: 2026-09-03
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will a smart thermostat lower my heating bill this winter?"
+    answer: "It can help if you currently heat an empty house for hours and will use schedules, geofencing, or occupancy features to change runtime. Savings come from changed setpoints—not from Wi‑Fi. If you already keep disciplined setbacks on a cheap programmable thermostat, upgrading alone usually will not cut much."
+  - question: "Do I need a C-wire for a smart thermostat?"
+    answer: "Many smart thermostats need a C-wire (common) for stable power. Some kits include adapters, but adapters are not ideal for every control board. Photograph your wiring, confirm 24V HVAC (not line-voltage baseboard), and check the model’s compatibility sheet before you buy."
+  - question: "Can a smart thermostat help with a heat pump in cold weather?"
+    answer: "Yes—if it supports your heat pump wiring and you watch auxiliary/emergency heat runtime. Strip heat can erase efficiency gains. Understand lockout/balance-point settings where your equipment allows them, and don’t confuse Emergency Heat with normal winter operation."
+  - question: "Should I buy a smart thermostat before weatherizing?"
+    answer: "Usually no. Fix filters, obvious drafts, and a realistic schedule first. A $250 thermostat set to the same temperatures 24/7 as before will not magically shrink kWh. Pair modest heating setbacks with envelope fixes and, if you zone-heat one room, only after you lower whole-house setpoints."
 ---
 
 Smart thermostats are heavily marketed as bill-cutters. Sometimes they help. Sometimes they mostly send you pretty graphs. This 2026 buyer’s guide is **bill-first**: when a smart thermostat is worth it for US homes, which features matter for electric costs, and a short product list — without invented savings guarantees.
@@ -116,6 +126,24 @@ If you have a heat pump:
 - Fake “top 10” lists padded with near-duplicates
 - Guaranteed annual savings charts without your climate/rates
 - Recommending thermostats for line-voltage systems without calling out specialty hardware
+
+## FAQ
+
+### Will a smart thermostat lower my heating bill this winter?
+
+It can help if you currently heat an empty house for hours and will use schedules, geofencing, or occupancy features to change runtime. Savings come from changed setpoints—not from Wi‑Fi. If you already keep disciplined setbacks on a cheap programmable thermostat, upgrading alone usually will not cut much.
+
+### Do I need a C-wire for a smart thermostat?
+
+Many smart thermostats need a C-wire (common) for stable power. Some kits include adapters, but adapters are not ideal for every control board. Photograph your wiring, confirm 24V HVAC (not line-voltage baseboard), and check the model’s compatibility sheet before you buy.
+
+### Can a smart thermostat help with a heat pump in cold weather?
+
+Yes—if it supports your heat pump wiring and you watch auxiliary/emergency heat runtime. Strip heat can erase efficiency gains. Understand lockout/balance-point settings where your equipment allows them, and don’t confuse Emergency Heat with normal winter operation.
+
+### Should I buy a smart thermostat before weatherizing?
+
+Usually no. Fix filters, obvious drafts, and a realistic schedule first. A $250 thermostat set to the same temperatures 24/7 as before will not magically shrink kWh. Pair modest heating setbacks with envelope fixes and, if you zone-heat one room, only after you lower whole-house setpoints.
 
 ## Related reading
 

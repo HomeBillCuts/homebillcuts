@@ -7,7 +7,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, pubDate, updatedDate } = post.data;
+const { title, description, pubDate, updatedDate, faqs } = post.data;
 
 const formattedPub = pubDate.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -75,6 +75,22 @@ const breadcrumbLd = {
     },
   ],
 };
+
+const jsonLd: Record<string, unknown>[] = [articleLd, breadcrumbLd];
+if (faqs && faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
+  });
+}
 ---
 <BaseLayout
   title={title}
@@ -82,7 +98,7 @@ const breadcrumbLd = {
   canonicalPath={canonicalPath}
   ogType="article"
   pubDate={pubDate}
-  jsonLd={[articleLd, breadcrumbLd]}
+  jsonLd={jsonLd}
 >
   <article class="prose">
     <p class="meta">

@@ -1,7 +1,19 @@
 ---
 title: "Oil-Filled Space Heaters for Zone Heating: Cut Whole-House Runtime Safely"
-description: "Bill-first guide to oil-filled radiant heaters for US zone heating — when they lower whole-house runtime, safety rules, oil vs ceramic tradeoffs, and Amazon shortlists. No guaranteed dollar savings."
+description: "Bill-first heating-season guide to oil-filled radiant heaters for US zone heating — when they cut whole-house runtime, safety rules, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-13
+updatedDate: 2026-09-16
+faqs:
+  - question: "Can an oil-filled space heater lower my electric bill?"
+    answer: "Only as a zone-heating strategy: warm the room you occupy while you modestly lower the whole-house setpoint. If you leave central heat high and add a 1500 W plug-in heater, you stack load and the bill often rises. We do not guarantee a dollar cut."
+  - question: "Are oil-filled heaters safer than ceramic fan heaters?"
+    answer: "Oil-filled units are quieter and hold warmth after they cycle off, but every electric space heater can start fires if clearances, cords, or tip-over habits slip. Prefer tip-over and overheat protection, keep about 3 feet from combustibles, use a grounded wall outlet, and never drape clothes on the fins."
+  - question: "Will a 1500 W oil-filled heater warm my whole house?"
+    answer: "No. US plug-in heaters are usually capped near 1500 W on a standard 120 V circuit—enough for a small-to-medium insulated room in many climates, not a furnace replacement. Treat marketing “whole house” claims as one-room heat."
+  - question: "Should I run an oil-filled heater overnight?"
+    answer: "Some households do, only with clearances respected, a working thermostat/ECO mode, smoke alarms, and a risk tolerance you accept. Unplug for long absences if you cannot supervise. Damaged cords, hot plugs, or oil leaks mean stop and replace—sealed reservoirs are not user-refillable."
+  - question: "Oil-filled vs ceramic—which is better for zone heating?"
+    answer: "Pick oil-filled for quiet occupied-room heat that lingers; pick ceramic/PTC fan when you need fast spot heat and will turn it off when you leave. At the same wattage, neither magically uses less electricity—the bill impact is where and when you heat."
 ---
 
 Electric resistance heat is expensive per kWh — but **heating one occupied room with a sealed oil-filled radiator while you drop the whole-house setpoint** can still beat roasting empty bedrooms all evening. This guide is **bill-first**: when oil-filled zone heaters help, when they raise the bill, safety non-negotiables, and a verified Amazon shortlist — without inventing dollar savings.
@@ -134,6 +146,28 @@ Smart schedules help you remember the setback — see [best smart thermostats (2
 3. Decide which **one room** gets the heater — not five.
 4. Buy oil-filled for quiet lingering heat; keep ceramic for occasional spot use.
 5. Re-check the next bill’s **kWh**. If usage climbed, you’re stacking heat — revisit setpoints.
+
+## FAQ
+
+### Can an oil-filled space heater lower my electric bill?
+
+Only as a zone-heating strategy: warm the room you occupy while you modestly lower the whole-house setpoint. If you leave central heat high and add a 1500 W plug-in heater, you stack load and the bill often rises. We do not guarantee a dollar cut.
+
+### Are oil-filled heaters safer than ceramic fan heaters?
+
+Oil-filled units are quieter and hold warmth after they cycle off, but every electric space heater can start fires if clearances, cords, or tip-over habits slip. Prefer tip-over and overheat protection, keep about 3 feet from combustibles, use a grounded wall outlet, and never drape clothes on the fins.
+
+### Will a 1500 W oil-filled heater warm my whole house?
+
+No. US plug-in heaters are usually capped near 1500 W on a standard 120 V circuit—enough for a small-to-medium insulated room in many climates, not a furnace replacement. Treat marketing “whole house” claims as one-room heat.
+
+### Should I run an oil-filled heater overnight?
+
+Some households do, only with clearances respected, a working thermostat/ECO mode, smoke alarms, and a risk tolerance you accept. Unplug for long absences if you cannot supervise. Damaged cords, hot plugs, or oil leaks mean stop and replace—sealed reservoirs are not user-refillable.
+
+### Oil-filled vs ceramic—which is better for zone heating?
+
+Pick oil-filled for quiet occupied-room heat that lingers; pick ceramic/PTC fan when you need fast spot heat and will turn it off when you leave. At the same wattage, neither magically uses less electricity—the bill impact is where and when you heat.
 
 ## Related reading
 

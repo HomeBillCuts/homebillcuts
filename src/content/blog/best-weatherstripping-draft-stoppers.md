@@ -1,8 +1,19 @@
 ---
 title: "Best Weatherstripping and Door Draft Stoppers for Leaky US Homes"
-description: "Practical weatherstripping and door draft stopper picks for drafty US homes — where leaks matter, what to buy, and what sealing won’t fix."
+description: "Practical weatherstripping and door draft stopper picks for drafty US homes heading into heating season — where leaks matter, what to buy, and what sealing won’t fix."
 pubDate: 2026-09-06
+updatedDate: 2026-09-16
+faqs:
+  - question: "Does weatherstripping really lower heating bills?"
+    answer: "It can when you seal real exterior-door and window infiltration that makes HVAC run longer. Savings scale with how leaky the home was, your climate, and your rates—not the brand on the package. We do not promise a specific dollar cut."
+  - question: "Where should I start sealing drafts for winter?"
+    answer: "Start with visible exterior-door bottom gaps (sweep/threshold), then perimeters with V-strip or quality silicone kerf weatherstrip. Attic pull-down stairs and attached garage doors often need dedicated seals beyond a fabric draft snake."
+  - question: "Are door draft snakes enough for leaky exterior doors?"
+    answer: "They’re a temporary or renter-friendly under-door helper, not a full seal. They don’t fix side jambs. If you own the door, a real sweep/threshold fix usually lasts longer."
+  - question: "Is weatherstripping safe around furnaces and fireplaces?"
+    answer: "Never block required combustion air for furnaces, water heaters, or fireplaces. Don’t seal dryer vents, range hoods, or bathroom fans closed. Keep bedroom egress windows operable. If you smell gas or suspect CO issues, stop DIY sealing and call a qualified pro."
 ---
+
 Drafty doors and windows waste conditioned air and make HVAC run longer. Weatherstripping and door draft stoppers are among the cheapest fixes on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) — but only if you seal the right gaps and keep safety/egress in mind. This guide is for typical US homes, not a promise of a specific dollar cut on your next bill.
 
 Attic pull-down stairs need a dedicated cover more than a door sweep — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/). Overhead garage doors (bottom rubber, side/top stop, thresholds) are covered in [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
@@ -110,6 +121,24 @@ Hiring a pro for flashing and structural fit is often cheaper than a DIY miss on
 - Duct leaks in unconditioned spaces
 - A failing [thermostat schedule](/blog/best-smart-thermostats-2026/) you never set
 - Measurement when usage is still mysterious — see [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/)
+
+## FAQ
+
+### Does weatherstripping really lower heating bills?
+
+It can when you seal real exterior-door and window infiltration that makes HVAC run longer. Savings scale with how leaky the home was, your climate, and your rates—not the brand on the package. We do not promise a specific dollar cut.
+
+### Where should I start sealing drafts for winter?
+
+Start with visible exterior-door bottom gaps (sweep/threshold), then perimeters with V-strip or quality silicone kerf weatherstrip. Attic pull-down stairs and attached garage doors often need dedicated seals beyond a fabric draft snake.
+
+### Are door draft snakes enough for leaky exterior doors?
+
+They’re a temporary or renter-friendly under-door helper, not a full seal. They don’t fix side jambs. If you own the door, a real sweep/threshold fix usually lasts longer.
+
+### Is weatherstripping safe around furnaces and fireplaces?
+
+Never block required combustion air for furnaces, water heaters, or fireplaces. Don’t seal dryer vents, range hoods, or bathroom fans closed. Keep bedroom egress windows operable. If you smell gas or suspect CO issues, stop DIY sealing and call a qualified pro.
 
 ## Related reading
 
