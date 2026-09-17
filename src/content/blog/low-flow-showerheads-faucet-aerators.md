@@ -2,6 +2,16 @@
 title: "Low-Flow Showerheads & Faucet Aerators: Hot Water Savings Without a New Heater"
 description: "Bill-first guide to WaterSense showerheads and faucet aerators — when they cut hot-water energy, install tips, thread sizes, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-11
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will a low-flow showerhead lower my electric bill?"
+    answer: "It can when you heat water electrically (or pay for any fuel to heat it)—fewer gallons means less energy to reheat. Savings scale with shower length, mix temperature, rates, and what GPM you replace. WaterSense ≤2.0 GPM with decent spray is a practical target. We don’t guarantee a dollar cut."
+  - question: "What’s the difference between WaterSense and “low flow”?"
+    answer: "Federal rules already capped many showerheads at 2.5 GPM. WaterSense goes further (≤2.0 GPM) and requires spray performance tests so you’re not stuck with a weak mist. Not every “eco” listing is WaterSense-labeled—check the mark on the package."
+  - question: "Will a low-flow showerhead feel weak?"
+    answer: "It depends on your pressure and the head’s design. Many 1.5–1.8 GPM WaterSense heads feel fine for everyday use; ~1.25 GPM can feel lean with thick hair or already-low branch pressure. Measure your current GPM (stamp or bucket test) and try one bathroom first."
+  - question: "Are faucet aerators worth installing too?"
+    answer: "Yes for many homes—bathroom and kitchen tips are cheap, screw-on, and cut hot gallons at the faucet. Match thread style (common universal kits vs brand cache aerators that need a key). Pair with pipe insulation on accessible hot runs for a stronger water-heating stack."
 ---
 
 Hot water is often the **#2 or #3** electric load in US homes with resistance tanks — and showers are a big slice of that. A **WaterSense showerhead** and tighter **faucet aerators** reduce gallons (and the energy to heat them) without replacing the water heater. This guide is **bill-first**: when fixtures help, how to check what you have, install notes, honest limits, and a short Amazon list — without inventing dollar savings.

@@ -2,6 +2,16 @@
 title: "Electric Water Heater Timers: Cut Standby Heat When Schedules Allow"
 description: "Bill-first guide to hardwired 240V water heater timers for US homes — when schedules cut recovery energy, hard safety rules, electrician install, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-14
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will a water heater timer cut my electric bill?"
+    answer: "It can when you have a standard electric resistance storage tank, a predictable schedule, and you safely shift heat-up into cheaper or unused windows—especially on TOU rates. Unpredictable households, tiny tanks, or cold showers during OFF windows erase the win. We don’t guarantee dollar savings."
+  - question: "Can I use a regular smart plug or lamp timer on my water heater?"
+    answer: "No for typical US whole-house tanks. Most are 240V hardwired on a dedicated double-pole breaker (often 30A). Lamp timers and ordinary smart plugs are the wrong device class and can be dangerous. Use a properly rated hardwired timer/switch installed by a licensed electrician."
+  - question: "Should I put a timer on a heat pump water heater?"
+    answer: "Usually not. Hybrids already have efficient modes and schedules; an external timer can fight sensors, defrost, or recovery logic. Use the manufacturer controls. Timers are mainly a lever for conventional electric resistance tanks."
+  - question: "What should I fix before buying a water heater timer?"
+    answer: "Fix drips, set a sane tank temperature, insulate accessible hot pipes, and cut gallons with low-flow fixtures first. A timer on a leaky, overheated, or poorly insulated setup is a schedule tweak—not a substitute for those cheaper steps or a worn-out tank upgrade."
 ---
 
 Electric storage water heaters spend a lot of kWh keeping a tank hot between draws. **A properly rated timer (or smart switch) can shut the heater off during long unused windows** — overnight, workdays, or expensive time-of-use (TOU) peaks — so the tank doesn’t recover heat you won’t use. This guide is **bill-first**: when timers help, when they don’t, hard safety limits for 240V hardwired tanks, and a verified Amazon shortlist — without inventing dollar savings.

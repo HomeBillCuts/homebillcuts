@@ -2,6 +2,16 @@
 title: "Window AC Smart Controllers & Ceiling Fan + Thermostat Savings Guide"
 description: "Sensibo-style window/mini-split controllers and ceiling fan + thermostat combos — when they cut runtime, what to buy, and honest bill expectations for US homes."
 pubDate: 2026-09-09
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will a Sensibo-style AC controller lower my electric bill?"
+    answer: "It can when your window, portable, or mini-split uses an IR remote and you’ll use schedules, geofencing, or temp triggers to cut empty-home runtime. Wi‑Fi alone doesn’t change SEER if you keep the same hours. Units without IR remotes can’t be controlled this way. We don’t guarantee bill reductions."
+  - question: "Do ceiling fans save energy with air conditioning?"
+    answer: "Only if you raise the cooling setpoint a bit while fans run in occupied rooms. Fans cool people, not empty air—leave them on when you leave and you mostly add fan watts. Behavior decides the bill, not the blade style."
+  - question: "What should I fix before buying a smart AC controller?"
+    answer: "Clean filters, seal window-AC side panels, and fix a leaky sleeve first. A controller won’t rescue an undersized or poorly installed unit. Confirm line-of-sight to the IR receiver and that the app can actually drive your brand before mounting permanently."
+  - question: "Can I use a smart AC controller instead of a central smart thermostat?"
+    answer: "They’re different tools. Controllers target IR window/mini-split units; central forced-air homes usually want a proper 24V smart thermostat on the air handler. Some homes use both—zone window units upstairs plus central equipment downstairs—without expecting one gadget to run everything."
 ---
 
 Window ACs and ductless heads with IR remotes often run longer than they should because nobody wants to babysit the remote. **Smart AC controllers** (Sensibo-style) add schedules, geofencing, and temperature triggers. Separately, a **ceiling fan + thermostat** combo can let you raise the cooling setpoint a bit while staying comfortable — if you actually change the setpoint. This guide stays bill-first and skips guaranteed dollar savings.

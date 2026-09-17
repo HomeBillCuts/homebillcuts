@@ -2,6 +2,16 @@
 title: "HVAC Air Filters for Lower Electric Bills: MERV, Size, and When Thick Filters Hurt"
 description: "Bill-first HVAC filter guide for US homes — correct size, MERV tradeoffs, change cadence, and Amazon multipack picks without choking airflow."
 pubDate: 2026-09-09
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will a higher MERV filter lower my electric bill?"
+    answer: "Not automatically. Bill impact comes from restored airflow and a sensible MERV for your equipment—not a higher marketing number. A clogged filter or a too-restrictive 1″ high-MERV filter can make the blower work harder. We don’t guarantee dollar savings."
+  - question: "What MERV should I use in a 1-inch HVAC filter slot?"
+    answer: "Many US forced-air homes do fine with MERV 8 for basic dust protection, or MERV 11 as a pets/pollen compromise if the blower tolerates it. MERV 13 on skinny 1″ media can raise static pressure on systems that weren’t designed for it. Prefer the furnace manual or installer sticker over influencer charts."
+  - question: "How do I buy the correct HVAC filter size?"
+    answer: "Pull the old filter and read the printed nominal size, then measure actual length, width, and thickness. Nominal “16×25×1” often measures slightly smaller. Match the product’s actual dimensions and airflow arrow toward the blower—don’t force a 4″ media filter into a 1″ slot."
+  - question: "How often should I change my HVAC filter?"
+    answer: "When it’s visibly dirty, crushed, or bowed—not on a marketing calendar alone. Pets, renovation dust, and wildfire smoke often mean monthly checks. A clean, correctly sized filter supports equipment health; it doesn’t replace sealing drafts or fixing HVAC mechanical problems."
 ---
 
 A dirty or wrong-sized HVAC filter is one of the cheapest reasons your furnace or air handler runs longer than it should. This guide is **bill-first**: how filters affect runtime, how to buy the right size and MERV rating, and a short Amazon shortlist — without inventing dollar savings.

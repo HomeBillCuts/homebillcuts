@@ -2,6 +2,16 @@
 title: "Do LED Bulbs Actually Save Money? A Wattage Swap Guide"
 description: "Honest LED bulb wattage swap guide for US homes — when LEDs cut kWh, how to match brightness, and what not to expect from a multipack."
 pubDate: 2026-09-07
+updatedDate: 2026-09-17
+faqs:
+  - question: "Do LED bulbs actually save money on the electric bill?"
+    answer: "Usually yes per bulb when you replace high-hour incandescent or halogen lamps with similar-lumen LEDs—far fewer watts and fewer replacements. Whole-bill impact is often modest if most sockets are already LED or remaining bulbs are low-hour closets. We don’t claim a fixed annual dollar savings."
+  - question: "How do I match LED brightness to an old 60W bulb?"
+    answer: "Shop lumens, not the big “60W” marketing type. A typical 60W incandescent replacement is about 800 lumens (often ~8–12W LED). Confirm the package lists lumens and CRI; skip mystery bulbs that omit both."
+  - question: "Which lights should I swap to LED first?"
+    answer: "Prioritize fixtures that run hours every day: kitchen, living room, home office, porch/entry, and garage shop lights. Guest-room closets you open twice a year can wait—they won’t rewrite the bill."
+  - question: "Why do some LED bulbs flicker on my dimmer?"
+    answer: "Many older dimmers weren’t designed for LED loads. Use bulbs labeled dimmable with LED-compatible dimmers, and don’t exceed fixture ratings or enclosure limits (enclosed globes, damp/wet outdoor ratings). Flicker, buzz, or early failure usually means a mismatch—not “LEDs don’t work.”"
 ---
 
 LED bulbs are one of the easiest efficiency upgrades left in many US homes — but “easy” is not the same as “will transform your electric bill.” Lighting is often a smaller slice of household kWh than HVAC or water heating. This guide covers **when LEDs actually save money**, how to swap watts for lumens without buying junk, and how to avoid common dimmer/fixture mistakes.

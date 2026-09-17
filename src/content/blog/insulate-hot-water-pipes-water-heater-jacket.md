@@ -2,6 +2,16 @@
 title: "Insulate Hot Water Pipes (and When a Water Heater Jacket Helps)"
 description: "Bill-first guide to foam pipe insulation and electric tank jackets — when they help, measure tips, safety, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-10
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will insulating hot water pipes lower my electric bill?"
+    answer: "It can when hot lines run through cold basements, crawlspaces, garages, or long unconditioned runs so the tank reheats less between draws. Short pipes already inside living space help less. Insulation slows cool-down—it doesn’t create instant hot water. We don’t guarantee a dollar cut."
+  - question: "How do I choose the right foam pipe insulation size?"
+    answer: "Buy foam by inside diameter that matches your pipe’s outside diameter—measure OD on a clean straight section. Don’t guess from nominal trade size alone, especially with PEX/CPVC. Too tight tears; too loose gaps. Test one short run before buying a whole carton."
+  - question: "Should I put a blanket on my water heater?"
+    answer: "Only on electric resistance storage tanks when the manufacturer allows an external jacket and you follow clearances and label rules. Don’t blanket gas tanks in ways that block combustion air, controls, or T&P valves. When unsure, skip the jacket and insulate accessible hot pipes instead."
+  - question: "Is pipe insulation better than replacing my water heater?"
+    answer: "For many homes, foam on accessible hot runs is the cheaper near-term step while the tank is still healthy. Pair it with low-flow fixtures and sane setpoints. When the tank is due for replacement, compare heat pump hybrids separately—pipe insulation isn’t a substitute for a worn-out heater."
 ---
 
 Hot water that sits in unconditioned basements, crawlspaces, or long garage runs cools between draws — then the tank reheats more often. **Foam pipe insulation** and (sometimes) an **electric storage-tank jacket** are cheap weatherization steps that reduce that waste. This guide is **bill-first**: when they help, how to measure, safety limits, and a short Amazon list — without inventing dollar savings.

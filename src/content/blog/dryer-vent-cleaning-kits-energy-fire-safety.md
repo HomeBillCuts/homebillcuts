@@ -2,6 +2,16 @@
 title: "Dryer Vent Cleaning Kits: Cut Dry Time, Energy Waste & Lint Fire Risk"
 description: "Bill-first guide to dryer vent cleaning for US homes — signs of a clogged vent, DIY brush kits vs pro cleaning, foil vs UL metal duct upgrades, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-13
+updatedDate: 2026-09-17
+faqs:
+  - question: "Will cleaning my dryer vent lower my electric bill?"
+    answer: "It can when a clogged or crushed duct forces extra cycles or long runtimes—especially on electric resistance dryers. A clear vent restores designed airflow toward what the machine was meant to use; it doesn’t turn a high-watt dryer into a thrifty appliance. We don’t guarantee a dollar cut. Fire-risk reduction is a separate, serious reason to keep the path clear."
+  - question: "Can I clean a dryer vent myself or should I hire a pro?"
+    answer: "Short, accessible runs with a reachable outdoor hood are often DIY with a brush kit and vacuum. Long concealed runs, roof terminations, multi-story chases, pest nests, or gas-dryer flame/CO concerns are better for a qualified tech. Renters should get landlord approval before disconnecting gas lines."
+  - question: "Is foil accordion duct OK behind the dryer?"
+    answer: "Thin crushed foil or vinyl flex is a common DIY failure. Prefer short, smooth metal transition duct listed for dryer use (many manufacturers and codes expect UL 2158A–style metal). Replace junk duct—don’t just brush it and shove it back crushed."
+  - question: "What are signs my dryer vent is clogged?"
+    answer: "Clothes needing two or three cycles, a laundry closet that feels much hotter than before, weak warm air at the exterior hood, lint piled at the outdoor flap, or crushed duct behind the dryer. Clean the lint screen every load first—that alone stretches dry times when ignored."
 ---
 
 Clothes that need **two or three cycles** to dry are often a vent problem, not a “weak dryer.” A lint-packed or crushed dryer duct makes the machine run longer — more **kWh** on electric dryers, more **therms** on gas — and raises **lint fire** risk. This guide is **bill-first**: how to tell the vent is the bottleneck, what DIY kits can (and can’t) fix, hard safety limits, and a verified Amazon shortlist — without inventing dollar savings.
