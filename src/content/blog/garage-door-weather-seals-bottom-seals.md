@@ -2,6 +2,16 @@
 title: "Garage Door Weather Seals & Bottom Seals for Drafty US Garages"
 description: "Bill-first guide to garage door bottom seals, side/top weatherstrip, and threshold kits — how to measure T-slots, when sealing helps attached garages, safety notes, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-12
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will garage door weather seals lower my heating bill?"
+    answer: "They help most when you see daylight under or beside a closed door—especially on an attached garage where cold air migrates toward living space. Bill impact scales with leakiness, climate, and rates; we do not guarantee a dollar cut. Detached unconditioned sheds rarely move the electric or gas bill."
+  - question: "What should I replace first—bottom seal, side stops, or a threshold?"
+    answer: "Replace cracked, flattened, or missing bottom rubber first. Add side and top stop molding if jambs/header still show daylight. Add a floor threshold mainly for water, pests, or large bottom gaps that rubber alone cannot fix. Seals cannot fix a warped door or bad tracks."
+  - question: "How do I match a T-end bottom seal to my door?"
+    answer: "Identify the aluminum retainer bead—common T widths are 1/4 inch and 5/16 inch—and photograph the old rubber cross-section. Measure door width and buy extra length to trim. Wrong bead size will jam or fall out; uneven floors may need a thicker U+O/bulb profile or a threshold."
+  - question: "Is it safe to install garage door seals myself?"
+    answer: "Yes for bottom rail and jamb stops if you disconnect opener power, never adjust springs/cables, and re-test photo-eyes and auto-reverse afterward. Don’t defeat safety reverse to force a thick seal. Keep combustion make-up air and CO alarms in mind if appliances live in the garage."
 ---
 
 An overhead garage door is a giant movable wall. When the **bottom rubber is cracked, the side stop molding is gaping, or the slab is uneven**, cold air, rain, leaves, and pests pour in — and in an **attached garage**, that air often migrates through the garage-to-house door into living space. **Bottom T/bulb seals, side & top jamb weatherstrip, and floor threshold kits** are the usual DIY stack for heating season — without inventing dollar savings for your address.

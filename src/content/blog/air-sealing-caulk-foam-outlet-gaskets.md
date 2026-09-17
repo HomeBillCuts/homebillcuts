@@ -2,6 +2,16 @@
 title: "Seal Air Leaks with Caulk, Foam & Outlet Gaskets (Before Heating Season)"
 description: "Bill-first DIY air sealing for US homes — caulk vs foam vs outlet gaskets, where to look before winter, safety notes, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-11
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will caulk, foam, and outlet gaskets lower my heating bill?"
+    answer: "They can help when many small envelope leaks add HVAC runtime—exterior-wall outlets, baseboards, penetrations, and attic hatch perimeters. Savings scale with how leaky the house was, climate, and rates; we do not guarantee a dollar cut. Skip obsessing over interior partitions that don’t touch outdoors or attics."
+  - question: "When should I use caulk vs foam vs outlet gaskets?"
+    answer: "Caulk hairline static cracks at trim and baseboards. Use minimal-expanding gaps-and-cracks foam for irregular voids around pipes and wires; use window-and-door low-pressure foam in rough openings so frames don’t bow. Put foam gaskets behind exterior-wall cover plates for a fast, reversible win."
+  - question: "Where should I look first on a 30-minute draft hunt?"
+    answer: "Prioritize exterior-wall outlets/switches, exterior-wall baseboards, cable and pipe penetrations, vent boot perimeters, attic hatch edges, and plumbing holes behind cabinets. A cool breezy day or HVAC running makes drafts easier to feel with a damp hand or incense."
+  - question: "What safety limits matter when air sealing?"
+    answer: "Don’t starve combustion appliances of make-up air. Keep foam/caulk around electrical boxes—not packed on terminations. Use listed firestop where code requires it. Never permanently seal bedroom egress. Wear gloves and eye protection when spraying foam."
 ---
 Heating season is when leaky envelopes show up on the bill: conditioned air escapes through tiny holes, and your furnace or heat pump works harder to keep up. **Caulk, low-expansion foam, foam backer rod, and outlet/switch gaskets** are the cheap sealing kit that sits *beside* door sweeps and window film — not a replacement for either. This guide is **bill-first**: where to look, which product for which gap, safety limits, and a short Amazon list — without inventing dollar savings.
 

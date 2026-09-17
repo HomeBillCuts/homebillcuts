@@ -2,6 +2,16 @@
 title: "Heated Mattress Pads for Zone Heating (Sleep Warm, Lower the Thermostat)"
 description: "Bill-first guide to heated mattress pads and electric blankets for US winter zone heating — when bed warmth lets you drop overnight setpoints, pad vs blanket tradeoffs, safety rules, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-13
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will a heated mattress pad lower my heating bill?"
+    answer: "Only if you also lower the whole-house overnight setpoint within comfort and health limits. Pads use far fewer watts than heating empty rooms, but leaving the thermostat unchanged while adding bedding is additive load. We do not guarantee a dollar cut—rates, climate, and setpoint discipline decide."
+  - question: "Mattress pad or electric blanket for zone heating?"
+    answer: "Start with a heated mattress pad under the fitted sheet for overnight sleep—wires stay flatter with less bunching. Use an electric blanket mainly as a top layer or guest/couch case. Add an oil-filled space heater only when you need awake room air warmth and still drop the central setpoint."
+  - question: "How should I use a heated pad so it actually cuts runtime?"
+    answer: "Preheat 15–30 minutes, set a modest overnight thermostat setback, sleep on low-to-medium with auto shut-off (or all-night use only if the manual allows), and prefer dual controllers for couples. If next-bill kWh rises, you’re stacking heat—revisit setpoints."
+  - question: "What safety rules matter most for heated bedding?"
+    answer: "Buy auto shut-off units and follow age/medical/pet limits in the manual. Don’t pinch, fold, or pin wires; keep controllers dry; inspect for hot spots; confirm compatibility with adjustable bases and foam. Unplug if it smells of burning or the controller errors."
 ---
 
 Heating empty bedrooms all night is expensive. **Warming the bed (and the person in it) with a heated mattress pad while you drop the whole-house overnight setpoint** is a quieter, lower-wattage cousin of [oil-filled space-heater zone heating](/blog/oil-filled-space-heaters-zone-heating/) — when you actually change the thermostat and follow safety rules. This guide is **bill-first**: when bed-zone heat helps, when it doesn’t, pad vs blanket tradeoffs, and a verified Amazon shortlist — without inventing dollar savings.

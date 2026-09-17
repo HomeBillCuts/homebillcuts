@@ -2,6 +2,16 @@
 title: "Best Smart Plugs to Kill Vampire Power"
 description: "Best smart plugs and power strips for cutting vampire / standby power in US homes — when they help, safety limits, and a short Amazon list."
 pubDate: 2026-09-08
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will smart plugs lower my electric bill this winter?"
+    answer: "They can help if you actually cut measurable standby clusters—AV gear, consoles, chargers—on a schedule you keep. A 5–15W always-on pile is worth hunting; plugs will not fix HVAC, water heat, or EV loads. Measure idle watts first with a plug-in meter; a mechanical switched strip you flip may be enough."
+  - question: "Are smart plugs safe on space heaters and window ACs?"
+    answer: "Usually no. Use smart plugs only on cord-and-plug 120V loads within the plug’s amp/watt rating. Do not put cheap plugs on space heaters, window ACs, sump pumps, medical devices, or refrigerators that need continuous power. Avoid daisy-chaining strips, and stop if a plug feels hot."
+  - question: "Do I need energy-monitoring plugs, or is a schedule enough?"
+    answer: "Schedules and timers do the bill work. Monitoring plugs are useful to prove idle watts and decide what to cut nightly, but meter accuracy varies—use them for relative decisions, not utility-grade billing. Monitoring alone saves nothing until you act."
+  - question: "Should I buy smart plugs before weatherizing?"
+    answer: "Usually after free checklist wins. Don’t optimize an 8W charger cluster while an attic hatch or door gap dumps conditioned air. Fix setpoints, filters, and obvious drafts first, then automate standby cutoffs you will keep enabled."
 ---
 
 “Vampire power” (standby load) is real: chargers, game consoles, AV receivers, streaming boxes, printers, and secondary gadgets draw watts while “off.” Smart plugs and smart strips can automate cutoffs — but they’re tools, not magic. This guide covers **when smart plugs are worth it**, how to measure first, and a short list of product types that fit US 120V homes.

@@ -2,6 +2,16 @@
 title: "Fireplace & Chimney Draft Blockers for Unused Fireplaces"
 description: "Bill-first guide to magnetic fireplace covers, wool flue plugs, and chimney balloons — when unused fireplaces leak heat, how to measure, safety limits, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-12
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will a fireplace draft blocker lower my heating bill?"
+    answer: "It can help if an unused fireplace has a leaky or open damper and you feel a cold downdraft—stack effect pulls heated air up the flue. Impact scales with how open the damper was, flue size, climate, and other leaks. We do not guarantee a dollar cut. A tight damper may mean you don’t need a product yet."
+  - question: "Magnetic cover, wool flue plug, or chimney balloon—which should I buy?"
+    answer: "Use a magnetic cover for a quick room-facing seal on an iron/steel surround. Use a wool/felt plug or inflatable balloon when you need a seal in the flue above a broken damper. Magnets will not stick to bare brick, stone, tile, or many stainless surrounds—measure the opening or flue before ordering."
+  - question: "Can I leave a chimney balloon or flue plug in place with gas logs?"
+    answer: "No for active fires—and never with operable vented gas logs still connected. Remove covers, plugs, and balloons completely before any flame, and disable or remove vented gas logs before using in-flue blockers. Keep CO alarms working; remove blockers for sweeps and inspections."
+  - question: "What if my damper already closes tightly?"
+    answer: "If you feel no draft and the damper seats well, you may not need a blocker yet. If it won’t close or you see daylight/gaps, plan a removable seasonal blocker and eventually a damper repair—blockers are for unused openings, not a substitute for a working damper."
 ---
 
 An unused fireplace with a leaky or open damper is a vertical shortcut for heated air to leave the house. **Magnetic fireplace covers, wool/felt flue plugs, and inflatable chimney balloons** are the common DIY draft blockers for seasonal or permanently idle fireplaces — not a substitute for a working damper, and never something you leave in place for a live fire. This guide is **bill-first**: why the flue pulls heat, which product type fits which opening, how to measure, hard safety limits, and a short Amazon list — without inventing dollar savings.

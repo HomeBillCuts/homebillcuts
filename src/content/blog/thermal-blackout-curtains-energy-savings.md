@@ -2,6 +2,16 @@
 title: "Thermal & Blackout Curtains for Energy Savings: When They Help Your Bill"
 description: "Bill-first guide to thermal and blackout curtains — when insulated drapes cut heat loss, how to measure, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-10
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will thermal curtains lower my heating bill this winter?"
+    answer: "They can help when large or older windows feel cold at night and you actually close thick panels that cover the glass with minimal side gaps. Savings scale with climate, rates, window quality, and HVAC runtime—we do not guarantee a dollar cut. Thin sheers left open 24/7 will not move the bill."
+  - question: "Are blackout curtains the same as thermal curtains?"
+    answer: "Not always. Blackout means light blocking; thermal/insulated usually means lined or multi-layer fabric that slows heat transfer. Many products combine both, but a marketing “thermal” label without a real liner may mainly block light. Look for thickness and coverage, not just the title word."
+  - question: "Should I use curtains, shrink film, or weatherstripping first?"
+    answer: "Use curtains for daily open/close privacy and night coverage. Use indoor shrink-film kits for a seasonal seal on leaky single-pane glass. Use weatherstripping for door bottoms and sash edges. Stacking film plus bedroom curtains is common—don’t film an occupied egress bedroom shut."
+  - question: "How should I measure before buying thermal panels?"
+    answer: "Measure the opening, then add side overlap (often 3–6 inches each side). Choose length for floor or sill coverage while keeping fabric clear of heaters. Mount a sturdy rod high and wide so less heat sneaks over the top; most listings are two panels—confirm total width."
 ---
 
 Windows are thin compared with walls. **Thermal and blackout curtains** add a fabric layer that slows radiative and convective loss at the glass — useful in heating season and for rooms that bake in afternoon sun. This guide is **bill-first**: when curtains help, how to size them, and a short Amazon list — without inventing dollar savings.

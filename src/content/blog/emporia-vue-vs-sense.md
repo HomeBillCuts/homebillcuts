@@ -2,6 +2,16 @@
 title: "Emporia Vue vs Sense: Which Home Energy Monitor Is Worth It?"
 description: "Emporia Vue vs Sense compared for US homes — install realities, circuit visibility, costs, and when either energy monitor is worth buying."
 pubDate: 2026-09-05
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will an Emporia Vue or Sense monitor lower my electric bill?"
+    answer: "Not by itself. Monitors show what is driving kWh; behavior change and repairs cut the bill. They help when you will look at the data weekly and act—bad pump schedules, heat-strip runtime, mystery spikes. If you ignore the app, the hardware is just another cost."
+  - question: "Should I choose Emporia Vue or Sense?"
+    answer: "Pick Vue-style monitoring when you want clamp-accurate breaker-level kWh (EV, HVAC stages, shop subpanels) and will map circuits. Pick Sense when you want mains-clamp device inferences with fewer CTs and are okay verifying detections. Neither replaces weatherization or sane thermostat habits."
+  - question: "Do I need an electrician to install a home energy monitor?"
+    answer: "Often yes. Both products clamp inside the service panel. If you are not qualified for live/load-side panel work, hire an electrician. Budget hardware plus labor, optional sensors, and your time to label circuits or verify detections."
+  - question: "Should I buy a panel monitor before a plug-in meter?"
+    answer: "Not always. If one 120V appliance is the only mystery, a cheap plug-in meter answers it first. Finish priority checklist items and utility interval data you already have before opening the panel for clamps."
 ---
 
 Whole-home energy monitors promise to show *what* is driving your electric bill. Two names come up constantly: **Emporia Vue** and **Sense**. This comparison is for US homeowners who want bill-relevant visibility — not a gadget for gadget’s sake — and who already know that monitors don’t save kWh by themselves.

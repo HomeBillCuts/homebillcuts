@@ -2,6 +2,16 @@
 title: "Pipe Freeze Protection: Heat Tape vs Insulation for Exposed Lines"
 description: "Bill-first guide to heat tape / pipe heating cable for freeze-prone US homes — insulation first, hard safety rules, thermostat kits vs self-regulating cable, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-15
+updatedDate: 2026-09-16
+faqs:
+  - question: "Will heat tape lower my electric bill?"
+    answer: "No—heat tape consumes kWh whenever it runs. It is freeze-prevention insurance for exposed lines you can’t drain, relocate, or fully protect with insulation and building heat. Insulate first; treat cable as a last layer, not an efficiency upgrade. We do not guarantee bill cuts or burst prevention."
+  - question: "Should I insulate pipes before buying heat tape?"
+    answer: "Yes. Foam sleeves or foil wrap slow heat loss without adding continuous electric load. Also seal drafts that wash cold air across lines and drain unused exterior bibs. Add heat tape only on remaining freeze-prone exposed runs after those steps."
+  - question: "Thermostat plug-in kit or self-regulating cable?"
+    answer: "Frost King–style thermostat kits suit short–medium runs and energize near freezing—do not overlap or cross constant-wattage cable. Self-regulating cable can suit longer/colder exposures when the label allows spiral or limited overlap. Measure the run and buy the closest listed length."
+  - question: "Can I use roof de-icing cable on water pipes?"
+    answer: "Never. Roof/gutter cable is a different product class and listing. Use pipe-rated heating cable, prefer GFCI protection, follow overlap rules for your model, keep plugs dry, and cover with non-combustible insulation only when the product directs it."
 ---
 
 Exposed water lines in crawlspaces, garages, and exterior walls can freeze hard enough to burst — then you’re dealing with water damage *and* a winter electric spike from whatever you leave plugged in afterward. **Heat tape (pipe heating cable)** is a freeze-prevention tool that **uses electricity**, not a bill-cutting gadget. This guide is **bill-first**: when heat tape makes sense, when **insulation alone** is the smarter spend, hard safety rules, and a verified Amazon shortlist — without inventing dollar savings.
