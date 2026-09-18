@@ -171,6 +171,7 @@ Pick oil-filled for quiet occupied-room heat that lingers; pick ceramic/PTC fan 
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — meter hours on a 1500W heater before you stack load
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight sleep-zone warmth at lower wattage
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — house-wide setbacks that make zone heat work
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal the room before you heat it

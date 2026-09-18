@@ -128,7 +128,7 @@ A monitor that sits unused is the most expensive option.
 
 - You haven’t finished the [priority checklist](/blog/lower-electric-bill-priority-checklist/)
 - Your utility already provides granular interval data you’re ignoring
-- A $30 plug-in meter would answer the only question you have (one appliance)
+- A [$30 plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) would answer the only question you have (one appliance)
 
 ## Affiliate links
 
@@ -138,7 +138,7 @@ A monitor that sits unused is the most expensive option.
 - Sense energy monitor kit: [View on Amazon](https://www.amazon.com/dp/B09W2ZYD1R/?tag=homebillcuts-20)
 - Plug-in meter (for single 120V appliances first): [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
-Also consider whether a [smart thermostat](/blog/best-smart-thermostats-2026/) solves a scheduling problem before (or after) you invest in monitoring. For single 120V vampires and entertainment clusters, start with [smart plugs](/blog/best-smart-plugs-vampire-power/) and a Kill-A-Watt–style meter — cheaper than a panel clamp.
+Also consider whether a [smart thermostat](/blog/best-smart-thermostats-2026/) solves a scheduling problem before (or after) you invest in monitoring. For single 120V vampires and entertainment clusters, start with [smart plugs](/blog/best-smart-plugs-vampire-power/) and a [Kill-A-Watt–style meter](/blog/kill-a-watt-plug-in-energy-meter/) — cheaper than a panel clamp.
 
 ## A practical evaluation week
 
@@ -150,6 +150,7 @@ Also consider whether a [smart thermostat](/blog/best-smart-thermostats-2026/) s
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — $30 120V diagnostics before panel clamps
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cheaper first step for 120V standby loads
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — act on what the monitor shows
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — scheduling before (or after) panel clamps

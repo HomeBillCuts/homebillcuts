@@ -96,7 +96,7 @@ Whole-home air sealing and insulation pay off over years — worth planning, but
 If you still can’t explain a spike, add visibility:
 
 - Utility **hourly / interval data** (Green Button or utility app) if available.
-- A plug-in meter for 120V appliances.
+- A [plug-in meter for 120V appliances](/blog/kill-a-watt-plug-in-energy-meter/).
 - A whole-home monitor if you want circuit-level insight — compare options in [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/).
 
 Measurement prevents buying the wrong “smart” gadget.
@@ -117,7 +117,7 @@ Useful *after* free/cheap steps:
 - **LED bulbs** for remaining high-use sockets — [View on Amazon](https://www.amazon.com/dp/B0DVWMMK17/?tag=homebillcuts-20)
 - **Door sweep / weatherstrip kit** — [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
 - **Outlet / switch foam gaskets** — [View on Amazon](https://www.amazon.com/dp/B002TIHKZE/?tag=homebillcuts-20)
-- **Kill-a-watt style plug meter** — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
+- **Kill-a-watt style plug meter** ([full guide](/blog/kill-a-watt-plug-in-energy-meter/)) — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 - **Foam pipe insulation** for exposed hot runs — [View on Amazon](https://www.amazon.com/dp/B0CJXFLQV5/?tag=homebillcuts-20)
 
@@ -159,6 +159,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early

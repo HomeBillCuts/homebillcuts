@@ -53,7 +53,7 @@ Gadgets before a 10-minute walk is how you end up with a closet full of 5000K ga
 4. **Check dimmers and enclosed fixtures** before you open Amazon — dimmable label and enclosure rating matter more than brand storytelling.
 5. **Buy for the top sockets first** — finish the rooms that burn hours every day; leave guest closets for a leftover pack later.
 
-If you want proof lighting is (or isn’t) a big slice of kWh, a [whole-home monitor](/blog/emporia-vue-vs-sense/) or a cheap plug-in meter on a lamp cluster beats guessing. After high-hour lamps are done, hunt always-on electronics with [smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/).
+If you want proof lighting is (or isn’t) a big slice of kWh, a [whole-home monitor](/blog/emporia-vue-vs-sense/) or a cheap [plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) on a lamp cluster beats guessing. After high-hour lamps are done, hunt always-on electronics with [smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/).
 
 ## Wattage swap guide (think lumens, not “60W LED”)
 
@@ -171,6 +171,7 @@ Other practical gotchas:
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — prove lighting kWh on lamp clusters before you buy more gear
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cut standby after you’ve swapped high-hour lamps
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — see whether lighting is actually a big slice of your kWh
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — LEDs after setpoints and filters

@@ -120,10 +120,11 @@ Stack with a [smart thermostat](/blog/best-smart-thermostats-2026/) on central s
 4. **Fan on when occupied / off when empty** via switch, pull chain habit, or smart control within electrical ratings.
 5. **Filter reminders** — a smart schedule on a clogged filter wastes money.
 
-Measure when you can: a [plug meter](/blog/best-smart-plugs-vampire-power/) works on many window ACs’ 120V cords (stay inside ratings; never defeat dedicated circuits or oversized loads). Whole-home context: [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/).
+Measure when you can: a [plug meter](/blog/kill-a-watt-plug-in-energy-meter/) works on many window ACs’ 120V cords (stay inside ratings; never defeat dedicated circuits or oversized loads). Whole-home context: [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/).
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure window-AC kWh before automating
 - [Thermal & blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — cut solar gain so AC runs less
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — seasonal film for drafty glass
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — central systems that actually change setpoints

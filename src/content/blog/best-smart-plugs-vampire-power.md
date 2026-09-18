@@ -117,7 +117,7 @@ Prioritize reliable schedules you’ll keep, a physical button, realistic amp ra
 
 ### Best first buy: plug-in energy meter
 
-**Why it makes the list:** Truth before gadgets. Confirms whether a console, amp, or printer is worth nightly cutoff.
+**Why it makes the list:** Truth before gadgets. Confirms whether a console, amp, or printer is worth nightly cutoff. Full walkthrough: [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/).
 
 **Watch-outs:** Meter the cluster *as used* (strip + devices), not only one brick in isolation.
 
@@ -175,6 +175,7 @@ Pair with HVAC habits and [draft sealing](/blog/best-weatherstripping-draft-stop
 
 ## Related reading
 
+- [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — portable 120V metering before you automate cutoffs
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — whole-home monitors when one plug meter isn’t enough
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where vampire loads sit vs HVAC and water heating
 - [LED bulbs wattage guide](/blog/led-bulbs-save-money-wattage-guide/) — cut lighting watts before you automate them
