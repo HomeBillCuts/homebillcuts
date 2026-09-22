@@ -163,6 +163,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
+- [Attic insulation approaches (when to call a pro)](/blog/attic-insulation-approaches-when-to-call-pro/) — depth after air sealing and hatch covers
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
