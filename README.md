@@ -118,3 +118,5 @@ No backend, no fake testimonials, no invented analytics/affiliate IDs, no WordPr
 ## License / content
 
 Site code is yours to modify. Replace placeholder contact email and About bio before launch.
+
+<!-- pages deploy probe 2026-09-24T00:28:10Z -->
