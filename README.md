@@ -9,6 +9,7 @@ Static Astro site for **HomeBillCuts** — bill-first US home energy efficiency 
 ## Requirements
 
 - Node.js **22.12+** (Astro 7)
+- Cloudflare Pages: set `NODE_VERSION=22` (or rely on `.nvmrc` / `.node-version` = `22`)
 
 ## Setup
 
