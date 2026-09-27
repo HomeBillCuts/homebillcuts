@@ -65,6 +65,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - If showers or taps still feel like old high-flow fixtures, consider [WaterSense showerheads and faucet aerators](/blog/low-flow-showerheads-faucet-aerators/) after you fix drips — less hot water used is less water reheated.
 - On a standard electric resistance tank with a predictable schedule (or TOU rates), a properly rated [hardwired water heater timer](/blog/electric-water-heater-timers-cut-standby/) can cut overnight or peak-window recovery — electrician install for 240V; never use lamp timers on hardwired tanks.
 - Before hard freezes, protect freeze-prone exposed pipes in crawlspaces and garages: insulate first, then consider listed [pipe heat tape](/blog/pipe-freeze-heat-tape-protection/) where freeze risk remains — never roof de-icing cable on water pipes.
+- Drain and cover outdoor hose bibs / sillcocks before hard freezes (hose off first): see [outdoor faucet freeze covers](/blog/outdoor-faucet-covers-freeze-protection/) — foam cups and socks are freeze insurance, not a kWh product.
 
 ### 4. Lighting and always-on loads (quick wins)
 
@@ -162,6 +163,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
+- [Outdoor faucet covers for freeze protection](/blog/outdoor-faucet-covers-freeze-protection/) — drain-first bib covers (foam / hard shell / socks)
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
