@@ -2,7 +2,7 @@
 title: "Window AC Smart Controllers & Ceiling Fan + Thermostat Savings Guide"
 description: "Bill-first guide to Sensibo-style window/mini-split IR controllers and ceiling fan + thermostat combos — when they cut runtime (cool and heat), measure-first walk, situation priorities, buyer decision tree, troubleshooting, and a verified Amazon shortlist. No guaranteed savings."
 pubDate: 2026-09-09
-updatedDate: 2026-09-24
+updatedDate: 2026-09-26
 faqs:
   - question: "Will a Sensibo-style AC controller lower my electric bill?"
     answer: "It can when your window, portable, or mini-split uses an IR remote and you’ll use schedules, geofencing, or temp triggers to cut empty-home runtime — cool or heat. Wi‑Fi alone doesn’t change SEER/HSPF if you keep the same hours. Units without IR remotes can’t be controlled this way. We don’t guarantee bill reductions."
@@ -255,6 +255,7 @@ Measure when you can: a [plug meter](/blog/kill-a-watt-plug-in-energy-meter/) on
 
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure window-AC kWh before automating
 - [Thermal & blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — cut solar gain so AC runs less
+- [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — indoor/outdoor covers when the unit stays installed
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — seasonal film for drafty glass
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — central systems that actually change setpoints
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — C-wire reality check before Nest-class buys

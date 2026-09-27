@@ -2,7 +2,7 @@
 title: "How to Lower Your Electric Bill This Month: A Priority Checklist"
 description: "A bill-first priority checklist for US homes this heating season — free and cheap actions first, then smarter upgrades. No guaranteed dollar savings."
 pubDate: 2026-09-01
-updatedDate: 2026-09-16
+updatedDate: 2026-09-26
 faqs:
   - question: "What’s the fastest way to lower my electric bill this heating season?"
     answer: "Work top-down: read the bill’s kWh and rate type, fix thermostat schedules/setbacks, replace dirty HVAC filters, then tackle water-heater temperature and cheap drafts. Gadgets come after free and cheap steps. Results depend on your rates, climate, and home—no guaranteed dollar savings."
@@ -13,7 +13,7 @@ faqs:
   - question: "What should I not do after one high winter bill?"
     answer: "Don’t buy a new HVAC system because one bill was high, don’t chase viral “save $200 this week” claims, and don’t skip filters/setpoints/water-heater basics for exotic gadgets. Measure before you impulse-buy monitors or smart gear."
   - question: "When do weatherization kits beat buying new equipment?"
-    answer: "This month: door sweeps, window film, garage seals, attic-stair covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill."
+    answer: "This month: door sweeps, window film, window AC covers for left-in units, garage seals, attic-stair covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill."
 ---
 
 If your electric bill jumped and you want something useful *this month*, start here. This checklist is ordered by leverage and effort for a typical US home on standard residential rates. It is **not** a promise of specific dollar savings — those depend on your kWh price, climate, home size, insulation, HVAC condition, and habits.
@@ -159,6 +159,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 
 ## Related reading
 
+- [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)

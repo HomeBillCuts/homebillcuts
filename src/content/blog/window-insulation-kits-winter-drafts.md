@@ -2,7 +2,7 @@
 title: "Window Insulation Kits for Winter: Shrink Film That Actually Helps Drafty Rooms"
 description: "Bill-first heating-season guide to indoor winter window insulation kits — measure-first house walk, room priorities, buyer decision tree (3/4/9-pack vs patio), install troubleshooting, and Amazon shortlists. No guaranteed dollar savings."
 pubDate: 2026-09-10
-updatedDate: 2026-09-18
+updatedDate: 2026-09-26
 faqs:
   - question: "Do indoor shrink-film window kits lower heating bills?"
     answer: "They can help on single-pane or leaky windows by cutting drafts and creating a still air gap. Savings depend on how leaky the window was, your climate, and your rates. Film is a seasonal fix—not a substitute for attic air sealing or a failed HVAC system—and we don’t guarantee dollar savings."
@@ -197,6 +197,7 @@ Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame
 
 ## Related reading
 
+- [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — covers for units left in the opening
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix
