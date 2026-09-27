@@ -213,6 +213,7 @@ If your size isn’t 16×25×1, search the same brand + MERV with *your* nominal
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — when a pro install is worth it
 - [Thermal & blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — cold-glass comfort after HVAC airflow is sorted
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — seasonal film for leaky single-pane glass
+- [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Kill A Watt plug-in energy meter](/blog/kill-a-watt-plug-in-energy-meter/) — spot-check plug loads while you watch HVAC habits
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — prove whether filter cadence changed HVAC kWh
 

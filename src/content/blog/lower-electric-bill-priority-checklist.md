@@ -160,6 +160,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 ## Related reading
 
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units
+- [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)

@@ -198,6 +198,7 @@ Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame
 ## Related reading
 
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — covers for units left in the opening
+- [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix

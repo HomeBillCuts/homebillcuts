@@ -254,6 +254,7 @@ Often yes. If you already set weekday/weekend setbacks and stick to them, a basi
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use after a house-wide setback
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
 - [HVAC air filters / MERV](/blog/hvac-air-filters-merv-efficiency/) — cheap airflow wins before a $250 control upgrade
+- [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Weatherstripping & draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal doors before blaming the thermostat
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — measure HVAC runtime before you upgrade controls
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where thermostats sit vs filters and weatherization
