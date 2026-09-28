@@ -2,7 +2,7 @@
 title: "How to Lower Your Electric Bill This Month: A Priority Checklist"
 description: "A bill-first priority checklist for US homes this heating season — free and cheap actions first, then smarter upgrades. No guaranteed dollar savings."
 pubDate: 2026-09-01
-updatedDate: 2026-09-26
+updatedDate: 2026-09-27
 faqs:
   - question: "What’s the fastest way to lower my electric bill this heating season?"
     answer: "Work top-down: read the bill’s kWh and rate type, fix thermostat schedules/setbacks, replace dirty HVAC filters, then tackle water-heater temperature and cheap drafts. Gadgets come after free and cheap steps. Results depend on your rates, climate, and home—no guaranteed dollar savings."
@@ -66,6 +66,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - On a standard electric resistance tank with a predictable schedule (or TOU rates), a properly rated [hardwired water heater timer](/blog/electric-water-heater-timers-cut-standby/) can cut overnight or peak-window recovery — electrician install for 240V; never use lamp timers on hardwired tanks.
 - Before hard freezes, protect freeze-prone exposed pipes in crawlspaces and garages: insulate first, then consider listed [pipe heat tape](/blog/pipe-freeze-heat-tape-protection/) where freeze risk remains — never roof de-icing cable on water pipes.
 - Drain and cover outdoor hose bibs / sillcocks before hard freezes (hose off first): see [outdoor faucet freeze covers](/blog/outdoor-faucet-covers-freeze-protection/) — foam cups and socks are freeze insurance, not a kWh product.
+- If heat is electric baseboard / wall heaters (line voltage), do **not** buy a Nest — use a [line-voltage baseboard thermostat](/blog/electric-baseboard-heater-thermostats-line-voltage/) sized for poles and amps.
 
 ### 4. Lighting and always-on loads (quick wins)
 
@@ -164,6 +165,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
 - [Outdoor faucet covers for freeze protection](/blog/outdoor-faucet-covers-freeze-protection/) — drain-first bib covers (foam / hard shell / socks)
+- [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — 120/240V controls when Nest is the wrong family
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early

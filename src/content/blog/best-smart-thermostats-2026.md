@@ -250,6 +250,7 @@ Often yes. If you already set weekday/weekend setbacks and stick to them, a basi
 
 ## Related reading
 
+- [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — 120/240V baseboard controls (Nest will not work here)
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — wiring, C-wire, and when to hire out
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm the room you use after a house-wide setback
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
