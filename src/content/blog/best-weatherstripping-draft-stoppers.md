@@ -223,6 +223,7 @@ Use weatherstripping for door bottoms and sash/stop edge gaps. Use indoor shrink
 
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — fixed cracks and penetrations before moving parts
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
+- [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind radiators/baseboard after you seal drafts
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts that feel like “mystery cold”
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air

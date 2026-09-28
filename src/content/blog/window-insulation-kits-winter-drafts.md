@@ -201,6 +201,7 @@ Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
+- [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind exterior-wall radiators sharing cold glass walls
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix
 - [Oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) — comfort in a sealed room; keep heaters off the film
 - [HVAC air filters: MERV & size](/blog/hvac-air-filters-merv-efficiency/) — recurring win while you weatherize

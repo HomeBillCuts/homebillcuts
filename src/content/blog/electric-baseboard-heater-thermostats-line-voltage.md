@@ -33,7 +33,7 @@ Electric baseboard and wall heaters convert nearly all their watts to heat in th
 
 A thermostat does **less** when:
 
-- The room leaks through doors, windows, or an attic hatch — seal first ([weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window film](/blog/window-insulation-kits-winter-drafts/), [attic stair covers](/blog/attic-stair-hatch-insulation-covers/)).
+- The room leaks through doors, windows, or an attic hatch — seal first ([weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window film](/blog/window-insulation-kits-winter-drafts/), [attic stair covers](/blog/attic-stair-hatch-insulation-covers/)). Exterior-wall baseboards that cook the plaster more than the air may also want [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/).
 - You buy a **24V Nest** for a **240V** baseboard circuit (wrong family; safety risk).
 - The heater itself is undersized, failing, or blocked by furniture.
 - You expect Wi‑Fi alone to cut a bill without changing setpoints.
@@ -221,6 +221,7 @@ Want cheapest like-for-like replacement and simple always-on comfort: mechanical
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — when to hire on low-voltage systems
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — portable zone heat with safety rules
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower setpoints
+- [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil/foam behind baseboard on cold exterior walls
 - [Weatherstripping & door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal the room before blaming the dial
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — cold-glass rooms on resistance heat
 - [HVAC air filters / MERV](/blog/hvac-air-filters-merv-efficiency/) — if you also have forced-air

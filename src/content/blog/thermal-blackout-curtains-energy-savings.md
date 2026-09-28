@@ -218,6 +218,7 @@ Usually side gaps, a rod mounted too narrow/low, panels that don’t overlap in 
 ## Related reading
 
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — shrink film when curtains aren’t enough
+- [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind radiators under the same cold windows
 - [Weatherstripping & draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal edges before fabric layers
 - [Oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) — warm one room; keep clearances
 - [Window AC smart controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — shade first, then cut cooling runtime

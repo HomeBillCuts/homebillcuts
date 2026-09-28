@@ -67,6 +67,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Before hard freezes, protect freeze-prone exposed pipes in crawlspaces and garages: insulate first, then consider listed [pipe heat tape](/blog/pipe-freeze-heat-tape-protection/) where freeze risk remains — never roof de-icing cable on water pipes.
 - Drain and cover outdoor hose bibs / sillcocks before hard freezes (hose off first): see [outdoor faucet freeze covers](/blog/outdoor-faucet-covers-freeze-protection/) — foam cups and socks are freeze insurance, not a kWh product.
 - If heat is electric baseboard / wall heaters (line voltage), do **not** buy a Nest — use a [line-voltage baseboard thermostat](/blog/electric-baseboard-heater-thermostats-line-voltage/) sized for poles and amps.
+- On exterior-wall radiators or baseboards that warm the plaster more than the room, consider [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) (Reflectix or foam+foil) after drafts are sealed — no guaranteed savings.
 
 ### 4. Lighting and always-on loads (quick wins)
 
@@ -90,6 +91,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
+- After drafts are handled, [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) can cut wall-wasted radiant heat behind exterior-wall radiators or baseboards.
 
 Whole-home air sealing and insulation pay off over years — worth planning, but not required to start lowering *this* bill.
 
@@ -166,6 +168,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear
 - [Outdoor faucet covers for freeze protection](/blog/outdoor-faucet-covers-freeze-protection/) — drain-first bib covers (foam / hard shell / socks)
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — 120/240V controls when Nest is the wrong family
+- [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil/foam behind exterior-wall radiators and baseboard
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
