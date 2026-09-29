@@ -237,6 +237,7 @@ Never use roof or gutter de-icing cable on a faucet or water pipe — wrong prod
 ## Related reading
 
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — listed cable on crawlspace/garage supply lines after insulation
+- [Crawl space vent covers for winter](/blog/crawl-space-vent-covers-winter/) — foundation vent foam plugs/dampers on the same winterize weekend
 - [Insulate hot water pipes & water heater jackets](/blog/insulate-hot-water-pipes-water-heater-jacket/) — foam on exposed stubs feeding outdoor bibs
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — stop cold washes across garage supplies
 - [Best weatherstripping & door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — envelope leaks that chill wet walls

@@ -251,6 +251,7 @@ If a listing promises guaranteed bill cuts from heat tape alone, treat that as m
 ## Related reading
 
 - [Outdoor faucet covers for freeze protection](/blog/outdoor-faucet-covers-freeze-protection/) — drain-first hose bibs / sillcocks before heat tape
+- [Crawl space vent covers for winter](/blog/crawl-space-vent-covers-winter/) — stop wind wash through foundation vents before/with pipe protection
 - [Insulate hot water pipes & water heater jackets](/blog/insulate-hot-water-pipes-water-heater-jacket/) — bill waste vs freeze risk; insulation before cable
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — this-month order of operations
 - [Start Here](/start-here/) — whole-home ranked path

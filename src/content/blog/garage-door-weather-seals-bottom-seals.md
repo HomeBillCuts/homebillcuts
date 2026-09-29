@@ -257,6 +257,7 @@ Do both if both leak — but if you can only do one evening, close the **biggest
 ## Related reading
 
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — house-to-garage man-doors and sweeps
+- [Crawl space vent covers for winter](/blog/crawl-space-vent-covers-winter/) — foundation vents under the same cold perimeter
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — penetrations and shared walls
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — glass leaks in rooms above or beside the garage
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — idle flues that steal heat

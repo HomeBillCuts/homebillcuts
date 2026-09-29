@@ -226,6 +226,7 @@ Use weatherstripping for door bottoms and sash/stop edge gaps. Use indoor shrink
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind radiators/baseboard after you seal drafts
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts that feel like “mystery cold”
+- [Crawl space vent covers for winter](/blog/crawl-space-vent-covers-winter/) — under-floor foundation vents after house-side drafts
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — seal order vs HVAC and setpoints
 
