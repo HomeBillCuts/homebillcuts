@@ -54,6 +54,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Clear debris from outdoor condenser coils; keep 1–2 feet of clearance.
 - Close supply registers in unused rooms *only if* your system is designed for it — many modern systems dislike heavy restriction.
 - Confirm ceiling fans circulate air for comfort so you can ease thermostat setpoints (fans cool people, not rooms).
+- One far bedroom or basement room still cold while other registers blast? After filter + dampers + sealing, consider a [register booster fan](/blog/register-booster-fans-cold-rooms/) — it moves existing heat, it does not create heat.
 
 ### 3. Water heating (often #2 or #3 load)
 
@@ -169,6 +170,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Outdoor faucet covers for freeze protection](/blog/outdoor-faucet-covers-freeze-protection/) — drain-first bib covers (foam / hard shell / socks)
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — 120/240V controls when Nest is the wrong family
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil/foam behind exterior-wall radiators and baseboard
+- [Register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/) — vent boosters when a far supply is weak (moves air, doesn’t invent heat)
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early

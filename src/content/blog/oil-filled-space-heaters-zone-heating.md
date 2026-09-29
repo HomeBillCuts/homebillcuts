@@ -284,6 +284,7 @@ Usually no if the room is a sieve. Weatherstripping, window film, thermal curtai
 - [Garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/) — cold garages dumping into living space
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — open-flue heat loss before another heater
 - [HVAC air filters (MERV & efficiency)](/blog/hvac-air-filters-merv-efficiency/) — central airflow still matters
+- [Register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/) — when a weak supply duct is the problem vs plug-in heat
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — see whether you’re shifting load or stacking it
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — timers for non-heater loads
