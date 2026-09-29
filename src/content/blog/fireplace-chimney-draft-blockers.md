@@ -255,6 +255,7 @@ Non-ferrous magnets, wrong size, deflated balloon, face-only seal with an open d
 - [Thermal blackout curtains & energy savings](/blog/thermal-blackout-curtains-energy-savings/) — radiant and draft comfort at windows
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — garage envelope leaks
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — another common conditioned-to-attic leak
+- [Whole-house fan winter covers](/blog/whole-house-fan-winter-covers/) — idle ceiling shutters into the attic
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — depth and sequencing after the flue is sealed
 - [Lower electric bill priority checklist](/blog/lower-electric-bill-priority-checklist/) — free damper checks before shopping
 - [Start Here](/start-here/) — order of operations for the whole site

@@ -235,6 +235,7 @@ Different product class. Window/through-wall units sit in the envelope and draft
 ## Related reading
 
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — shrink film on glass without an AC in the opening
+- [Whole-house fan winter covers](/blog/whole-house-fan-winter-covers/) — seal leaky ceiling shutters / attic fan louvers for heating season
 - [Window AC smart controllers & ceiling fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — summer/shoulder automation; foam panels overlap
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — sash and door edges covers won’t fix
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daily layer over drafty glass

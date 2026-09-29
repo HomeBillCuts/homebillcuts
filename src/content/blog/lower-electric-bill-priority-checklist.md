@@ -90,6 +90,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Replace cracked [garage door bottom seals / side stop weatherstrip](/blog/garage-door-weather-seals-bottom-seals/) on attached garages (measure T-slots; re-test opener auto-reverse).
 - Close fireplace dampers when not in use; for leaky or unused flues, see [fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/).
 - Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
+- Cover unused whole-house / ceiling fan shutters for winter — see [whole-house fan winter covers](/blog/whole-house-fan-winter-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
 - After drafts are handled, [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) can cut wall-wasted radiant heat behind exterior-wall radiators or baseboards.

@@ -235,6 +235,7 @@ Wrong size, cocked gasket, open/poorly stapled zipper, tight clearance crushing 
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — depth and sequencing after the hatch is sealed
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — other attic bypasses (wires, plumbing, top plates)
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — hatch weatherstrip edges and living-space doors
+- [Whole-house fan winter covers](/blog/whole-house-fan-winter-covers/) — ceiling shutter seals when an idle whole-house fan is the other attic hole
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — another major stack-effect path
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — garage envelope leaks
 - [Lower electric bill priority checklist](/blog/lower-electric-bill-priority-checklist/) — where attic leaks sit vs filters and setpoints
