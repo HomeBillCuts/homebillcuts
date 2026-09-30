@@ -55,7 +55,7 @@ If you still can’t tell whether glass or a door gap is the villain, seal the d
 ### Prioritize (biggest comfort + bill leverage)
 
 1. **Living / family rooms with cold glass walls** — long evening hours and big surface area.
-2. **Patio / sliding glass doors** — often the single worst winter surface. Measure carefully; use the oversized sheet when standard kits don’t cover the frame landing.
+2. **Patio / sliding glass doors** — often the single worst winter surface. Measure carefully; use the oversized sheet when standard kits don’t cover the frame landing. For stile/track weatherstrip + egress honesty, see [sliding glass door draft sealing](/blog/sliding-glass-door-draft-sealing-winter/).
 3. **Primary bedrooms that fight the thermostat overnight** — film can help *if* you keep a safe egress path (see below). Pair with [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) for nighttime layering.
 4. **Home office / daytime occupied rooms** with single-pane or storm-less glass — hours of occupancy beat perfecting a guest closet.
 5. **Basement hopper / ground-level windows** that whistle — leftover scraps often work; still respect egress and dry wet masonry first.
@@ -200,6 +200,7 @@ Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — covers for units left in the opening
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
+- [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — patio doors: weatherstrip + oversized film + egress honesty
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind exterior-wall radiators sharing cold glass walls
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix

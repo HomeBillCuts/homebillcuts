@@ -239,6 +239,7 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — common attic bypass in older homes
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers on the attic floor plane
 - [Rim joist / band joist insulation for basements](/blog/rim-joist-band-joist-insulation-basement/) — foam board + edge seal at the foundation–floor junction
+- [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — moving patio-door seals after fixed cracks
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage “mystery cold”
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air
 - [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — seal first, then add depth

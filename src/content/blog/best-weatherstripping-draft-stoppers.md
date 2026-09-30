@@ -60,7 +60,7 @@ If you smell gas, see scorched outlets, or suspect carbon-monoxide / combustion-
 1. **Main exterior entry with a daylight bottom gap** — highest traffic and often the worst under-door leak. Sweep/threshold first.
 2. **Garage-to-house door** — attached garages dump cold (and sometimes exhaust/fumes) into living space; treat this like an exterior door.
 3. **Back / side exterior doors** used daily — same stack: bottom, then perimeter.
-4. **Sliding glass patio doors** — track pile + clean/lube often beats buying another fabric snake; pair with [shrink film](/blog/window-insulation-kits-winter-drafts/) if the glass still howls.
+4. **Sliding glass patio doors** — track pile + clean/lube often beats buying another fabric snake; pair with [shrink film](/blog/window-insulation-kits-winter-drafts/) if the glass still howls. Full patio stack: [sliding glass door draft sealing](/blog/sliding-glass-door-draft-sealing-winter/).
 5. **Leaky double-hung sash stops** you can feel with incense — V-strip or seasonal rope caulk after doors are done.
 
 ### Lower priority / skip for now
@@ -223,6 +223,7 @@ Use weatherstripping for door bottoms and sash/stop edge gaps. Use indoor shrink
 
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — fixed cracks and penetrations before moving parts
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
+- [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — meeting stile, track pile, patio film, and when snakes fail on sliders
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind radiators/baseboard after you seal drafts
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts that feel like “mystery cold”
