@@ -20,6 +20,8 @@ Heating season is when leaky envelopes show up on the bill: conditioned air esca
 
 Pull-down attic stairs and thin hatches are often larger leaks than a few outlet gaps — cover them with [attic stair & hatch insulation kits](/blog/attic-stair-hatch-insulation-covers/) while you caulk and foam.
 
+Recessed can lights are another attic-floor bypass family — use [fire-safe recessed light covers](/blog/recessed-light-covers-attic-air-sealing/) (IC vs non-IC first) instead of cardboard or burying non-IC fixtures.
+
 Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Door bottoms and sash edges: [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Overhead garage leaks: [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/). Cold glass: [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/). Idle fireplaces: [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/). Big attic leaks often dwarf trim caulk — see [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/).
 
 ## When air leaks move the bill
@@ -50,7 +52,7 @@ Ordering a whole-house carton of foam before a 20-minute walk is how you end up 
 3. **Baseboards and shoe molding** on exterior walls, especially older plaster or remodeled rooms.
 4. **Cable, coax, phone, and pipe penetrations** through floors, rim joists, and exterior walls (basement/crawlspace and attic sides count). Size gaps: hairline → caulk; ~¼″–1″ irregular → gaps-and-cracks foam; deep joint → backer rod + caulk.
 5. **Dryer, bath, and kitchen vent boots** — seal the *perimeter*; don’t crush the duct or tape the vent closed.
-6. **Attic hatch / pull-down stairs** perimeter — often larger than a dozen outlets; weatherstrip the lid and seal the frame, or use a dedicated [attic stair cover](/blog/attic-stair-hatch-insulation-covers/).
+6. **Attic hatch / pull-down stairs** perimeter — often larger than a dozen outlets; weatherstrip the lid and seal the frame, or use a dedicated [attic stair cover](/blog/attic-stair-hatch-insulation-covers/). While you’re in the attic, plan [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/) for leaky cans (IC vs non-IC first).
 7. **Behind kitchen and bath cabinets** on exterior walls — plumbing and wiring holes are common.
 8. **Can lights and ceiling fixtures** into unconditioned attics — use rated seal methods; don’t bury non-IC fixtures in foam.
 9. **Safety pass** — combustion air, electrical boxes, firestop, egress, dryer/range/bath vents (see do-not-seal list). Safety beats a cozy draft fix.
@@ -235,6 +237,7 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — common attic bypass in older homes
+- [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers on the attic floor plane
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage “mystery cold”
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air
 - [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — seal first, then add depth

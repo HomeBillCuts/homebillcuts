@@ -20,7 +20,7 @@ Heating season is when **stack effect** shows its hand: warm indoor air rises, l
 
 This guide is **bill-first**: walk and measure R-value/depth before you buy, prioritize situations that actually move comfort and runtime, pick blown cellulose vs fiberglass vs mineral wool vs hire-a-pro with a decision tree, install safely (baffles first), and troubleshoot common failures — then keep going with hatch covers and air sealing.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Pair this with [attic stair & hatch covers](/blog/attic-stair-hatch-insulation-covers/) (cover the hatch *before* or while you top-dress batts), [air sealing with caulk & foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Other stack-effect leaks: [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/) and [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Pair this with [attic stair & hatch covers](/blog/attic-stair-hatch-insulation-covers/) (cover the hatch *before* or while you top-dress batts), [recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/), [air sealing with caulk & foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Other stack-effect leaks: [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/) and [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
 
 ## When attic insulation moves the heating bill
 
@@ -66,7 +66,7 @@ Ordering three rolls of the wrong width — or blowing fill that plugs the soffi
 2. **Measure depth in several spots** — gently (don’t compress loose fill). Note inches at eaves, mid-span, and near HVAC platforms. Convert rough depth to approximate R-value using material type (fiberglass, cellulose, mineral wool differ). Photograph a tape measure in the fill.
 3. **Map coverage gaps** — bare joist bays, thin spots at eaves, gaps around chimneys (with proper clearances), recessed lights, and dropped soffits.
 4. **Check ventilation paths** — soffit intakes should not be blocked; install or clear **baffles / rafter vents** so new fill can’t choke airflow to the ridge or gable vents.
-5. **Air-seal first** — attic hatches and pull-down stairs ([cover kits](/blog/attic-stair-hatch-insulation-covers/)), can lights (IC-rated covers where required), plumbing/electrical penetrations, top plates, and chase openings. Pair with [caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) downstairs.
+5. **Air-seal first** — attic hatches and pull-down stairs ([cover kits](/blog/attic-stair-hatch-insulation-covers/)), can lights ([recessed light covers](/blog/recessed-light-covers-attic-air-sealing/) — IC vs non-IC first), plumbing/electrical penetrations, top plates, and chase openings. Pair with [caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) downstairs.
 6. **Look for moisture and wiring red flags** — staining, musty smell, damp sheathing, past ice dams, knob-and-tube, damaged romex, or vermiculite that may contain asbestos. **Pause DIY** if you see active water or suspect hazardous materials.
 7. **Note access and labor reality** — pull-down stairs vs scuttle; heat stress risk; whether you’ll walk joists safely. Full-attic jobs often belong at a local supplier with delivery + machine rental or a weatherization contractor — Amazon is handy for PPE, baffles, hatch kits, and a few top-up rolls, not always for a whole-house blow.
 
@@ -92,7 +92,7 @@ Climate targets vary (colder zones often want higher attic R). Look up current E
 1. **Visibly empty or near-empty joist bays** under frequently used rooms in heating season — the ceiling is basically a radiator into the attic.
 2. **Patchy coverage** after prior DIY (islands of batts, thin eaves, gaps around platforms) when the rest of the envelope is already in better shape.
 3. **Leaky pull-down stairs / thin hatches** you’re about to bury — seal and cover the access *before* or while you add depth ([stair & hatch guide](/blog/attic-stair-hatch-insulation-covers/)).
-4. **Big attic-floor bypasses** (chases, can lights, top plates) — air sealing often beats another inch of fluff; see [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/).
+4. **Big attic-floor bypasses** (chases, can lights, top plates) — air sealing often beats another inch of fluff; see [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/) and [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 5. **Cold-climate homes** with clear under-target depth and electric heat or heat-pump heating — reduced runtime shows up on the bill when the gap was real.
 
 ### Lower priority / skip for now
@@ -258,6 +258,7 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 ## Related reading
 
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — seal the hatch before (or with) adding depth
+- [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers before you bury non-IC fixtures
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — bypasses under the insulation matter first
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — living-space drafts while you plan attic work
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — another stack-effect leak path
@@ -267,4 +268,4 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 
 ## Bottom line
 
-Attic insulation earns its keep when you **air-seal first**, protect ventilation with baffles, hit climate-appropriate depth without compressing fill, and stay honest about DIY limits. Call a pro for moisture, foam, dense-pack, vermiculite, or electrical red flags. If the pull-down stair is the plume you feel every morning, cover that hole before you bury it. Shop materials with eyes open — Amazon is handy for PPE, baffles, hatch kits, and some rolls; full-attic blows often belong at a local supplier or contractor. Next steps: [Start Here](/start-here/), the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/), or [attic stair covers](/blog/attic-stair-hatch-insulation-covers/).
+Attic insulation earns its keep when you **air-seal first**, protect ventilation with baffles, hit climate-appropriate depth without compressing fill, and stay honest about DIY limits. Call a pro for moisture, foam, dense-pack, vermiculite, or electrical red flags. If the pull-down stair is the plume you feel every morning, cover that hole before you bury it. Same for recessed cans — use [fire-safe covers](/blog/recessed-light-covers-attic-air-sealing/) before you blow over non-IC fixtures. Shop materials with eyes open — Amazon is handy for PPE, baffles, hatch kits, and some rolls; full-attic blows often belong at a local supplier or contractor. Next steps: [Start Here](/start-here/), the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/), or [attic stair covers](/blog/attic-stair-hatch-insulation-covers/).

@@ -20,7 +20,7 @@ Heating season is when stack effect shows up as a cold plume under the hallway a
 
 This guide is **bill-first**: walk and measure before you buy, prioritize situations that actually move comfort and runtime, pick rigid box vs zipper tent vs DIY hatch with a decision tree, install safely, and troubleshoot fit problems — then keep going with attic insulation and broader air sealing.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Pair this with [attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) (cover the hatch *before* or while you top-dress batts), [air sealing with caulk & foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Other stack-effect leaks: [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/) and [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
+Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Pair this with [attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) (cover the hatch *before* or while you top-dress batts), [recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/), [air sealing with caulk & foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Other stack-effect leaks: [fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/) and [garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/).
 
 ## When attic stairs and hatches move the bill
 
@@ -201,7 +201,7 @@ Recheck after the first cold week — feel for drafts at the trim with incense o
 ## What a stair cover won’t replace
 
 - **Attic insulation depth** in empty joist bays — cover the hatch, then top-dress ([attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/)).
-- **Other attic bypasses** — wiring holes, plumbing penetrations, top plates, can lights ([air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/)).
+- **Other attic bypasses** — wiring holes, plumbing penetrations, top plates, can lights ([recessed light covers](/blog/recessed-light-covers-attic-air-sealing/), [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/)).
 - **Living-space door and window drafts** — ([weatherstripping](/blog/best-weatherstripping-draft-stoppers/)).
 - **Idle fireplace / chimney stack effect** — ([fireplace draft blockers](/blog/fireplace-chimney-draft-blockers/)).
 - **Garage-to-house or garage door leaks** — ([garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/)).
@@ -233,6 +233,7 @@ Wrong size, cocked gasket, open/poorly stapled zipper, tight clearance crushing 
 ## Related reading
 
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — depth and sequencing after the hatch is sealed
+- [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers on the same attic floor plane
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — other attic bypasses (wires, plumbing, top plates)
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — hatch weatherstrip edges and living-space doors
 - [Whole-house fan winter covers](/blog/whole-house-fan-winter-covers/) — ceiling shutter seals when an idle whole-house fan is the other attic hole

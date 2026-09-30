@@ -13,7 +13,7 @@ faqs:
   - question: "What should I not do after one high winter bill?"
     answer: "Don’t buy a new HVAC system because one bill was high, don’t chase viral “save $200 this week” claims, and don’t skip filters/setpoints/water-heater basics for exotic gadgets. Measure before you impulse-buy monitors or smart gear."
   - question: "When do weatherization kits beat buying new equipment?"
-    answer: "This month: door sweeps, window film, window AC covers for left-in units, garage seals, attic-stair covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill."
+    answer: "This month: door sweeps, window film, window AC covers for left-in units, garage seals, attic-stair covers, recessed/can light covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill."
 ---
 
 If your electric bill jumped and you want something useful *this month*, start here. This checklist is ordered by leverage and effort for a typical US home on standard residential rates. It is **not** a promise of specific dollar savings — those depend on your kWh price, climate, home size, insulation, HVAC condition, and habits.
@@ -90,6 +90,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Replace cracked [garage door bottom seals / side stop weatherstrip](/blog/garage-door-weather-seals-bottom-seals/) on attached garages (measure T-slots; re-test opener auto-reverse).
 - Close fireplace dampers when not in use; for leaky or unused flues, see [fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/).
 - Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
+- Seal leaky recessed / can lights in the attic floor with fire-safe covers (IC vs non-IC first) — see [recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/).
 - Cover unused whole-house / ceiling fan shutters for winter — see [whole-house fan winter covers](/blog/whole-house-fan-winter-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
@@ -161,7 +162,7 @@ Don’t buy a new HVAC system because one bill was high, don’t chase viral “
 
 ### When do weatherization kits beat buying new equipment?
 
-This month: door sweeps, window film, garage seals, attic-stair covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill.
+This month: door sweeps, window film, garage seals, attic-stair covers, recessed/can light covers, and obvious caulk/foam gaps are usually cheaper levers than new HVAC. Whole-home insulation pays over years—worth planning, but not required to start cutting this bill.
 
 ## Related reading
 
@@ -175,6 +176,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, and obvi
 - [Pipe freeze heat tape protection](/blog/pipe-freeze-heat-tape-protection/) — crawlspace/garage freeze risk after insulation
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
+- [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers before you bury non-IC fixtures
 - [Attic insulation approaches (when to call a pro)](/blog/attic-insulation-approaches-when-to-call-pro/) — depth after air sealing and hatch covers
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks
