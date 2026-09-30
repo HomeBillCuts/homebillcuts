@@ -50,7 +50,7 @@ Ordering a whole-house carton of foam before a 20-minute walk is how you end up 
 1. **Incense or tissue test** — on a cool breezy day or with HVAC running, check exterior-wall outlets (plate slightly loose), baseboards, cable penetrations, vent boots, and attic hatch edges. Note where smoke or tissue *moves*.
 2. **Exterior-wall outlets and switches** — prioritize rooms that never hold setpoint; match Decora/rocker vs classic toggle before you buy gasket packs.
 3. **Baseboards and shoe molding** on exterior walls, especially older plaster or remodeled rooms.
-4. **Cable, coax, phone, and pipe penetrations** through floors, rim joists, and exterior walls (basement/crawlspace and attic sides count). Size gaps: hairline → caulk; ~¼″–1″ irregular → gaps-and-cracks foam; deep joint → backer rod + caulk.
+4. **Cable, coax, phone, and pipe penetrations** through floors, rim joists, and exterior walls (basement/crawlspace and attic sides count). Size gaps: hairline → caulk; ~¼″–1″ irregular → gaps-and-cracks foam; deep joint → backer rod + caulk. Bare rim/band joist bays get cut-to-fit foam board + edge seal — see [rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/).
 5. **Dryer, bath, and kitchen vent boots** — seal the *perimeter*; don’t crush the duct or tape the vent closed.
 6. **Attic hatch / pull-down stairs** perimeter — often larger than a dozen outlets; weatherstrip the lid and seal the frame, or use a dedicated [attic stair cover](/blog/attic-stair-hatch-insulation-covers/). While you’re in the attic, plan [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/) for leaky cans (IC vs non-IC first).
 7. **Behind kitchen and bath cabinets** on exterior walls — plumbing and wiring holes are common.
@@ -238,6 +238,7 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — common attic bypass in older homes
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers on the attic floor plane
+- [Rim joist / band joist insulation for basements](/blog/rim-joist-band-joist-insulation-basement/) — foam board + edge seal at the foundation–floor junction
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage “mystery cold”
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — unused flues that pull conditioned air
 - [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — seal first, then add depth

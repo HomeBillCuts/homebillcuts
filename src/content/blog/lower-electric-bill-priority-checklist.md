@@ -93,6 +93,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Seal leaky recessed / can lights in the attic floor with fire-safe covers (IC vs non-IC first) — see [recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/).
 - Cover unused whole-house / ceiling fan shutters for winter — see [whole-house fan winter covers](/blog/whole-house-fan-winter-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
+- Unfinished basement or crawl with bare rim / band joists? Air-seal and foam-board the bays (moisture and thermal-barrier checks first) — see [rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
 - After drafts are handled, [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) can cut wall-wasted radiant heat behind exterior-wall radiators or baseboards.
 
@@ -177,6 +178,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 - [Electric water heater timers](/blog/electric-water-heater-timers-cut-standby/) — schedule standby on resistance tanks (pro install)
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — a common attic bypass worth sealing early
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers before you bury non-IC fixtures
+- [Rim joist / band joist insulation for basements](/blog/rim-joist-band-joist-insulation-basement/) — foam board + edge seal at unfinished foundation rims
 - [Attic insulation approaches (when to call a pro)](/blog/attic-insulation-approaches-when-to-call-pro/) — depth after air sealing and hatch covers
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks

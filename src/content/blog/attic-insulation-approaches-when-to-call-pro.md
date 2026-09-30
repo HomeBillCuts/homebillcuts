@@ -260,6 +260,7 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — seal the hatch before (or with) adding depth
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers before you bury non-IC fixtures
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — bypasses under the insulation matter first
+- [Rim joist / band joist insulation for basements](/blog/rim-joist-band-joist-insulation-basement/) — foundation–floor band is a different plane from attic depth
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — living-space drafts while you plan attic work
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — another stack-effect leak path
 - [Garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage envelope leaks
