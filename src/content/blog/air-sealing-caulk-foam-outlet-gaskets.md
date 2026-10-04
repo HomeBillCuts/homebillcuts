@@ -245,6 +245,7 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 - [Attic insulation approaches](/blog/attic-insulation-approaches-when-to-call-pro/) — seal first, then add depth
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where air sealing sits this billing cycle
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — setpoints after the envelope stops whistling
+- [DIY HVAC duct sealing (mastic + UL 181 foil tape)](/blog/duct-sealing-mastic-foil-tape-hvac/) — duct joints and boots are a different leak family from trim caulk
 
 ## Bottom line
 

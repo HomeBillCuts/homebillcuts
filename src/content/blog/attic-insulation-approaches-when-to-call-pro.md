@@ -266,6 +266,7 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 - [Garage door weather seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage envelope leaks
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — when attic projects beat gadget buys
 - [Start Here](/start-here/) — suggested reading order
+- [DIY HVAC duct sealing (mastic + UL 181 foil tape)](/blog/duct-sealing-mastic-foil-tape-hvac/) — attic duct leaks vs attic plane insulation — seal accessible boots too
 
 ## Bottom line
 

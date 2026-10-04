@@ -233,6 +233,7 @@ If the central system is producing heat and the register is just weak, a booster
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower house setpoints
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — this-month order of operations
 - [Start Here](/start-here/) — full suggested reading order
+- [DIY HVAC duct sealing (mastic + UL 181 foil tape)](/blog/duct-sealing-mastic-foil-tape-hvac/) — fix supply/return leaks before boosting a weak register
 
 ## Bottom line
 

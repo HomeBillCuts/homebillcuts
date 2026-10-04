@@ -217,6 +217,7 @@ If your size isn’t 16×25×1, search the same brand + MERV with *your* nominal
 - [Register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/) — after the filter is healthy, boost a weak far supply (doesn’t create heat)
 - [Kill A Watt plug-in energy meter](/blog/kill-a-watt-plug-in-energy-meter/) — spot-check plug loads while you watch HVAC habits
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — prove whether filter cadence changed HVAC kWh
+- [DIY HVAC duct sealing (mastic + UL 181 foil tape)](/blog/duct-sealing-mastic-foil-tape-hvac/) — seal leaky accessible ducts after airflow basics
 
 ## Bottom line
 
