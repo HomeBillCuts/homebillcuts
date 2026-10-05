@@ -231,6 +231,7 @@ Over-humidifying mainly risks condensation, mold, and finish damage — not a ma
 
 ## Related reading
 
+- [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — air-drying laundry adds winter humidity (watch the hygrometer)
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — cheap envelope and setpoint wins before gear
 - [Start Here](/start-here/) — full HomeBillCuts reading order
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — honest setpoints once comfort improves

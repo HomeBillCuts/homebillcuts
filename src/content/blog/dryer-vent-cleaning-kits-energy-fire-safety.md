@@ -269,6 +269,7 @@ If a listing promises guaranteed bill cuts from a brush alone, treat that as mar
 
 - [HVAC air filters & MERV](/blog/hvac-air-filters-merv-efficiency/) — another maintenance item that cuts runtime when airflow is the bottleneck
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — laundry timing and free wins this billing cycle
+- [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — skip electric dryer loads entirely; humidity and safety honesty
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — other always-on laundry-room loads
 - [Kill-A-Watt plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) — spot-check other 120 V loads near the laundry room
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — see dryer circuit kWh if you’re still guessing

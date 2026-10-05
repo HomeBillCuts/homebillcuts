@@ -81,6 +81,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 
 - Run dishwashers and dryers in off-peak windows if you’re on TOU.
 - Clean dryer lint filter every load; check the exterior vent periodically — if loads need extra cycles, see [dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/).
+- Electric dryer? Air-dry the loads you can on a rack — measure cost per load first and watch indoor humidity: [indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/).
 - Air-dry when weather and time allow.
 - Use lids on pots; match burner size; prefer microwave/toaster oven for small meals.
 
@@ -184,6 +185,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
 - [Dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/) — shorter cycles and fire-risk cleanup
+- [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — skip electric dryer loads; humidity and heater-clearance honesty
 
 ## Bottom line
 

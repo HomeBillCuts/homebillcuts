@@ -283,6 +283,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 
 ## Related reading
 
+- [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — where measurement sits vs free habits
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cut standby after you measure it
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — whole-home / 240V when a plug meter isn’t enough
