@@ -259,6 +259,7 @@ Often yes for comfort leverage. A pad warms the sleeper; it does not fix a sieve
 
 ## Related reading
 
+- [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — the daytime home-office version of warming the person
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — room air heat when you need more than bedding warmth
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — overnight setbacks that make pads pay off
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — bedroom envelope helpers

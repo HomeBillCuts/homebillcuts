@@ -283,6 +283,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 
 ## Related reading
 
+- [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — measure a 120 W foot mat vs a 1,500 W space heater
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — where measurement sits vs free habits
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cut standby after you measure it

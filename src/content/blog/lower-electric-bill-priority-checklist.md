@@ -44,7 +44,7 @@ Heating and cooling usually dominate electric bills where you have A/C, heat pum
 
 A programmable or smart thermostat can help *if* you actually use schedules. Product shopping belongs later — see our [2026 smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/).
 
-If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/). For overnight comfort while you drop the thermostat, a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) warms the bed instead of the whole house — still only if you actually change the setpoint.
+If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/). For overnight comfort while you drop the thermostat, a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) warms the bed instead of the whole house — still only if you actually change the setpoint. Working from home? An [under-desk heater or heated foot warmer](/blog/under-desk-heaters-foot-warmers-home-office/) (roughly 90–235 W) can make a work-hours setback bearable.
 
 ### 2. HVAC basics you can do safely (cheap / free)
 
@@ -184,6 +184,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 - [Garage door weather seals & bottom seals](/blog/garage-door-weather-seals-bottom-seals/) — attached-garage drafts
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — occupied-room strategy after setbacks
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight comfort at lower thermostat settings
+- [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — home-office comfort at a lower daytime setpoint
 - [Dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/) — shorter cycles and fire-risk cleanup
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — skip electric dryer loads; humidity and heater-clearance honesty
 

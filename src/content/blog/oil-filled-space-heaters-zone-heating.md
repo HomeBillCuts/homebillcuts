@@ -272,6 +272,7 @@ Usually no if the room is a sieve. Weatherstripping, window film, thermal curtai
 
 ## Related reading
 
+- [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — 90–235 W personal heat when you only need your feet and legs warm
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — hardwired resistance heat controls vs portable oil units
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — meter hours on a 1500W heater before you stack load
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — overnight sleep-zone warmth at lower wattage
