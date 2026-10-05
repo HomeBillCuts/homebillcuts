@@ -202,6 +202,7 @@ Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — don’t film glass while doors still gap
 - [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — patio doors: weatherstrip + oversized film + egress honesty
 - [Thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) — daytime open/close control after film
+- [Cellular / honeycomb shades for winter](/blog/cellular-honeycomb-shades-winter-heat-loss/) — a daily insulating layer over filmed or unfilmed glass; single vs double cell, mount gaps
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind exterior-wall radiators sharing cold glass walls
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — frame and penetration leaks film won’t fix
 - [Oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) — comfort in a sealed room; keep heaters off the film

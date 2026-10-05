@@ -215,6 +215,7 @@ Yes. Reflectors do not fix door gaps, leaky sash, or an open attic stair. Do wea
 - [Best weatherstripping & door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal leaks before redirecting heat
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — cold-glass rooms sharing exterior walls with radiators
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily layer on the same cold windows
+- [Cellular / honeycomb shades for winter](/blog/cellular-honeycomb-shades-winter-heat-loss/) — shades that stay above the radiator instead of draping over it
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — penetrations and baseboard gaps reflectors don’t fix
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — portable zone heat with clearance rules
 - [Register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/) — forced-air rooms with weak supplies (different heat type than radiators)

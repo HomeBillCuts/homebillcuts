@@ -95,7 +95,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Cover unused whole-house / ceiling fan shutters for winter — see [whole-house fan winter covers](/blog/whole-house-fan-winter-covers/).
 - Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - Unfinished basement or crawl with bare rim / band joists? Air-seal and foam-board the bays (moisture and thermal-barrier checks first) — see [rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/).
-- Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days.
+- Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days. Where curtains don’t fit (tight recesses, over sinks or radiators), fitted [cellular / honeycomb shades](/blog/cellular-honeycomb-shades-winter-heat-loss/) do the same nightly job.
 - After drafts are handled, [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) can cut wall-wasted radiant heat behind exterior-wall radiators or baseboards.
 
 Whole-home air sealing and insulation pay off over years — worth planning, but not required to start lowering *this* bill.
@@ -187,6 +187,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — home-office comfort at a lower daytime setpoint
 - [Dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/) — shorter cycles and fire-risk cleanup
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — skip electric dryer loads; humidity and heater-clearance honesty
+- [Cellular / honeycomb shades for winter](/blog/cellular-honeycomb-shades-winter-heat-loss/) — nightly window heat-loss layer; fit and habit over hype
 
 ## Bottom line
 

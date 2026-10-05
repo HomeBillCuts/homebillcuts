@@ -218,6 +218,7 @@ Usually side gaps, a rod mounted too narrow/low, panels that don’t overlap in 
 ## Related reading
 
 - [Window insulation kits](/blog/window-insulation-kits-winter-drafts/) — shrink film when curtains aren’t enough
+- [Cellular / honeycomb shades for winter](/blog/cellular-honeycomb-shades-winter-heat-loss/) — fitted insulating shades for tight recesses; stack curtains over them on the coldest glass
 - [Radiator heat reflectors for exterior walls](/blog/radiator-heat-reflectors-exterior-walls/) — foil behind radiators under the same cold windows
 - [Weatherstripping & draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — seal edges before fabric layers
 - [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — curtains vs film vs pile on drafty patio doors
