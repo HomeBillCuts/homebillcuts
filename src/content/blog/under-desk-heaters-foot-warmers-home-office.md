@@ -238,6 +238,7 @@ For lap and upper-leg warmth while sitting, yes — heated throws are typically 
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — schedule the work-hours setback
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — keep one room cooler on baseboard heat
 - [Kill A Watt plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) — measure the heater's real kWh
+- [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — if you do run a 1,500 W room heater, stop the dial overshoot
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — stop the ankle draft first
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — cold air from wall outlets near the desk
 - [Rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/) — cold basement-office floors at the source

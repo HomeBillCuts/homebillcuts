@@ -285,6 +285,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — measure a 120 W foot mat vs a 1,500 W space heater
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway
+- [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — meter a heater's kWh per night before and after a controller
 - [Air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) — meter a countertop meal; the 240 V oven needs a circuit monitor
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — where measurement sits vs free habits
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cut standby after you measure it

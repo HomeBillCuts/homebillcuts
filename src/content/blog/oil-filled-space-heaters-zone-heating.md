@@ -147,7 +147,7 @@ Use this as a quick filter — then buy only what your measure-first walk suppor
 Zone heating only pencils out when central heat runs less:
 
 1. Set a **modest whole-house heating setback** (a few degrees) while you’re in one room — within health/comfort limits. Write old/new setpoints so you can reverse.
-2. Run the heater on **thermostat or ECO mode**, not locked on High.
+2. Run the heater on **thermostat or ECO mode**, not locked on High. Knob-only heater that overshoots? A 15 A [plug-in thermostat](/blog/plug-in-thermostats-space-heaters/) with the sensor at seated height can hold a real setpoint.
 3. Use a **timer** to pre-warm 30–60 minutes, then let it modulate.
 4. On cold mornings, return central heat *before* you leave the heated room for hours — or you pay for resistance heat *and* recovery.
 5. Close the door and curtains at dusk; don’t crack a window all evening unless you accept the load.
@@ -272,6 +272,7 @@ Usually no if the room is a sieve. Weatherstripping, window film, thermal curtai
 
 ## Related reading
 
+- [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — 15 A controllers, sensor placement, and the restart test for knob-control heaters
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — 90–235 W personal heat when you only need your feet and legs warm
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — hardwired resistance heat controls vs portable oil units
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — meter hours on a 1500W heater before you stack load

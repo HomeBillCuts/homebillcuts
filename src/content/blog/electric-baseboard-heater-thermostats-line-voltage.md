@@ -217,6 +217,7 @@ Want cheapest like-for-like replacement and simple always-on comfort: mechanical
 
 ## Related reading
 
+- [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — the 120 V plug-in version for portable heaters (not for hardwired baseboards)
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — 24V Nest/Ecobee path for furnaces and heat pumps
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — when to hire on low-voltage systems
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — portable zone heat with safety rules
