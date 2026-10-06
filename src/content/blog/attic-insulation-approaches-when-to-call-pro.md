@@ -257,6 +257,7 @@ Pros also help with rebate paperwork (utility or IRA-era programs where availabl
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — check for missing insulation and ceiling bypasses from inside
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — seal the hatch before (or with) adding depth
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers before you bury non-IC fixtures
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — bypasses under the insulation matter first

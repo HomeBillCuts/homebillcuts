@@ -232,6 +232,7 @@ Wrong size, cocked gasket, open/poorly stapled zipper, tight clearance crushing 
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — confirm hatch leaks before and after the cover
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — depth and sequencing after the hatch is sealed
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — fire-safe can covers on the same attic floor plane
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — other attic bypasses (wires, plumbing, top plates)

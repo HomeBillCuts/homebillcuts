@@ -253,6 +253,7 @@ A one-gallon tub of water-based mastic plus a roll of UL 181 foil tape and a rol
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — see supply runs and leaky joints; shiny foil-tape reading caveat
 - [HVAC air filters (MERV & efficiency)](/blog/hvac-air-filters-merv-efficiency/) — clean airflow before you chase every seam
 - [Register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/) — move existing heat after leaks and filters are handled
 - [Air sealing: caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — building envelope holes ducts can’t fix

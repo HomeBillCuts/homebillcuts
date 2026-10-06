@@ -263,6 +263,7 @@ Call a licensed electrician for scorched cans, cycling thermal protectors, knob-
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — spot cold rings around can lights before and after covering
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — often the largest single ceiling bypass beside can clusters
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — seal cans and hatches before or while you add depth
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — wires, plumbing, and top plates next to the cans

@@ -93,7 +93,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Insulate and air-seal pull-down attic stairs or thin hatches — see [attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/).
 - Seal leaky recessed / can lights in the attic floor with fire-safe covers (IC vs non-IC first) — see [recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/).
 - Cover unused whole-house / ceiling fan shutters for winter — see [whole-house fan winter covers](/blog/whole-house-fan-winter-covers/).
-- Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
+- Seal obvious gaps around cable/pipe penetrations, baseboards, and exterior-wall outlets with [caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/). Not sure where the hidden leaks are? Do a quick cold-night [draft hunt with an infrared thermometer or thermal camera](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) first.
 - Unfinished basement or crawl with bare rim / band joists? Air-seal and foam-board the bays (moisture and thermal-barrier checks first) — see [rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/).
 - Use [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) strategically: close on cold nights and harsh afternoon sun; open south-facing glass on sunny winter days. Where curtains don’t fit (tight recesses, over sinks or radiators), fitted [cellular / honeycomb shades](/blog/cellular-honeycomb-shades-winter-heat-loss/) do the same nightly job.
 - After drafts are handled, [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/) can cut wall-wasted radiant heat behind exterior-wall radiators or baseboards.
@@ -168,6 +168,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — DIY draft hunt: cheapest tool first, depressurization safety, re-scan after sealing
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure 120V loads before buying gear

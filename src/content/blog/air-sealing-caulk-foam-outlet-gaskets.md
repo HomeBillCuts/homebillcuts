@@ -233,6 +233,7 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — find the leaks first (20°F rule, safe exhaust-fan depressurization), then seal
 - [Best weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — doors and operable gaps after fixed cracks
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
 - [Thermal & blackout curtains for energy savings](/blog/thermal-blackout-curtains-energy-savings/) — daily open/close layer on cold glass

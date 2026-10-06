@@ -221,6 +221,7 @@ Use weatherstripping for door bottoms and sash/stop edge gaps. Use indoor shrink
 
 ## Related reading
 
+- [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — locate hidden drafts before buying weatherstripping
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — fixed cracks and penetrations before moving parts
 - [Window insulation kits for winter drafts](/blog/window-insulation-kits-winter-drafts/) — reversible film for leaky glass
 - [Sliding glass / patio door draft sealing for winter](/blog/sliding-glass-door-draft-sealing-winter/) — meeting stile, track pile, patio film, and when snakes fail on sliders
