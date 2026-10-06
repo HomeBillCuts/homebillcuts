@@ -83,7 +83,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Clean dryer lint filter every load; check the exterior vent periodically — if loads need extra cycles, see [dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/).
 - Electric dryer? Air-dry the loads you can on a rack — measure cost per load first and watch indoor humidity: [indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/).
 - Air-dry when weather and time allow.
-- Use lids on pots; match burner size; prefer microwave/toaster oven for small meals.
+- Use lids on pots; match burner size; prefer microwave/toaster oven for small meals — see [air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) for the measured math and honest payback.
 
 ### 6. Weatherization lite (this month, not a full retrofit)
 
@@ -188,6 +188,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 - [Dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/) — shorter cycles and fire-risk cleanup
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — skip electric dryer loads; humidity and heater-clearance honesty
 - [Cellular / honeycomb shades for winter](/blog/cellular-honeycomb-shades-winter-heat-loss/) — nightly window heat-loss layer; fit and habit over hype
+- [Air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) — small-batch cooking cost, gas-oven caveat, and honest payback
 
 ## Bottom line
 
