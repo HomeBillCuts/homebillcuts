@@ -141,7 +141,7 @@ If anything looks damaged, scorched, or undersized for the load — stop and ret
 
 ### Extra freezer / second fridge
 
-Classic bill villains in garages and basements — especially old units in hot spaces. Meter for a full day. Cross-check whether you still need the second box. Do **not** put food storage on a smart schedule.
+Classic bill villains in garages and basements — especially old units in hot spaces. Meter for a full day. Cross-check whether you still need the second box. Do **not** put food storage on a smart schedule. Turning the reading into a keep / retire / replace decision (plus thermometer temps, gasket test, and coil honesty) is in our [refrigerator & freezer cost-to-run guide](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/).
 
 ### AV / vampire cluster
 
@@ -283,6 +283,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 
 ## Related reading
 
+- [Refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) — 48-hour fridge reading → yearly dollars, right temps, gasket test, garage-fridge and replacement payback math
 - [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — meter a heater for one night and turn kWh into dollars
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — measure a 120 W foot mat vs a 1,500 W space heater
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway

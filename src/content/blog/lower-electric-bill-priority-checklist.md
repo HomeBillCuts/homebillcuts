@@ -75,7 +75,7 @@ If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled sp
 - Finish any remaining LED swaps in high-hour fixtures.
 - Hunt **vampire loads**: old game consoles, AV receivers, secondary fridges, space heaters on standby, unused network gear.
 - Use power strips for entertainment centers; switch them off when idle.
-- Unplug or remove that garage / basement secondary fridge if it’s half empty and ancient — measure first if unsure.
+- Unplug or remove that garage / basement secondary fridge if it’s half empty and ancient — measure first if unsure ([fridge & freezer cost-to-run math](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/)).
 
 ### 5. Laundry and kitchen timing (TOU-friendly)
 
@@ -168,6 +168,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 
 ## Related reading
 
+- [Refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) — measure the fridge, set FDA-safe temps, test the gasket, and decide on the second fridge
 - [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — strip-heat cost per hour, outdoor lockouts, and heat-pump setback rules
 - [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — watts × hours × rate; when zone heating beats a heat pump or gas furnace, and when it doesn't
 - [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — DIY draft hunt: cheapest tool first, depressurization safety, re-scan after sealing

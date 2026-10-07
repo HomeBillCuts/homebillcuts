@@ -188,7 +188,7 @@ Before buying anything, these habits trim what the oven you already own uses:
 
 ## Honest limits
 
-- **Cooking is a small part of most bills.** Space heating, cooling, and water heating usually dwarf it. Countertop cooking trims a small slice.
+- **Cooking is a small part of most bills.** Space heating, cooling, and water heating usually dwarf it. Countertop cooking trims a small slice. In the kitchen, the appliance that runs 24/7 — the refrigerator, plus any second fridge or freezer — is often the bigger target; see [refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/).
 - **Our example numbers are illustrative.** Oven efficiency, cook times, and rates vary widely. Your measured kWh beats any article's estimate, including ours.
 - **Gas ovens shrink the savings.** Sometimes to zero, depending on local rates.
 - **Behavior is the whole game.** An air fryer only saves energy on meals that would otherwise have gone in the big oven.

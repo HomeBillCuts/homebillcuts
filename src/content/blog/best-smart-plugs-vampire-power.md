@@ -246,6 +246,7 @@ If your bill spike is seasonal heating, start with setpoints, filters, and weath
 
 ## Related reading
 
+- [Refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) — what to do about fridge kWh instead of a smart-plug cutoff
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — portable 120V metering before you automate cutoffs
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — whole-home monitors when one plug meter isn’t enough
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where vampire loads sit vs HVAC and water heating

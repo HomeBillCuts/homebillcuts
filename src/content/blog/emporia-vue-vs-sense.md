@@ -287,6 +287,7 @@ No. A monitor diagnoses runtime and mystery loads; it does not seal drafts, chan
 
 ## Related reading
 
+- [Refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) — when the "failing fridge" suspect needs a 48-hour number and a replace-or-retire decision
 - [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — put a branch sensor on the strip breaker, then fix the thermostat settings
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — once you see the dryer circuit's kWh, move loads to a rack
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — $30 120V diagnostics before panel clamps
