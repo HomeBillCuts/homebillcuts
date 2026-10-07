@@ -188,7 +188,7 @@ Before checkout:
 
 If you have a heat pump:
 
-- Watch **auxiliary / emergency heat** runtime in the app. Electric strip heat can erase efficiency gains fast on cold mornings.
+- Watch **auxiliary / emergency heat** runtime in the app. Electric strip heat can erase efficiency gains fast on cold mornings. Our [heat pump aux heat guide](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) shows the exact lockout settings to check.
 - Understand outdoor lockout / balance point settings if your model and air handler allow them.
 - Don’t confuse **Emergency Heat** with normal winter operation — Emergency Heat is a backup mode, not a comfort upgrade.
 - Keep the outdoor unit clear of leaves/snow and change filters on schedule ([MERV guide](/blog/hvac-air-filters-merv-efficiency/)).
@@ -250,6 +250,7 @@ Often yes. If you already set weekday/weekend setbacks and stick to them, a basi
 
 ## Related reading
 
+- [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — Nest, ecobee, and Honeywell aux lockout settings, setback rules, and when to upgrade
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — stay comfortable during a work-hours setback
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — 120/240V baseboard controls (Nest will not work here)
 - [Smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) — wiring, C-wire, and when to hire out

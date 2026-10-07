@@ -168,6 +168,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 
 ## Related reading
 
+- [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — strip-heat cost per hour, outdoor lockouts, and heat-pump setback rules
 - [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — watts × hours × rate; when zone heating beats a heat pump or gas furnace, and when it doesn't
 - [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — DIY draft hunt: cheapest tool first, depressurization safety, re-scan after sealing
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units

@@ -327,6 +327,7 @@ Be skeptical. A plug-in heater can't produce more heat than the electricity it u
 
 ## Related reading
 
+- [Heat pump aux heat settings](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — in a heat-pump home, fix eager backup strips before adding plug-in resistance heat
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — deep dive on the quiet, all-evening option and the setback plan
 - [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — hold a real setpoint on a knob-control heater
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure kWh per night before and after any change

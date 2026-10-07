@@ -205,6 +205,7 @@ If your size isn’t 16×25×1, search the same brand + MERV with *your* nominal
 
 ## Related reading
 
+- [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — a clogged filter is a classic trigger for expensive backup strips
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — filters are maintenance; setpoints and sealing come first
 - [Start Here](/start-here/) — reading order for the whole site
 - [Best weatherstripping & draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — door and sash leaks filters can’t fix

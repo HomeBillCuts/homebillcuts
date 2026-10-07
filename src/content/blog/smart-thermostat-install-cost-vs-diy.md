@@ -148,7 +148,7 @@ A perfect mechanical install with wrong settings can cost you all winter:
 - **Balance point / lockouts** ignored → the thermostat never prefers cheap vs expensive heat correctly for your climate.
 - **Dual fuel** (heat pump + gas furnace) → wrong changeover wastes propane/gas *or* strip heat.
 
-After any heat-pump install, on the first cold morning: confirm the outdoor unit runs in heat mode, note whether aux engages too early, and compare against the [priority checklist](/blog/lower-electric-bill-priority-checklist/) HVAC tips. If strip heat is your default, the thermostat isn’t saving money yet.
+After any heat-pump install, on the first cold morning: confirm the outdoor unit runs in heat mode, note whether aux engages too early, and compare against the [priority checklist](/blog/lower-electric-bill-priority-checklist/) HVAC tips. If strip heat is your default, the thermostat isn’t saving money yet. See [heat pump aux heat settings](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) for Nest, ecobee, and Honeywell lockouts.
 
 ## DIY walkthrough (if you proceed)
 
@@ -247,6 +247,7 @@ Trim kits do **not** cut kWh. Buy them so the install looks finished and you act
 
 ## Related reading
 
+- [Heat pump aux heat settings](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — after install: lockouts, upstage timers, and Em Heat mistakes that spike winter kWh
 - [Best smart thermostats 2026](/blog/best-smart-thermostats-2026/) — what to buy before you hire (or DIY)
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — where thermostat habits sit vs weatherization
 - [HVAC air filters & MERV](/blog/hvac-air-filters-merv-efficiency/) — airflow after a new schedule

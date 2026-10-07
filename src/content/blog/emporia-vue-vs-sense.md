@@ -287,6 +287,7 @@ No. A monitor diagnoses runtime and mystery loads; it does not seal drafts, chan
 
 ## Related reading
 
+- [Heat pump aux heat raising your bill?](/blog/heat-pump-aux-heat-high-bill-thermostat-settings/) — put a branch sensor on the strip breaker, then fix the thermostat settings
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — once you see the dryer circuit's kWh, move loads to a rack
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — $30 120V diagnostics before panel clamps
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — cheaper first step for 120V standby loads
