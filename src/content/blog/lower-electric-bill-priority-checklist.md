@@ -44,7 +44,7 @@ Heating and cooling usually dominate electric bills where you have A/C, heat pum
 
 A programmable or smart thermostat can help *if* you actually use schedules. Product shopping belongs later — see our [2026 smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/).
 
-If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/). For overnight comfort while you drop the thermostat, a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) warms the bed instead of the whole house — still only if you actually change the setpoint. Working from home? An [under-desk heater or heated foot warmer](/blog/under-desk-heaters-foot-warmers-home-office/) (roughly 90–235 W) can make a work-hours setback bearable. Knob-control space heater that overshoots? A 15 A [plug-in thermostat](/blog/plug-in-thermostats-space-heaters/) holds a real setpoint at seated height.
+If you mostly occupy one or two rooms, **zone heating with a quiet oil-filled space heater** plus a modest whole-house setback can beat heating empty bedrooms — only after you understand the safety rules and the “don’t stack heat” trap. See the [oil-filled space heaters for zone heating guide](/blog/oil-filled-space-heaters-zone-heating/). For overnight comfort while you drop the thermostat, a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) warms the bed instead of the whole house — still only if you actually change the setpoint. Working from home? An [under-desk heater or heated foot warmer](/blog/under-desk-heaters-foot-warmers-home-office/) (roughly 90–235 W) can make a work-hours setback bearable. Knob-control space heater that overshoots? A 15 A [plug-in thermostat](/blog/plug-in-thermostats-space-heaters/) holds a real setpoint at seated height. Choosing between ceramic, infrared, and oil-filled? They cost the same per hour at the same watts — see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).
 
 ### 2. HVAC basics you can do safely (cheap / free)
 
@@ -168,6 +168,7 @@ This month: door sweeps, window film, garage seals, attic-stair covers, recessed
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — watts × hours × rate; when zone heating beats a heat pump or gas furnace, and when it doesn't
 - [Thermal camera vs infrared thermometer](/blog/thermal-camera-vs-infrared-thermometer-find-drafts/) — DIY draft hunt: cheapest tool first, depressurization safety, re-scan after sealing
 - [Window AC winter covers & draft sealing](/blog/window-ac-winter-covers-draft-sealing/) — stop drafts through left-in window units
 - [Furnace humidifier water panels for winter comfort](/blog/furnace-humidifier-water-panels-winter-comfort/) — measure RH; #10 vs #35 fit; portable path when you have no whole-house unit

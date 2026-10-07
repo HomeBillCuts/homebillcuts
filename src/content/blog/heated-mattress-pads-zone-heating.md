@@ -95,6 +95,8 @@ If any do-not item applies to the intended sleeper or bed, pause the Amazon cart
 | **SoftHeat-style low-voltage pad** | You want micro-thin wires / listed low-voltage design and dual zones on the size you need | Still follow all bedding rules; confirm brick placement and dual layout; not a substitute for setbacks |
 | **Oil-filled space heater** | You need **room air** warm for sitting/working, not just sleep | ~1500 W; fire clearances; see the [oil-filled zone heating guide](/blog/oil-filled-space-heaters-zone-heating/) |
 
+Comparing a bedroom space heater's nightly cost with a pad? The [space heater cost-to-run guide](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) works through 1,500 W and 750 W nights at example rates.
+
 **Rule of thumb:** start with a **mattress pad** for overnight sleep + thermostat setback. Choose SoftHeat when wire-feel / low-voltage design is the deciding factor. Add an oil-filled heater only when you also occupy the room awake and still need air warmth — and still drop the central setpoint. Seal drafts when the bedroom fights every setback.
 
 ## Buyer decision tree (pad vs blanket vs SoftHeat vs dual-control vs oil-filled vs seal-first)
@@ -259,6 +261,7 @@ Often yes for comfort leverage. A pad warms the sleeper; it does not fix a sieve
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — what a 1,500 W bedroom heater costs per night vs warming just the bed
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — the daytime home-office version of warming the person
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — room air heat when you need more than bedding warmth
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — overnight setbacks that make pads pay off

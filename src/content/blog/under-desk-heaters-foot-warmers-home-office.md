@@ -45,7 +45,7 @@ Do this before you buy, or in your first week with a new unit.
 5. **Decide your setback.** Pick how many degrees you'll lower the house (or office zone) during work hours, and for how many hours. Write it down — it's the whole point.
 6. **Check it on the bill.** Compare a few weeks of similar weather before and after. Weather swings make month-to-month comparisons noisy; utility interval data or degree-day comparisons are better if your utility shows them.
 
-**Example math only (not a promise):** a 120 W mat × 8 hours = 0.96 kWh. At $0.17/kWh that's about **$0.16 a workday**, roughly **$3.50 over 22 workdays** at full power. The same 8 hours with a 1,500 W space heater on high could reach **12 kWh (~$2.04 a day)**. Your setback savings depend on your heating system and climate and could be larger or smaller than the mat's cost — we don't publish a universal number because there isn't an honest one.
+**Example math only (not a promise):** a 120 W mat × 8 hours = 0.96 kWh. At $0.17/kWh that's about **$0.16 a workday**, roughly **$3.50 over 22 workdays** at full power. The same 8 hours with a 1,500 W space heater on high could reach **12 kWh (~$2.04 a day)**. Your setback savings depend on your heating system and climate and could be larger or smaller than the mat's cost — we don't publish a universal number because there isn't an honest one. For the full 1,500 W vs 750 W cost math across ceramic, infrared, and oil-filled heaters, see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).
 
 ## Product types at a glance
 
@@ -233,6 +233,7 @@ For lap and upper-leg warmth while sitting, yes — heated throws are typically 
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — if you do need room heat, what 1,500 W really costs per hour by type
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — when you truly need room air heat
 - [Heated mattress pads for zone heating](/blog/heated-mattress-pads-zone-heating/) — the overnight version of warming the person
 - [Best smart thermostats (2026)](/blog/best-smart-thermostats-2026/) — schedule the work-hours setback

@@ -223,7 +223,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 
 ## Honest limits (what a plug-in thermostat won't fix)
 
-- **It won't make resistance heat cheap.** A kWh of space-heater heat costs the same with or without a controller; the controller only cuts wasted hours.
+- **It won't make resistance heat cheap.** A kWh of space-heater heat costs the same with or without a controller; the controller only cuts wasted hours. (It's also the same kWh whether the heater is ceramic, infrared, or oil-filled — see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).)
 - **It won't help without a central setback** — that's where the meaningful money is.
 - **It won't fix a drafty room** or an undersized heater.
 - **It can't revive a digital heater** that waits for a button after power returns.
@@ -284,6 +284,7 @@ Not quite. A basic smart plug switches on a schedule or from an app, but it does
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — cost-per-hour math and which heater type fits which room
 - [Oil-filled space heaters / zone heating](/blog/oil-filled-space-heaters-zone-heating/) — choosing the heater and making zone heating actually save
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — measure kWh per night before and after the controller
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — 90–235 W personal heat instead of a 1,500 W room heater

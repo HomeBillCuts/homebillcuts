@@ -99,7 +99,7 @@ If any do-not item matches your plan, pause the cart — gear that fights the ma
 | **Infrared quartz** | Directed spot warmth (desk, workshop stool) | Not ideal as quiet overnight whole-room heat; keep combustibles clear |
 | **Heated mattress pad** | Overnight sleep warmth at much lower wattage | Warms the sleeper, not room air — see [heated mattress pads](/blog/heated-mattress-pads-zone-heating/) |
 
-**Rule of thumb:** pick **oil-filled** for quiet occupied-room zone heating; pick **ceramic fan** only when you need fast spot heat and will turn it off when you leave; pick a **mattress pad** when the need is sleep-only and you can still drop overnight house setpoints.
+**Rule of thumb:** pick **oil-filled** for quiet occupied-room zone heating; pick **ceramic fan** only when you need fast spot heat and will turn it off when you leave; pick a **mattress pad** when the need is sleep-only and you can still drop overnight house setpoints. Want the cost math side by side? See [space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — same watts, same cost per hour.
 
 ## Rough sizing (no fake BTU magic)
 
@@ -272,6 +272,7 @@ Usually no if the room is a sieve. Weatherstripping, window film, thermal curtai
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — watts × hours × rate, heat-pump and gas comparisons, which type for which room
 - [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — 15 A controllers, sensor placement, and the restart test for knob-control heaters
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — 90–235 W personal heat when you only need your feet and legs warm
 - [Electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) — hardwired resistance heat controls vs portable oil units

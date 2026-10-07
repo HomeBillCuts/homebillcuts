@@ -283,6 +283,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 
 ## Related reading
 
+- [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — meter a heater for one night and turn kWh into dollars
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — measure a 120 W foot mat vs a 1,500 W space heater
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway
 - [Plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) — meter a heater's kWh per night before and after a controller
