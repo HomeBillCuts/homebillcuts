@@ -333,6 +333,7 @@ Usually. ENERGY STAR estimates a certified chest freezer at about 215 kWh and $3
 ## Related reading
 
 - [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) — the 48-hour fridge measurement, step by step
+- [Dehumidifier cost to run & basement humidity](/blog/dehumidifier-cost-to-run-basement-humidity/) — another always-on compressor load to meter in damp basements
 - [Best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) — which loads belong on a schedule (not this one)
 - [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) — whole-home and circuit-level monitoring when the plug is out of reach
 - [Air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) — the cooking side of kitchen energy

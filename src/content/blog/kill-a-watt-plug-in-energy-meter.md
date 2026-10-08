@@ -284,6 +284,7 @@ Measurement only pays when you change something. After one real duty cycle on a 
 ## Related reading
 
 - [Refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) — 48-hour fridge reading → yearly dollars, right temps, gasket test, garage-fridge and replacement payback math
+- [Dehumidifier cost to run & basement humidity](/blog/dehumidifier-cost-to-run-basement-humidity/) — meter a basement dehumidifier's real kWh before you leave it on continuous
 - [Space heater cost to run: ceramic vs infrared vs oil-filled](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) — meter a heater for one night and turn kWh into dollars
 - [Under-desk heaters & heated foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) — measure a 120 W foot mat vs a 1,500 W space heater
 - [Indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/) — the 240 V dryer is beyond a plug meter; here's how to cut it anyway

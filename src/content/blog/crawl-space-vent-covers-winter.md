@@ -254,6 +254,7 @@ Moisture is the honest limit of this product category. Covers reduce winter air 
 - [Best weatherstripping & door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) — house-side leaks covers won’t fix
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — rim-joist and penetration drafts
 - [Rim joist / band joist insulation for basements](/blog/rim-joist-band-joist-insulation-basement/) — foam board + air seal on the band while vents are covered
+- [Dehumidifier cost to run & basement humidity](/blog/dehumidifier-cost-to-run-basement-humidity/) — if the crawl still feeds a damp basement, meter RH and dehumidifier kWh next
 - [Whole-house fan winter covers](/blog/whole-house-fan-winter-covers/) — another seasonal hole through the envelope
 - [Lower your electric bill: priority checklist](/blog/lower-electric-bill-priority-checklist/) — this-month order of operations
 - [Start Here](/start-here/) — full HomeBillCuts reading order

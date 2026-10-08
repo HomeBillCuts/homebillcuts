@@ -272,6 +272,7 @@ Hire closed-cell spray foam (or a home-performance contractor) when crawl cleara
 
 - [Air sealing with caulk, foam & outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/) — penetrations and sill details that pair with rim board
 - [Crawl space vent covers for winter](/blog/crawl-space-vent-covers-winter/) — seasonal under-floor air control while you seal the band
+- [Dehumidifier cost to run & basement humidity](/blog/dehumidifier-cost-to-run-basement-humidity/) — measure RH and kWh after you cut humid air washes at the rim
 - [Attic insulation approaches — when to call a pro](/blog/attic-insulation-approaches-when-to-call-pro/) — ceiling-plane depth after (or beside) basement rim work
 - [Recessed light covers for attic air sealing](/blog/recessed-light-covers-attic-air-sealing/) — attic-floor holes are a different stack-effect path
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — large attic bypass often bigger than one rim wall
