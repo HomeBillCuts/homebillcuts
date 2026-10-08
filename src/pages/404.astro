@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => data.draft !== true)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+// Seasonal, highest-intent picks shown first (fall / heating season).
+const featuredIds = [
+  'lower-electric-bill-priority-checklist',
+  'space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled',
+  'heat-pump-aux-heat-high-bill-thermostat-settings',
+  'best-weatherstripping-draft-stoppers',
+  'window-insulation-kits-winter-drafts',
+  'best-smart-thermostats-2026',
+  'kill-a-watt-plug-in-energy-meter',
+];
+const featured = featuredIds
+  .map((id) => posts.find((p) => p.id === id))
+  .filter((p): p is (typeof posts)[number] => Boolean(p));
+
+const guideIndex = posts.map((p) => ({ id: p.id, title: p.data.title }));
+---
+<BaseLayout
+  title="Page not found"
+  description="That page doesn't exist on HomeBillCuts. Browse bill-first home energy guides instead."
+  noindex
+>
+  <article class="prose">
+    <h1>That page isn't here</h1>
+    <p>
+      The link may be old or mistyped. Nothing's lost, though: every HomeBillCuts guide is listed
+      below, and the priority checklist is the fastest way to find what will actually move your bill.
+    </p>
+
+    <div id="did-you-mean" hidden>
+      <p><strong>Were you looking for one of these?</strong></p>
+      <ul id="did-you-mean-list"></ul>
+    </div>
+
+    <p>
+      <a class="button button--primary" href="/blog/lower-electric-bill-priority-checklist/"
+        >Open the priority checklist</a
+      >
+      <a class="button button--secondary" href="/start-here/" style="margin-left:0.5rem;"
+        >Start Here</a
+      >
+    </p>
+
+    <h2>Popular this heating season</h2>
+    <ul>
+      {featured.map((p) => (
+        <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+      ))}
+    </ul>
+
+    <h2>All guides</h2>
+    <ul>
+      {posts.map((p) => (
+        <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+      ))}
+    </ul>
+  </article>
+
+  <script is:inline define:vars={{ guideIndex }}>
+    (function () {
+      var stop = { blog: 1, the: 1, and: 1, for: 1, vs: 1, to: 1, a: 1, of: 1, how: 1, best: 1, html: 1 };
+      var tokens = decodeURIComponent(location.pathname)
+        .toLowerCase()
+        .split(/[^a-z0-9]+/)
+        .filter(function (t) { return t.length > 2 && !stop[t]; });
+      if (!tokens.length) return;
+      var scored = guideIndex
+        .map(function (g) {
+          var hay = (g.id + ' ' + g.title).toLowerCase();
+          var score = tokens.reduce(function (n, t) { return n + (hay.indexOf(t) !== -1 ? 1 : 0); }, 0);
+          return { g: g, score: score };
+        })
+        .filter(function (x) { return x.score > 0; })
+        .sort(function (a, b) { return b.score - a.score; })
+        .slice(0, 3);
+      if (!scored.length) return;
+      var list = document.getElementById('did-you-mean-list');
+      scored.forEach(function (x) {
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = '/blog/' + x.g.id + '/';
+        a.textContent = x.g.title;
+        li.appendChild(a);
+        list.appendChild(li);
+      });
+      document.getElementById('did-you-mean').hidden = false;
+    })();
+  </script>
+</BaseLayout>

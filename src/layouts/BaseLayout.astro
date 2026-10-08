@@ -8,6 +8,7 @@ interface Props {
   ogType?: 'website' | 'article';
   pubDate?: Date;
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  noindex?: boolean;
 }
 
 const {
@@ -17,6 +18,7 @@ const {
   ogType = 'website',
   pubDate,
   jsonLd,
+  noindex = false,
 } = Astro.props;
 
 const siteName = 'HomeBillCuts';
@@ -66,7 +68,7 @@ const jsonLdBlocks = [organizationLd, websiteLd, ...extraLd];
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {noindex ? <meta name="robots" content="noindex, follow" /> : <link rel="canonical" href={canonical} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="alternate" type="application/rss+xml" title="HomeBillCuts RSS" href="/rss.xml" />
 
