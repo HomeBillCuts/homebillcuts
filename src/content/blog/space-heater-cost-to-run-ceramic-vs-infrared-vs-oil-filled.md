@@ -22,6 +22,9 @@ Every winter, the same question shows up: *which space heater is cheapest to run
 
 Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Close siblings: [oil-filled space heaters for zone heating](/blog/oil-filled-space-heaters-zone-heating/) (deep dive on one type), [plug-in thermostats for space heaters](/blog/plug-in-thermostats-space-heaters/) (stop dial overshoot), [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/) (measure it), [under-desk heaters & foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) (90–235 W personal heat), and [heated mattress pads](/blog/heated-mattress-pads-zone-heating/) (warm the bed, not the room). This page is the **type comparison and cost math** for 120 V portable heaters — not hardwired 240 V baseboard heat (see [line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/)) and not fuel-burning heaters.
 
+
+Shopping for the cozy version? See [electric fireplace cost to run (heat vs flame-only)](/blog/electric-fireplace-cost-to-run-heat-vs-flame-only/).
+
 ## The one fact the ads leave out: ~100% efficient, all of them
 
 Plug-in electric space heaters are **resistance heaters**. Electricity runs through a heating element (a ceramic PTC stone, a quartz tube, a coiled wire, or a wire inside sealed oil) and becomes heat. Practically all of the energy ends up as heat in your room — even the bit that runs the fan and display. That's why resistance heat is called "~100% efficient" at the point of use — and why it's still often expensive next to a heat pump.
