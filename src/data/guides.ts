@@ -10,6 +10,21 @@ import heating2 from '../assets/photos/heating2.jpg';
 import heating3 from '../assets/photos/heating3.jpg';
 import drafts2 from '../assets/photos/drafts2.jpg';
 import electricity2 from '../assets/photos/electricity2.jpg';
+import heating10 from '../assets/photos/heating10.jpg';
+import heating11 from '../assets/photos/heating11.jpg';
+import heating14 from '../assets/photos/heating14.jpg';
+import heating15 from '../assets/photos/heating15.jpg';
+import heating18 from '../assets/photos/heating18.jpg';
+import heating19 from '../assets/photos/heating19.jpg';
+import heating20 from '../assets/photos/heating20.jpg';
+import heating22 from '../assets/photos/heating22.jpg';
+import heating23 from '../assets/photos/heating23.jpg';
+import heating4 from '../assets/photos/heating4.jpg';
+import heating5 from '../assets/photos/heating5.jpg';
+import heating6 from '../assets/photos/heating6.jpg';
+import heating7 from '../assets/photos/heating7.jpg';
+import heating8 from '../assets/photos/heating8.jpg';
+import heating9 from '../assets/photos/heating9.jpg';
 
 const extra: Partial<Record<CategoryId, { photo: ImageMetadata; alt: string }[]>> = {
   heating: [
@@ -93,11 +108,32 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'window-insulation-kits-winter-drafts': { category: 'drafts', dek: 'Indoor shrink film adds a still-air layer to drafty single-pane windows for a few dollars.' },
 };
 
+const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'best-smart-thermostats-2026': { photo: heating4, alt: "A person holding a smart thermostat showing the room temperature" },
+  'duct-sealing-mastic-foil-tape-hvac': { photo: heating10, alt: "Workers installing a section of sheet-metal ductwork" },
+  'electric-baseboard-heater-thermostats-line-voltage': { photo: heating8, alt: "A white electric baseboard heater with a built-in dial thermostat" },
+  'electric-blanket-heated-throw-cost-to-run': { photo: heating18, alt: "A woman spreading a colorful blanket over a sofa" },
+  'electric-fireplace-cost-to-run-heat-vs-flame-only': { photo: heating3, alt: "A wood-paneled cabin living room with a gray sofa" },
+  'furnace-humidifier-water-panels-winter-comfort': { photo: heating20, alt: "An unfinished basement with a furnace and metal ductwork" },
+  'heat-pump-aux-heat-high-bill-thermostat-settings': { photo: heating, alt: "A hand adjusting a wall-mounted digital thermostat" },
+  'heated-mattress-pads-zone-heating': { photo: heating19, alt: "A neatly made bed with white sheets and pillows" },
+  'hvac-air-filters-merv-efficiency': { photo: heating9, alt: "A pleated HVAC air filter held next to a furnace" },
+  'oil-filled-space-heaters-zone-heating': { photo: heating6, alt: "Close-up of a panel radiator with a thermostatic valve" },
+  'plug-in-thermostats-space-heaters': { photo: heating23, alt: "A small portable fan heater" },
+  'radiator-heat-reflectors-exterior-walls': { photo: heating7, alt: "A white column radiator against a wall above a wood floor" },
+  'register-booster-fans-cold-rooms': { photo: heating11, alt: "A sitting room with a ceiling fan, sofa and dresser" },
+  'smart-thermostat-install-cost-vs-diy': { photo: heating5, alt: "A woman setting a wall thermostat while holding her phone" },
+  'space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled': { photo: heating2, alt: "Close-up of a small ceramic space heater glowing red" },
+  'thermostat-setback-savings-math-per-degree': { photo: heating22, alt: "A thermostatic radiator valve with numbered settings" },
+  'window-ac-smart-controllers-ceiling-fan-savings': { photo: heating14, alt: "A window air conditioner seen from inside the room" },
+  'under-desk-heaters-foot-warmers-home-office': { photo: heating15, alt: "A woman working at a desk in a home office" },
+};
+
 export function guideMeta(id: string) {
   const g = guides[id] ?? { category: 'electricity' as CategoryId, dek: '' };
   const base = categories[g.category];
   const pool = [{ photo: base.photo, alt: base.alt }, ...(extra[g.category] ?? [])];
   const idx = Object.keys(guides).filter((k) => guides[k].category === g.category).indexOf(id);
-  const pick = pool[Math.max(0, idx) % pool.length];
+  const pick = photoFor[id] ?? pool[Math.max(0, idx) % pool.length];
   return { ...g, cat: { ...base, photo: pick.photo, alt: pick.alt } };
 }
