@@ -65,7 +65,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'electric-baseboard-heater-thermostats-line-voltage': { category: 'heating', dek: 'Baseboard heaters need line-voltage thermostats. Match the voltage, poles and amps.' },
   'electric-blanket-heated-throw-cost-to-run': { category: 'heating', dek: 'A heated throw costs pennies an hour, but it only saves money if the thermostat goes down.' },
   'electric-fireplace-cost-to-run-heat-vs-flame-only': { category: 'heating', dek: 'Heat mode runs about 26¢ an hour. The flame effect alone costs almost nothing.' },
-  'electric-kettle-vs-stove-microwave-cost-to-boil-water': { category: 'kitchen', dek: 'What a liter of boiling water costs three ways, and why a kettle saves only a few dollars a year.' },
+  'electric-kettle-vs-stove-microwave-cost-to-boil-water': { category: 'kitchen', dek: 'A liter costs about 2¢ in a kettle. Overfilling and reboiling cost more than which device you use.' },
   'electric-water-heater-timers-cut-standby': { category: 'water', dek: 'When a timer on an electric tank helps, and when your schedule makes it pointless.' },
   'emporia-vue-vs-sense': { category: 'electricity', dek: 'Two whole-home energy monitors compared: install, accuracy and what you learn from each.' },
   'fireplace-chimney-draft-blockers': { category: 'drafts', dek: 'An unused fireplace can pull warm air up the flue all winter. Plug it safely.' },
