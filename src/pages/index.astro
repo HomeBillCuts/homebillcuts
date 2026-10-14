@@ -1,277 +1,94 @@
 ---
+import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import { categories, heroPhoto, guides, type CategoryId } from '../data/guides';
 
 const posts = (await getCollection('blog', ({ data }) => data.draft !== true))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latest = posts.slice(0, 6);
 
-const winterPrep = [
-  {
-    href: '/blog/best-weatherstripping-draft-stoppers/',
-    title: 'Weatherstripping & door drafts',
-    blurb: 'Seal the leaks you can feel before shopping for gadgets.',
-  },
-  {
-    href: '/blog/air-sealing-caulk-foam-outlet-gaskets/',
-    title: 'Caulk, foam & outlet gaskets',
-    blurb: 'Cheap air sealing for baseboards, penetrations, and outlets.',
-  },
-  {
-    href: '/blog/window-insulation-kits-winter-drafts/',
-    title: 'Window insulation kits',
-    blurb: 'Indoor shrink film for cold glass rooms this season.',
-  },
-  {
-    href: '/blog/sliding-glass-door-draft-sealing-winter/',
-    title: 'Sliding glass / patio door drafts',
-    blurb: 'Meeting-stile weatherstrip, patio shrink film, draft kits — measure first; egress & weep honesty.',
-  },
-  {
-    href: '/blog/window-ac-winter-covers-draft-sealing/',
-    title: 'Window AC winter covers',
-    blurb: 'Indoor/outdoor covers when the unit stays in the opening.',
-  },
-  {
-    href: '/blog/furnace-humidifier-water-panels-winter-comfort/',
-    title: 'Furnace humidifier water panels',
-    blurb: 'Measure RH first; #10 vs #35 fit; portable path when you have no whole-house unit.',
-  },
-  {
-    href: '/blog/thermal-blackout-curtains-energy-savings/',
-    title: 'Thermal / blackout curtains',
-    blurb: 'A daily layer over drafty glass you still need to open.',
-  },
-  {
-    href: '/blog/fireplace-chimney-draft-blockers/',
-    title: 'Fireplace draft blockers',
-    blurb: 'Stop unused flues from pulling heated air upstairs.',
-  },
-  {
-    href: '/blog/attic-stair-hatch-insulation-covers/',
-    title: 'Attic stair & hatch covers',
-    blurb: 'Often the biggest attic “hole” in otherwise insulated homes.',
-  },
-  {
-    href: '/blog/recessed-light-covers-attic-air-sealing/',
-    title: 'Recessed light / can covers',
-    blurb: 'Fire-safe attic can covers (Tenmat-class) — IC vs non-IC first; never bury non-IC or use cardboard.',
-  },
-  {
-    href: '/blog/whole-house-fan-winter-covers/',
-    title: 'Whole-house fan winter covers',
-    blurb: 'Seal leaky ceiling shutters before heating season — trim-to-fit foam vs DIY rigid box; measure grille first.',
-  },
-  {
-    href: '/blog/garage-door-weather-seals-bottom-seals/',
-    title: 'Garage door weather seals',
-    blurb: 'Bottom seals and perimeter kits for attached garages.',
-  },
-  {
-    href: '/blog/oil-filled-space-heaters-zone-heating/',
-    title: 'Oil-filled zone heating',
-    blurb: 'Warm the room you use — only with a real whole-house setback.',
-  },
-  {
-    href: '/blog/heated-mattress-pads-zone-heating/',
-    title: 'Heated mattress pads',
-    blurb: 'Overnight comfort while you drop the thermostat safely.',
-  },
-  {
-    href: '/blog/electric-baseboard-heater-thermostats-line-voltage/',
-    title: 'Baseboard / line-voltage thermostats',
-    blurb: '120/240V controls for electric baseboard — Nest is the wrong family; match poles and amps.',
-  },
-  {
-    href: '/blog/radiator-heat-reflectors-exterior-walls/',
-    title: 'Radiator heat reflectors',
-    blurb: 'Foil/foam behind radiators & exterior-wall baseboard — Reflectix vs panels; seal drafts first.',
-  },
-  {
-    href: '/blog/register-booster-fans-cold-rooms/',
-    title: 'Register booster fans for cold rooms',
-    blurb: 'Vent boosters for far bedrooms & basements — measure first; move air, don’t invent heat.',
-  },
-  {
-    href: '/blog/outdoor-faucet-covers-freeze-protection/',
-    title: 'Outdoor faucet freeze covers',
-    blurb: 'Drain-first foam cups vs hard shells vs socks before hard freezes.',
-  },
-  {
-    href: '/blog/crawl-space-vent-covers-winter/',
-    title: 'Crawl space vent covers',
-    blurb: 'Foam plugs vs damper vents vs PNW vanity covers — measure first; remove in spring; never seal flood vents.',
-  },
-  {
-    href: '/blog/rim-joist-band-joist-insulation-basement/',
-    title: 'Rim / band joist insulation',
-    blurb: 'Foam board + air seal for unfinished basement/crawl rims — measure bays first; moisture & thermal-barrier honesty.',
-  },
-  {
-    href: '/blog/dehumidifier-cost-to-run-basement-humidity/',
-    title: 'Dehumidifier cost to run',
-    blurb: 'Measure basement RH and kWh first — moisture sources, DOE pint honesty, ENERGY STAR & continuous drain; Amazon shortlists.',
-  },
-  {
-    href: '/blog/duct-sealing-mastic-foil-tape-hvac/',
-    title: 'HVAC duct sealing (mastic + UL foil)',
-    blurb: 'Water-based mastic + UL 181 foil tape — measure-first leak walk; no cloth duct tape; asbestos/combustion honesty.',
-  },
-  {
-    href: '/blog/pipe-freeze-heat-tape-protection/',
-    title: 'Pipe freeze heat tape',
-    blurb: 'Protect crawlspace and garage lines before hard freezes — insulation first.',
-  },
+const featuredIds = [
+  'heat-pump-aux-heat-high-bill-thermostat-settings',
+  'space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled',
+  'best-weatherstripping-draft-stoppers',
+  'thermostat-setback-savings-math-per-degree',
+  'window-insulation-kits-winter-drafts',
+  'kill-a-watt-plug-in-energy-meter',
 ];
+const featured = featuredIds.map((id) => posts.find((p) => p.id === id)).filter(Boolean) as typeof posts;
+const counts = Object.fromEntries(
+  (Object.keys(categories) as CategoryId[]).map((c) => [c, posts.filter((p) => guides[p.id]?.category === c).length]),
+);
+const checklist = posts.find((p) => p.id === 'lower-electric-bill-priority-checklist');
 ---
 <BaseLayout
   title="HomeBillCuts"
-  description="Bill-first US home energy efficiency: practical checklists and honest product shortlists. No guaranteed dollar savings."
+  description="Plain-English guides to lowering your home energy bills: find where the money goes, fix the cheap things first, and buy only what pays off."
   canonicalPath="/"
 >
-  <section class="hero">
-    <h1>Cut home energy waste — starting with your electric bill.</h1>
-    <p>
-      HomeBillCuts is a bill-first guide for US households. We prioritize cheap diagnostics and
-      high-leverage habits before shiny gadgets, and we never invent “guaranteed” savings figures.
-      Results depend on your climate, rates, home, and how you use energy.
-    </p>
-    <div class="hero-actions">
-      <a class="button button--primary" href="/start-here/">Start Here — free path first</a>
-      <a class="button button--secondary" href="/blog/lower-electric-bill-priority-checklist/">
-        This month’s checklist
-      </a>
-    </div>
-    <p class="note" style="margin-top:1rem;">
-      High-converting gear guides:
-      <a href="/blog/best-smart-thermostats-2026/">smart thermostats</a>,
-      <a href="/blog/electric-baseboard-heater-thermostats-line-voltage/">line-voltage baseboard thermostats</a>,
-      <a href="/blog/emporia-vue-vs-sense/">home energy monitors</a>,
-      <a href="/blog/kill-a-watt-plug-in-energy-meter/">plug-in watt meters</a>,
-      <a href="/blog/best-smart-plugs-vampire-power/">vampire-power plugs</a>.
-      Also:
-      <a href="/blog/hvac-air-filters-merv-efficiency/">HVAC filters</a>,
-      <a href="/blog/furnace-humidifier-water-panels-winter-comfort/">furnace humidifier water panels</a>,
-      <a href="/blog/best-weatherstripping-draft-stoppers/">draft sealing</a>,
-      <a href="/blog/window-insulation-kits-winter-drafts/">window insulation kits</a>,
-      <a href="/blog/sliding-glass-door-draft-sealing-winter/">sliding glass / patio door drafts</a>,
-      <a href="/blog/thermal-blackout-curtains-energy-savings/">thermal curtains</a>,
-      <a href="/blog/cellular-honeycomb-shades-winter-heat-loss/">cellular / honeycomb shades</a>,
-      <a href="/blog/insulate-hot-water-pipes-water-heater-jacket/">pipe insulation</a>,
-      <a href="/blog/low-flow-showerheads-faucet-aerators/">low-flow showerheads</a>,
-      <a href="/blog/air-sealing-caulk-foam-outlet-gaskets/">air sealing (caulk &amp; foam)</a>,
-      <a href="/blog/fireplace-chimney-draft-blockers/">fireplace draft blockers</a>,
-      <a href="/blog/led-bulbs-save-money-wattage-guide/">LED wattage swaps</a>,
-      <a href="/blog/thermal-camera-vs-infrared-thermometer-find-drafts/">thermal camera vs infrared thermometer draft hunt</a>,
-      <a href="/blog/attic-insulation-approaches-when-to-call-pro/">attic insulation</a>,
-      <a href="/blog/attic-stair-hatch-insulation-covers/">attic stair &amp; hatch covers</a>,
-      <a href="/blog/recessed-light-covers-attic-air-sealing/">recessed light / can covers</a>,
-      <a href="/blog/whole-house-fan-winter-covers/">whole-house fan winter covers</a>,
-      <a href="/blog/garage-door-weather-seals-bottom-seals/">garage door weather seals</a>,
-      <a href="/blog/oil-filled-space-heaters-zone-heating/">oil-filled space heaters</a>,
-      <a href="/blog/dryer-vent-cleaning-kits-energy-fire-safety/">dryer vent cleaning kits</a>,
-      <a href="/blog/indoor-clothes-drying-racks-cut-dryer-cost/">indoor clothes drying racks</a>,
-      <a href="/blog/heated-mattress-pads-zone-heating/">heated mattress pads</a>,
-      <a href="/blog/under-desk-heaters-foot-warmers-home-office/">under-desk heaters &amp; foot warmers</a>,
-      <a href="/blog/plug-in-thermostats-space-heaters/">plug-in thermostats for space heaters</a>,
-      <a href="/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/">space heater cost to run (ceramic vs infrared vs oil-filled)</a>,
-      <a href="/blog/heat-pump-aux-heat-high-bill-thermostat-settings/">heat pump aux heat settings</a>,
-      <a href="/blog/air-fryer-toaster-oven-vs-oven-energy-cost/">air fryer &amp; toaster oven vs full oven</a>,
-      <a href="/blog/electric-kettle-vs-stove-microwave-cost-to-boil-water/">electric kettle vs stove vs microwave cost</a>,
-      <a href="/blog/slow-cooker-vs-instant-pot-vs-oven-cost-to-run/">slow cooker vs Instant Pot vs oven cost</a>,
-      <a href="/blog/electric-blanket-heated-throw-cost-to-run/">heated throw &amp; electric blanket cost to run</a>,
-      <a href="/blog/tv-gaming-console-pc-cost-to-run-standby/">TV, gaming console &amp; PC cost to run</a>,
-      <a href="/blog/electric-fireplace-cost-to-run-heat-vs-flame-only/">electric fireplace cost to run (heat vs flame-only)</a>,
-      <a href="/blog/thermostat-setback-savings-math-per-degree/">thermostat setback savings math (per degree)</a>,
-      <a href="/blog/washer-dryer-cost-per-load-cold-wash-vs-hot-dryer/">washer &amp; dryer cost per load (cold vs hot, gas vs electric)</a>,
-      <a href="/blog/humidifier-cost-to-run-ultrasonic-vs-evaporative-vs-warm-mist/">humidifier cost to run (ultrasonic vs evaporative vs warm mist)</a>,
-      <a href="/blog/holiday-lights-cost-to-run-led-vs-incandescent-timers/">holiday lights cost to run (LED vs incandescent)</a>,
-      <a href="/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/">refrigerator &amp; freezer cost to run</a>,
-      <a href="/blog/dehumidifier-cost-to-run-basement-humidity/">dehumidifier cost to run (basement humidity)</a>,
-      <a href="/blog/electric-water-heater-timers-cut-standby/">electric water heater timers</a>,
-      <a href="/blog/pipe-freeze-heat-tape-protection/">pipe freeze heat tape</a>,
-      <a href="/blog/outdoor-faucet-covers-freeze-protection/">outdoor faucet freeze covers</a>,
-      <a href="/blog/crawl-space-vent-covers-winter/">crawl space vent covers</a>,
-      <a href="/blog/rim-joist-band-joist-insulation-basement/">rim / band joist insulation</a>,
-      <a href="/blog/duct-sealing-mastic-foil-tape-hvac/">HVAC duct sealing (mastic + UL foil)</a>,
-      <a href="/blog/radiator-heat-reflectors-exterior-walls/">radiator heat reflectors</a>,
-      <a href="/blog/register-booster-fans-cold-rooms/">register booster fans</a>,
-      <a href="/blog/heat-pump-water-heater-vs-standard/">heat pump water heaters</a>,
-      <a href="/blog/window-ac-smart-controllers-ceiling-fan-savings/">window AC controllers &amp; fans</a>,
-      <a href="/blog/window-ac-winter-covers-draft-sealing/">window AC winter covers</a>.
-    </p>
-  </section>
+  <div class="wrap">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Home energy, minus the guesswork</p>
+        <h1>Lower bills start with <em>knowing</em> where the heat goes.</h1>
+        <p>
+          Short, practical guides for US homes. Find the leak or the power hog first, fix what's cheap,
+          and only then decide what's worth buying.
+        </p>
+        <div class="hero-actions">
+          <a class="button button--primary" href="/start-here/">Start here</a>
+          <a class="button button--secondary" href="/blog/">Browse all guides</a>
+        </div>
+      </div>
+      <div class="hero-photo">
+        <Image quality={70} src={heroPhoto.src} alt={heroPhoto.alt} widths={[600, 900, 1200]} sizes="(max-width: 860px) 100vw, 560px" loading="eager" fetchpriority="high" />
+      </div>
+    </section>
 
-  <section class="section" aria-labelledby="how-it-works">
-    <h2 id="how-it-works">How to use this site</h2>
-    <ol>
-      <li><a href="/start-here/">Start Here</a> — suggested reading order, habits before hardware.</li>
-      <li><a href="/blog/lower-electric-bill-priority-checklist/">Priority checklist</a> — what to do this billing cycle.</li>
-      <li>
-        Buy only after measuring need:
-        <a href="/blog/best-smart-thermostats-2026/">thermostats</a>,
-        <a href="/blog/emporia-vue-vs-sense/">monitors</a>,
-        <a href="/blog/kill-a-watt-plug-in-energy-meter/">plug meters</a>,
-        <a href="/blog/best-smart-plugs-vampire-power/">smart plugs</a>
-        — then <a href="/blog/">browse all guides</a>.
-      </li>
-    </ol>
-    <p class="note">
-      Amazon links use our Associates tag where products appear. No promised dollar savings.
-      See the <a href="/disclosure/">Disclosure</a> page.
-    </p>
-  </section>
+    <section class="section" aria-labelledby="topics">
+      <div class="section-head"><h2 id="topics">Browse by topic</h2></div>
+      <div class="cat-grid">
+        {(Object.entries(categories) as [CategoryId, (typeof categories)[CategoryId]][]).map(([id, c]) => (
+          <a class="cat" href={`/blog/#${id}`}>
+            <Image quality={70} src={c.photo} alt={c.alt} widths={[400, 640]} sizes="(max-width: 640px) 100vw, 300px" loading="lazy" />
+            <div><strong>{c.name}</strong><span>{counts[id]} guides · {c.blurb}</span></div>
+          </a>
+        ))}
+      </div>
+    </section>
 
-  <section class="section" aria-labelledby="winter-prep">
-    <h2 id="winter-prep">Prep for heating season</h2>
-    <p style="color:var(--color-muted); margin:0 0 1.25rem; max-width:42rem;">
-      Fall is the right time to stop drafts and rethink setpoints — before the first cold snap.
-      Start with sealing and habits; only then decide if zone heaters or mattress pads fit
-      <em>your</em> house. No guaranteed dollar cuts.
-    </p>
-    <div class="card-grid">
-      {winterPrep.map((item) => (
-        <article class="card">
-          <h3>
-            <a href={item.href}>{item.title}</a>
-          </h3>
-          <p>{item.blurb}</p>
-        </article>
-      ))}
-    </div>
-    <p style="margin-top:1.25rem;">
-      <a class="button button--secondary" href="/start-here/">See the full Start Here order</a>
-    </p>
-  </section>
+    <section class="section" aria-labelledby="season">
+      <div class="section-head">
+        <h2 id="season">Worth reading before the cold sets in</h2>
+        <a href="/start-here/">Reading order →</a>
+      </div>
+      {featured[0] && <PostCard post={featured[0]} lead />}
+      <div class="card-grid">
+        {featured.slice(1).map((post) => <PostCard post={post} />)}
+      </div>
+    </section>
 
-  <section class="section" aria-labelledby="latest-guides">
-    <h2 id="latest-guides">Latest guides</h2>
-    <p style="color:var(--color-muted); margin:0 0 1.25rem; max-width:40rem;">
-      Newest first. Pick one guide, take one action this week, then come back for the next lever —
-      not a cart full of gadgets.
-    </p>
-    <div class="card-grid">
-      {posts.map((post) => <PostCard post={post} />)}
-    </div>
-    <p style="margin-top:1.25rem;">
-      <a class="button button--secondary" href="/blog/">See all guides</a>
-    </p>
-  </section>
+    <section class="band" aria-label="How we write these guides">
+      <div><div class="num">1</div><h3>Measure first</h3><p>A $25 plug meter or a stick of incense often tells you more than a new gadget.</p></div>
+      <div><div class="num">2</div><h3>Fix the cheap things</h3><p>Drafts, setpoints and filters usually come before anything with a plug.</p></div>
+      <div><div class="num">3</div><h3>Buy only what pays off</h3><p>We show the math for typical homes so you can run it for yours.</p></div>
+    </section>
 
-  <section class="section" aria-labelledby="email-heading">
-    <div class="email-capture">
-      <h2 id="email-heading">Email updates (placeholder)</h2>
-      <p class="note">
-        Optional checklist reminders and new guide alerts. No spam. This form is a placeholder —
-        wire it to your email provider later (e.g. Buttondown, ConvertKit, or MailerLite).
-      </p>
-      <form action="#" method="post" onsubmit="return false;" aria-label="Email signup placeholder">
-        <label class="sr-only" for="email">Email address</label>
-        <input id="email" name="email" type="email" placeholder="you@example.com" autocomplete="email" disabled />
-        <button class="button button--primary" type="submit" disabled>Notify me (soon)</button>
-      </form>
-      <p class="note">See our <a href="/privacy/">Privacy Policy</a> for how we plan to handle email addresses.</p>
-    </div>
-  </section>
+    <section class="section" aria-labelledby="latest">
+      <div class="section-head">
+        <h2 id="latest">New this month</h2>
+        <a href="/blog/">All {posts.length} guides →</a>
+      </div>
+      <div class="card-grid">
+        {latest.map((post) => <PostCard post={post} />)}
+      </div>
+      {checklist && (
+        <p class="note" style="margin-top:2.5rem">
+          Not sure where to begin? The <a href={`/blog/${checklist.id}/`}>priority checklist</a> ranks the free and cheap steps first.
+        </p>
+      )}
+    </section>
+  </div>
 </BaseLayout>

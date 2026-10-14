@@ -2,30 +2,37 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import { categories, guides, type CategoryId } from '../../data/guides';
 
 const posts = (await getCollection('blog', ({ data }) => data.draft !== true)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+const groups = (Object.keys(categories) as CategoryId[])
+  .map((id) => ({ id, ...categories[id], posts: posts.filter((p) => (guides[p.id]?.category ?? 'electricity') === id) }))
+  .filter((g) => g.posts.length);
 ---
 <BaseLayout
   title="Guides"
-  description="HomeBillCuts guides — electric bill checklists, weatherstripping, LEDs, smart plugs, thermostats, and energy monitors."
+  description="Every HomeBillCuts guide, grouped by topic: drafts and sealing, heating, insulation, water heating, appliances, kitchen and laundry."
   canonicalPath="/blog/"
 >
-  <section class="section" style="margin-top:0">
-    <h1 style="margin:0 0 0.5rem; letter-spacing:-0.02em;">Guides</h1>
-    <p style="color:var(--color-muted); margin:0 0 1rem; max-width:42rem;">
-      Bill-first articles for US homes — checklists, weatherization, lighting, vampire-power plugs,
-      thermostats, and monitors. No guaranteed dollar savings; take one useful action per visit.
-    </p>
-    <p style="margin:0 0 1.5rem;">
-      <a class="button button--primary" href="/start-here/">Suggested reading order</a>
-      <a class="button button--secondary" href="/blog/lower-electric-bill-priority-checklist/" style="margin-left:0.5rem;">
-        Priority checklist
-      </a>
-    </p>
-    <div class="card-grid">
-      {posts.map((post) => <PostCard post={post} />)}
-    </div>
-  </section>
+  <div class="wrap">
+    <header class="page-head">
+      <p class="eyebrow">{posts.length} guides</p>
+      <h1>Guides</h1>
+      <p>Grouped by topic. Each one starts with a quick way to check your own home before you spend anything.</p>
+    </header>
+    <nav class="chips" aria-label="Topics">
+      {groups.map((g) => <a href={`#${g.id}`}>{g.name}</a>)}
+    </nav>
+    {groups.map((g) => (
+      <section class="cat-section" id={g.id} aria-labelledby={`h-${g.id}`}>
+        <h2 id={`h-${g.id}`}>{g.name}</h2>
+        <p>{g.blurb}</p>
+        <div class="card-grid">
+          {g.posts.map((post) => <PostCard post={post} showImage={false} />)}
+        </div>
+      </section>
+    ))}
+  </div>
 </BaseLayout>

@@ -9,7 +9,7 @@ export async function GET(context) {
   return rss({
     title: 'HomeBillCuts',
     description:
-      'Bill-first US home energy efficiency — practical checklists and product shortlists.',
+      'Plain-English guides to lowering US home energy bills.',
     site: context.site,
     items: posts.map((post) => ({
       title: post.data.title,
