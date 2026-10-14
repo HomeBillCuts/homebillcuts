@@ -34,6 +34,32 @@ export default function rehypeProducts() {
       const kids = parent.children;
       for (let i = 0; i < kids.length; i++) {
         const k = kids[i];
+        if (k.type === 'element' && k.tagName === 'ul') {
+          const lis = (k.children || []).filter((c) => c.tagName === 'li');
+          const hasBtn = (n) => { let b = false; walk(n, (x) => { if ((x.properties?.className || []).includes('amz-btn')) b = true; }); return b; };
+          if (lis.length && lis.every(hasBtn)) {
+            out.push({ type: 'element', tagName: 'div', properties: { className: ['product', 'product--group'] }, children: [k] });
+            continue;
+          }
+        }
+        // Old format: <p><strong>Group label:</strong></p> followed by a list of Amazon buttons
+        if (k.type === 'element' && k.tagName === 'p') {
+          const real = (k.children || []).filter((c) => !(c.type === 'text' && !c.value.trim()));
+          if (real.length === 1 && real[0].tagName === 'strong') {
+            let j = i + 1;
+            while (j < kids.length && kids[j].type === 'text' && !kids[j].value.trim()) j++;
+            const ul = kids[j];
+            let btn = false;
+            if (ul && ul.type === 'element' && ul.tagName === 'ul') walk(ul, (x) => { if ((x.properties?.className || []).includes('amz-btn')) btn = true; });
+            if (btn) {
+              const label = text(real[0]).replace(/[:\s]+$/, '');
+              out.push({ type: 'element', tagName: 'div', properties: { className: ['product', 'product--group'] }, children: [
+                { type: 'element', tagName: 'h3', properties: {}, children: [{ type: 'text', value: label }] }, ul] });
+              i = j;
+              continue;
+            }
+          }
+        }
         const t = k.type === 'element' && k.tagName === 'h3' ? text(k) : '';
         const m = t ? (t.match(/^\s*\d+[).]\s*(.*)$/) || [t, t.trim()]) : null;
         if (!m) { out.push(k); continue; }

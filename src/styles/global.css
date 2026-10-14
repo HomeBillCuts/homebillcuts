@@ -8,8 +8,8 @@
   --accent: #2f5d50;
   --accent-ink: #ffffff;
   --accent-soft: #e4eee9;
-  --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
-  --sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --serif: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
+  --sans: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
   --read: 42rem;
   --wide: 74rem;
@@ -196,3 +196,5 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.2; 
 .site-main > .prose .meta { color: var(--muted); font-size: .9rem; }
 .prose input[type=email] { padding: .6rem .8rem; border: 1px solid var(--line); border-radius: 8px; }
 .card.card--compact .kicker { display: none; }
+.product--group li > a.amz-btn { margin-left: auto; }
+.product li { line-height: 1.5; }
