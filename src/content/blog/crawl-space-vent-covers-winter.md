@@ -18,7 +18,7 @@ faqs:
     answer: "Moisture is the honest limit of this product category. Covers reduce winter air washing under the floor; they do not fix a wet crawl, a missing vapor barrier, or a grading problem. If you already see standing water, active mold, or musty floors, solve water first (grading, gutters, sump, vapor barrier) before or instead of shopping plugs. Remove foam plugs and open dampers in spring. Do not seal flood vents. Encapsulation with a sealed liner is a different project from seasonal foam cups."
 ---
 
-Open foundation vents keep a vented crawlspace breathing in summer — and can dump outdoor winter air under your floors all heating season. Cold washes chill joists, ducts, and water lines; rooms above feel drafty even when the thermostat works. Seasonal crawl space / foundation vent covers (foam plugs, slide-damper replacement vents, region-specific vanity covers, or DIY foam/Reflectix inserts) close those openings until spring. In this guide: measure each vent, respect flood-vent and moisture limits, pick plug vs damper vs DIY vs skip, remove covers in spring, and never confuse a foam plug with crawlspace encapsulation.
+Open foundation vents keep a vented crawlspace breathing in summer — and can dump outdoor winter air under your floors all heating season. Cold washes chill joists, ducts, and water lines; rooms above feel drafty even when the thermostat works. Seasonal crawl space / foundation vent covers (foam plugs, slide-damper replacement vents, region-specific vanity covers, or DIY foam/Reflectix inserts) close those openings until spring. Measure each vent and leave flood vents open. Choose a foam plug, damper or DIY cover, and take covers off in spring. A foam plug isn't crawl space encapsulation.
 
 
 

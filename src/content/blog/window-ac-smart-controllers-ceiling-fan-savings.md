@@ -18,7 +18,7 @@ faqs:
     answer: "They’re different tools. Controllers target IR window/mini-split units; central forced-air homes usually want a proper 24V smart thermostat on the air handler. Some homes use both — zone window units upstairs plus central equipment downstairs — without expecting one gadget to run everything."
 ---
 
-Window ACs and ductless heads with IR remotes often run longer than they should because nobody wants to babysit the remote. Smart AC controllers (Sensibo-style) add schedules, geofencing, and temperature triggers for cooling and, on many mini-splits, HEAT. Separately, a ceiling fan + thermostat combo can let you raise the cooling setpoint a bit in summer — and reverse the fan gently in winter — if you actually change setpoints and turn fans off when rooms empty. In this guide: when controllers and fans move the bill, the measure-first walk, situation priorities and do-not list, buyer decision tree, install troubleshooting, automation patterns, and a verified Amazon shortlist — without inventing dollar savings.
+Window ACs and ductless heads with IR remotes often run longer than they should because nobody wants to babysit the remote. Smart AC controllers (Sensibo-style) add schedules, geofencing, and temperature triggers for cooling and, on many mini-splits, HEAT. Separately, a ceiling fan + thermostat combo can let you raise the cooling setpoint a bit in summer — and reverse the fan gently in winter — if you actually change setpoints and turn fans off when rooms empty. A controller or a ceiling fan only lowers the bill in certain rooms and schedules. Here's how to tell whether yours is one of them and how to set up automations that stick.
 
 If you’re prioritizing actions for this billing cycle, keep the [priority checklist](/blog/lower-electric-bill-priority-checklist/) above any shopping cart. New visitors: [Start Here](/start-here/). Central HVAC homes should also see our [smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/). For the glass itself, stack with [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) and, in winter, [window insulation kits](/blog/window-insulation-kits-winter-drafts/). Prove odd loads with a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/) or [whole-home monitor](/blog/emporia-vue-vs-sense/) when you want numbers instead of guesses.
 
@@ -125,7 +125,7 @@ If any do-not item matches your plan, pause the cart — the wrong gadget on the
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of it.
+Use this after you've checked your home, not instead of it.
 
 1. **Unit has no IR remote?**  
    - Yes → Skip Sensibo-class controllers for that unit. Fix filters/seals; consider replacement equipment or a different control path.  
@@ -266,4 +266,4 @@ Measure when you can: a [plug meter](/blog/kill-a-watt-plug-in-energy-meter/) on
 
 ## Bottom line
 
-Sensibo-style controllers earn their keep when they stop empty-home IR ACs and mini-splits from running — in cool and heat — and enforce schedules you’ll keep. Ceiling fans help when you raise the cooling setpoint in occupied rooms in summer, reverse gently in winter if you’ll ease heat a notch, and turn fans off when empty. Neither replaces sealing, filters, insulation, or a right-sized efficient unit. Walk the house first, use the decision tree (including skip), keep pets/pipes on safe minima, and never put a cheap smart plug on a compressor load. Buy for automation you’ll enable — not for a percentage in an ad. Next steps: [Start Here](/start-here/), [smart thermostats 2026](/blog/best-smart-thermostats-2026/), or the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/).
+Sensibo-style controllers earn their keep when they stop empty-home IR ACs and mini-splits from running — in cool and heat — and enforce schedules you’ll keep. Ceiling fans help when you raise the cooling setpoint in occupied rooms in summer, reverse gently in winter if you’ll ease heat a notch, and turn fans off when empty. Neither replaces sealing, filters, insulation, or a right-sized efficient unit. Walk the house first, use the "Which one should you buy?" section (including skip), keep pets/pipes on safe minima, and never put a cheap smart plug on a compressor load. Buy for automation you’ll enable — not for a percentage in an ad. Next steps: [Start Here](/start-here/), [smart thermostats 2026](/blog/best-smart-thermostats-2026/), or the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/).

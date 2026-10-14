@@ -26,7 +26,7 @@ faqs:
     answer: "On a time-of-use (TOU) plan, yes. If your evening peak rate is $0.40/kWh, a 1,500 W hour costs about 60 cents instead of 26 cents at $0.17. Using low or flame-only during peak hours, pre-warming the room before the peak starts, and closing the room's door can cut the cost meaningfully. Check your utility's peak window on your bill or app."
 ---
 
-Electric fireplaces are one of the most-bought "heat" purchases every October, and the marketing often promises big bill cuts. The honest version: the heater is a 1,500 W space heater in a nice box, and the flame is nearly free. Whether it saves you money depends entirely on one thing — does it let you turn down the heat for the rest of the house? In this guide: cost per hour, per evening, and per season at your rate, heat vs flame-only, four worked households, a one-week measurement test, troubleshooting, and when to buy.
+Electric fireplaces are one of the most-bought "heat" purchases every October, and the marketing often promises big bill cuts. The honest version: the heater is a 1,500 W space heater in a nice box, and the flame is nearly free. Whether it saves you money depends entirely on one thing — does it let you turn down the heat for the rest of the house? We'll cover cost per hour, per evening and per season at your rate, heat mode versus flame only, four example households and a one-week test you can run yourself.
 
 
 ## Quick answer

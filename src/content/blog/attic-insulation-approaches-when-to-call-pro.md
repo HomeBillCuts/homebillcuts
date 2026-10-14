@@ -18,7 +18,7 @@ faqs:
 
 Heating season is when stack effect shows its hand: warm indoor air rises, leaks through the attic floor into a cold vented attic, and your furnace or heat pump runs longer to keep up. Thin, uneven, or missing attic insulation is one of the highest-leverage envelope gaps in many US homes — heat escapes through the ceiling plane all winter, and the same path dumps attic heat into living space in summer. Adding depth and covering gaps slows that heat flow — without inventing a dollar savings figure for your address.
 
-In this guide: walk and measure R-value/depth before you buy, prioritize situations that actually move comfort and runtime, pick blown cellulose vs fiberglass vs mineral wool vs hire-a-pro with a decision tree, install safely (baffles first), and troubleshoot common failures — then keep going with hatch covers and air sealing.
+Check how deep your insulation is before buying anything. Then compare blown cellulose, fiberglass, mineral wool and hiring a pro, put baffles in first, and know the common ways DIY jobs go wrong.
 
 
 ## When attic insulation moves the heating bill

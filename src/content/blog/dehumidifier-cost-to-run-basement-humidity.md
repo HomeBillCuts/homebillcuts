@@ -20,7 +20,7 @@ faqs:
 
 A basement dehumidifier is one of the few appliances that can quietly become a second refrigerator on your bill: hundreds of watts, long runtimes, and a habit of leaving it on "continuous" until the bucket overflows or the season ends. It also does real work — cutting musty smells, protecting stored stuff, and lowering mold risk when humidity stays high. The practical move is not "buy the biggest ENERGY STAR unit." It is measure the moisture, fix free sources, measure the kWh, then decide whether a portable, a continuous drain, or nothing at all is the right spend.
 
-In this guide: turn dehumidifier use into dollars with your own rate, size honestly under today's DOE pint rules, and only then shop. A dehumidifier adds electricity; any cooling-bill offset is a maybe, not a promise.
+Below, we turn your dehumidifier's running time into dollars at your own rate and explain how to size one under today's DOE pint ratings. Shopping comes last. A dehumidifier adds electricity; any cooling-bill offset is a maybe, not a promise.
 
 
 ## The 60-second version

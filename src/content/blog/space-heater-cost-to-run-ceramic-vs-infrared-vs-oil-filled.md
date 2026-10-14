@@ -18,7 +18,7 @@ faqs:
     answer: "Be skeptical. A plug-in heater can't produce more heat than the electricity it uses, and on a standard 120 V outlet it's limited to about 1,500 W, roughly 5,100 Btu per hour, no matter what the heat exchanger is made of. Real savings come from heating fewer rooms while you lower the central thermostat — any inexpensive heater does that. In 2012, an advertising self-regulation program recommended that one heavily advertised heater's marketer discontinue unsupported monthly-savings claims. Treat 'heats 1,000 sq ft,' 'uses less electricity than other heaters,' and 'doesn't burn oxygen' as marketing, not math."
 ---
 
-Every winter, the same question shows up: *which space heater is cheapest to run?* The honest answer is a little disappointing and very useful: at the same wattage, they all cost the same. A 1,500 W ceramic fan heater, a 1,500 W quartz infrared heater, and a 1,500 W oil-filled radiator each turn about 1.5 kWh of electricity into about 1.5 kWh of heat for every hour they run at full power. What you're really choosing is how the heat reaches you — moving warm air, radiant warmth, or slow, steady heat — plus noise, safety, and cycling. In this guide: do the cost math with your rate, measure with a plug-in meter, check whether a space heater saves or costs money in *your* house, then pick the type.
+Every winter, the same question shows up: *which space heater is cheapest to run?* The honest answer is a little disappointing and very useful: at the same wattage, they all cost the same. A 1,500 W ceramic fan heater, a 1,500 W quartz infrared heater, and a 1,500 W oil-filled radiator each turn about 1.5 kWh of electricity into about 1.5 kWh of heat for every hour they run at full power. What you're really choosing is how the heat reaches you — moving warm air, radiant warmth, or slow, steady heat — plus noise, safety, and cycling. Do the cost math at your rate and check it with a plug-in meter. Find out whether a space heater saves or costs money in your house before you pick a type.
 
 
 
@@ -143,7 +143,7 @@ Measure with the Kill A Watt to know whether a change actually used fewer kWh.
 | Heat-pump home in mild weather | Usually none — let the heat pump work | Heat pump heat is often cheaper per unit | Watch for AUX heat on cold-day recovery |
 | The whole house is cold (failed furnace) | Call for repair; use heaters only as a short, supervised stopgap | A 1,500 W heater won't heat a house | Never use gas ovens or grills indoors for heat |
 
-## Safety do-not list (non-negotiable)
+## Safety rules
 
 Space heaters start home fires every winter when clearance and cord rules slip. Before you plug one in:
 
@@ -278,7 +278,7 @@ This isn't hypothetical: in 2012 an advertising self-regulation program recommen
 - **A space heater is a zone tool.** It saves money only when the central heat runs less — and in heat-pump and many gas homes, the math is tight or negative.
 - **A 1,500 W heater heats one room**, not a house, and can't keep up with a very drafty room.
 - **Duty cycles in our examples are invented** to show the arithmetic. Your Kill A Watt reading replaces them.
-- **Safety beats savings.** No bill trim is worth a fire; follow the do-not list and your manual.
+- **Safety beats savings.** No bill trim is worth a fire; follow the safety rules and your manual.
 - **No universal number.** Rates, climate, insulation, and habits vary too much for honest "you'll save $X" claims.
 
 ## Checklist before you buy (or before you plug in)

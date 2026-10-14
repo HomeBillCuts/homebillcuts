@@ -18,7 +18,7 @@ faqs:
     answer: "Different product class. Window/through-wall units sit in the envelope and draft into living space; central condensers sit outdoors and mainly need debris/snow protection per the manufacturer—not a heating-bill draft stop inside the house. This guide is about window and wall units that punch through glass or masonry."
 ---
 
-A window or through-wall air conditioner left in place for winter is often a hole in the envelope. Cold air moves through the chassis, accordion side panels, and tired sash seals even when the unit is off. Indoor and outdoor AC covers (plus foam side-panel kits) are cheap seasonal tools to cut that draft before you jump to window replacement. In this guide: measure the unit and feel the leaks before you buy, know when removal beats any cover, pick indoor vs outdoor vs foam by job, and install so wind doesn’t steal the cover on night one — without inventing dollar savings.
+A window or through-wall air conditioner left in place for winter is often a hole in the envelope. Cold air moves through the chassis, accordion side panels, and tired sash seals even when the unit is off. Indoor and outdoor AC covers (plus foam side-panel kits) are cheap seasonal tools to cut that draft before you jump to window replacement. Measure the unit and feel for leaks first. Sometimes pulling the AC out beats any cover; otherwise pick an indoor, outdoor or foam cover and fasten it so the wind can't take it the first night.
 
 
 ## What a cover can and cannot do

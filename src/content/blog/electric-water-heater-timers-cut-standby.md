@@ -18,7 +18,7 @@ faqs:
     answer: "Neither is “safer” by being smart. Safety comes from correct amp/voltage rating, proper hardwired install, intact ECO/T&P safeties, and knowing the breaker location. Wi-Fi adds schedule convenience and app failure modes—always know the manual override and breaker."
 ---
 
-Electric storage water heaters spend a lot of kWh keeping a tank hot between draws. A properly rated timer (or smart switch) can shut the heater off during long unused windows — overnight, workdays, or expensive time-of-use (TOU) peaks — so the tank doesn’t recover heat you won’t use. In this guide: walk your schedule and nameplate before you buy, know which homes should skip timers entirely, pick the right device class, and hire the right install — without inventing dollar savings.
+Electric storage water heaters spend a lot of kWh keeping a tank hot between draws. A properly rated timer (or smart switch) can shut the heater off during long unused windows — overnight, workdays, or expensive time-of-use (TOU) peaks — so the tank doesn’t recover heat you won’t use. Check your household's hot water schedule and the heater's label first. Some homes should skip a timer entirely. For the rest, pick the right kind of timer and the right person to install it.
 
 
 ## What a timer can and cannot do

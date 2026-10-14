@@ -18,7 +18,7 @@ faqs:
     answer: "Yes—if you’ll actually flip it. Zero app, zero cloud, zero firmware drama. Automate only when humans forget. Many households should buy a mechanical strip first, meter one week, then add a smart strip only for the AV bank they leave on overnight."
 ---
 
-“Vampire power” (standby load) is real: chargers, game consoles, AV receivers, streaming boxes, printers, and secondary gadgets draw watts while “off.” Smart plugs and smart strips can automate cutoffs — but they’re tools, not magic. In this guide: a measure-first walk, situation priorities and a do-not list, a buyer decision tree, install/use troubleshooting, and a verified Amazon shortlist for US 120V homes.
+“Vampire power” (standby load) is real: chargers, game consoles, AV receivers, streaming boxes, printers, and secondary gadgets draw watts while “off.” Smart plugs and smart strips can automate cutoffs — but they’re tools, not magic. We'll find which devices actually draw power while off, then match each cluster to the cheapest fix that works on a US 120V outlet.
 
 Work the free items on the [priority checklist](/blog/lower-electric-bill-priority-checklist/) before building a smart-home shrine. Hub path: [Start Here](/start-here/). Envelope leaks and HVAC habits still dwarf most standby piles — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [smart thermostats](/blog/best-smart-thermostats-2026/) if the house fights every setpoint. If you’re mid-thermostat swap, pair plug habits with a correct install: [smart thermostat install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/).
 
@@ -50,7 +50,7 @@ Gadgets before data is how you end up with six apps and the same bill. Do this o
 4. **Read watts while “off,”** while idle/on-but-unused, and while in active use. Note anything that never drops near zero.
 5. **Leave it long enough** — minutes for a lamp brick; hours (ideally overnight) for a console, PC, or printer that cycles.
 6. **Rough monthly cost:** idle watts × 24 × 30 ÷ 1000 × your $/kWh. If the math is pennies, spend the cash on [LEDs](/blog/led-bulbs-save-money-wattage-guide/) or drafts instead.
-7. **Decide the cheapest honest fix** using the decision tree below — dumb strip, mini plug, smart strip, monitoring plug, outdoor décor plug, or skip.
+7. **Decide the cheapest honest fix** using the guide below — dumb strip, mini plug, smart strip, monitoring plug, outdoor décor plug, or skip.
 
 **Idle watts worth hunting (ballpark, not a guarantee):** game consoles that never deep-sleep, AV receivers with always-on HDMI, cable boxes, desktop PCs that skip sleep, multi-charger hubs, laser printers, and “off” soundbars. Phone bricks alone are often tiny — the nest of *many* bricks plus a lamp transformer plus a printer is the pile.
 
@@ -112,7 +112,7 @@ Patio string lights and seasonal décor are classic schedules — only on outdoo
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of reading the amp label.
+Use this after you've checked your home, not instead of reading the amp label.
 
 | Your situation | Lean toward | Why |
 | --- | --- | --- |
@@ -261,4 +261,4 @@ If your bill spike is seasonal heating, start with setpoints, filters, and weath
 
 Smart plugs earn their keep when they reliably cut measured standby loads you’d otherwise leave on 24/7 — especially AV clusters and charger nests. They do not replace thermostat discipline, weatherization, or honest bill reading. Measure first, stay inside electrical ratings, prefer listed hardware, leave life-safety and refrigeration alone, and skip savings guarantees.
 
-**Next steps:** [Start Here](/start-here/) → run the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/) → meter one vampire cluster → buy the smallest tool that matches the decision tree above.
+**Next steps:** [Start Here](/start-here/) → run the [electric bill checklist](/blog/lower-electric-bill-priority-checklist/) → meter one vampire cluster → buy the smallest tool that matches the "Which one should you buy?" section above.

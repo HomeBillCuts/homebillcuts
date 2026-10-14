@@ -16,7 +16,7 @@ faqs:
     answer: "Start with a 3-pack or 4-pack on the worst two rooms after you measure the frame perimeter where tape lands. Step up to a 9-pack once you’ve confirmed tape sticks on your trim. Use the oversized patio sheet only for measured patio doors or picture windows that exceed standard 42×62 sheets."
 ---
 
-Single-pane and leaky double-hung windows dump heat all winter. Indoor shrink-film window insulation kits are a cheap, removable way to cut drafts before you jump to full window replacement. In this guide: walk the house before you buy a carton, know which rooms to film first (and which to skip), install so the tape holds through the first cold night, and pick the right pack size — without inventing dollar savings.
+Single-pane and leaky double-hung windows dump heat all winter. Indoor shrink-film window insulation kits are a cheap, removable way to cut drafts before you jump to full window replacement. Walk the house before you buy a carton. Some rooms are worth filming first and some aren't, and the tape has to hold through the first cold night.
 
 
 ## When shrink film helps *your* bill

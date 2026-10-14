@@ -16,7 +16,7 @@ faqs:
     answer: "If several fixtures are still old high-GPM tips, a WaterSense kit (showerhead + aerators) is the fastest bill stack. If only the main shower dumps gallons and you’re picky about spray feel, start with one proven 1.5 GPM fixed head, live with it a week, then add aerators."
 ---
 
-Hot water is often the #2 or #3 electric load in US homes with resistance tanks — and showers are a big slice of that. A WaterSense showerhead and tighter faucet aerators reduce gallons (and the energy to heat them) without replacing the water heater. In this guide: when fixtures help, how to measure what you have, situation priorities and hard do-nots, a buyer decision tree (kit vs premium fixed vs ultra-low vs handheld vs aerators-only vs skip), install troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+Hot water is often the #2 or #3 electric load in US homes with resistance tanks — and showers are a big slice of that. A WaterSense showerhead and tighter faucet aerators reduce gallons (and the energy to heat them) without replacing the water heater. We'll cover when new fixtures help, how to measure the flow you have now, and which kind fits: a kit, a fixed or handheld head, an ultra-low model, aerators alone, or nothing at all.
 
 
 ## When low-flow fixtures actually move the (electric) bill
@@ -117,7 +117,7 @@ Look for the WaterSense mark on packaging when you want certified performance �
 
 ## Which one should you buy?
 
-Use this as a quick filter — then buy only what your measure-first walk supports.
+Use this as a quick filter — then buy only what your own checks support.
 
 1. **Are drips fixed and is the tank basically healthy (not leaking / chronically failing)?**  
    - Yes → go to step 2.  

@@ -26,7 +26,7 @@ faqs:
     answer: "Generally yes, if it has auto shut-off, sits on a water-safe surface 3 or more feet from the bed and walls, and the room stays in the 30–50% range. Use a separate hygrometer to confirm, lower the setting on the coldest nights, and empty and dry the tank in the morning. Keep steam vaporizers out of reach of kids and pets."
 ---
 
-The first week the furnace runs hard, the complaints start: static shocks, cracked lips, a dry throat at 3 a.m. A humidifier fixes that — but people buying one rarely ask the bill question first. In this guide: what each humidifier type draws, what a gallon of moisture actually costs, the hidden heating cost nobody mentions on the box, and how to measure your own unit. The honest answer up front: ultrasonic and evaporative humidifiers cost pennies a day to run, warm-mist units cost dimes to quarters a day, and every gallon you evaporate also asks your heating system for roughly 2.4 kWh of heat.
+The first week the furnace runs hard, the complaints start: static shocks, cracked lips, a dry throat at 3 a.m. A humidifier fixes that — but people buying one rarely ask the bill question first. We'll look at what each type of humidifier draws, what a gallon of moisture costs, and the heating cost that never shows up on the box, plus how to measure your own unit. The honest answer up front: ultrasonic and evaporative humidifiers cost pennies a day to run, warm-mist units cost dimes to quarters a day, and every gallon you evaporate also asks your heating system for roughly 2.4 kWh of heat.
 
 
 ## Why winter air is so dry (and why that matters for cost)
@@ -220,7 +220,7 @@ Older single-pane or leaky windows may sweat even at these levels; newer double-
 
 If you have forced-air heat and every room feels dry, a furnace-mounted bypass humidifier can be cheaper to run than several portable units: it uses little electricity (a solenoid valve and sometimes a small fan), and its water panel typically gets replaced once a season. It still pays the same ~2.4 kWh of heat per gallon evaporated, and bypass units can waste water down the drain. Installation is a real cost if you hire it out. See our [furnace humidifier water panel guide](/blog/furnace-humidifier-water-panels-winter-comfort/) for the maintenance side.
 
-## Should you buy one? A quick decision tree
+## Should you buy one?
 
 1. **Is your indoor RH actually below ~30%?** Check with a hygrometer first. If you're already at 35–45%, you may not need one.
 2. **Are your windows sweating or growing mold?** Don't add humidity — fix ventilation and drafts.

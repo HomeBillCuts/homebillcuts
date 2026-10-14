@@ -26,7 +26,7 @@ faqs:
     answer: "Read the tag first: watts are printed on most UL- or ETL-listed strings, or amps you can multiply by 120 to estimate watts. For anything without a clear label, plug it into a plug-in meter like the P3 Kill A Watt indoors before you hang it, let it run an hour, and read the watts or kWh. Kill A Watt-style meters are indoor devices rated around 15 A, so don't leave one outdoors."
 ---
 
-Holiday lights are one of the few seasonal loads you control completely: you pick the bulbs, the count, and the hours. The bill is just watts × hours × your rate, so the two levers are lower-watt lights and fewer hours on. In this guide: do the math for your own display, fix the free hours problem with a timer, and only replace strings where the numbers say it pays.
+Holiday lights are one of the few seasonal loads you control completely: you pick the bulbs, the count, and the hours. The bill is just watts × hours × your rate, so the two levers are lower-watt lights and fewer hours on. Work out what your own display costs first. A timer fixes the lights-on-all-night problem for free, and you only need to replace strings where the math says it pays.
 
 
 ## The short version

@@ -18,7 +18,7 @@ faqs:
     answer: "Rarely on energy alone. If you braise in the oven once a week, switching to a slow cooker or pressure cooker might save on the order of 20–50 cents per meal, or roughly $10–25 a year — a $60–100 appliance takes years to pay back on electricity alone. The real value is convenience, a cooler kitchen, and not running a big oven for one pot. Buy one because you will use it often, not because of the bill."
 ---
 
-October is chili, stew, and pot-roast season — and it's when people start asking whether the slow cooker, the Instant Pot, or the oven is the cheap way to cook a big pot of food. In this guide: start with your rate, measure one real cook, fix the free habits, and only then decide whether an appliance earns counter space. The honest answer up front: the appliance gap is cents per meal, and an oven used once for a single pot is the most wasteful common choice.
+October is chili, stew, and pot-roast season — and it's when people start asking whether the slow cooker, the Instant Pot, or the oven is the cheap way to cook a big pot of food. Start with your rate, measure one real cook, and fix the free habits. Only then decide whether an appliance has earned the counter space. The honest answer up front: the appliance gap is cents per meal, and an oven used once for a single pot is the most wasteful common choice.
 
 
 ## Why the appliances differ
@@ -71,7 +71,7 @@ Gas looks cheap here because a low simmer needs little heat and gas often costs 
 - **Check doneness with a food thermometer:** 165°F for poultry, 145°F plus rest for whole cuts of beef/pork, 160°F for ground meat.
 - **Pressure cookers:** follow the manual's minimum liquid, max-fill line, and release instructions; never force the lid open.
 
-## Should you buy one? A quick decision tree
+## Should you buy one?
 
 - **You braise in the oven weekly and own neither:** a basic 6–7 qt slow cooker is the cheapest way in. A programmable model that switches to warm when done helps if you work long days.
 - **You want weeknight speed (beans, stock, rice, stews in an hour):** an electric pressure cooker that also has a slow-cook mode replaces both.

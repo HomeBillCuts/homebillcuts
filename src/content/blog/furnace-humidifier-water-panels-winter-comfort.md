@@ -18,7 +18,7 @@ faqs:
     answer: "Over-humidifying mainly risks condensation, mold, and finish damage — not a magic bill spike — but wet windows and musty rooms are expensive in other ways. A leaking humidifier cabinet, stuck solenoid, or blocked drain can also waste water and invite service calls. Never block combustion air or dryer vents while “sealing the mechanical room,” and shut the unit down if the drain path fails."
 ---
 
-Dry winter air makes rooms feel colder than the thermostat says. Skin cracks, sinuses complain, and people often turn the heat up when the real discomfort is low relative humidity. A working whole-house furnace humidifier (with a fresh water panel) — or a measured portable setup when you don’t have one — can improve comfort so you may keep setpoints honest. In this guide: measure RH before you buy, match water panel size (#10 vs #35) to your cabinet, know when a portable + hygrometer is the better path, and respect over-humidify risks — without inventing dollar savings.
+Dry winter air makes rooms feel colder than the thermostat says. Skin cracks, sinuses complain, and people often turn the heat up when the real discomfort is low relative humidity. A working whole-house furnace humidifier (with a fresh water panel) — or a measured portable setup when you don’t have one — can improve comfort so you may keep setpoints honest. Measure your humidity before you buy, match the panel (#10 or #35) to your humidifier, and know when a portable unit and a hygrometer make more sense. Too much humidity has its own risks.
 
 
 ## What humidity can and cannot do for the bill

@@ -18,7 +18,7 @@ faqs:
     answer: "It varies with fabric, spin speed, room temperature, humidity, and airflow. Thin synthetics and cotton tees can be dry in several hours in a warm dry room; heavy towels, jeans, and hoodies may need overnight or most of a day, longer in a cool humid basement. Use the washer's highest safe spin, leave space between items, flip thick pieces halfway, and add a fan. If loads routinely smell musty, the room is too humid or the items are packed too tightly."
 ---
 
-A clothes dryer is one of the bigger single loads in many US homes, and an indoor drying rack is one of the few fixes that costs less than a tank of gas and needs no tools. The catch: indoor air-drying is a habit change, it adds moisture to your house, and it only saves money on loads you genuinely move off the dryer. In this guide: estimate what your dryer actually costs you before buying, pick the right rack type for your loads and floor space, manage humidity with a hygrometer instead of guessing, avoid the safety mistakes, and stay honest about limits.
+A clothes dryer is one of the bigger single loads in many US homes, and an indoor drying rack is one of the few fixes that costs less than a tank of gas and needs no tools. The catch: indoor air-drying is a habit change, it adds moisture to your house, and it only saves money on loads you genuinely move off the dryer. Estimate what your dryer actually costs before you buy. Then pick a rack that fits your loads and floor space, and track humidity with a hygrometer instead of guessing.
 
 
 ## You save on skipped loads, not on owning a rack
@@ -173,7 +173,7 @@ Already machine-drying long cycles? A clogged vent stretches every load. Clean i
 ### What we left out
 
 - **Heated / electric drying racks** — they use electricity to do what room air does for free; a fan is cheaper to run. They can make sense for very small spaces, but they're not a bill-cut buy.
-- **Space-heater-plus-rack hacks** — fire risk; see the do-not list.
+- **Space-heater-plus-rack hacks** — fire risk; see the "What not to do" list.
 - **Dehumidifier as a default add-on** — only buy one if your hygrometer proves the room stays humid, and remember it uses power.
 - **Invented ASINs** or "save $X per year" claims.
 

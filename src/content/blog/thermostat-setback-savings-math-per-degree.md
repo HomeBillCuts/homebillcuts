@@ -20,7 +20,7 @@ faqs:
     answer: "Many households use about 68°F awake and home and 60–64°F asleep or away in winter, and around 78°F home with higher away setpoints in summer. Keep homes with infants, older adults, or medically vulnerable people warmer, use only 2–4°F setbacks on heat pumps and slow radiant systems, and don't let any home drop to where pipes could freeze — keep at least about 55°F when away in freezing weather."
 ---
 
-The thermostat is the cheapest "upgrade" in the house because you already own it. The honest question is how much a setback actually saves on *your* bill — not a marketing percentage on a box. In this guide: you'll compute your own heating (and cooling) dollars per degree from your bill, run the night and away math for gas, electric resistance, and heat pumps, learn how to check the result with heating degree days so a cold snap doesn't fool you, and only then decide whether a new thermostat is worth buying.
+The thermostat is the cheapest "upgrade" in the house because you already own it. The honest question is how much a setback actually saves on *your* bill — not a marketing percentage on a box. Using your own bill, you'll work out what one degree is worth and run the numbers for nights and time away with gas, electric resistance and heat pumps. Heating degree days help you check the result so a cold snap doesn't fool you.
 
 
 ## The 60-second version

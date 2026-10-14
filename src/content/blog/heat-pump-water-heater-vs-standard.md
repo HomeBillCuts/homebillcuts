@@ -18,7 +18,7 @@ faqs:
     answer: "No. Plug-in meters are for 120V corded loads within their amp rating. For the water-heater circuit itself use a properly installed whole-home monitor on that breaker, utility interval data, or a licensed electrician’s instrumentation—never adapt 240V hardwire onto a 120V meter."
 ---
 
-Water heating is often the second-largest electric load in all-electric US homes (after space conditioning). A heat pump water heater (HPWH / hybrid) can use far fewer kWh than a standard resistance tank — but only when the install location, plumbing, condensate, electrical service, and noise fit your house. In this guide: honest framing, a measure-first walk, situation priorities and a do-not list, a buyer decision tree (keep + insulate / timer vs hybrid vs tankless vs hire vs skip), tradeoffs, install troubleshooting, and a verified Amazon accessory shortlist — without inventing “save $X/year” guarantees.
+Water heating is often the second-largest electric load in all-electric US homes (after space conditioning). A heat pump water heater (HPWH / hybrid) can use far fewer kWh than a standard resistance tank — but only when the install location, plumbing, condensate, electrical service, and noise fit your house. Below, we compare keeping your tank (with insulation or a timer) against a hybrid heat pump unit, tankless, or hiring out the job, and explain what has to be true in your home for each to pay off.
 
 
 ## Efficiency brochure ≠ your bill
@@ -78,7 +78,7 @@ If the tank is already leaking or the T&P is dumping continuously, prioritize sa
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of it.
+Use this after you've checked your home, not instead of it.
 
 1. **Is the current tank leaking, rusting through, or past a safe service life with no fix?**  
    - Yes → plan replacement (hybrid or resistance) with a licensed pro if you’re not equipped. Don’t “wait one more year” on a tank that’s already weeping over finished space.  
@@ -221,4 +221,4 @@ If a listing promises guaranteed bill cuts from a tank alone with no location ca
 
 ## Bottom line
 
-A heat pump water heater is one of the best electric water-heating upgrades when location, condensate, noise, and electrical service cooperate — and when you’ve already grabbed the cheap waste fixes. A standard resistance tank plus insulation, fixtures, and maybe a timer remains the honest choice when the house can’t host a hybrid without a remodel. Accessories like expansion tanks, pans, condensate pumps, and pipe foam are boring — and they prevent expensive failures while stacking with either tank. Measure first, use the decision tree (including skip and hire), verify rebates, never defeat safeties, and skip guaranteed dollar claims. Next: [Start Here](/start-here/) or [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) to watch the kWh shift.
+A heat pump water heater is one of the best electric water-heating upgrades when location, condensate, noise, and electrical service cooperate — and when you’ve already grabbed the cheap waste fixes. A standard resistance tank plus insulation, fixtures, and maybe a timer remains the honest choice when the house can’t host a hybrid without a remodel. Accessories like expansion tanks, pans, condensate pumps, and pipe foam are boring — and they prevent expensive failures while stacking with either tank. Measure first, use the "Which one should you buy?" section (including skip and hire), verify rebates, never defeat safeties, and skip guaranteed dollar claims. Next: [Start Here](/start-here/) or [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) to watch the kWh shift.

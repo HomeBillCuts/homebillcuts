@@ -20,7 +20,7 @@ faqs:
 
 If your heat pump bill jumped the first cold week of the year, the usual suspect isn't the heat pump. It's the backup heat — the electric resistance strips (labeled AUX or backup heat on the thermostat) that kick in when the thermostat thinks the heat pump needs help. Strips are simple and reliable, and they cost several times more per hour of heat than the heat pump itself. On many systems they run far more than they need to because of factory-default thermostat settings, big overnight setbacks, or a dirty filter.
 
-In this guide: figure out what your strips cost per hour, confirm whether aux is actually running too much, fix the free settings on the thermostat you already own, and only then decide whether a heat-pump-aware thermostat or an outdoor sensor is worth buying.
+Work out what your backup strips cost per hour and confirm whether aux really runs too much. Fix the free settings on the thermostat you already own before deciding whether a heat-pump-aware thermostat or an outdoor sensor is worth buying.
 
 
 ## AUX vs EM heat vs the heat pump: 60-second version

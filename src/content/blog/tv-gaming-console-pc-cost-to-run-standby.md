@@ -24,7 +24,7 @@ faqs:
     answer: "An advanced or 'smart' power strip senses when a control device — usually the TV — turns off and cuts power to the switched outlets for things like the soundbar, console, and Blu-ray player, while leaving always-on outlets for the cable box or router. It's worth it when your cluster idles at roughly 15 W or more and you won't flip a switch yourself. If your cluster already idles under 5 W, skip it."
 ---
 
-Electronics feel like small potatoes next to heating and cooling, and usually they are. But a living room with a big TV, a console left in instant-on mode, a cable box, a soundbar, and a gaming PC upstairs that never sleeps can quietly add $100–$300 a year in some households. In this guide: what each device draws, the standby trap, how to measure your own setup in a week, worked examples for three common households, the free settings that do most of the work, and when (rarely) buying something pays back. The honest answer up front: the screen and the gaming hours are what they are — the cheap wins are idle and standby watts.
+Electronics feel like small potatoes next to heating and cooling, and usually they are. But a living room with a big TV, a console left in instant-on mode, a cable box, a soundbar, and a gaming PC upstairs that never sleeps can quietly add $100–$300 a year in some households. We'll go through what each device draws, how standby sneaks up on you, how to measure your own setup in a week, and three example households, along with the free settings that do most of the work. The honest answer up front: the screen and the gaming hours are what they are — the cheap wins are idle and standby watts.
 
 
 ## The only formula you need

@@ -18,7 +18,7 @@ faqs:
 
 Heating season is when stack effect shows up as a cold plume under the hallway attic stairs: warm indoor air rises, dumps through the thin factory panel into a vented attic, and your furnace or heat pump runs longer to keep up. A folding attic stair or plain scuttle hatch is often one of the largest holes between conditioned living space and the attic — bigger than a dozen outlet gaps. Rigid stair covers, zippered attic tents, and simple hatch foam + weatherstrip upgrades close that ceiling bypass — without inventing dollar savings for your address.
 
-In this guide: walk and measure before you buy, prioritize situations that actually move comfort and runtime, pick rigid box vs zipper tent vs DIY hatch with a decision tree, install safely, and troubleshoot fit problems — then keep going with attic insulation and broader air sealing.
+Measure the opening before you buy. Then choose a rigid box, a zipper tent or a DIY hatch cover, and fit it so it seals.
 
 
 ## When attic stairs and hatches move the bill
@@ -66,7 +66,7 @@ Ordering a 25×54 Battic for a 22×54 stair — or a 13″ box under a truss tha
 
 Wrong size = return hassle in a dusty attic. Measure twice; photograph once.
 
-## Location / situation priorities + do-not-cover safety list
+## What to do first
 
 ### Do these first
 
@@ -215,11 +215,11 @@ It can help when stairs/hatches are large ceiling bypasses — sealing can cut d
 
 ### Should I buy a rigid Battic-style box or a zippered attic tent?
 
-Rigid box for cold climates + rare trips + enough clearance; zipper tent for frequent access or low headroom; DIY foam + weatherstrip for plain scuttles. Empty attics may need [insulation](/blog/attic-insulation-approaches-when-to-call-pro/) and [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) first — see the decision tree above.
+Rigid box for cold climates + rare trips + enough clearance; zipper tent for frequent access or low headroom; DIY foam + weatherstrip for plain scuttles. Empty attics may need [insulation](/blog/attic-insulation-approaches-when-to-call-pro/) and [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) first — see the "Which one should you buy?" section above.
 
 ### How do I measure for an attic stair insulation kit?
 
-Measure attic-floor rough opening width × length (not downstairs trim). 22×54 and 25×54 are not interchangeable. Check clearance above the folded ladder and photograph for brand fit charts — see the measure-first walk.
+Measure attic-floor rough opening width × length (not downstairs trim). 22×54 and 25×54 are not interchangeable. Check clearance above the folded ladder and photograph for brand fit charts — see the checks above.
 
 ### What should I do before covering the attic stairs?
 
@@ -244,4 +244,4 @@ Wrong size, cocked gasket, open/poorly stapled zipper, tight clearance crushing 
 
 ## Bottom line
 
-Treat the attic stair or hatch as a door to outdoors above your head: complete the measure-first walk (pull-down vs scuttle, rough opening WxL — not trim — clearance, framing, photo; remember 22×54 vs 25×54 are not interchangeable), respect the do-not-cover safety list, then pick rigid Battic-style box vs zipper tent vs DIY hatch foam + weatherstrip vs call a pro with the decision tree. Install for a continuous air seal, use the troubleshooting table when fit fails, and keep going with [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) and broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) rather than stopping at one product. For order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+Treat the attic stair or hatch as a door to outdoors above your head: check the basics first (pull-down vs scuttle, rough opening WxL — not trim — clearance, framing, photo; remember 22×54 vs 25×54 are not interchangeable), respect the do-not-cover safety list, then pick rigid Battic-style box vs zipper tent vs DIY hatch foam + weatherstrip vs call a pro with the "Which one should you buy?" section. Install for a continuous air seal, use the troubleshooting table when fit fails, and keep going with [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) and broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) rather than stopping at one product. For order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

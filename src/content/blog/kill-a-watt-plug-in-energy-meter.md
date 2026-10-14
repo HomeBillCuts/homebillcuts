@@ -22,7 +22,7 @@ A plug-in watt meter does not save kilowatt-hours by sitting in the wall. It sto
 
 If you’ve ever stared at a high bill and guessed — “must be the fridge,” “must be the TV,” “I need a whole-home monitor” — this guide is the cheap middle step. A classic Kill A Watt–style meter (and, later, energy-monitoring smart plugs) tells you what a *specific* 120V appliance actually draws: standby watts, running watts, and accumulated kWh. That truth is usually cheaper than another smart widget.
 
-This page is practical: honest framing, a stronger measure-first walk with bill math using *your* rate, situation priorities and a do-not list, a buyer decision tree table, install/use troubleshooting, honest limits, and a short post-setup checklist that can actually move kWh.
+Below, you'll measure a few appliances, turn the readings into dollars at *your* rate, and get a short list of things to do afterward that actually move kWh.
 
 Start with the free path: the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Position this tool correctly:
 
@@ -180,7 +180,7 @@ Spend the meter’s time on cycling loads and multi-device clusters.
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of reading the amp label on the tool you buy.
+Use this after you've checked your home, not instead of reading the amp label on the tool you buy.
 
 | Your situation | Lean toward | Why |
 | --- | --- | --- |

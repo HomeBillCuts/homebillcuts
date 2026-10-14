@@ -18,7 +18,7 @@ faqs:
     answer: "Yes. Reflectors do not fix door gaps, leaky sash, or an open attic stair. Do weatherstripping, window film, and obvious air sealing first so the heat you redirect into the room actually stays there. Then add reflectors on exterior-wall radiators or baseboards that still feel like they cook the plaster more than the air."
 ---
 
-Radiators and electric baseboards on exterior walls do two jobs at once: they warm the room you live in, and they warm the cold wall behind them. That second job is mostly waste — masonry, plaster, or thin cavity walls soak radiant heat that never reaches the sofa. Radiator heat reflectors (foil-faced foam panels or double-bubble reflective insulation cut and placed behind the heater) are a cheap, reversible way to send more of that radiant energy back into the room. In this guide: measure which units sit on exterior walls, choose Reflectix-class rolls vs a dedicated panel, install with real clearances, and skip invented savings percentages.
+Radiators and electric baseboards on exterior walls do two jobs at once: they warm the room you live in, and they warm the cold wall behind them. That second job is mostly waste — masonry, plaster, or thin cavity walls soak radiant heat that never reaches the sofa. Radiator heat reflectors (foil-faced foam panels or double-bubble reflective insulation cut and placed behind the heater) are a cheap, reversible way to send more of that radiant energy back into the room. Figure out which radiators and baseboards sit on outside walls, then choose a Reflectix-style roll or a purpose-made panel and install it with proper clearance.
 
 
 ## Redirect radiant heat, don’t invent R-miracles

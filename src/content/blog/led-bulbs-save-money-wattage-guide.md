@@ -18,7 +18,7 @@ faqs:
     answer: "No. Once a low-watt dumb LED is in a high-hour socket, the bill math is mostly done. Smart bulbs shine for schedules, scenes, and remote control—useful if humans leave lights on, not as a substitute for swapping remaining inefficient lamps first."
 ---
 
-LED bulbs are one of the easiest efficiency upgrades left in many US homes — but easy is not the same as will transform your electric bill. Lighting is often a smaller slice of household kWh than HVAC or water heating. In this guide: when LED swaps actually move the bill, the measure-first house walk, situation priorities and do-not list, buyer decision tree (A19 vs BR30 vs candelabra vs outdoor vs smart vs skip), lumen/wattage cheat table, install troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+LED bulbs are one of the easiest efficiency upgrades left in many US homes — but easy is not the same as will transform your electric bill. Lighting is often a smaller slice of household kWh than HVAC or water heating. Not every socket is worth switching. We'll show which ones are, how lumens map to old wattages, and which bulb shape you need: A19, BR30, candelabra, outdoor or smart.
 
 If you’re prioritizing actions for this billing cycle, keep the [priority checklist](/blog/lower-electric-bill-priority-checklist/) above any shopping cart. New visitors: [Start Here](/start-here/). Envelope leaks and HVAC habits still usually outrank lighting — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [HVAC filters](/blog/hvac-air-filters-merv-efficiency/) if the house fights every setpoint. Prove lighting (or anything else) with a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/), [smart plugs](/blog/best-smart-plugs-vampire-power/), or a [whole-home monitor](/blog/emporia-vue-vs-sense/) when you want numbers instead of guesses.
 
@@ -102,7 +102,7 @@ If any do-not item matches your plan, pause the cart — the wrong bulb in the w
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of it.
+Use this after you've checked your home, not instead of it.
 
 1. **Socket already has a decent LED** (right color, no flicker, roughly enough lumens)?  
    - Yes → Skip / keep. Move to the next high-hour inefficient socket.  
@@ -191,7 +191,7 @@ Other practical gotchas:
 
 > We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
-Match form factor and dimmable/outdoor needs from your measure-first walk. Keep working LEDs that already fit.
+Match form factor and dimmable/outdoor needs from your walk-through. Keep working LEDs that already fit.
 
 ### Best everyday swap: ultra-efficient soft-white A19 multipack (~800–850 lm)
 
@@ -272,4 +272,4 @@ Match form factor and dimmable/outdoor needs from your measure-first walk. Keep 
 
 ## Bottom line
 
-Yes — LEDs save money versus leaving incandescents and halogens in high-hour sockets, especially when you match lumens, buy the right form factor, and keep daylight bulk packs in utility spaces. No — they rarely outperform fixing setpoints, filters, and air leaks on a percentage-of-bill basis, and they won’t rewrite a bill that’s already mostly LED. Walk the house first, use the lumen table, follow the decision tree (including skip when the socket is already fine), and keep expectations honest. Continue with [Start Here](/start-here/) for what to tackle next.
+Yes — LEDs save money versus leaving incandescents and halogens in high-hour sockets, especially when you match lumens, buy the right form factor, and keep daylight bulk packs in utility spaces. No — they rarely outperform fixing setpoints, filters, and air leaks on a percentage-of-bill basis, and they won’t rewrite a bill that’s already mostly LED. Walk the house first, use the lumen table, follow the "Which one should you buy?" section (including skip when the socket is already fine), and keep expectations honest. Continue with [Start Here](/start-here/) for what to tackle next.

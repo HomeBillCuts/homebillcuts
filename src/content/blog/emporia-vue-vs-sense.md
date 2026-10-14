@@ -16,7 +16,7 @@ faqs:
     answer: "No. A monitor diagnoses runtime and mystery loads; it does not seal drafts, change setpoints, or stage a heat pump better. Fix filters, obvious leaks, and schedules first—then use monitor data to decide whether EV charging, aux heat, or a bad appliance is the real problem."
 ---
 
-Whole-home energy monitors promise to show *what* is driving your electric bill. Two names come up constantly: Emporia Vue and Sense. In this guide: walk your utility data and plug loads before you open the panel, choose circuit clamps vs detection for the question you actually have, and install so the numbers stay trustworthy — without invented savings guarantees.
+Whole-home energy monitors promise to show *what* is driving your electric bill. Two names come up constantly: Emporia Vue and Sense. Look at your utility data and plug loads before you open the panel. Then choose circuit clamps or device detection for the question you actually have, and install the monitor so its numbers stay trustworthy.
 
 Monitors don’t save kWh by themselves. Behavior change and repairs do. If you need the action order first, read the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). A [$30 plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) or [monitoring smart plugs](/blog/best-smart-plugs-vampire-power/) often answer a single-appliance mystery cheaper than a panel kit. Pair monitoring with a realistic [smart thermostat](/blog/best-smart-thermostats-2026/) schedule only after you’ve fixed obvious waste.
 

@@ -80,7 +80,7 @@ Write the bead size, opening width, and “daylight? Y/N” on a sticky note bef
 - **Don’t ignore an off-track door, frayed cables, or an opener that struggles** — fix the door first, then seal.
 - **Don’t caulk the door to the floor** as a “permanent” fix — overhead doors must travel; use designed seals and thresholds only.
 
-If any item on the do-not list applies, pause the Amazon cart and call a garage-door tech for the mechanical problem.
+If any item on the "What not to do" list applies, pause the Amazon cart and call a garage-door tech for the mechanical problem.
 
 ## Product types at a glance
 
@@ -96,7 +96,7 @@ If any item on the do-not list applies, pause the Amazon cart and call a garage-
 
 ## Which one should you buy?
 
-Use this as a quick filter — then buy only what your measure-first walk supports.
+Use this as a quick filter — then buy only what your own checks support.
 
 1. **Daylight or wind under the closed door?**  
    - Yes → go to step 2.  

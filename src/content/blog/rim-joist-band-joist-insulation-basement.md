@@ -20,7 +20,7 @@ faqs:
 
 Heating season is when rim joists (also called band joists) show up as cold floors and long furnace cycles: the short vertical board at the end of each floor joist sits on the foundation sill, often with little or no insulation and plenty of cracks at the sill plate, joist notches, and cable holes. Outdoor air washes the cold sheathing; stack effect pulls that air up into the house. Cut-to-fit foam board plus an edge air seal (or pro closed-cell spray foam) is the usual fix for unfinished basements and crawlspaces — without inventing dollar savings for your address.
 
-In this guide: walk every accessible rim bay and measure before you buy, prioritize dry exterior walls under living space, pick foam-board DIY vs mineral wool vs pro spray vs skip with a decision tree, respect moisture and thermal-barrier rules, install and troubleshoot, then keep going with [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), [crawl space vent covers](/blog/crawl-space-vent-covers-winter/), and [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) (attic plane is a different job).
+Look at every rim bay you can reach and measure before you buy, starting with dry outside walls under living space. Then choose DIY foam board, mineral wool or pro spray foam, and follow the moisture and fire-barrier rules.
 
 
 ## The band at the foundation–floor junction

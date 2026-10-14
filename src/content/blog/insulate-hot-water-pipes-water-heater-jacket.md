@@ -16,7 +16,7 @@ faqs:
     answer: "Start with slit foam tubes sized to measured OD for straight accessible hot runs. Add rubber insulation tape for elbows, tees, and valves. Use foil-backed fiberglass wrap only when foam won’t seat or sizes don’t match. Skip finished walls you won’t open—focus on the mechanical room and exposed basement or garage lines."
 ---
 
-Hot water that sits in unconditioned basements, crawlspaces, or long garage runs cools between draws — then the tank reheats more often. Foam pipe insulation and (sometimes) an electric storage-tank jacket are cheap weatherization steps that reduce that waste. In this guide: when they help, how to measure before you buy, situation priorities and hard safety limits, a buyer decision tree (foam vs foil vs tape vs jacket vs skip vs pro/HPWH), install troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+Hot water that sits in unconditioned basements, crawlspaces, or long garage runs cools between draws — then the tank reheats more often. Foam pipe insulation and (sometimes) an electric storage-tank jacket are cheap weatherization steps that reduce that waste. Pipe wrap and a tank jacket help in some homes and are a waste in others. We'll show how to check yours, the safety limits, and how foam, foil, tape and jackets compare.
 
 
 ## When pipe insulation actually moves your bill
@@ -107,7 +107,7 @@ If any do-not item applies, pause the jacket cart — pipe insulation on accessi
 
 ## Which one should you buy?
 
-Use this as a quick filter — then buy only what your measure-first walk supports.
+Use this as a quick filter — then buy only what your own checks support.
 
 1. **Are there accessible hot runs in cold unconditioned space (basement, crawlspace, garage, mechanical room)?**  
    - Yes → go to step 2.  

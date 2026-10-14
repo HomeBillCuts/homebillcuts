@@ -18,7 +18,7 @@ faqs:
     answer: "Mostly for taste, not the bill. Heating water to 175°F for green tea instead of a full boil saves a little energy per cup, but the difference is a fraction of a cent. Buy a variable-temperature kettle if you drink tea or pour-over coffee and want the control; don't buy one expecting meaningful savings."
 ---
 
-Boiling water is one of the most repeated energy jobs in a kitchen: coffee, tea, oatmeal, instant noodles, pasta head starts. It's also one of the easiest places to see the physics of your electric bill. The cheapest boil is the one sized to what you actually pour, and the device you use matters less than people think — but it still matters. In this guide: start with how much energy water really needs, measure what your kettle, stove, or microwave uses, fix the free habits, and only then decide whether a new kettle earns counter space.
+Boiling water is one of the most repeated energy jobs in a kitchen: coffee, tea, oatmeal, instant noodles, pasta head starts. It's also one of the easiest places to see the physics of your electric bill. The cheapest boil is the one sized to what you actually pour, and the device you use matters less than people think — but it still matters. We'll start with how much energy water really needs, then measure what your kettle, stove or microwave uses. Fix the free habits before you decide whether a new kettle has earned the counter space.
 
 
 ## The physics floor: how much energy does water actually need?

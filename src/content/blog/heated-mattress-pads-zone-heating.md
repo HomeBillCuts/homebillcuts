@@ -16,7 +16,7 @@ faqs:
     answer: "Often yes for comfort leverage. A pad warms the sleeper; it does not fix a sieve bedroom. Weatherstripping, window film, and thermal curtains cut the drafts that make you crank the house warmer overnight. Pads still help when you can set back—but sealing first usually makes the setback more tolerable."
 ---
 
-Heating empty bedrooms all night is expensive. Warming the bed (and the person in it) with a heated mattress pad while you drop the whole-house overnight setpoint is a quieter, lower-wattage cousin of [oil-filled space-heater zone heating](/blog/oil-filled-space-heaters-zone-heating/) — when you actually change the thermostat and follow safety rules. In this guide: when bed-zone heat helps, when it doesn’t, how to measure your sleep setup before you buy, pad vs blanket vs SoftHeat vs oil-filled tradeoffs, a decision tree, first-use troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+Heating empty bedrooms all night is expensive. Warming the bed (and the person in it) with a heated mattress pad while you drop the whole-house overnight setpoint is a quieter, lower-wattage cousin of [oil-filled space-heater zone heating](/blog/oil-filled-space-heaters-zone-heating/) — when you actually change the thermostat and follow safety rules. A heated pad helps in some bedrooms and not others. We'll show how to check your sleep setup and compare pads, blankets, SoftHeat and oil-filled heaters.
 
 
 ## When bed-zone heat actually moves your bill
@@ -100,7 +100,7 @@ Comparing a bedroom space heater's nightly cost with a pad? The [space heater co
 
 ## Which one should you buy?
 
-Use this as a quick filter — then buy only what your measure-first walk supports.
+Use this as a quick filter — then buy only what your own checks support.
 
 1. **Can everyone in the home safely take a modest overnight thermostat setback?**  
    - Yes → go to step 2 (bill strategy is in play).  

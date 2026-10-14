@@ -16,7 +16,7 @@ faqs:
     answer: "Fix free checklist habits and dirty filters first. Then seal static cracks, penetrations, and exterior-wall outlets with caulk/foam/gaskets; seal moving door bottoms and sash edges with weatherstripping; use shrink film and thermal curtains for cold glass faces. Stack tools when the house leaks in more than one way—don’t film an egress bedroom shut while people sleep there."
 ---
 
-Heating season is when leaky envelopes show up on the bill: conditioned air escapes through tiny holes, and your furnace or heat pump works harder to keep up. Caulk, low-expansion foam, foam backer rod, and outlet/switch gaskets sit *beside* door sweeps and window film — not as a replacement for either. In this guide: walk before you buy, prioritize leaks that touch outdoors or attics, pick caulk vs foam vs gaskets with a decision tree, and install safely — without inventing dollar savings.
+Heating season is when leaky envelopes show up on the bill: conditioned air escapes through tiny holes, and your furnace or heat pump works harder to keep up. Caulk, low-expansion foam, foam backer rod, and outlet/switch gaskets sit *beside* door sweeps and window film — not as a replacement for either. Look before you buy, and start with leaks that open to outdoors or the attic. Then choose caulk, foam or gaskets for each one.
 
 Pull-down attic stairs and thin hatches are often larger leaks than a few outlet gaps — cover them with [attic stair & hatch insulation kits](/blog/attic-stair-hatch-insulation-covers/) while you caulk and foam.
 
@@ -218,7 +218,7 @@ They can help when many small envelope leaks add HVAC runtime—exterior-wall ou
 
 Caulk hairline static cracks at trim and baseboards. Use minimal-expanding gaps-and-cracks foam for irregular voids around pipes and wires; use window-and-door low-pressure foam in rough openings so frames don’t bow. Put foam gaskets behind exterior-wall cover plates for a fast, reversible win. Stuff backer rod into deep joints before caulk so the bead can flex.
 
-### Where should I look first on a measure-first draft walk?
+### Where should I look first when hunting for drafts?
 
 Prioritize exterior-wall outlets/switches, exterior-wall baseboards, cable and pipe penetrations, vent boot perimeters, attic hatch edges, and plumbing holes behind cabinets. A cool breezy day or HVAC running makes drafts easier to feel with incense, tissue, or a damp hand. Size gaps before you buy foam.
 
@@ -249,4 +249,4 @@ Fix free checklist habits and dirty filters first. Then seal static cracks, pene
 
 ## Bottom line
 
-Start with a measure-first walk: incense/tissue, exterior outlets, baseboards, penetrations, vent boots, attic hatch, and cabinets — then size gaps before you buy. Seal exterior-wall gaskets, caulk, and the right foam for the gap; use Window & Door foam only in rough openings; keep foam out of electrical-box interiors; don’t starve combustion appliances of air. Use the decision tree before you cart cans — and stack with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window film](/blog/window-insulation-kits-winter-drafts/), or [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) when doors and glass still leak. Skip guaranteed-savings claims — your leakiness and rates decide the outcome. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+Start by looking around: incense/tissue, exterior outlets, baseboards, penetrations, vent boots, attic hatch, and cabinets — then size gaps before you buy. Seal exterior-wall gaskets, caulk, and the right foam for the gap; use Window & Door foam only in rough openings; keep foam out of electrical-box interiors; don’t starve combustion appliances of air. Use the "Which one should you buy?" section before you cart cans — and stack with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window film](/blog/window-insulation-kits-winter-drafts/), or [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) when doors and glass still leak. Skip guaranteed-savings claims — your leakiness and rates decide the outcome. For the broader order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

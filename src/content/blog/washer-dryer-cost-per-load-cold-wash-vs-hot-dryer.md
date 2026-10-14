@@ -26,7 +26,7 @@ faqs:
     answer: "It can. Lint buildup, a crushed foil duct or a stuck outdoor flap slows airflow, so clothes take longer to dry and the dryer runs more minutes per load. If a load that used to take 45 minutes now takes 70 or two cycles, a restricted vent is a prime suspect — and it's also a fire risk. Clean the lint filter every load and the full vent run at least yearly; replace crushed foil ducts with semi-rigid or rigid metal."
 ---
 
-Laundry is one of the easiest places to see real money because you do it every week. The honest question is what one load costs on *your* bill — and which settings actually change it. In this guide: per-load math by rate, where the energy really goes (hint: hot water and the dryer, not the washer motor), how to measure what you can, four worked households, and when buying anything makes sense.
+Laundry is one of the easiest places to see real money because you do it every week. The honest question is what one load costs on *your* bill — and which settings actually change it. We'll do the per-load math at your rate and show where the energy really goes: hot water and the dryer, not the washer motor. There are also four example households and notes on when buying anything makes sense.
 
 
 ## The short version

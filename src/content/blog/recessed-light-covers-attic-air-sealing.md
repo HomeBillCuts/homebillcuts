@@ -20,7 +20,7 @@ faqs:
 
 Heating season is when recessed can lights show up as cold spots and long furnace cycles: each metal can is a chimney through the ceiling drywall into a vented attic. Warm indoor air rises through the housing and trim gaps; cellulose and fiberglass get shoved aside so the fixture does not overheat — and those cleared bowls become permanent attic-floor leaks. Fire-safe recessed light covers (Tenmat FF130E-class mineral-wool domes, Battic-class ABS air-sealing covers, and similar listed products) let you restore a continuous air and insulation plane over the cans — without cardboard hacks and without inventing dollar savings for your address.
 
-In this guide: walk the attic and read IC labels before you buy, prioritize rooms and fixture types that actually move comfort and runtime, pick cover vs airtight remodel vs call-an-electrician with a decision tree, install to listed clearances, and troubleshoot fit and overheating — then keep going with [attic stair covers](/blog/attic-stair-hatch-insulation-covers/), [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/), and broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/).
+Go into the attic and read the IC labels before you buy. Then choose a cover, an airtight retrofit or an electrician, install to the listed clearances, and check for fit and overheating.
 
 
 ## Attic-floor holes with a fire rule attached
@@ -166,7 +166,7 @@ Walk the tree in order:
 
 ### 3) Best whole-attic carton: Tenmat FF130E case of 20
 
-**Best for:** Older homes with many cans where you’ve finished the measure-first walk and want one carton instead of mixed singles.
+**Best for:** Older homes with many cans where you’ve finished the checks above and want one carton instead of mixed singles.
 
 **Watch-outs:** Confirm your count before checkout. Flexible covers can be trimmed for joists/wires — don’t crush junction boxes. Pair with insulation top-dress only after covers seat and bases seal.
 
@@ -246,7 +246,7 @@ Only if the fixture is IC-rated (Insulation Contact) and you follow the manufact
 
 ### Tenmat cover vs airtight remodel housing vs LED wafer — which should I buy?
 
-Keep the existing cans and add fire-safe attic covers when the housings are sound, you have attic access, and you want a measure-first DIY air seal before or while topping insulation. Choose airtight IC-AT remodel housings or listed canless LED wafers when cans are non-IC, damaged, overheating, or you are renovating the ceiling from below — that path is usually an electrician job. Skip shopping if cans are already airtight IC-AT with continuous insulation and no draft at the trim.
+Keep the existing cans and add fire-safe attic covers when the housings are sound, you have attic access, and you want a careful DIY air seal before or while topping insulation. Choose airtight IC-AT remodel housings or listed canless LED wafers when cans are non-IC, damaged, overheating, or you are renovating the ceiling from below — that path is usually an electrician job. Skip shopping if cans are already airtight IC-AT with continuous insulation and no draft at the trim.
 
 ### How do I tell if my recessed lights are IC-rated?
 
@@ -274,4 +274,4 @@ Call a licensed electrician for scorched cans, cycling thermal protectors, knob-
 
 ## Bottom line
 
-Treat recessed cans as small chimneys with a fire rule: complete the measure-first walk (count fixtures, read IC vs non-IC, note lamps and joist conflicts, photograph labels, safety-pass wiring), respect the do-not list (never bury non-IC, no cardboard, no foam tombs on hot housings), then pick Tenmat FF130E-class fire-safe covers vs airtight IC-AT remodel / wafer (electrician) vs skip with the decision tree. Seal cover skirts with allowed fire-rated caulk, restore continuous insulation over the domes, and keep going with [attic stair covers](/blog/attic-stair-hatch-insulation-covers/), broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [insulation depth](/blog/attic-insulation-approaches-when-to-call-pro/) rather than stopping at one product. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). For order of operations, return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+Treat recessed cans as small chimneys with a fire rule: check the basics first (count fixtures, read IC vs non-IC, note lamps and joist conflicts, photograph labels, safety-pass wiring), respect the "What not to do" list (never bury non-IC, no cardboard, no foam tombs on hot housings), then pick Tenmat FF130E-class fire-safe covers vs airtight IC-AT remodel / wafer (electrician) vs skip with the "Which one should you buy?" section. Seal cover skirts with allowed fire-rated caulk, restore continuous insulation over the domes, and keep going with [attic stair covers](/blog/attic-stair-hatch-insulation-covers/), broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [insulation depth](/blog/attic-insulation-approaches-when-to-call-pro/) rather than stopping at one product. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). For order of operations, return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

@@ -16,7 +16,7 @@ faqs:
     answer: "Usually side gaps, a rod mounted too narrow/low, panels that don’t overlap in the middle, or fabric that doesn’t reach the sill/floor. Mount wider and higher, add overlap, use return brackets toward the wall when possible, and fix door/sash edge leaks with weatherstripping—curtains alone won’t seal a daylight gap under a door."
 ---
 
-Windows are thin compared with walls. Thermal and blackout curtains add a fabric layer that slows heat loss at the glass — useful in heating season and for rooms that bake in afternoon sun. In this guide: walk the house before you buy, prioritize rooms, pick thermal vs blackout vs both, and hang so gaps don’t defeat the fabric — without inventing dollar savings.
+Windows are thin compared with walls. Thermal and blackout curtains add a fabric layer that slows heat loss at the glass — useful in heating season and for rooms that bake in afternoon sun. Start by finding which rooms lose the most heat through glass. Then choose thermal, blackout or both, and hang them so gaps at the edges don't undo the fabric.
 
 
 ## When thermal curtains help *your* bill

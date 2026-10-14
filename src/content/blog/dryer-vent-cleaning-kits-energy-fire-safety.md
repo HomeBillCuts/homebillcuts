@@ -14,7 +14,7 @@ faqs:
     answer: "Clothes needing two or three cycles, a laundry closet that feels much hotter than before, weak warm air at the exterior hood, lint piled at the outdoor flap, crushed duct behind the dryer, or a burning-lint smell. Clean the lint screen every load first—that alone stretches dry times when ignored."
 ---
 
-Clothes that need two or three cycles to dry are often a vent problem, not a “weak dryer.” A lint-packed or crushed dryer duct makes the machine run longer — more kWh on electric dryers, more therms on gas — and raises lint fire risk. In this guide: measure the path before you buy a brush kit, know when DIY stops and a pro starts, replace crushed non-listed duct instead of polishing it, and use a verified Amazon shortlist — without inventing dollar savings.
+Clothes that need two or three cycles to dry are often a vent problem, not a “weak dryer.” A lint-packed or crushed dryer duct makes the machine run longer — more kWh on electric dryers, more therms on gas — and raises lint fire risk. Check the full vent run before you buy a brush kit. Some jobs belong to a pro, and crushed or unlisted duct should be replaced, not cleaned.
 
 
 ## When vent cleaning actually moves your bill
@@ -112,7 +112,7 @@ Renters: get landlord approval before disconnecting gas lines or cutting holes. 
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of it.
+Use this after you've checked your home, not instead of it.
 
 1. **Lint screen ignored?** → Fix the habit this week. Then re-time a load before shopping.
 2. **Behind-dryer duct is vinyl or crushed foil?** → Buy a metal transition kit (elbow kit or semi-rigid + clamps) *and* a brush length that matches the remaining run. Cleaning without replacement leaves the same kink.

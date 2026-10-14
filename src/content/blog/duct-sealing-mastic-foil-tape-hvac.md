@@ -18,7 +18,7 @@ faqs:
     answer: "A one-gallon tub of water-based mastic plus a roll of UL 181 foil tape and a roll of adhesive fiberglass mesh covers many weekend basement/crawl boot-and-joint jobs; larger trunk campaigns or attic runs may need a second gallon and more mesh. Coverage depends on joint length and how thick you brush (manufacturers often target roughly 20-mil wet film on brushed joints). Buy mesh for gaps you cannot bridge with tape alone. Keep a chip brush and disposable gloves in the cart — leftover gray mastic is normal; drying time before insulating or burying ducts matters more than emptying the pail."
 ---
 
-Leaky HVAC ducts dump heated (or cooled) air into attics, crawlspaces, and garages — then the furnace or air handler runs longer to keep rooms comfortable. Water-based duct mastic plus UL 181–listed foil / mastik tape (not cloth “duck” tape) is the durable DIY fix for accessible boots, plenums, takeoffs, and trunk joints. In this guide: walk and find leaks before you buy, respect asbestos / combustion / dryer-vent limits, pick DIY mastic vs skip vs pro Aeroseal with a decision tree, install and troubleshoot, and stay honest about limits.
+Leaky HVAC ducts dump heated (or cooled) air into attics, crawlspaces, and garages — then the furnace or air handler runs longer to keep rooms comfortable. Water-based duct mastic plus UL 181–listed foil / mastik tape (not cloth “duck” tape) is the durable DIY fix for accessible boots, plenums, takeoffs, and trunk joints. Find the leaks before you buy anything. Know where DIY has to stop (asbestos, combustion air, dryer vents), and decide between mastic yourself, skipping it, or hiring an Aeroseal crew.
 
 
 ## Seal the holes that steal conditioned air

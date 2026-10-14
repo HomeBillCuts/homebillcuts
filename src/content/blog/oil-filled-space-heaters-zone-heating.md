@@ -18,7 +18,7 @@ faqs:
     answer: "Usually no if the room is a sieve. Weatherstripping, window film, thermal curtains, and air sealing often make a modest thermostat setback tolerable without stacking 1500 W of resistance heat. Buy the heater after the measure-first walk says the room can hold heat and you have a real setback plan."
 ---
 
-Electric resistance heat is expensive per kWh — but heating one occupied room with a sealed oil-filled radiator while you drop the whole-house setpoint can still beat roasting empty bedrooms all evening. Stacking a 1500 W plug-in heater without that setback usually raises the bill. In this guide: when zone heaters help, the measure-first house walk, situation priorities and do-not list, buyer decision tree, troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+Electric resistance heat is expensive per kWh — but heating one occupied room with a sealed oil-filled radiator while you drop the whole-house setpoint can still beat roasting empty bedrooms all evening. Stacking a 1500 W plug-in heater without that setback usually raises the bill. Below: when a zone heater actually helps, how to check your house first, which heater to pick and what to do when something goes wrong.
 
 
 ## When zone heating actually moves your bill
@@ -104,7 +104,7 @@ If any do-not item matches your plan, pause the cart — gear that fights the ma
 
 US plug-in heaters are usually capped near 1500 W on a standard 120 V household circuit (~12.5 A). That is enough for a small-to-medium insulated room with a closed door in many climates, and not enough to replace a failed furnace for a whole house.
 
-Practical checks from your measure-first walk:
+Practical checks from your walk-through:
 
 1. Confirm the room’s door closes and you can keep heat from dumping into a cold hallway.
 2. Confirm a dedicated wall outlet — avoid daisy-chained power strips and extension cords unless the manufacturer explicitly allows a properly rated cord (most forbid them).
@@ -114,7 +114,7 @@ Practical checks from your measure-first walk:
 
 ## Which one should you buy?
 
-Use this as a quick filter — then buy only what your measure-first walk supports.
+Use this as a quick filter — then buy only what your own checks support.
 
 1. **Can everyone safely take a modest whole-house setback while you occupy one room?**  
    - Yes → step 2 (bill strategy is in play).  
@@ -239,7 +239,7 @@ If it smells of burning plastic, leaks oil, or the cord is damaged — unplug an
 
 1. Fix the cheap envelope leaks in the room you’ll occupy ([weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [caulk/foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), [window film](/blog/window-insulation-kits-winter-drafts/), [curtains](/blog/thermal-blackout-curtains-energy-savings/)).
 2. Set a real thermostat schedule ([smart thermostat guide](/blog/best-smart-thermostats-2026/)).
-3. Decide which one room gets the heater — not five — and confirm door, outlet, and setback from the measure-first walk.
+3. Decide which one room gets the heater — not five — and confirm door, outlet, and setback from the checks above.
 4. Buy oil-filled for quiet lingering heat; keep ceramic for occasional spot use; prefer a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) for sleep-only.
 5. Re-check the next bill’s kWh. If usage climbed, you’re stacking heat — revisit setpoints.
 
@@ -267,7 +267,7 @@ Pick oil-filled for quiet occupied-room heat that lingers; pick ceramic/PTC fan 
 
 ### Should I buy a heater before sealing drafts?
 
-Usually no if the room is a sieve. Weatherstripping, window film, thermal curtains, and air sealing often make a modest thermostat setback tolerable without stacking 1500 W of resistance heat. Buy the heater after the measure-first walk says the room can hold heat and you have a real setback plan.
+Usually no if the room is a sieve. Weatherstripping, window film, thermal curtains, and air sealing often make a modest thermostat setback tolerable without stacking 1500 W of resistance heat. Buy the heater after the checks above says the room can hold heat and you have a real setback plan.
 
 ## Related reading
 
@@ -295,4 +295,4 @@ Usually no if the room is a sieve. Weatherstripping, window film, thermal curtai
 
 ## Bottom line
 
-Oil-filled space heaters are a zone-heating tool, not a furnace replacement. Used with a lower whole-house setpoint, a sealed occupied room, a safe grounded outlet, and basic fire safety, they shift comfort to where you sit without heating empty square footage. Used with the thermostat left high — or on an open floor plan via a power strip — they’re just another 1500 W fire-and-bill risk. Measure first, follow the decision tree, and skip when seal/weatherize, a thermostat schedule, or a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) is the better overnight move. Return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+Oil-filled space heaters are a zone-heating tool, not a furnace replacement. Used with a lower whole-house setpoint, a sealed occupied room, a safe grounded outlet, and basic fire safety, they shift comfort to where you sit without heating empty square footage. Used with the thermostat left high — or on an open floor plan via a power strip — they’re just another 1500 W fire-and-bill risk. Measure first, follow the "Which one should you buy?" section, and skip when seal/weatherize, a thermostat schedule, or a [heated mattress pad](/blog/heated-mattress-pads-zone-heating/) is the better overnight move. Return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

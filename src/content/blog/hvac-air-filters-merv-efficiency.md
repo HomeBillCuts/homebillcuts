@@ -18,7 +18,7 @@ faqs:
     answer: "Often the new 1″ filter is too restrictive (high MERV + dense media), installed backward, crushed in the slot, or covering only one of several returns. Drop MERV, restore arrow direction, check every return grille, and confirm the furnace sticker allows that rating—call a tech if icing or limit trips continue."
 ---
 
-A dirty or wrong-sized HVAC filter is one of the cheapest reasons your furnace or air handler runs longer than it should. In this guide: walk the house before you buy, pick MERV your equipment can breathe through, set a real change cadence, and use a short Amazon multipack list — without inventing dollar savings.
+A dirty or wrong-sized HVAC filter is one of the cheapest reasons your furnace or air handler runs longer than it should. Check your filter size and slot first. Then pick a MERV rating your system can breathe through and set a change schedule you'll actually keep.
 
 
 ## When filters help *your* bill (and when they don’t)

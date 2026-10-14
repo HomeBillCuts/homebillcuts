@@ -20,7 +20,7 @@ faqs:
 
 Your refrigerator is one of the few appliances in the house that never turns off. It runs every hour of every day, in summer and winter, and a second fridge or chest freezer in the garage doubles that. The good news: refrigerators are also one of the easiest loads to measure with a cheap plug-in meter, and the most common money leaks — a thermostat set colder than it needs to be, a door that doesn't seal, an old second fridge humming away in a hot garage — are cheap or free to fix.
 
-In this guide: measure what your fridge and freezer actually use, turn that into dollars with your own rate, fix the free settings, and only then decide whether a thermometer, a coil brush, a new gasket, or a new appliance is worth paying for.
+Measure what your fridge and freezer use, turn that into dollars at your rate, and fix the free settings. Then decide whether a thermometer, coil brush, new gasket or new fridge is worth paying for.
 
 
 ## The 60-second version

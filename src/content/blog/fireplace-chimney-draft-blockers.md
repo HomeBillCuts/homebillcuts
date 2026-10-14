@@ -18,7 +18,7 @@ faqs:
 
 Heating season is when stack effect shows up as a cold plume at the hearth: warm indoor air rises, finds an unused flue, and dumps out the chimney like a vertical hole open to outdoors. An idle fireplace with a leaky or missing damper is often one of the largest single leaks in a living-room envelope — bigger than a dozen outlet gaps. Magnetic fireplace covers, wool/felt flue plugs, and inflatable chimney balloons close that path for seasonal or permanently idle fireplaces — without inventing dollar savings for your address, and never as something you leave in place for a live fire.
 
-In this guide: measure before you buy, prioritize situations that move comfort and runtime, pick magnetic vs wool plug vs balloon (or damper repair / skip) with a decision tree, install safely, and troubleshoot fit — then keep going with weatherstripping, air sealing, and other stack-effect fixes.
+Measure before you buy. Then choose between a magnetic cover, a wool plug, a chimney balloon, fixing the damper, or doing nothing, and install it safely.
 
 
 ## When fireplace blockers move the bill
@@ -232,7 +232,7 @@ It can help with a leaky/open unused damper and a cold downdraft, but we do not 
 
 ### Magnetic cover, wool flue plug, or chimney balloon—which should I buy?
 
-Magnetic cover for ferrous surrounds; wool plug or balloon for in-flue seals above a broken damper. Magnets won’t stick to bare masonry or many stainless surrounds — see the decision tree above.
+Magnetic cover for ferrous surrounds; wool plug or balloon for in-flue seals above a broken damper. Magnets won’t stick to bare masonry or many stainless surrounds — see the "Which one should you buy?" section above.
 
 ### Can I leave a chimney balloon or flue plug in place with gas logs?
 
@@ -240,7 +240,7 @@ No for active fires — and never with operable vented gas logs still connected.
 
 ### How do I measure before buying a fireplace draft blocker?
 
-Idle confirm, damper check, magnet-test, opening WxH for covers, flue L×D or diameter for plugs/balloons, photograph, reminder tag — see the measure-first walk.
+Idle confirm, damper check, magnet-test, opening WxH for covers, flue L×D or diameter for plugs/balloons, photograph, reminder tag — see the checks above.
 
 ### Why is my fireplace still drafty after installing a blocker?
 
@@ -261,4 +261,4 @@ Non-ferrous magnets, wrong size, deflated balloon, face-only seal with an open d
 
 ## Bottom line
 
-Treat an unused fireplace as a vertical hole to outdoors: complete the measure-first walk (idle confirm, damper check, ferrous magnet test, opening WxH, flue L×D or diameter, photograph, reminder tag), respect the do-not-block safety list (never with active fire, never with operable vented gas logs, CO alarms, remove for sweeps, magnets only on ferrous frames, structural/creosote issues first), then pick magnetic cover vs wool flue plug vs chimney balloon vs damper repair / pro with the decision tree. Install for a continuous removable seal, use the troubleshooting table when fit fails, and keep going with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic stair covers](/blog/attic-stair-hatch-insulation-covers/) rather than stopping at one product. For order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+Treat an unused fireplace as a vertical hole to outdoors: check the basics first (idle confirm, damper check, ferrous magnet test, opening WxH, flue L×D or diameter, photograph, reminder tag), respect the do-not-block safety list (never with active fire, never with operable vented gas logs, CO alarms, remove for sweeps, magnets only on ferrous frames, structural/creosote issues first), then pick magnetic cover vs wool flue plug vs chimney balloon vs damper repair / pro with the "Which one should you buy?" section. Install for a continuous removable seal, use the troubleshooting table when fit fails, and keep going with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic stair covers](/blog/attic-stair-hatch-insulation-covers/) rather than stopping at one product. For order of operations, return to [Start Here](/start-here/) and the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

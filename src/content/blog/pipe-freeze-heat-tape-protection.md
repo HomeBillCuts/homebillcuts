@@ -18,7 +18,7 @@ faqs:
     answer: "Usually no. Unplug or switch off when you drain seasonal lines, when freeze risk is gone for the season, or when the space is reliably above freezing. Leaving cable energized through warm months wastes kWh and leaves plugs exposed to crawlspace moisture longer than needed. Follow the maker’s idle/storage guidance."
 ---
 
-Exposed water lines in crawlspaces, garages, and exterior walls can freeze hard enough to burst — then you’re dealing with water damage *and* a winter electric spike from whatever you leave plugged in afterward. Heat tape (pipe heating cable) is a freeze-prevention tool that uses electricity, not a bill-cutting gadget. In this guide: when heat tape makes sense, when insulation alone is the smarter spend, hard safety rules, a measure-first walk, a buyer decision tree, and a verified Amazon shortlist — without inventing dollar savings or guaranteed burst prevention.
+Exposed water lines in crawlspaces, garages, and exterior walls can freeze hard enough to burst — then you’re dealing with water damage *and* a winter electric spike from whatever you leave plugged in afterward. Heat tape (pipe heating cable) is a freeze-prevention tool that uses electricity, not a bill-cutting gadget. Heat tape makes sense on some lines, but on many others plain insulation is the better buy. We cover both, along with the safety rules for heat tape and the products we'd pick.
 
 
 ## Freeze insurance ≠ lower bills
@@ -93,7 +93,7 @@ Non-negotiables in one place:
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of it.
+Use this after you've checked your home, not instead of it.
 
 1. **Is the real problem hot-water bill waste (pipes cool between draws) with little freeze history?** → Buy insulation only ([pipe insulation guide](/blog/insulate-hot-water-pipes-water-heater-jacket/)). Skip heat tape.
 2. **Can you drain the line for the season** (hose bib, unused wing, vacation home)? → Drain / winterize ([outdoor faucet covers](/blog/outdoor-faucet-covers-freeze-protection/) for bib cups/socks after hose-off). Heat tape is optional insurance only if something must stay wet and exposed.

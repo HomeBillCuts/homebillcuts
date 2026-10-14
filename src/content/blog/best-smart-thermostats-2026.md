@@ -16,7 +16,7 @@ faqs:
     answer: "Often yes. If you already set weekday/weekend setbacks and stick to them, a basic programmable unit can deliver most of the bill benefit without cloud apps or C-wire drama. Upgrade to smart when you need geofencing, remote sensors for uneven rooms, heat-pump aux awareness, or TOU pre-conditioning you’ll actually use."
 ---
 
-Smart thermostats are heavily marketed as bill-cutters. Sometimes they help. Sometimes they mostly send you pretty graphs. In this guide: walk the wiring before you buy, decide when Nest vs Amazon Smart vs Ecobee vs Honeywell actually fits, watch heat-pump aux pitfalls, and install so the schedule sticks — without invented savings guarantees.
+Smart thermostats are heavily marketed as bill-cutters. Sometimes they help. Sometimes they mostly send you pretty graphs. Check your wiring first. Then see when Nest, Amazon Smart, ecobee or Honeywell fits, avoid the heat pump aux traps, and set a schedule that sticks.
 
 If you haven’t done the free stuff yet, start with our [priority checklist](/blog/lower-electric-bill-priority-checklist/) and the [Start Here hub](/start-here/). Pairing a modest heating setback with [oil-filled zone heating](/blog/oil-filled-space-heaters-zone-heating/) in the room you actually occupy is a common winter strategy — only when you don’t leave central heat on high at the same time. Dirty [HVAC filters](/blog/hvac-air-filters-merv-efficiency/) and obvious [door drafts](/blog/best-weatherstripping-draft-stoppers/) usually beat a new thermostat for cheap wins.
 

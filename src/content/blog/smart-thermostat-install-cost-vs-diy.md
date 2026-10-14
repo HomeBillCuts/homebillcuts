@@ -18,7 +18,7 @@ faqs:
     answer: "No. Trim kits and wall plates cover old screw holes and paint lines so the new thermostat looks finished. They’re comfort/finish accessories, not efficiency products—buy them so you don’t skip install over ugly drywall, not because they save kilowatt-hours."
 ---
 
-Buying a smart thermostat is the easy part. Getting it onto the wall — with the right wires, a stable power source, and HVAC that still stages correctly — is where budgets and winter bills diverge. In this guide: a measure-first wiring walk, situation priorities and a do-not list, a DIY vs hire decision tree, C-wire reality, heat-pump mistakes that can *raise* kWh, install troubleshooting, and a verified Amazon accessory shortlist. No fake street prices.
+Buying a smart thermostat is the easy part. Getting it onto the wall — with the right wires, a stable power source, and HVAC that still stages correctly — is where budgets and winter bills diverge. Before you pay anyone, check your wiring and whether you have a C-wire. Then decide whether to install it yourself or hire someone, and avoid the heat pump setup mistakes that can push your kWh up. No fake street prices.
 
 Shop hardware only after you know your wiring story. Start with the [2026 smart thermostat buyer’s guide](/blog/best-smart-thermostats-2026/), then use the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Envelope leaks still matter more than a shiny display — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [HVAC filter MERV tips](/blog/hvac-air-filters-merv-efficiency/) if the house fights every setpoint change.
 
@@ -72,7 +72,7 @@ Optional tools (measurement, not magic):
 
 ## Which one should you buy?
 
-Use this after the measure-first walk — not instead of the manufacturer’s checker.
+Use this after you've checked your home, not instead of the manufacturer’s checker.
 
 | Your situation | Lean toward | Why |
 | --- | --- | --- |
@@ -210,7 +210,7 @@ A perfect install with identical setpoints 24/7 does not magically shrink kWh. P
 
 ### Thermostats (confirm wiring first)
 
-Pick one path after the measure-first walk — then open the listing and re-check the current SKU.
+Pick one path once you know your wiring — then open the listing and re-check the current SKU.
 
 - Nest-style learning thermostat: [View on Amazon](https://www.amazon.com/dp/B0D5BGST5N/?tag=homebillcuts-20)
 - Budget / Alexa-friendly smart thermostat: [View on Amazon](https://www.amazon.com/dp/B08J4C8871/?tag=homebillcuts-20)

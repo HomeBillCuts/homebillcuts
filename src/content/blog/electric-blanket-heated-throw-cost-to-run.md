@@ -18,7 +18,7 @@ faqs:
     answer: "Usually by a wide margin. A typical plug-in space heater draws up to 1,500 W on high, so 4 hours is about 6 kWh, roughly $1.02 at $0.17/kWh. A 100 W heated throw for the same 4 hours is about 7 cents. A space heater warms the air in the room for everyone; a throw warms only the person under it. Pick the one that matches the job."
 ---
 
-Mid-October is when the first cold evening sends someone to the thermostat. Before you nudge it up three degrees for a movie night, it's worth knowing what the alternative costs: a heated throw or electric blanket on the couch uses tens of watts, while warming the whole house uses thousands. In this guide: start with your rate, run the watts × hours × rate math, measure your actual throw, and only then decide whether one earns a spot on the couch. The honest answer up front: a heated throw costs pennies an evening, but it only saves money if the thermostat goes down while you use it.
+Mid-October is when the first cold evening sends someone to the thermostat. Before you nudge it up three degrees for a movie night, it's worth knowing what the alternative costs: a heated throw or electric blanket on the couch uses tens of watts, while warming the whole house uses thousands. Start with your rate, work out watts × hours × rate, and measure your actual throw before deciding whether it earns a spot on the couch. The honest answer up front: a heated throw costs pennies an evening, but it only saves money if the thermostat goes down while you use it.
 
 
 ## Why a throw is so much cheaper than heating the house
@@ -146,7 +146,7 @@ If you already own a meter from measuring a [fridge](/blog/refrigerator-freezer-
 | Plug-in space heater | Warming room air for several people | Up to 1,500 W | 10–20× the cost per hour of a throw; serious fire-safety rules |
 | Plain fleece / wool blanket | Anyone | 0 W | Takes longer to feel warm |
 
-## Should you buy one? A quick decision tree
+## Should you buy one?
 
 1. **Do you already lower the thermostat in the evening — or are you willing to?** If no, a heated throw adds a few cents a night and saves nothing. Buy it for comfort, not your bill.
 2. **Is it one or two people who get cold?** If yes, a throw is the cheapest targeted heat there is. If the whole family is cold, look at drafts and the thermostat schedule first.

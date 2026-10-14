@@ -18,7 +18,7 @@ faqs:
     answer: "Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 or Honeywell CT410B class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Sinopé TH1124WF class) if you will use the app. Always match amps, volts, and pole count first."
 ---
 
-A Nest Learning Thermostat will not save a leaky bedroom with electric baseboard if that Nest was never the right product. Most US smart thermostats are 24-volt controls for furnaces and heat pumps. Hardwired baseboard, many wall heaters, and some radiant ceilings are line voltage — 120 or 240 volts switching real amp loads. In this guide: confirm voltage and pole count before you buy, size the thermostat to the heater watts on that circuit, pick mechanical vs electronic vs programmable vs Wi‑Fi line-voltage hardware, and install so the schedule (or dial) actually sticks — without inventing dollar savings.
+A Nest Learning Thermostat will not save a leaky bedroom with electric baseboard if that Nest was never the right product. Most US smart thermostats are 24-volt controls for furnaces and heat pumps. Hardwired baseboard, many wall heaters, and some radiant ceilings are line voltage — 120 or 240 volts switching real amp loads. Check the voltage and number of poles before you buy, size the thermostat to the heaters on that circuit, and choose mechanical, electronic, programmable or Wi-Fi.
 
 
 ## Expensive heat, right control family
@@ -50,7 +50,7 @@ Do this once with the power off for photos, and with power on only if you know h
 5. **Single-pole vs double-pole** — two switched conductors often mean single-pole; four (two line, two load) often mean double-pole with positive Off. Match the replacement family unless an electrician redesigns the circuit.
 6. **Add up watts on that thermostat** — sum nameplate watts of every heater the thermostat controls. Convert: amps ≈ watts ÷ volts. The new thermostat’s amp rating must exceed the load (with margin). A 15A double-pole unit is not a drop-in for a 22A mechanical circuit full of baseboard.
 7. **Note 120 vs 208/240** — some electronics are 240/208-only; others cover 120/208/240. Buy the voltage the nameplate states.
-8. **Decide mechanical vs electronic vs programmable vs Wi‑Fi vs hire** — see the decision tree below. Renters: confirm lease rules before opening boxes.
+8. **Decide mechanical vs electronic vs programmable vs Wi‑Fi vs hire** — see the guide below. Renters: confirm lease rules before opening boxes.
 
 If mercury is in an old tilt thermostat, do not trash it in household garbage — follow local hazardous-waste rules.
 
