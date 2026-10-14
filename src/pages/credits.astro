@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import credits from '../data/credits.json';
+const labels: Record<string, string> = { hero: 'Homepage', drafts: 'Drafts & Sealing', heating: 'Heating & Cooling', insulation: 'Insulation', water: 'Water Heating', electricity: 'Appliances & Electricity', kitchen: 'Kitchen', laundry: 'Laundry', heating2: 'Heating & Cooling', heating3: 'Heating & Cooling', drafts2: 'Drafts & Sealing', electricity2: 'Appliances & Electricity' };
+---
+<BaseLayout title="Photo credits" description="Credits and licenses for the photos used on HomeBillCuts." canonicalPath="/credits/">
+  <article class="prose">
+    <h1>Photo credits</h1>
+    <p>Photos come from Wikimedia Commons under free licenses. We resized and cropped them for the site.</p>
+    <ul>
+      {Object.entries(credits).map(([k, c]) => (
+        <li>
+          <strong>{labels[k] ?? k}:</strong> <a href={c.page}>{c.file.replace(/\.jpe?g$/i, '')}</a> by {c.artist},{' '}
+          {c.licenseUrl ? <a href={c.licenseUrl} rel="license">{c.license}</a> : c.license}
+        </li>
+      ))}
+    </ul>
+  </article>
+</BaseLayout>

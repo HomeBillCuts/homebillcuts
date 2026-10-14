@@ -1,20 +1,23 @@
 ---
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
+import { guideMeta } from '../data/guides';
 
-interface Props {
-  post: CollectionEntry<'blog'>;
-}
-
-const { post } = Astro.props;
-const date = post.data.pubDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'short',
-  day: 'numeric',
-  timeZone: 'UTC',
-});
+interface Props { post: CollectionEntry<'blog'>; lead?: boolean; showImage?: boolean }
+const { post, lead = false, showImage = true } = Astro.props;
+const m = guideMeta(post.id);
+const href = `/blog/${post.id}/`;
+const short = post.data.title.split(':')[0].trim();
 ---
-<article class="card">
-  <p class="meta"><time datetime={post.data.pubDate.toISOString()}>{date}</time></p>
-  <h3><a href={`/blog/${post.id}/`}>{post.data.title}</a></h3>
-  <p>{post.data.description}</p>
+<article class={`card${lead ? ' lead-feature' : ''}${showImage ? '' : ' card--compact'}`}>
+  {showImage && (
+    <div class="card-img">
+      <Image quality={70} src={m.cat.photo} alt={m.cat.alt} widths={lead ? [640, 960, 1280] : [400, 640]} sizes={lead ? '(max-width: 760px) 100vw, 640px' : '(max-width: 640px) 100vw, 360px'} loading="lazy" />
+    </div>
+  )}
+  <div>
+    <p class="kicker">{m.cat.name}</p>
+    <h3><a href={href}>{short}</a></h3>
+    <p>{m.dek || post.data.description}</p>
+  </div>
 </article>

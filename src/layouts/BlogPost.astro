@@ -1,12 +1,24 @@
 ---
 import BaseLayout from './BaseLayout.astro';
-import type { CollectionEntry } from 'astro:content';
+import { Image } from 'astro:assets';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import PostCard from '../components/PostCard.astro';
+import { guideMeta, guides } from '../data/guides';
 
 interface Props {
   post: CollectionEntry<'blog'>;
+  headings?: { depth: number; slug: string; text: string }[];
 }
 
-const { post } = Astro.props;
+const { post, headings = [] } = Astro.props;
+const meta = guideMeta(post.id);
+const words = (post.body ?? '').split(/\s+/).length;
+const minutes = Math.max(3, Math.round(words / 230));
+const toc = headings.filter((h) => h.depth === 2 && !/^(faq|related reading|sources)$/i.test(h.text));
+const related = (await getCollection('blog', ({ data }) => data.draft !== true))
+  .filter((p) => p.id !== post.id && guides[p.id]?.category === meta.category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
 const { title, description, pubDate, updatedDate, faqs } = post.data;
 
 const formattedPub = pubDate.toLocaleDateString('en-US', {
@@ -94,33 +106,49 @@ if (faqs && faqs.length > 0) {
 ---
 <BaseLayout
   title={title}
-  description={description}
+  description={meta.dek || description}
   canonicalPath={canonicalPath}
   ogType="article"
   pubDate={pubDate}
   jsonLd={jsonLd}
 >
-  <article class="prose">
-    <p class="meta">
-      <time datetime={pubDate.toISOString()}>{formattedPub}</time>
-      {formattedUpdated && (
-        <>
-          {' · '}Updated <time datetime={updatedDate!.toISOString()}>{formattedUpdated}</time>
-        </>
+  <div class="wrap">
+    <header class="article-head">
+      <p class="eyebrow"><a href={`/blog/#${meta.category}`}>{meta.cat.name}</a></p>
+      <h1>{title}</h1>
+      {meta.dek && <p class="dek">{meta.dek}</p>}
+      <p class="byline">
+        {formattedUpdated ? <>Updated <time datetime={updatedDate!.toISOString()}>{formattedUpdated}</time></> : <time datetime={pubDate.toISOString()}>{formattedPub}</time>}
+        {' · '}{minutes} min read
+      </p>
+    </header>
+    <figure class="article-photo">
+      <Image quality={70} src={meta.cat.photo} alt={meta.cat.alt} widths={[640, 960, 1280, 1600]} sizes="(max-width: 1000px) 100vw, 960px" loading="eager" />
+    </figure>
+    <div class="article-grid">
+      <article class="prose">
+        <slot />
+        <p class="disclosure-line">
+          Some links on this page go to Amazon, and we earn a commission if you buy, at no extra cost to you.
+          Prices and savings vary by home and utility rate. More in our <a href="/disclosure/">disclosure</a>.
+        </p>
+        <div class="post-next">
+          <a class="button button--primary" href="/start-here/">Start here</a>
+          <a class="button button--secondary" href="/blog/">All guides</a>
+        </div>
+      </article>
+      {toc.length > 2 && (
+        <nav class="toc" aria-label="On this page">
+          <p>On this page</p>
+          <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </nav>
       )}
-    </p>
-    <h1>{title}</h1>
-    <slot />
-    <hr />
-    <p class="amazon-associate">
-      As an Amazon Associate I earn from qualifying purchases.
-    </p>
-    <div class="post-next-actions">
-      <a class="button button--primary" href="/start-here/">Start Here hub</a>
-      <a class="button button--secondary" href="/blog/">Browse all guides</a>
     </div>
-    <p class="post-next-note">
-      Prefer the fine print first? Read our <a href="/disclosure/">affiliate disclosure</a>.
-    </p>
-  </article>
+  </div>
+  {related.length > 0 && (
+    <section class="related" aria-labelledby="more">
+      <div class="section-head"><h2 id="more">More in {meta.cat.name}</h2><a href={`/blog/#${meta.category}`}>See all →</a></div>
+      <div class="card-grid">{related.map((p) => <PostCard post={p} />)}</div>
+    </section>
+  )}
 </BaseLayout>

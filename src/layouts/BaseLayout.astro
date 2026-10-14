@@ -13,7 +13,7 @@ interface Props {
 
 const {
   title,
-  description = 'Practical US home energy efficiency checklists and product shortlists — bill-first, honest, no guaranteed savings.',
+  description = 'Plain-English guides to lowering your home energy bills: what to check first, what is worth buying, and what to skip.',
   canonicalPath = Astro.url.pathname,
   ogType = 'website',
   pubDate,
@@ -28,11 +28,9 @@ const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 const pathname = Astro.url.pathname;
 
 const nav = [
-  { href: '/', label: 'Home' },
-  { href: '/start-here/', label: 'Start Here' },
   { href: '/blog/', label: 'Guides' },
+  { href: '/start-here/', label: 'Start Here' },
   { href: '/about/', label: 'About' },
-  { href: '/contact/', label: 'Contact' },
 ];
 
 const organizationLd = {
@@ -70,6 +68,9 @@ const jsonLdBlocks = [organizationLd, websiteLd, ...extraLd];
     <meta name="description" content={description} />
     {noindex ? <meta name="robots" content="noindex, follow" /> : <link rel="canonical" href={canonical} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..600;1,9..144,400..600&family=Inter:wght@400;500;600&display=swap" />
     <link rel="alternate" type="application/rss+xml" title="HomeBillCuts RSS" href="/rss.xml" />
 
     <meta property="og:type" content={ogType} />
@@ -92,16 +93,11 @@ const jsonLdBlocks = [organizationLd, websiteLd, ...extraLd];
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
-      <div class="site-header__inner">
+      <div class="wrap">
         <a class="logo" href="/">Home<span>Bill</span>Cuts</a>
         <nav class="nav" aria-label="Primary">
           {nav.map((item) => (
-            <a
-              href={item.href}
-              aria-current={pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href)) ? 'page' : undefined}
-            >
-              {item.label}
-            </a>
+            <a href={item.href} aria-current={pathname.startsWith(item.href) ? 'page' : undefined}>{item.label}</a>
           ))}
         </nav>
       </div>
@@ -112,23 +108,25 @@ const jsonLdBlocks = [organizationLd, websiteLd, ...extraLd];
     </main>
 
     <footer class="site-footer">
-      <div class="site-footer__inner">
+      <div class="wrap">
+        <div>
+          <a class="logo" href="/">Home<span>Bill</span>Cuts</a>
+          <p style="margin-top:.75rem">
+            Practical guides for US households. We earn a commission from some Amazon links, at no
+            cost to you. Savings depend on your home, climate and rates, so we show the math instead of promises.
+          </p>
+        </div>
         <nav class="footer-nav" aria-label="Footer">
-          <a href="/start-here/">Start Here</a>
           <a href="/blog/">Guides</a>
+          <a href="/start-here/">Start Here</a>
           <a href="/about/">About</a>
           <a href="/contact/">Contact</a>
           <a href="/privacy/">Privacy</a>
           <a href="/disclosure/">Disclosure</a>
+          <a href="/credits/">Photo credits</a>
           <a href="/rss.xml">RSS</a>
         </nav>
-        <p>
-          © {new Date().getFullYear()} HomeBillCuts. Practical home energy guidance for US households.
-          We do not promise dollar savings — results vary by home, climate, rates, and habits.
-        </p>
-        <p class="footer-amazon">
-          As an Amazon Associate I earn from qualifying purchases.
-        </p>
+        <p class="credits">© {new Date().getFullYear()} HomeBillCuts. As an Amazon Associate I earn from qualifying purchases.</p>
       </div>
     </footer>
   </body>
