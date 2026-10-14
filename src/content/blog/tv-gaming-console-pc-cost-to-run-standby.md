@@ -1,6 +1,6 @@
 ---
 title: "TV, Gaming Console & PC Cost to Run: Measure Your Entertainment Center and Desk (Standby Included)"
-description: "Bill-first US guide to what your TV, game console, desktop PC, monitors, and AV gear really cost: watts × hours × rate, the standby/instant-on trap, a one-week plug-meter test, worked household examples, free settings that cut kWh, a troubleshooting table, a buyer decision tree, and a verified Amazon shortlist. No guaranteed savings."
+description: "US guide to what your TV, game console, desktop PC, monitors, and AV gear really cost: watts × hours × rate, the standby/instant-on trap, a one-week plug-meter test, worked household examples, free settings that cut kWh, a troubleshooting table, a, and a verified Amazon shortlist."
 pubDate: 2026-10-10
 updatedDate: 2026-10-12
 faqs:
@@ -24,22 +24,21 @@ faqs:
     answer: "An advanced or 'smart' power strip senses when a control device — usually the TV — turns off and cuts power to the switched outlets for things like the soundbar, console, and Blu-ray player, while leaving always-on outlets for the cable box or router. It's worth it when your cluster idles at roughly 15 W or more and you won't flip a switch yourself. If your cluster already idles under 5 W, skip it."
 ---
 
-Electronics feel like small potatoes next to heating and cooling, and usually they are. But a living room with a big TV, a console left in instant-on mode, a cable box, a soundbar, and a gaming PC upstairs that never sleeps can quietly add **$100–$300 a year** in some households. This guide is **bill-first**: what each device draws, the standby trap, how to measure your own setup in a week, worked examples for three common households, the free settings that do most of the work, and when (rarely) buying something pays back. The honest answer up front: **the screen and the gaming hours are what they are — the cheap wins are idle and standby watts.** No guaranteed savings.
+Electronics feel like small potatoes next to heating and cooling, and usually they are. But a living room with a big TV, a console left in instant-on mode, a cable box, a soundbar, and a gaming PC upstairs that never sleeps can quietly add $100–$300 a year in some households. In this guide: what each device draws, the standby trap, how to measure your own setup in a week, worked examples for three common households, the free settings that do most of the work, and when (rarely) buying something pays back. The honest answer up front: the screen and the gaming hours are what they are — the cheap wins are idle and standby watts.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Related: [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/), [smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/), [whole-home energy monitors (Emporia vs Sense)](/blog/emporia-vue-vs-sense/), and [under-desk heaters for a home office](/blog/under-desk-heaters-foot-warmers-home-office/).
 
 ## The only formula you need
 
 **Cost = watts ÷ 1,000 × hours × your rate ($/kWh).**
 
-Find your rate on your bill: total supply + delivery charges ÷ kWh used. We use **$0.17/kWh** as an illustrative US average below; yours may be well above or below. If you're on a time-of-use plan, evening gaming and TV hours often land in the expensive peak window, so use your peak rate for active hours.
+Find your rate on your bill: total supply + delivery charges ÷ kWh used. We use $0.17/kWh as an illustrative US average below; yours may be well above or below. If you're on a time-of-use plan, evening gaming and TV hours often land in the expensive peak window, so use your peak rate for active hours.
 
 Two kinds of hours matter:
 
 - **Active hours** — screen on, game running, PC working.
-- **Idle/standby hours** — everything else. That's usually 16–24 hours a day, so a small idle draw multiplies fast: **1 W around the clock ≈ 8.8 kWh a year ≈ $1.50.** A 15 W idle draw ≈ $22 a year. A 50 W idle draw (a PC that never sleeps plus a receiver) ≈ $75 a year.
+- **Idle/standby hours** — everything else. That's usually 16–24 hours a day, so a small idle draw multiplies fast: 1 W around the clock ≈ 8.8 kWh a year ≈ $1.50. A 15 W idle draw ≈ $22 a year. A 50 W idle draw (a PC that never sleeps plus a receiver) ≈ $75 a year.
 
-A quick mental shortcut: **every watt that runs 24/7 costs about $1.50 a year at $0.17/kWh.** Multiply your late-night idle reading by 1.5 and you have your standby bill in dollars.
+A quick mental shortcut: every watt that runs 24/7 costs about $1.50 a year at $0.17/kWh. Multiply your late-night idle reading by 1.5 and you have your standby bill in dollars.
 
 ## Ballpark numbers (illustrative, measure yours)
 
@@ -72,7 +71,7 @@ These are ranges drawn from manufacturer specs and typical meter readings, not a
 
 **AV receivers, soundbars, and subwoofers.** Receivers with network or "quick start" features can idle at 10–30 W while looking off. Powered subwoofers with auto-standby usually drop low after a few minutes of silence, but some stay awake if they hear line noise. Soundbars are often under 2 W in standby. These are the devices an advanced power strip handles best.
 
-## Measure first: the one-week plug-meter test
+## Check your home before you buy
 
 1. **Group the cluster.** Put everything in the entertainment center (or desk) on one strip.
 2. **Plug the strip into a plug-in energy meter** like a Kill A Watt, and reset its kWh counter.
@@ -98,26 +97,26 @@ These are illustrative scenarios at $0.17/kWh to show where the money usually is
 
 **1. The living-room-only household.** A 55" LED TV (90 W, 4 h/day), a streaming stick, a soundbar (2 W standby), and a cable DVR box (18 W around the clock).
 
-- TV: 90 W × 4 h × 365 ÷ 1,000 ≈ 131 kWh ≈ **$22**
-- DVR box: 18 W × 8,760 h ÷ 1,000 ≈ 158 kWh ≈ **$27**
-- Soundbar standby + stick: ≈ **$4**
+- TV: 90 W × 4 h × 365 ÷ 1,000 ≈ 131 kWh ≈ $22
+- DVR box: 18 W × 8,760 h ÷ 1,000 ≈ 158 kWh ≈ $27
+- Soundbar standby + stick: ≈ $4
 - **Total ≈ $53 a year.** The surprise: the box nobody watches most of the day costs more than the TV. Fix: ask the provider about an eco mode or newer box, or drop it if you mostly stream anyway.
 
 **2. The console household.** A 65" TV in a bright mode (160 W, 5 h/day), a current console (190 W, 2 h/day gaming plus 1 h/day streaming at 60 W) left in rest/instant-on mode (~10 W the other 21 hours), and an AV receiver that idles at 20 W "off."
 
-- TV: ≈ 292 kWh ≈ **$50**
-- Console active: ≈ 161 kWh ≈ **$27**
-- Console rest mode: 10 W × 21 h × 365 ÷ 1,000 ≈ 77 kWh ≈ **$13**
-- Receiver idle: 20 W × ~20 h × 365 ÷ 1,000 ≈ 146 kWh ≈ **$25**
-- **Total ≈ $115 a year.** Free fixes: TV to Standard/Filmmaker mode (often trims a meaningful slice of its draw), console to energy-saving standby (~$12 back), and an advanced power strip so the receiver shuts off with the TV (~$20–$25 back). Realistic savings: **$30–$50 a year** with no change to how much anyone watches or plays.
+- TV: ≈ 292 kWh ≈ $50
+- Console active: ≈ 161 kWh ≈ $27
+- Console rest mode: 10 W × 21 h × 365 ÷ 1,000 ≈ 77 kWh ≈ $13
+- Receiver idle: 20 W × ~20 h × 365 ÷ 1,000 ≈ 146 kWh ≈ $25
+- **Total ≈ $115 a year.** Free fixes: TV to Standard/Filmmaker mode (often trims a meaningful slice of its draw), console to energy-saving standby (~$12 back), and an advanced power strip so the receiver shuts off with the TV (~$20–$25 back). Realistic savings: $30–$50 a year with no change to how much anyone watches or plays.
 
 **3. The gaming-PC household.** A gaming PC that never sleeps: 450 W for 3 h/day of play and 100 W idle for the other 21 hours, two 27" monitors (60 W combined while the PC is in use, plus 6 W combined because their USB features keep them awake), and desk speakers (5 W always on).
 
-- PC gaming: ≈ 493 kWh ≈ **$84**
-- PC idling 21 h/day: ≈ 767 kWh ≈ **$130**
-- Monitors: ≈ 110 kWh ≈ **$19**
-- Speakers: ≈ 44 kWh ≈ **$7**
-- **Total ≈ $240 a year.** The idle PC is the biggest line — bigger than the gaming. Setting sleep after 20 minutes could recover most of that $130; turning off monitor USB charging in standby and putting speakers on the PC's switched strip adds a little more. Realistic savings: **$100+ a year** from settings alone.
+- PC gaming: ≈ 493 kWh ≈ $84
+- PC idling 21 h/day: ≈ 767 kWh ≈ $130
+- Monitors: ≈ 110 kWh ≈ $19
+- Speakers: ≈ 44 kWh ≈ $7
+- **Total ≈ $240 a year.** The idle PC is the biggest line — bigger than the gaming. Setting sleep after 20 minutes could recover most of that $130; turning off monitor USB charging in standby and putting speakers on the PC's switched strip adds a little more. Realistic savings: $100+ a year from settings alone.
 
 ## Room-by-room: where the standby hides
 
@@ -155,14 +154,14 @@ These are illustrative scenarios at $0.17/kWh to show where the money usually is
 | Cable box shows "no guide data" each morning | Box powered off overnight and slow to reload | Use the provider's eco mode instead of a hard cut, or accept the reload time |
 | Meter shows higher idle than expected | Something with a bright standby light, a warm power brick, or a sub that never auto-sleeps | Unplug devices one at a time while watching live watts |
 
-## Buyer decision tree
+## Which one should you buy?
 
-- **Haven't measured?** → Buy a **plug-in meter** first (about the cost of a pizza). Skip everything else until you know idle watts.
+- **Haven't measured?** → Buy a plug-in meter first (about the cost of a pizza). Skip everything else until you know idle watts.
 - **Cluster idles under ~5 W?** → Stop. You're done; there's no money left to chase here.
 - **Idle 5–20 W and you'll actually flip a switch?** → A plain switched strip you turn off at bedtime is enough.
-- **The TV is the "boss" of the cluster?** → An **advanced (autoswitching) power strip** that cuts the soundbar, console, and player when the TV goes off — no app, no schedule.
-- **Idle 20 W+ or you won't remember?** → A **smart strip with individually switched outlets** (keep the router/streaming box on, schedule the console, receiver, and sub off overnight).
-- **One big offender (old receiver, DVR, PC that won't sleep)?** → A single **energy-monitoring smart plug** on a schedule, or fix the device's settings.
+- **The TV is the "boss" of the cluster?** → An advanced (autoswitching) power strip that cuts the soundbar, console, and player when the TV goes off — no app, no schedule.
+- **Idle 20 W+ or you won't remember?** → A smart strip with individually switched outlets (keep the router/streaming box on, schedule the console, receiver, and sub off overnight).
+- **One big offender (old receiver, DVR, PC that won't sleep)?** → A single energy-monitoring smart plug on a schedule, or fix the device's settings.
 - **Gaming PC is the big number?** → Fix sleep, cap frames, and accept that play hours cost what they cost. Don't buy a new PSU or GPU "to save power" — the payback is usually many years.
 - **Thinking about a new TV to save energy?** → Only replace a working set if it's an old plasma or CCFL LCD that meters 200 W+. Compare the yellow EnergyGuide label yearly cost on new models.
 
@@ -177,9 +176,9 @@ These are illustrative scenarios at $0.17/kWh to show where the money usually is
 | New efficient TV ($400+) | Replacing a 250 W old set with a 100 W one at 5 h/day ≈ $47/year | 8+ years — buy for picture, not for savings |
 | New PSU or GPU ($100–$600+) | A few to tens of watts at load | Usually many years; not an energy move |
 
-## Verified Amazon shortlist
+## Our picks
 
-We checked these listings exist on Amazon as of October 2026; specs and prices change, so confirm details on the product page. We don't guarantee performance or savings.
+We checked these listings exist on Amazon as of October 2026; specs and prices change, so confirm details on the product page.
 
 - P3 Kill A Watt P4400 plug-in electricity usage monitor (meter your entertainment center or desk for a week): [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - Smart Strip ECG-7MVR energy-saving surge protector with autoswitching (TV-controlled cluster shutoff; check the listing for which outlets are control, switched, and always-on): [View on Amazon](https://www.amazon.com/dp/B0058DHO1W/?tag=homebillcuts-20)
@@ -199,14 +198,13 @@ Amazon links may earn us a commission as an Amazon Associate at no extra cost to
 - **Don't plug space heaters into smart strips or smart plugs** meant for electronics.
 - **Don't buy new hardware purely to save electricity** without doing the payback math first.
 
-## Honest limits
+## What this won't fix
 
 - **Our numbers are illustrative.** Models vary widely; your meter reading wins.
 - **Plug meters can't see hardwired or 240 V loads,** and cheap smart-plug meters are approximate.
 - **Standby savings are real but small per device.** The win comes from a cluster or one bad actor.
 - **Advanced power strips depend on sensing the TV's draw;** very efficient TVs or dim picture modes can confuse some models.
 - **In winter, electronics' waste heat isn't totally wasted** — it slightly offsets heating; in summer your AC has to remove it.
-- **We don't guarantee any savings.**
 
 ## Quick checklist
 
@@ -222,4 +220,4 @@ Amazon links may earn us a commission as an Amazon Associate at no extra cost to
 
 ## Bottom line
 
-**Measure the cluster → fix free settings → cut only the idle watts that measure high → leave play hours alone.** For most homes that's $20–$100 a year with almost no lifestyle change; for a house with a never-sleeping gaming PC and an old DVR, more. Then go after the bigger heating and cooling moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings.
+**Measure the cluster → fix free settings → cut only the idle watts that measure high → leave play hours alone.** For most homes that's $20–$100 a year with almost no lifestyle change; for a house with a never-sleeping gaming PC and an old DVR, more. Then go after the bigger heating and cooling moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)).

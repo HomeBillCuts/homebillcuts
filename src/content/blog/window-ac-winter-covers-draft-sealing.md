@@ -1,6 +1,6 @@
 ---
 title: "Window AC Winter Covers: Stop Drafts Through the Chassis"
-description: "Bill-first US guide to indoor and outdoor window air conditioner covers — measure-first BTU/size walk, situation priorities, buyer decision tree (indoor quilted vs outdoor poly vs foam side panels vs remove), install troubleshooting, and Amazon shortlists. No guaranteed dollar savings."
+description: "US guide to indoor and outdoor window air conditioner covers — BTU/size walk, indoor quilted vs outdoor poly vs foam side panels vs remove, install troubleshooting, and Amazon shortlists."
 pubDate: 2026-09-26
 updatedDate: 2026-09-26
 faqs:
@@ -18,28 +18,27 @@ faqs:
     answer: "Different product class. Window/through-wall units sit in the envelope and draft into living space; central condensers sit outdoors and mainly need debris/snow protection per the manufacturer—not a heating-bill draft stop inside the house. This guide is about window and wall units that punch through glass or masonry."
 ---
 
-A window or through-wall air conditioner left in place for winter is often a **hole in the envelope**. Cold air moves through the chassis, accordion side panels, and tired sash seals even when the unit is off. **Indoor and outdoor AC covers** (plus foam side-panel kits) are cheap seasonal tools to cut that draft before you jump to window replacement. This guide is **bill-first**: measure the unit and feel the leaks before you buy, know when removal beats any cover, pick indoor vs outdoor vs foam by job, and install so wind doesn’t steal the cover on night one — without inventing dollar savings.
+A window or through-wall air conditioner left in place for winter is often a hole in the envelope. Cold air moves through the chassis, accordion side panels, and tired sash seals even when the unit is off. Indoor and outdoor AC covers (plus foam side-panel kits) are cheap seasonal tools to cut that draft before you jump to window replacement. In this guide: measure the unit and feel the leaks before you buy, know when removal beats any cover, pick indoor vs outdoor vs foam by job, and install so wind doesn’t steal the cover on night one — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). For plain glass (no AC in the opening), use [window insulation kits](/blog/window-insulation-kits-winter-drafts/) and [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/). Edge seals live in [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). Summer automation for the same unit is covered in [window AC smart controllers & fans](/blog/window-ac-smart-controllers-ceiling-fan-savings/). This page is about **winter draft control on an installed window or wall AC**.
 
-## Honest framing: what a cover can and cannot do
+## What a cover can and cannot do
 
-Covers help when the unit is **still in the opening** and you can feel cold at the face, side panels, or outdoor chassis on a windy day. The bill math works only if:
+Covers help when the unit is still in the opening and you can feel cold at the face, side panels, or outdoor chassis on a windy day. The bill math works only if:
 
 - Infiltration through that opening was actually costing heat (single-pane rooms, leaky accordion wings, through-wall sleeves with gaps).
-- You match the cover to a unit you will **not** run under the cover.
+- You match the cover to a unit you will not run under the cover.
 - You’re not ignoring bigger envelope holes (attic hatch, garage door, exterior door sweeps).
 
-**We do not guarantee a dollar cut.** Climate, rates, how leaky the install was, and whether anyone still cracks the window decide the outcome. A cover on a tight modern casement with a well-sealed sleeve may be comfort theater. A cover on a 1990s double-hung with floppy side panels often makes the room feel different the first cold night.
+ Climate, rates, how leaky the install was, and whether anyone still cracks the window decide the outcome. A cover on a tight modern casement with a well-sealed sleeve may be comfort theater. A cover on a 1990s double-hung with floppy side panels often makes the room feel different the first cold night.
 
-## Measure-first walk: BTU, chassis, and leaks (before you buy)
+## Check your home before you buy
 
 Do this once before you cart a cover:
 
 1. **Feel the opening on a windy day or after sunset** — back of the hand at the indoor face, accordion wings, sash stops, and outdoor chassis. Note cold glass vs moving air.
 2. **Decide remove vs leave** — if you can safely lift, store, and reinstall the unit (and the window closes properly), removal usually beats plastic. If renters, through-wall sleeves, or heavy units make removal unrealistic, plan covers.
 3. **Read the nameplate BTU** — outdoor cover sizing often tracks cooling capacity bands (about ≤10k / 10–15k / 15k+). Photograph the sticker.
-4. **Measure the chassis** — indoor face width × height for quilted covers; outdoor width × height × **depth of protrusion** for outdoor bags. Kit “fits up to” numbers are not magic — compare to your tape measure.
+4. **Measure the chassis** — indoor face width × height for quilted covers; outdoor width × height × depth of protrusion for outdoor bags. Kit “fits up to” numbers are not magic — compare to your tape measure.
 5. **Inspect side panels** — accordion plastic vs foam. If wings flex and whistle, a foam side-panel kit may out-earn a cover alone.
 6. **Check mounting and sill support** — loose brackets, rotten sills, and missing outdoor braces are safety fixes before weatherization shopping.
 7. **Unplug and dry** — covers trap moisture if you leave standing condensate; wipe the chassis and leave the unit powered off for the season.
@@ -47,9 +46,9 @@ Do this once before you cart a cover:
 
 If the villain is a door gap or plain glass two windows over, fix those with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) or [shrink film](/blog/window-insulation-kits-winter-drafts/) instead of blaming the AC alone.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize covers when
+### When covers is worth it
 
 1. **Window or through-wall units stay installed all heating season** and you feel drafts at the face or wings.
 2. **Accordion side panels are floppy** — pair foam panels with a seasonal cover.
@@ -57,7 +56,7 @@ If the villain is a door gap or plain glass two windows over, fix those with [we
 4. **You already did filters, setpoints, and obvious door sweeps** and the AC opening is still a cold spot ([HVAC filters](/blog/hvac-air-filters-merv-efficiency/), [checklist](/blog/lower-electric-bill-priority-checklist/)).
 5. **Renters who can’t replace windows** — covers are reversible and cheap.
 
-### Do-not-cover / do-not-rush list
+### What not to do
 
 - **Units you still need to run** — never operate a window AC under an indoor fabric cover or outdoor bag.
 - **Egress bedrooms** — don’t block the only operable exit; prefer removal or a cover you can peel in seconds, plus [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/).
@@ -71,7 +70,7 @@ If the villain is a door gap or plain glass two windows over, fix those with [we
 
 | Job | Better tool |
 | --- | --- |
-| Unit can be stored and the window closes tightly | **Remove and store** the AC |
+| Unit can be stored and the window closes tightly | Remove and store the AC |
 | Draft through accordion side wings (summer or winter) | Foam side-panel kit |
 | Draft through the indoor face of a left-in unit | Indoor quilted cover + plastic liner |
 | Wind/rain/snow on the outdoor chassis + outdoor infiltration | Outdoor polyethylene cover sized to BTU/depth |
@@ -80,7 +79,7 @@ If the villain is a door gap or plain glass two windows over, fix those with [we
 | Daily open/close layer over glass | [Thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) |
 | Summer empty-home runtime | [Smart AC controllers](/blog/window-ac-smart-controllers-ceiling-fan-savings/) — not a winter cover |
 
-## Buyer decision tree (pick the right stack)
+## Which one should you buy?
 
 1. **Can you safely remove and store the unit so the window closes?**  
    Yes → remove; add film/curtains only if the empty sash still drafts. No → continue.
@@ -91,9 +90,9 @@ If the villain is a door gap or plain glass two windows over, fix those with [we
 4. **Is the unit exposed outdoors with wind-driven chill or weather risk?**  
    Yes → outdoor cover sized by BTU + measured depth (AC2H / AC3H / AC5H-class bands).
 5. **Through-wall sleeve with gaps around the chassis?**  
-   Foam/caulk the sleeve perimeter carefully (see [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/)) **plus** indoor cover; don’t foam over weep paths the manufacturer requires.
+   Foam/caulk the sleeve perimeter carefully (see [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/)) plus indoor cover; don’t foam over weep paths the manufacturer requires.
 6. **Still unsure after measuring?**  
-   Start with **one** indoor cover on the worst room + fix door sweeps. Expand only after a cold night proves the leak.
+   Start with one indoor cover on the worst room + fix door sweeps. Expand only after a cold night proves the leak.
 
 ### Size cheat sheet (verify against your tape measure)
 
@@ -108,9 +107,9 @@ If the villain is a door gap or plain glass two windows over, fix those with [we
 
 When in doubt, measure twice — oversized outdoor bags flap in wind; undersized indoor covers won’t seat on the liner.
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee savings. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best indoor starter (standard face): Frost King AC9H quilted 2-piece
 
@@ -160,7 +159,7 @@ When in doubt, measure twice — oversized outdoor bags flap in wind; undersized
 
 - M‑D Building Products air conditioner side panel kit (trimmable foam): [View on Amazon](https://www.amazon.com/dp/B0135IZ6AM/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - No-name covers with unclear dimensions and no size chart.
 - “Universal” bags that skip BTU/depth guidance.
@@ -179,15 +178,15 @@ When in doubt, measure twice — oversized outdoor bags flap in wind; undersized
 | Tape pulls paint | Fragile latex / dirty trim | Clean landing; test a corner; prefer elastic covers over aggressive tape on historic trim |
 | Unit shifted / sill soft | Mounting failure | Stop; support/brace; hire help — weatherization after safety |
 
-## Honest limits (what a cover will not fix)
+## What this won't fix
 
 - A failed furnace, heat-pump aux thrashing, or wide-open attic.
 - A banana-shaped exterior door or missing door sweep.
-- Single-pane glass across a whole wall — use film/curtains on **non-AC** openings.
+- Single-pane glass across a whole wall — use film/curtains on non-AC openings.
 - High bills driven by rate changes or strip heat with no infiltration problem.
 - A window AC you still need as a heat pump in shoulder season — don’t cover a unit you must run.
 
-## Post-setup checklist that can move kWh
+## After you set it up
 
 1. Unplug the window/wall unit for the season.
 2. Confirm indoor liner + cover seated; outdoor bag cinched if used.
@@ -196,9 +195,9 @@ When in doubt, measure twice — oversized outdoor bags flap in wind; undersized
 5. Film or curtain other drafty panes in the same rooms.
 6. Replace a dirty HVAC filter so the heating system isn’t fighting a clogged return ([filters](/blog/hvac-air-filters-merv-efficiency/)).
 7. After the first cold windy night, re-check straps and feel for remaining drafts.
-8. On the next bill, compare **kWh** to the same month last year when you can — not to a marketing percentage.
+8. On the next bill, compare kWh to the same month last year when you can — not to a marketing percentage.
 
-## Habits that multiply (or replace) a cover
+## Habits that help
 
 - Remove units you can store; covers are plan B.
 - Keep winter heat setbacks honest — sealing a room then cranking the thermostat wastes the win ([smart thermostats](/blog/best-smart-thermostats-2026/)).
@@ -248,4 +247,4 @@ Different product class. Window/through-wall units sit in the envelope and draft
 
 ## Bottom line
 
-For US homes heading into heating season with **window or through-wall ACs left in place**, indoor and outdoor covers (plus foam side panels) are a **low-cost, reversible** draft stop — not a substitute for removal when removal is easy, or for attic and door sealing when those are the real holes. Measure BTU and chassis first, pick indoor vs outdoor vs foam by the leak you felt, unplug before you cover, and re-check straps after the first windy night. Pair with [window film](/blog/window-insulation-kits-winter-drafts/) on other panes and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) on doors. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+For US homes heading into heating season with window or through-wall ACs left in place, indoor and outdoor covers (plus foam side panels) are a low-cost, reversible draft stop — not a substitute for removal when removal is easy, or for attic and door sealing when those are the real holes. Measure BTU and chassis first, pick indoor vs outdoor vs foam by the leak you felt, unplug before you cover, and re-check straps after the first windy night. Pair with [window film](/blog/window-insulation-kits-winter-drafts/) on other panes and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) on doors. For the broader order of operations, return to [Start Here](/start-here/) or this month’s [priority checklist](/blog/lower-electric-bill-priority-checklist/).

@@ -1,6 +1,6 @@
 ---
 title: "Under-Desk Heaters & Heated Foot Warmers: Warm the Person, Not the House"
-description: "Bill-first US guide to low-watt personal heat for a home office — measure watts with a plug meter, compare heated foot mats vs flat-panel leg heaters vs enclosed leg warmers vs heated throws, the thermostat setback that actually creates savings, safety do-nots (no power strips, no covering, no sleeping), troubleshooting, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to low-watt personal heat for a home office — measure watts with a plug meter, compare heated foot mats vs flat-panel leg heaters vs enclosed leg warmers vs heated throws, the thermostat setback that actually creates savings, safety do-nots (no power strips, no covering, no sleeping), troubleshooting, and verified Amazon shortlists."
 pubDate: 2026-10-05
 updatedDate: 2026-10-05
 faqs:
@@ -18,13 +18,12 @@ faqs:
     answer: "For lap and upper-leg warmth while sitting, yes — heated throws are typically low-watt and many have auto-off. They're less convenient at a standing desk or if you get up often, and the cord can be a trip hazard across a walkway. Many people pair a foot mat for the floor with a throw for the lap and keep the room itself a few degrees cooler."
 ---
 
-If you work from home in winter, the usual move is to bump the thermostat for the whole house — or to plug in a 1,500 W space heater at your feet — just to stop your toes and shins from going numb. **Personal heat** is the cheaper alternative: a heated foot mat, a flat-panel leg heater, or a heated throw that uses a fraction of the power and warms **you**, not every room. The catch is simple and we'll repeat it: a desk heater only saves money if it lets you **lower the central heat**. Plugged in on top of your usual setpoint, it's just another load. This guide is **bill-first**: measure what you'd use, pick the right type for where you're cold, make the setback that creates the savings, and stay inside safety basics. No guaranteed percent savings.
+If you work from home in winter, the usual move is to bump the thermostat for the whole house — or to plug in a 1,500 W space heater at your feet — just to stop your toes and shins from going numb. Personal heat is the cheaper alternative: a heated foot mat, a flat-panel leg heater, or a heated throw that uses a fraction of the power and warms you, not every room. The catch is simple and we'll repeat it: a desk heater only saves money if it lets you lower the central heat. Plugged in on top of your usual setpoint, it's just another load. In this guide: measure what you'd use, pick the right type for where you're cold, make the setback that creates the savings, and stay inside safety basics.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Zone-heat siblings: [oil-filled space heaters](/blog/oil-filled-space-heaters-zone-heating/) (when you need room air heat), [heated mattress pads](/blog/heated-mattress-pads-zone-heating/) (the overnight version of this idea), [smart thermostats](/blog/best-smart-thermostats-2026/) (to schedule the setback), [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/) (to measure real watts), and [door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) (because the cold floor under your desk is often a draft). This page is **under-desk and personal heat** for a seated workday — not a whole-room heater review.
 
-## Honest framing: the savings come from the setback
+## The savings come from the setback
 
-Here's the mechanism in plain terms. Your furnace, heat pump, or baseboard heat warms the air in the whole house (or zone) to the setpoint. A foot mat warms a small area in contact with you. If you hold the house a few degrees cooler during work hours and stay comfortable because of the mat, the **heat you didn't buy for the whole house** is the saving, minus the mat's small electricity use.
+Here's the mechanism in plain terms. Your furnace, heat pump, or baseboard heat warms the air in the whole house (or zone) to the setpoint. A foot mat warms a small area in contact with you. If you hold the house a few degrees cooler during work hours and stay comfortable because of the mat, the heat you didn't buy for the whole house is the saving, minus the mat's small electricity use.
 
 Three things decide whether it's worth doing:
 
@@ -34,57 +33,57 @@ Three things decide whether it's worth doing:
 
 What's not on the bill but still real: comfort, focus, and not fighting the household over the thermostat. We'll mention those, not monetize them.
 
-## Measure first: what will it cost to run? (~6 steps)
+## Check your home before you buy
 
 Do this before you buy, or in your first week with a new unit.
 
-1. **Read the label.** Heaters list watts on the box or a rating label. The models in our shortlist range from about **90 W to 235 W**. A typical portable space heater is **1,500 W on high**.
+1. **Read the label.** Heaters list watts on the box or a rating label. The models in our shortlist range from about 90 W to 235 W. A typical portable space heater is 1,500 W on high.
 2. **Find your rate.** Use your bill's all-in price per kWh (energy plus delivery), not just the "energy charge" line.
 3. **Estimate a ceiling.** Watts ÷ 1,000 × hours you'll run it × rate. That assumes full power the whole time.
 4. **Measure the real number.** Plug the heater into a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/) for a full workday and read kWh. Units that cycle, or that you run on low, use less than the ceiling.
 5. **Decide your setback.** Pick how many degrees you'll lower the house (or office zone) during work hours, and for how many hours. Write it down — it's the whole point.
 6. **Check it on the bill.** Compare a few weeks of similar weather before and after. Weather swings make month-to-month comparisons noisy; utility interval data or degree-day comparisons are better if your utility shows them.
 
-**Example math only (not a promise):** a 120 W mat × 8 hours = 0.96 kWh. At $0.17/kWh that's about **$0.16 a workday**, roughly **$3.50 over 22 workdays** at full power. The same 8 hours with a 1,500 W space heater on high could reach **12 kWh (~$2.04 a day)**. Your setback savings depend on your heating system and climate and could be larger or smaller than the mat's cost — we don't publish a universal number because there isn't an honest one. For the full 1,500 W vs 750 W cost math across ceramic, infrared, and oil-filled heaters, see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).
+**Example math only (not a promise):** a 120 W mat × 8 hours = 0.96 kWh. At $0.17/kWh that's about $0.16 a workday, roughly $3.50 over 22 workdays at full power. The same 8 hours with a 1,500 W space heater on high could reach 12 kWh (~$2.04 a day). Your setback savings depend on your heating system and climate and could be larger or smaller than the mat's cost — we don't publish a universal number because there isn't an honest one. For the full 1,500 W vs 750 W cost math across ceramic, infrared, and oil-filled heaters, see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).
 
 ## Product types at a glance
 
 | Type | Typical draw (models listed) | Best for | Watch-outs |
 | --- | --- | --- | --- |
-| **Heated foot mat (hard or carpeted)** | ~90–135 W | Cold feet on hard or basement floors | Feet must stay on it; some get warm, not hot |
-| **Heated foot pad / soft warmer** | Low-watt (check label) | Slippers-on comfort, budget | Softer pads can bunch; check auto-off |
-| **Flat-panel under-desk heater** | ~150 W | Cold shins and knees under a desk | Works best within a short distance of legs; mixed reviews on output |
-| **Enclosed foldable leg warmer + blanket** | ~150–235 W | Drafty rooms, very cold lower legs | Higher draw; feels enclosed; generic brands vary |
-| **Heated throw blanket** | Low-watt (check label) | Lap and upper legs while seated | Cord routing; less handy at a standing desk |
-| **1,500 W space heater** | 1,500 W on high | Warming room air | Usually the opposite of a bill cut at a desk — see [oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/) if you truly need room heat |
+| Heated foot mat (hard or carpeted) | ~90–135 W | Cold feet on hard or basement floors | Feet must stay on it; some get warm, not hot |
+| Heated foot pad / soft warmer | Low-watt (check label) | Slippers-on comfort, budget | Softer pads can bunch; check auto-off |
+| Flat-panel under-desk heater | ~150 W | Cold shins and knees under a desk | Works best within a short distance of legs; mixed reviews on output |
+| Enclosed foldable leg warmer + blanket | ~150–235 W | Drafty rooms, very cold lower legs | Higher draw; feels enclosed; generic brands vary |
+| Heated throw blanket | Low-watt (check label) | Lap and upper legs while seated | Cord routing; less handy at a standing desk |
+| 1,500 W space heater | 1,500 W on high | Warming room air | Usually the opposite of a bill cut at a desk — see [oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/) if you truly need room heat |
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest bill leverage)
+### Do these first
 
 - **Home office in a house you'd otherwise heat all day for one person.** This is the core case: lower the whole-house setpoint during work hours, warm yourself.
 - **Expensive heating fuel.** Electric resistance baseboard, propane, or oil makes every degree of setback worth more.
 - **Basement or slab-floor office.** Cold floors are a contact problem; a mat is the cheapest fix.
 - **Household thermostat fights.** One person who runs cold shouldn't set the temperature for everyone.
 
-### Lower priority / skip for now
+### These can wait
 
 - **You won't change the thermostat.** Then a heater only adds cost — buy fuzzy socks instead.
 - **Heat pump in mild weather.** Heat is already relatively efficient; savings per degree are smaller. Still fine for comfort.
 - **A big draft is the real problem.** Seal the door, window, or outlet first: [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window kits](/blog/window-insulation-kits-winter-drafts/), [outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 - **You're rarely at the desk.** Short sessions don't justify a purchase.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
-- **Do not** run a **1,500 W space heater through a power strip, extension cord, or light-duty smart plug**. Follow the manual; most say wall outlet only.
-- **Do not** leave personal heaters on while **sleeping or away**. Use units with auto-off or a timer.
+- **Do not** run a 1,500 W space heater through a power strip, extension cord, or light-duty smart plug. Follow the manual; most say wall outlet only.
+- **Do not** leave personal heaters on while sleeping or away. Use units with auto-off or a timer.
 - **Do not** cover a heater with blankets, papers, or bags, or pile things against it, unless the product is designed to be used with its own cover — and then use only that cover as directed.
-- **Do not** use a unit with a **damaged cord**, scorch marks, or a hot-plastic smell. Unplug and replace it.
-- **Do not** run the cord **under a rug** or across a walkway where it gets stepped on or pinched by chair casters.
-- **Do not** rely on contact heat if you have **reduced sensation in your feet** (diabetes, neuropathy) without asking a clinician — burns can happen without you noticing.
+- **Do not** use a unit with a damaged cord, scorch marks, or a hot-plastic smell. Unplug and replace it.
+- **Do not** run the cord under a rug or across a walkway where it gets stepped on or pinched by chair casters.
+- **Do not** rely on contact heat if you have reduced sensation in your feet (diabetes, neuropathy) without asking a clinician — burns can happen without you noticing.
 - **Do not** buy heat to fix a draft. Seal first; heat second.
 
-## Buyer decision tree (mat vs panel vs enclosed vs throw vs skip)
+## Which one should you buy?
 
 1. **Will you lower the thermostat during work hours?**
    - No → skip the purchase, or buy only for comfort knowing it adds a little cost.
@@ -103,17 +102,17 @@ Do this before you buy, or in your first week with a new unit.
 
 | Item | What to check | Why it matters |
 | --- | --- | --- |
-| **Watts** | Rated wattage on the listing and label | Your running cost and outlet load |
-| **Auto-off / timer** | Hours before shut-off | Protects against forgetting it on |
-| **Heat settings** | Fixed vs adjustable | Fixed-output mats are simple; adjustable lets you run lower |
-| **Surface size** | Mat dimensions vs your footwell | Too small and your feet slide off |
-| **Cord length** | Distance to a wall outlet | Avoid extension cords |
-| **Safety listing** | UL/ETL or similar on the listing or label | Basic third-party safety testing |
-| **Cleaning** | Wipe-clean or removable cover | Mats get dirty under desks |
+| Watts | Rated wattage on the listing and label | Your running cost and outlet load |
+| Auto-off / timer | Hours before shut-off | Protects against forgetting it on |
+| Heat settings | Fixed vs adjustable | Fixed-output mats are simple; adjustable lets you run lower |
+| Surface size | Mat dimensions vs your footwell | Too small and your feet slide off |
+| Cord length | Distance to a wall outlet | Avoid extension cords |
+| Safety listing | UL/ETL or similar on the listing or label | Basic third-party safety testing |
+| Cleaning | Wipe-clean or removable cover | Mats get dirty under desks |
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions or comfort results. Check wattage, auto-off, and the manual's outlet rules before you buy. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best overall foot mat: Cozy Products Electric Foot Warmer (120 W)
 
@@ -159,14 +158,14 @@ Do this before you buy, or in your first week with a new unit.
 
 - P3 P4400 Kill A Watt Electricity Usage Monitor: [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **1,500 W "personal" space heaters marketed for desks** — they're room heaters by wattage. If you genuinely need room heat, read our [oil-filled heater guide](/blog/oil-filled-space-heaters-zone-heating/) for safer zone heating.
 - **USB-powered heated gadgets as a main heat source** — fine for hands, too weak to replace a setback strategy.
 - **Disposable toe warmers for daily desk use** — they work, but the trash and recurring cost add up.
 - **Invented ASINs** or "save $X per year" claims.
 
-## Setup / troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
@@ -179,7 +178,7 @@ Do this before you buy, or in your first week with a new unit.
 | Hot smell or discoloration | Damaged unit or covered heater | Unplug immediately and replace |
 | Cord gets pinched | Chair casters or desk legs | Re-route along the wall; use a cord cover, not a rug |
 
-## Honest limits (what personal heat won't fix)
+## What this won't fix
 
 - **It won't help without a setback.** Comfort, yes; savings, no.
 - **It doesn't heat the room.** Hands, shoulders, and the air you breathe stay at room temperature.
@@ -187,7 +186,7 @@ Do this before you buy, or in your first week with a new unit.
 - **Household setpoints have limits.** Keep the house warm enough for pipes, pets, and anyone who's elderly, ill, or very young.
 - **No universal number.** Fuel type, rates, climate, and hours at home vary too much for honest "you'll save $X" claims.
 
-## Post-setup checklist + habits
+## After you set it up
 
 - [ ] Wattage and rate written down; ceiling cost per workday estimated
 - [ ] One personal heater chosen for where you're actually cold
@@ -197,7 +196,7 @@ Do this before you buy, or in your first week with a new unit.
 - [ ] Auto-off or timer confirmed; unit off at the end of the day
 - [ ] Obvious drafts at the office door, window, and outlets sealed
 
-### Habits that multiply the setback
+### Habits that help
 
 - **Dress for the setpoint.** Wool socks and a layer let the mat run on low.
 - **Close the office door.** On zoned or baseboard systems, heat only the room you're in.
@@ -248,4 +247,4 @@ For lap and upper-leg warmth while sitting, yes — heated throws are typically 
 
 ## Bottom line
 
-A heated foot mat or under-desk panel is one of the cheapest winter comfort buys — but it cuts your bill **only when you lower the central heat** because of it. **Measure watts → pick mat, panel, enclosed warmer, or throw by where you're cold → set a work-hours thermostat setback → plug into a wall outlet with auto-off → seal the draft under the desk.** Skip 1,500 W "desk" heaters unless you genuinely need room heat. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+A heated foot mat or under-desk panel is one of the cheapest winter comfort buys — but it cuts your bill only when you lower the central heat because of it. Measure watts → pick mat, panel, enclosed warmer, or throw by where you're cold → set a work-hours thermostat setback → plug into a wall outlet with auto-off → seal the draft under the desk. Skip 1,500 W "desk" heaters unless you genuinely need room heat. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

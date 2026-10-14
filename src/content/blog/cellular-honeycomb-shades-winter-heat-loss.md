@@ -1,6 +1,6 @@
 ---
 title: "Cellular (Honeycomb) Shades for Winter: Cut Window Heat Loss Without Guesswork"
-description: "Bill-first US guide to insulating cellular / honeycomb shades — when they actually cut heating cost, single vs double cell, light-filtering vs blackout, top-down/bottom-up, cordless safety, inside vs outside mount gaps, how they stack with thermal curtains and shrink film, fit troubleshooting, and verified Amazon shortlists. Sourced, hedged savings — no guarantees."
+description: "US guide to insulating cellular / honeycomb shades — when they actually cut heating cost, single vs double cell, light-filtering vs blackout, top-down/bottom-up, cordless safety, inside vs outside mount gaps, how they stack with thermal curtains and shrink film, fit troubleshooting, and verified Amazon shortlists. Sourced, hedged savings — no guarantees."
 pubDate: 2026-10-05
 updatedDate: 2026-10-05
 faqs:
@@ -18,17 +18,16 @@ faqs:
     answer: "Cordless shades remove the looped pull cords that the U.S. Consumer Product Safety Commission has long warned are a strangulation hazard for young children, which is why we only list cordless models. Look for the Best for Kids certification on the listing, keep cribs, beds, and climbable furniture away from any window covering, and replace old corded blinds rather than tying cords up."
 ---
 
-Windows are the thinnest part of most walls. On a cold night, older glass radiates your heat outdoors and drops a sheet of cold air onto the floor — that's the draft you feel even when the window is shut tight. **Cellular (honeycomb) shades** trap air in fabric pockets right against the glass, which slows that loss and takes the chill off the room. They're also one of the few window coverings with real government-lab testing behind them. The catch: the published savings come from **well-fitted shades that people actually close at night**, and most of the headline numbers are for premium multi-layer products. This guide is **bill-first**: measure which windows are worth it, pick the right cell type, opacity, and mount, fit them tightly, and use them on a schedule. No guaranteed percent savings.
+Windows are the thinnest part of most walls. On a cold night, older glass radiates your heat outdoors and drops a sheet of cold air onto the floor — that's the draft you feel even when the window is shut tight. Cellular (honeycomb) shades trap air in fabric pockets right against the glass, which slows that loss and takes the chill off the room. They're also one of the few window coverings with real government-lab testing behind them. The catch: the published savings come from well-fitted shades that people actually close at night, and most of the headline numbers are for premium multi-layer products. In this guide: measure which windows are worth it, pick the right cell type, opacity, and mount, fit them tightly, and use them on a schedule.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Window siblings: [window insulation kits](/blog/window-insulation-kits-winter-drafts/) (seasonal shrink film for leaky glass), [thermal / blackout curtains](/blog/thermal-blackout-curtains-energy-savings/) (the reversible fabric layer), [sliding glass door draft sealing](/blog/sliding-glass-door-draft-sealing-winter/) (patio doors), and [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) plus [caulk and foam](/blog/air-sealing-caulk-foam-outlet-gaskets/) (because air leaking around the frame beats any shade). This page is **interior cellular shades for heating-season heat loss** — not a window-replacement review or a motorized smart-home roundup.
 
-## Honest framing: what the research says (and doesn't)
+## What the research says (and doesn't)
 
 Here's what we can actually source, in plain terms:
 
-- **DOE's Building Technologies Office** published a fact sheet ("Interior Cellular Shades Boost Home Energy Performance," 2021) summarizing Lawrence Berkeley National Laboratory simulations: cellular shades achieved **higher energy savings than all other interior shading types modeled**, saving **up to about 20% of heating energy and up to about 15% of combined heating and cooling energy** versus no shades. It specifically says *well-fitted* shades.
-- **Pacific Northwest National Laboratory** tested shades in a pair of matched lab homes. With an optimized open/close schedule, the shades cut HVAC energy by roughly **14% in the heating period** compared with no window coverings. The product tested was a **premium multi-layer honeycomb with metallized lining** — not a $40 single-cell shade.
-- A **PNNL modeling report** prepared for utility programs found **double-cell shades delivered nearly the same savings as triple-cell**, with the biggest savings in smaller existing homes with a lot of window area — and noted that real-world savings depend heavily on how people operate the shades.
+- **DOE's Building Technologies Office** published a fact sheet ("Interior Cellular Shades Boost Home Energy Performance," 2021) summarizing Lawrence Berkeley National Laboratory simulations: cellular shades achieved higher energy savings than all other interior shading types modeled, saving up to about 20% of heating energy and up to about 15% of combined heating and cooling energy versus no shades. It specifically says *well-fitted* shades.
+- **Pacific Northwest National Laboratory** tested shades in a pair of matched lab homes. With an optimized open/close schedule, the shades cut HVAC energy by roughly 14% in the heating period compared with no window coverings. The product tested was a premium multi-layer honeycomb with metallized lining — not a $40 single-cell shade.
+- A PNNL modeling report prepared for utility programs found double-cell shades delivered nearly the same savings as triple-cell, with the biggest savings in smaller existing homes with a lot of window area — and noted that real-world savings depend heavily on how people operate the shades.
 - **DOE's Energy Saver guide** recommends tight-fitting, insulating shades on windows that still feel drafty *after* weatherizing, closing them at night, and opening them on sunny winter days to let solar heat in.
 
 What that means for your bill:
@@ -39,7 +38,7 @@ What that means for your bill:
 
 What's real but not on the bill: a warmer feeling near windows, less cold air pooling on the floor, privacy, and (with blackout) better sleep. We'll mention those, not monetize them.
 
-## Measure first: which windows are worth it? (~6 steps)
+## Check your home before you buy
 
 Do this on a cold evening before you order anything — especially since most custom shades take a week or more to ship and can't be returned once cut.
 
@@ -50,23 +49,23 @@ Do this on a cold evening before you order anything — especially since most cu
 5. **Measure carefully.** Use a steel tape. For inside mount, measure width at top, middle, and bottom and use the narrowest; measure height at left, center, and right and use the longest; measure recess depth. For outside mount, measure the area you want to cover and add overlap (see the fit section). Write down every number to the 1/8 inch.
 6. **Decide your schedule.** Shades down at dusk, up in the morning on sunny south and west windows, down all day on north windows in rooms you're not using. If you won't do this daily, plan on top-down/bottom-up shades or a simple routine tied to turning on lights.
 
-**Example math only (not a promise):** DOE's Energy Saver site estimates heat gain and loss through windows account for roughly **25–30% of residential heating and cooling energy use** (it varies a lot by home). Say your heating costs $900 a season and windows are ~25% of that: about **$225** of window-related heat. Fitted, nightly-closed shades that trim a modest share of that on the windows you cover add up to **tens of dollars a season**, not hundreds — more if your glass is single-pane, your heat is expensive, or you cover most of the house. Ranking windows matters: shades on the coldest, most-used rooms pay back first.
+**Example math only (not a promise):** DOE's Energy Saver site estimates heat gain and loss through windows account for roughly 25–30% of residential heating and cooling energy use (it varies a lot by home). Say your heating costs $900 a season and windows are ~25% of that: about $225 of window-related heat. Fitted, nightly-closed shades that trim a modest share of that on the windows you cover add up to tens of dollars a season, not hundreds — more if your glass is single-pane, your heat is expensive, or you cover most of the house. Ranking windows matters: shades on the coldest, most-used rooms pay back first.
 
 ## Types at a glance
 
 | Choice | What it means | Best for | Watch-outs |
 | --- | --- | --- | --- |
-| **Single cell** | One row of air pockets | Budget, most Amazon custom sizes, good everyday insulation | Less insulation than double cell; quality varies by brand |
-| **Double cell** | Two stacked rows of pockets | Very cold climates, big single-pane windows | Higher price, deeper stack at top, fewer budget options |
-| **Light-filtering** | Translucent fabric, soft daylight | Living rooms, kitchens, offices — rooms where you'd close them more often | Less radiant blocking than foil-lined blackout |
-| **Blackout / room-darkening** | Opaque or foil/metallized layer inside cells | Bedrooms, nurseries, west windows | Light still leaks at edges unless outside-mounted with overlap |
-| **Top-down/bottom-up (TDBU)** | Shade can open from the top, bottom, or both | Street-facing rooms: privacy at the bottom, daylight at the top | More hardware; small gap between the two rails |
-| **Cordless lift** | Push/pull the bottom rail | Homes with kids or pets; the default today | Wide or heavy shades can be harder to lift evenly |
-| **No-drill tension mount** | Spring rods hold the shade in the recess | Renters, vinyl frames you don't want to drill | Inside mount only; needs enough recess depth and a square frame |
+| Single cell | One row of air pockets | Budget, most Amazon custom sizes, good everyday insulation | Less insulation than double cell; quality varies by brand |
+| Double cell | Two stacked rows of pockets | Very cold climates, big single-pane windows | Higher price, deeper stack at top, fewer budget options |
+| Light-filtering | Translucent fabric, soft daylight | Living rooms, kitchens, offices — rooms where you'd close them more often | Less radiant blocking than foil-lined blackout |
+| Blackout / room-darkening | Opaque or foil/metallized layer inside cells | Bedrooms, nurseries, west windows | Light still leaks at edges unless outside-mounted with overlap |
+| Top-down/bottom-up (TDBU) | Shade can open from the top, bottom, or both | Street-facing rooms: privacy at the bottom, daylight at the top | More hardware; small gap between the two rails |
+| Cordless lift | Push/pull the bottom rail | Homes with kids or pets; the default today | Wide or heavy shades can be harder to lift evenly |
+| No-drill tension mount | Spring rods hold the shade in the recess | Renters, vinyl frames you don't want to drill | Inside mount only; needs enough recess depth and a square frame |
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest bill leverage)
+### Do these first
 
 - **Single-pane or older clear double-pane windows** in rooms you use every evening.
 - **Expensive heating fuel** — electric baseboard, propane, oil. Pair with room-level control from a [line-voltage thermostat](/blog/electric-baseboard-heater-thermostats-line-voltage/) so the room you shade is also the room you heat.
@@ -74,7 +73,7 @@ Do this on a cold evening before you order anything — especially since most cu
 - **Bedrooms** where you'd want blackout anyway — you get the darkness and the night-time insulation from the same shade, closed for 8+ hours.
 - **Windows too tight or awkward for curtains** — next to a radiator (keep clearances), over a sink, or in a narrow recess.
 
-### Lower priority / skip for now
+### These can wait
 
 - **The window leaks air around the sash.** Seal it first; a shade on a drafty frame mostly hides the problem.
 - **Newer low-e double- or triple-pane windows** with no cold-glass feel — smaller gains, mostly a comfort and privacy purchase.
@@ -82,17 +81,17 @@ Do this on a cold evening before you order anything — especially since most cu
 - **Rooms you rarely use** with the door closed and the register partly shut.
 - **You won't change how you use window coverings.** If they'll stay open all evening, buy a [film kit](/blog/window-insulation-kits-winter-drafts/) for winter instead — it works without daily effort.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
-- **Do not** buy or keep **corded** blinds or shades with accessible loops in a home with young children; the CPSC has long warned corded window coverings are a strangulation hazard. Every pick below is cordless.
-- **Do not** place **cribs, beds, or climbable furniture** under or next to windows with any window covering.
-- **Do not** let any shade rest **against a space heater, baseboard heater, or radiator**. Follow the heater manual's clearances (often 3 feet for portable heaters). See [oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/) and [radiator reflectors](/blog/radiator-heat-reflectors-exterior-walls/).
-- **Do not** block a **bedroom egress window** with anything that can't be raised quickly. Shades lift easily; just don't screw anything across the opening.
-- **Do not** expect a shade to fix **condensation or mold** on the glass. Heavy condensation means indoor humidity is high or the glass is very cold; check humidity (aim for roughly 30–50% in winter) and ventilate. Cracking the shade open a little, or opening it daily, lets the glass dry.
-- **Do not** order custom sizes from a **single tape measurement**. Measure three times per dimension; custom cuts are usually non-returnable.
-- **Do not** drill into **vinyl window frames** without checking the window maker's guidance — some warranties don't allow it. Use a no-drill shade or mount on the wall/trim instead.
+- **Do not** buy or keep corded blinds or shades with accessible loops in a home with young children; the CPSC has long warned corded window coverings are a strangulation hazard. Every pick below is cordless.
+- **Do not** place cribs, beds, or climbable furniture under or next to windows with any window covering.
+- **Do not** let any shade rest against a space heater, baseboard heater, or radiator. Follow the heater manual's clearances (often 3 feet for portable heaters). See [oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/) and [radiator reflectors](/blog/radiator-heat-reflectors-exterior-walls/).
+- **Do not** block a bedroom egress window with anything that can't be raised quickly. Shades lift easily; just don't screw anything across the opening.
+- **Do not** expect a shade to fix condensation or mold on the glass. Heavy condensation means indoor humidity is high or the glass is very cold; check humidity (aim for roughly 30–50% in winter) and ventilate. Cracking the shade open a little, or opening it daily, lets the glass dry.
+- **Do not** order custom sizes from a single tape measurement. Measure three times per dimension; custom cuts are usually non-returnable.
+- **Do not** drill into vinyl window frames without checking the window maker's guidance — some warranties don't allow it. Use a no-drill shade or mount on the wall/trim instead.
 
-## Buyer decision tree (single vs double, opacity, mount, TDBU, skip)
+## Which one should you buy?
 
 1. **Have you sealed the obvious drafts?**
    - No → [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [caulk and foam](/blog/air-sealing-caulk-foam-outlet-gaskets/), or a [window film kit](/blog/window-insulation-kits-winter-drafts/) first. Come back after.
@@ -118,23 +117,23 @@ Do this on a cold evening before you order anything — especially since most cu
 
 ## Fit notes: where the heat sneaks around
 
-A cellular shade insulates the area it covers. Heat loss happens at the **edges**: room air flows down behind the shade, gets chilled by the glass, and spills out the bottom gap into the room. The tighter the edges, the more the trapped air acts like insulation.
+A cellular shade insulates the area it covers. Heat loss happens at the edges: room air flows down behind the shade, gets chilled by the glass, and spills out the bottom gap into the room. The tighter the edges, the more the trapped air acts like insulation.
 
 | Item | What to check | Why it matters |
 | --- | --- | --- |
-| **Width deduction (inside mount)** | Seller's stated deduction, often 1/4–3/8 inch total | Leaves side gaps; brands differ, so order to their guide |
-| **Recess depth** | Seller's minimum depth for inside / flush mount | Too shallow and the headrail sticks out or won't fit |
-| **Overlap (outside mount)** | ~1.5–3 inches past the frame each side and above | Less open edge; better light blocking |
-| **Bottom rail contact** | Rail rests on the sill when closed | A gap at the bottom lets chilled air pour out |
-| **Cell size** | 3/8–3/4 inch typical; larger cells stack thicker | Bigger cells look bolder; stack height matters on short windows |
-| **Stack height** | How much shade remains at the top when fully raised | Can block the top of a short window's view or daylight |
-| **Cord-free mechanism** | Cordless lift, Best for Kids label | Child and pet safety |
+| Width deduction (inside mount) | Seller's stated deduction, often 1/4–3/8 inch total | Leaves side gaps; brands differ, so order to their guide |
+| Recess depth | Seller's minimum depth for inside / flush mount | Too shallow and the headrail sticks out or won't fit |
+| Overlap (outside mount) | ~1.5–3 inches past the frame each side and above | Less open edge; better light blocking |
+| Bottom rail contact | Rail rests on the sill when closed | A gap at the bottom lets chilled air pour out |
+| Cell size | 3/8–3/4 inch typical; larger cells stack thicker | Bigger cells look bolder; stack height matters on short windows |
+| Stack height | How much shade remains at the top when fully raised | Can block the top of a short window's view or daylight |
+| Cord-free mechanism | Cordless lift, Best for Kids label | Child and pet safety |
 
 **Honest note on double cell:** we looked for a well-reviewed, clearly listed double-cell cellular shade on Amazon to recommend and didn't find one we were confident in, so our shortlist is single-cell (several with foil/metallized blackout layers). If you want double cell, compare products with published AERC ratings (the independent Attachments Energy Rating Council lists energy performance for many window attachment products) or buy from a dedicated window-covering retailer that lets you order samples.
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions or comfort results. Check the seller's measuring guide, width deduction, mount type, and return policy (custom sizes are often non-returnable) before you buy. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best overall custom light-filtering: LEVOLOR Custom Size Cordless Cellular Shades
 
@@ -144,7 +143,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 
 ### 2) Best for bedrooms: CHICOLOGY Custom Cordless Cellular Shades
 
-**Why it makes the list:** Custom-sized cordless single-cell shades with room-darkening and light-filtering fabric options and a Best for Kids certification. Note the listing is for **inside mount** with a 1/4-inch width deduction, so measure the narrowest point of the recess.
+**Why it makes the list:** Custom-sized cordless single-cell shades with room-darkening and light-filtering fabric options and a Best for Kids certification. Note the listing is for inside mount with a 1/4-inch width deduction, so measure the narrowest point of the recess.
 
 - CHICOLOGY Custom Cordless Cellular Shades (choose fabric, size, and color on the listing): [View on Amazon](https://www.amazon.com/dp/B0821RKHKL/?tag=homebillcuts-20)
 
@@ -162,7 +161,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 
 ### 5) Best for renters: LazBlinds No Drill Cordless Cellular Shades
 
-**Why it makes the list:** Spring tension rods hold the shade inside the window recess — no drilling, no brackets, no holes in a landlord's frame. Light-filtering, cordless, and heavily reviewed. **Inside mount only**, fixed sizes with a small adjustable range, and a minimum recess depth, so measure carefully.
+**Why it makes the list:** Spring tension rods hold the shade inside the window recess — no drilling, no brackets, no holes in a landlord's frame. Light-filtering, cordless, and heavily reviewed. Inside mount only, fixed sizes with a small adjustable range, and a minimum recess depth, so measure carefully.
 
 - LazBlinds No Drill Cordless Cellular Shades, light filtering (example size 34″ W × 48″ H — pick your size on the listing): [View on Amazon](https://www.amazon.com/dp/B0CVX73HY3/?tag=homebillcuts-20)
 
@@ -170,7 +169,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 
 ### 6) Best stock-size value: Calyx Interiors Cordless Blackout Cellular Shade
 
-**Why it makes the list:** If your window matches a stock size, you skip custom lead times. This single-cell blackout shade includes inside and outside mount hardware, and the seller is unusually clear that it's the **exact size, no deductions**, and that blackout performance needs about an inch of overlap on each side.
+**Why it makes the list:** If your window matches a stock size, you skip custom lead times. This single-cell blackout shade includes inside and outside mount hardware, and the seller is unusually clear that it's the exact size, no deductions, and that blackout performance needs about an inch of overlap on each side.
 
 - Calyx Interiors Cellular Honeycomb Shades, 33.5″ W × 60″ H, White, Blackout (other sizes on the listing): [View on Amazon](https://www.amazon.com/dp/B0DDRHTQZX/?tag=homebillcuts-20)
 
@@ -180,7 +179,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 
 - Etekcity Infrared Thermometer Laser Temperature Gun (-58°F to 1130°F): [View on Amazon](https://www.amazon.com/dp/B00DMI632G/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **Corded cellular shades** — no reason to bring loop cords into a home in 2026.
 - **Motorized shades as a savings pick** — great for skylights or hard-to-reach windows, but the motor doesn't add insulation. Automate later if you'll never stick to a schedule.
@@ -207,7 +206,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 - **Shade + thermal curtain** (coldest window or a glass wall): shade in the recess, [thermal curtain](/blog/thermal-blackout-curtains-energy-savings/) high and wide over it, both clear of heaters.
 - **Patio doors:** door-size cellular shades exist, but the bigger win is usually the track and meeting stile — see [sliding glass door draft sealing](/blog/sliding-glass-door-draft-sealing-winter/).
 
-## Honest limits (what cellular shades won't fix)
+## What this won't fix
 
 - **They don't stop air leaks.** A drafty frame needs sealing, not fabric.
 - **They only work when closed.** Open at night = nearly no benefit for heat loss.
@@ -227,7 +226,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 - [ ] Bottom rails reach the sill when closed
 - [ ] Dusk-down / morning-up routine set (sunny south and west windows open by day)
 
-### Habits that multiply the savings
+### Habits that help
 
 - **Tie it to the lights.** Shades down when you turn on evening lights; up when you open the blinds for morning coffee.
 - **Use the sun.** On sunny winter days, open south-facing shades; close north-facing ones in unused rooms.
@@ -238,7 +237,7 @@ A cellular shade insulates the area it covers. Heat loss happens at the **edges*
 
 ### Do cellular shades really lower heating bills?
 
-They can, when they cover cold glass with small edge gaps and you actually close them at night. Government-lab research is the best evidence we have: a DOE fact sheet summarizing Lawrence Berkeley National Laboratory simulations reports cellular shades saving up to about 20% of heating energy versus no shades, and a Pacific Northwest National Laboratory test of a premium multi-layer shade measured about 14% HVAC savings in the heating season with an optimized open/close schedule. Those are best-case lab or model numbers — budget shades on a few windows, left open at night or with big side gaps, save much less. We do not guarantee a dollar figure.
+They can, when they cover cold glass with small edge gaps and you actually close them at night. Government-lab research is the best evidence we have: a DOE fact sheet summarizing Lawrence Berkeley National Laboratory simulations reports cellular shades saving up to about 20% of heating energy versus no shades, and a Pacific Northwest National Laboratory test of a premium multi-layer shade measured about 14% HVAC savings in the heating season with an optimized open/close schedule. Those are best-case lab or model numbers — budget shades on a few windows, left open at night or with big side gaps, save much less.
 
 ### Single cell or double cell — which is better for winter?
 
@@ -283,4 +282,4 @@ Cordless shades remove the looped pull cords that the U.S. Consumer Product Safe
 
 ## Bottom line
 
-Cellular shades are one of the better-researched window upgrades you can make without replacing windows — but the savings come from **fit and habit**, not the product box. **Walk the house on a cold night → seal drafts first → rank windows by cold glass and room use → pick cell type, opacity, and mount per window → measure three times → close at dusk, open sunny windows by day.** Start with the coldest room you use most, and stack with [film](/blog/window-insulation-kits-winter-drafts/) or [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) where the glass is worst. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+Cellular shades are one of the better-researched window upgrades you can make without replacing windows — but the savings come from fit and habit, not the product box. Walk the house on a cold night → seal drafts first → rank windows by cold glass and room use → pick cell type, opacity, and mount per window → measure three times → close at dusk, open sunny windows by day. Start with the coldest room you use most, and stack with [film](/blog/window-insulation-kits-winter-drafts/) or [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/) where the glass is worst. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

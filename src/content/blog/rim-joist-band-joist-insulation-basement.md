@@ -1,6 +1,6 @@
 ---
 title: "Rim Joist Insulation for Basements: Foam Board + Air Seal"
-description: "Bill-first US guide to rim / band joist insulation in unfinished basements and crawlspaces — measure-first bay walk, cut-to-fit XPS/polyiso + Great Stuff edge seal vs batts vs closed-cell spray foam, moisture and thermal-barrier honesty, install troubleshooting, and Amazon shortlists. No guaranteed dollar savings."
+description: "US guide to rim / band joist insulation in unfinished basements and crawlspaces — bay walk, cut-to-fit XPS/polyiso + Great Stuff edge seal vs batts vs closed-cell spray foam, moisture and thermal-barrier honesty, install troubleshooting, and Amazon shortlists."
 pubDate: 2026-09-30
 updatedDate: 2026-09-30
 faqs:
@@ -18,19 +18,18 @@ faqs:
     answer: "Hire closed-cell spray foam (or a home-performance contractor) when crawl clearance is unsafe, you have widespread moisture or mold on the rim, knob-and-tube or damaged wiring in the bays, combustion appliances that need make-up air you might choke, or the job is whole-house air sealing with blower-door targeting. Also hire when local code requires a covered foam assembly you are not set up to drywall. DIY foam board is for dry, accessible, unfinished rim bays after you clear safety checks."
 ---
 
-Heating season is when **rim joists** (also called **band joists**) show up as cold floors and long furnace cycles: the short vertical board at the end of each floor joist sits on the foundation sill, often with little or no insulation and plenty of cracks at the sill plate, joist notches, and cable holes. Outdoor air washes the cold sheathing; stack effect pulls that air up into the house. **Cut-to-fit foam board plus an edge air seal** (or pro closed-cell spray foam) is the usual fix for unfinished basements and crawlspaces — without inventing dollar savings for your address.
+Heating season is when rim joists (also called band joists) show up as cold floors and long furnace cycles: the short vertical board at the end of each floor joist sits on the foundation sill, often with little or no insulation and plenty of cracks at the sill plate, joist notches, and cable holes. Outdoor air washes the cold sheathing; stack effect pulls that air up into the house. Cut-to-fit foam board plus an edge air seal (or pro closed-cell spray foam) is the usual fix for unfinished basements and crawlspaces — without inventing dollar savings for your address.
 
-This guide is **bill-first**: walk every accessible rim bay and measure before you buy, prioritize dry exterior walls under living space, pick foam-board DIY vs mineral wool vs pro spray vs skip with a decision tree, respect moisture and thermal-barrier rules, install and troubleshoot, then keep going with [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), [crawl space vent covers](/blog/crawl-space-vent-covers-winter/), and [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) (attic plane is a different job).
+In this guide: walk every accessible rim bay and measure before you buy, prioritize dry exterior walls under living space, pick foam-board DIY vs mineral wool vs pro spray vs skip with a decision tree, respect moisture and thermal-barrier rules, install and troubleshoot, then keep going with [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), [crawl space vent covers](/blog/crawl-space-vent-covers-winter/), and [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/) (attic plane is a different job).
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Same-foundation siblings: [outdoor faucet freeze covers](/blog/outdoor-faucet-covers-freeze-protection/), [pipe freeze heat tape](/blog/pipe-freeze-heat-tape-protection/), [pipe insulation](/blog/insulate-hot-water-pipes-water-heater-jacket/). This page is the dedicated **rim / band joist** guide those articles point at when they mention basement or crawl air sealing in passing.
 
-## Honest framing: the band at the foundation–floor junction
+## The band at the foundation–floor junction
 
-Rim joists are not “just more insulation.” They are often the **last uninsulated wood** between outdoors and the joist bays under your first floor — plus a favorite highway for mice, wind, and moisture stains.
+Rim joists are not “just more insulation.” They are often the last uninsulated wood between outdoors and the joist bays under your first floor — plus a favorite highway for mice, wind, and moisture stains.
 
 **Rim work helps most when:**
 
-- You have an **unfinished basement or crawl** with bare rim/band boards and a visible sill plate.
+- You have an unfinished basement or crawl with bare rim/band boards and a visible sill plate.
 - Floors above feel cold along exterior walls in winter.
 - You can see daylight, cobwebs moving, or incense drift at sill gaps and penetrations.
 - You’ve already knocked out easier wins on the [checklist](/blog/lower-electric-bill-priority-checklist/) (filters, setpoints, door drafts, obvious caulk).
@@ -38,44 +37,44 @@ Rim joists are not “just more insulation.” They are often the **last uninsul
 
 **Rim work helps less (or the wrong thing) when:**
 
-- Rim bays are already **foam-boarded or closed-cell sprayed** and dry.
-- The basement is **finished** with no safe access to the band without demolition.
+- Rim bays are already foam-boarded or closed-cell sprayed and dry.
+- The basement is finished with no safe access to the band without demolition.
 - **Active moisture, mold, or wet wood** is present — water first, foam later.
 - Combustion appliances need make-up air you might block.
 - You only stuff fiberglass against cold sheathing with no air seal.
 
-**Honest framing:** Building-science writeups often flag the rim joist as a high-leverage air-sealing target. Treat that as motivation to **inspect, measure, and seal safely**, not as a promised percent off your bill. Climate, rates, floor insulation above, and whether bigger leaks still roar decide the outcome. We do **not** guarantee savings.
+**The reality:** Building-science writeups often flag the rim joist as a high-leverage air-sealing target. Treat that as motivation to inspect, measure, and seal safely, not as a promised percent off your bill. Climate, rates, floor insulation above, and whether bigger leaks still roar decide the outcome.
 
 ## Product types at a glance
 
 | Type | Best when | Limitations |
 | --- | --- | --- |
-| **Cut-to-fit XPS or polyiso foam board + edge foam** | Unfinished basement/crawl access; dry bays; DIY weekend; want air seal + R in one assembly | Must cut carefully around wires/pipes; check **thermal-barrier / ignition-barrier** rules for exposed foam; home-center 4×8 sheets usually beat Amazon project panels on $/ft² |
-| **Gaps & Cracks / Big Gap Filler foam** (edges, penetrations, sill) | Sealing board perimeters, sill-plate cracks, cable/pipe holes — alone for small voids or with foam board | Not a substitute for filling a whole bay with sprayed foam from a straw can; high-expansion products can bow delicate materials; keep foam out of electrical-box interiors |
-| **Mineral wool / fiberglass batts** | After air seal, when you want extra R or fire/pest preference; Rockwool ComfortBatt–class at home centers | Batts alone leak air; keep dry; facing rules vary; not the preferred primary rim air seal |
-| **Closed-cell spray foam (pro)** | Tough access, irregular bays, whole-band continuous air seal, or blower-door guided retrofit | Cost; hire qualified installer; same exposed-foam covering rules often apply; moisture must be controlled |
-| **Skip / already done** | Rim already insulated and sealed; finished basement with no access; wet/moldy wood needing remediation first | Put budget into [attic plane](/blog/attic-insulation-approaches-when-to-call-pro/), doors, or other checklist items |
+| Cut-to-fit XPS or polyiso foam board + edge foam | Unfinished basement/crawl access; dry bays; DIY weekend; want air seal + R in one assembly | Must cut carefully around wires/pipes; check thermal-barrier / ignition-barrier rules for exposed foam; home-center 4×8 sheets usually beat Amazon project panels on $/ft² |
+| Gaps & Cracks / Big Gap Filler foam (edges, penetrations, sill) | Sealing board perimeters, sill-plate cracks, cable/pipe holes — alone for small voids or with foam board | Not a substitute for filling a whole bay with sprayed foam from a straw can; high-expansion products can bow delicate materials; keep foam out of electrical-box interiors |
+| Mineral wool / fiberglass batts | After air seal, when you want extra R or fire/pest preference; Rockwool ComfortBatt–class at home centers | Batts alone leak air; keep dry; facing rules vary; not the preferred primary rim air seal |
+| Closed-cell spray foam (pro) | Tough access, irregular bays, whole-band continuous air seal, or blower-door guided retrofit | Cost; hire qualified installer; same exposed-foam covering rules often apply; moisture must be controlled |
+| Skip / already done | Rim already insulated and sealed; finished basement with no access; wet/moldy wood needing remediation first | Put budget into [attic plane](/blog/attic-insulation-approaches-when-to-call-pro/), doors, or other checklist items |
 
-**Rule of thumb:** dry accessible rim → **foam board + edge seal** (DIY); nasty access or whole-house air-seal goal → **pro closed-cell**; batts only **after** air seal; wet or finished-no-access → **skip / remediate / open walls properly**.
+**Rule of thumb:** dry accessible rim → foam board + edge seal (DIY); nasty access or whole-house air-seal goal → pro closed-cell; batts only after air seal; wet or finished-no-access → skip / remediate / open walls properly.
 
-## Measure-first walk: count bays, measure, decide (before you buy)
+## Check your home before you buy
 
-Ordering a cart of foam before you know bay count, moisture, and wiring is how you get sticky returns and a half-finished band. Do this once **before** you buy:
+Ordering a cart of foam before you know bay count, moisture, and wiring is how you get sticky returns and a half-finished band. Do this once before you buy:
 
 1. **Confirm unfinished access** — basement or crawl where you can reach the exterior rim/band with light, PPE, and safe footing. Finished ceilings over the joists with no rim access → this DIY path is usually closed.
 2. **Count joist bays on each exterior wall** — walk the perimeter. Photograph corners, porch overhangs, and garage interfaces. Houses often have different bay widths on additions.
 3. **Measure a typical bay** — width between joists (often ~14.5″ at 16″ O.C., wider at 24″ O.C.), height of the rim board face, and depth of the cavity. Write W×H× depth for each size class.
 4. **Note sill-plate gaps and penetrations** — crack between concrete/block and sill, cable/pipe/HVAC holes through the rim, old mouse gaps. Size them: hairline → caulk; ~¼″–1″ → Gaps & Cracks; larger voids → Big Gap Filler or backer rod + caulk ([air-sealing guide](/blog/air-sealing-caulk-foam-outlet-gaskets/)).
 5. **Map wires, pipes, and ducts** — knob-and-tube, damaged NM, HVAC trunks tight to the rim, or plumbing you cannot foam against carelessly. Photograph before cutting board.
-6. **Moisture and mold reality check** — stains, white fungal growth, soft wood, standing water, or chronic must → **stop**. Fix grading, gutters, leaks, and drying before sealing the band. Foam over wet wood traps problems.
+6. **Moisture and mold reality check** — stains, white fungal growth, soft wood, standing water, or chronic must → stop. Fix grading, gutters, leaks, and drying before sealing the band. Foam over wet wood traps problems.
 7. **Combustion, CO, and electrical safety pass** — fuel-burning furnace/water heater/dryer in the same space? Don’t choke combustion air or vent paths. Working CO alarms on living floors. Breaker off if you handle wiring. Open junction boxes or scorched cable → electrician, not foam day.
 8. **Decide DIY foam-board vs pro spray vs skip** — dry, countable bays, clear access → cut-to-fit XPS/polyiso + edge foam. Unsafe crawl, widespread wet history, or whole-envelope goal → closed-cell pro. Already done or no access → skip and spend on [checklist](/blog/lower-electric-bill-priority-checklist/) items that still leak.
 
 Wrong bay count or ignored moisture = wasted sheets and a mold story. Measure and photograph first.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest comfort + bill leverage)
+### Do these first
 
 1. **Bare rim bays under living-room / bedroom floors** on the coldest exterior walls — classic cold-floor band.
 2. **Sill-plate daylight and wind-washed corners** you can see from the basement — air seal first, then board.
@@ -83,16 +82,16 @@ Wrong bay count or ignored moisture = wasted sheets and a mold story. Measure an
 4. **Crawlspaces you’re also winterizing** with [vent covers](/blog/crawl-space-vent-covers-winter/) — stop under-floor air wash from vents *and* open rim bays.
 5. **Cold-climate stack-effect homes** where the foundation–floor junction feeds the attic pull all night.
 
-### Lower priority / skip for now
+### These can wait
 
 - Rim already foam-boarded or spray-foamed and dry.
 - Guest-room bay obsession while attic stairs, can lights, or exterior doors still roar ([recessed light covers](/blog/recessed-light-covers-attic-air-sealing/), [attic stair covers](/blog/attic-stair-hatch-insulation-covers/)).
 - Finished basement remodel fantasies when this month’s bill needs filters and setpoints ([checklist](/blog/lower-electric-bill-priority-checklist/)).
 - Interior partition “rim” that never sees outdoors.
 
-### Do-not list (moisture + code + safety + wasted money)
+### What not to do
 
-- **Never leave foam plastic exposed** without checking local **thermal-barrier / ignition-barrier** rules — many unfinished basements still need gypsum or another approved cover over XPS, polyiso, or spray foam.
+- **Never leave foam plastic exposed** without checking local thermal-barrier / ignition-barrier rules — many unfinished basements still need gypsum or another approved cover over XPS, polyiso, or spray foam.
 - **Don’t block combustion air** or seal appliance vents/flues — furnaces, water heaters, and fireplaces need safe air and clear exhaust.
 - **Don’t foam electrical-box interiors** or bury open splices — seal cable holes at the rim; boxes stay accessible and code-legal.
 - **Don’t bury active moisture or mold** under board or spray foam — dry and remediate first.
@@ -101,7 +100,7 @@ Wrong bay count or ignored moisture = wasted sheets and a mold story. Measure an
 - **PPE** — gloves, eye protection, long sleeves for foam and cutting; crawl PPE and a spotter when clearance is tight; ventilate while spraying.
 - **Don’t invent guaranteed bill cuts** from a product title or a DOE percentage quote.
 
-## Buyer decision tree (foam board vs batts vs pro spray vs skip)
+## Which one should you buy?
 
 Walk the tree in order:
 
@@ -110,7 +109,7 @@ Walk the tree in order:
    Yes → continue.
 
 2. **Any active water, soft wood, or mold on the rim/sill?**  
-   Yes → **water and remediation first**. Foam is not a dehumidifier.  
+   Yes → water and remediation first. Foam is not a dehumidifier.  
    Dry sound wood → continue.
 
 3. **Combustion appliances / CO / electrical red flags in the work zone?**  
@@ -118,34 +117,34 @@ Walk the tree in order:
    Clear → continue.
 
 4. **Goal is DIY air seal + insulation in countable rectangular bays?**  
-   Yes → **cut-to-fit XPS or polyiso** (1–2″ common) + **Gaps & Cracks / Big Gap** edge seal + sill caulk. Buy foam sealant on Amazon if handy; buy **4×8 foam board at a home center** (Amazon XPS project panels are often unavailable or pricey).  
-   Prefer one continuous sprayed layer or access is miserable → **closed-cell spray foam pro**.
+   Yes → cut-to-fit XPS or polyiso (1–2″ common) + Gaps & Cracks / Big Gap edge seal + sill caulk. Buy foam sealant on Amazon if handy; buy 4×8 foam board at a home center (Amazon XPS project panels are often unavailable or pricey).  
+   Prefer one continuous sprayed layer or access is miserable → closed-cell spray foam pro.
 
 5. **Want batts?**  
-   Only **after** air sealing. Mineral wool (Rockwool ComfortBatt–class from a home center) can fill remaining depth if kept dry; don’t skip the board/edge seal and hope fiberglass stops wind.
+   Only after air sealing. Mineral wool (Rockwool ComfortBatt–class from a home center) can fill remaining depth if kept dry; don’t skip the board/edge seal and hope fiberglass stops wind.
 
 6. **Already insulated and quiet at the sill?**  
    Skip. Put budget into [attic air sealing](/blog/attic-insulation-approaches-when-to-call-pro/), [can covers](/blog/recessed-light-covers-attic-air-sealing/), or doors.
 
 7. **Reflectix-only insert?**  
-   Optional secondary for odd temporary spots — **not** the primary rim path. Rigid foam + edge seal beats bubble foil alone against a cold band.
+   Optional secondary for odd temporary spots — not the primary rim path. Rigid foam + edge seal beats bubble foil alone against a cold band.
 
 ## Size / thickness notes (verify before checkout)
 
 | Decision | Typical DIY note | Watch-out |
 | --- | --- | --- |
-| **Board thickness** | **1″ or 2″ XPS** (FOAMULAR-class pink/blue) or **polyiso** common for rim inserts | R-value is roughly ~R-5/in XPS, polyiso often a bit higher per inch when new — still not a promise for your bill; fit and air seal matter as much as labeled R |
-| **Bay width** | Cut board ~¼″ undersize on width/height so foam can seal the perimeter | Force-fit with no edge foam still leaks at the crack |
-| **Sheet source** | Home-center **4×8** sheets usually cheapest per ft² for a full perimeter | Amazon **2′×2′ project panels** (e.g. old STYROFOAM 1″ listings) come and go — if unavailable, skip the link and buy local XPS |
-| **Edge foam** | Gaps & Cracks for ≤~1″; Big Gap Filler for larger voids up to ~3″ per label | Light beads; trim after cure; don’t empty a can into a closed cavity hoping it “fills the bay” |
-| **Sill plate** | Paintable acrylic-latex caulk (+ silicone) for hairline sill cracks; backer rod for deep joints | Dirty/dusty concrete needs brushing; foam isn’t always the best thin-crack tool |
-| **Covering foam** | Plan drywall or other approved thermal barrier if code requires it in your basement | Crawlspace ignition-barrier exceptions are **local** — don’t assume Amazon Q&A is your inspector |
+| Board thickness | 1″ or 2″ XPS (FOAMULAR-class pink/blue) or polyiso common for rim inserts | R-value is roughly ~R-5/in XPS, polyiso often a bit higher per inch when new — still not a promise for your bill; fit and air seal matter as much as labeled R |
+| Bay width | Cut board ~¼″ undersize on width/height so foam can seal the perimeter | Force-fit with no edge foam still leaks at the crack |
+| Sheet source | Home-center 4×8 sheets usually cheapest per ft² for a full perimeter | Amazon 2′×2′ project panels (e.g. old STYROFOAM 1″ listings) come and go — if unavailable, skip the link and buy local XPS |
+| Edge foam | Gaps & Cracks for ≤~1″; Big Gap Filler for larger voids up to ~3″ per label | Light beads; trim after cure; don’t empty a can into a closed cavity hoping it “fills the bay” |
+| Sill plate | Paintable acrylic-latex caulk (+ silicone) for hairline sill cracks; backer rod for deep joints | Dirty/dusty concrete needs brushing; foam isn’t always the best thin-crack tool |
+| Covering foam | Plan drywall or other approved thermal barrier if code requires it in your basement | Crawlspace ignition-barrier exceptions are local — don’t assume Amazon Q&A is your inspector |
 
 **Measure tip:** Photograph each wall’s bay class and estimate sheet count (area of rim face ÷ usable sheet area, plus 10–15% waste). Listing photos rarely show your sill.
 
-## Amazon shortlist (verified)
+## Our picks
 
-Foam **board** for a whole basement perimeter is usually a **home-center FOAMULAR / XPS or polyiso 4×8** purchase — we verified a common Amazon 2′×2′ 1″ XPS project-panel ASIN as unavailable/unreliable for shipping this guide, so we do **not** fake a board link. Below: sealants and helpers that match this job and already earn their keep on related HomeBillCuts pages.
+Foam board for a whole basement perimeter is usually a home-center FOAMULAR / XPS or polyiso 4×8 purchase — we verified a common Amazon 2′×2′ 1″ XPS project-panel ASIN as unavailable/unreliable for shipping this guide, so we do not fake a board link. Below: sealants and helpers that match this job and already earn their keep on related HomeBillCuts pages.
 
 ### 1) Best everyday rim edge foam: Great Stuff Gaps & Cracks (3-pack)
 
@@ -189,20 +188,20 @@ Foam **board** for a whole basement perimeter is usually a **home-center FOAMULA
 
 ### 6) Optional secondary DIY insert note: Reflectix BP24025
 
-**Best for:** Odd temporary inserts or layered DIY experiments — **not** the primary rim air-seal path. Prefer rigid XPS/polyiso + edge foam.
+**Best for:** Odd temporary inserts or layered DIY experiments — not the primary rim air-seal path. Prefer rigid XPS/polyiso + edge foam.
 
 **Watch-outs:** Radiant bubble foil alone against a cold band is a weak air seal; tape seams thoughtfully; don’t confuse with [crawl vent DIY inserts](/blog/crawl-space-vent-covers-winter/).
 
 - Reflectix BP24025 24-Inch by 25-Feet Bubble Pack Insulation: [View on Amazon](https://www.amazon.com/dp/B0022NH3E4/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
-- **Amazon XPS project panels** — a common 2′×2′ 1″ STYROFOAM listing was unavailable/unreliable at publish time; buy **FOAMULAR/XPS or polyiso 4×8 at a home center**.
+- **Amazon XPS project panels** — a common 2′×2′ 1″ STYROFOAM listing was unavailable/unreliable at publish time; buy FOAMULAR/XPS or polyiso 4×8 at a home center.
 - **Rockwool ComfortBatt / mineral wool** — excellent batt option after air seal; buy by joist width at a home center (Amazon pack sizes churn).
 - **DIY two-component spray kits** — easy to misapply; prefer straw/gun sealants + board, or a pro closed-cell job.
 - **Guaranteed savings kits** marketed as “cut 50%” — skip the hype.
 
-## Install / troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | What to try |
 | --- | --- | --- |
@@ -215,7 +214,7 @@ Foam **board** for a whole basement perimeter is usually a **home-center FOAMULA
 | Foam in/on electrical box | Overspray / wrong target | Power off; clean per electrician guidance; seal only cable penetrations at framing, not box interiors |
 | Batt still wet against sheathing | Air/condensation wash; no air seal | Air-seal with board/foam or pro closed-cell; replace wet batts; fix bulk water |
 
-## Honest limits (what rim foam will not fix)
+## What this won't fix
 
 - **A wet foundation** — grading, gutters, drains, and vapor control beat foam every time.
 - **Finished basement walls** you cannot open — this guide is unfinished rim access.
@@ -224,7 +223,7 @@ Foam **board** for a whole basement perimeter is usually a **home-center FOAMULA
 - **Structural rot or pest damage** — repair framing; don’t decorate it with XPS.
 - **Whole-house pressure imbalance** — blower-door guided air sealing may still be the right pro next step after DIY rim work.
 
-## Post-setup checklist + habits
+## After you set it up
 
 1. PPE + ventilation; CO alarms working; combustion paths clear.
 2. Label log: wall, bay count, W×H, moisture notes, photos.
@@ -235,7 +234,7 @@ Foam **board** for a whole basement perimeter is usually a **home-center FOAMULA
 7. Cold-week check upstairs floors and basement corners; touch up whistlers.
 8. Sequence siblings: [crawl vent covers](/blog/crawl-space-vent-covers-winter/) if vents still open in winter; [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) for remaining penetrations; [attic](/blog/attic-insulation-approaches-when-to-call-pro/) if the ceiling plane still dumps heat.
 
-### Habits that multiply (or replace) a rim purchase
+### Habits that help
 
 - Keep gutters clean and soil graded away from the foundation so the band stays dry.
 - Change HVAC filters and use honest setbacks ([checklist](/blog/lower-electric-bill-priority-checklist/)) — sealed rims don’t excuse a dirty filter.
@@ -246,7 +245,7 @@ Foam **board** for a whole basement perimeter is usually a **home-center FOAMULA
 
 ### Will rim joist insulation lower my heating bill?
 
-It can help when the band/rim joist and sill plate are bare wood and air leaks at the foundation–floor junction dump cold into joist bays under living spaces. Air-sealing edges and adding foam board or closed-cell foam reduces stack-effect leakage and cold floors above. We do not guarantee a dollar or percentage cut. Impact scales with how leaky those bays were, climate, rates, whether floors above are already insulated, and whether bigger envelope leaks still dominate.
+It can help when the band/rim joist and sill plate are bare wood and air leaks at the foundation–floor junction dump cold into joist bays under living spaces. Air-sealing edges and adding foam board or closed-cell foam reduces stack-effect leakage and cold floors above. Impact scales with how leaky those bays were, climate, rates, whether floors above are already insulated, and whether bigger envelope leaks still dominate.
 
 ### Foam board + Great Stuff vs mineral wool batts vs closed-cell spray foam — which should I buy?
 
@@ -283,4 +282,4 @@ Hire closed-cell spray foam (or a home-performance contractor) when crawl cleara
 
 ## Bottom line
 
-For US homes with an **unfinished basement or crawl** and bare **rim / band joists**, the bill-first DIY path is **measure bays → air-seal the sill and penetrations → cut-to-fit XPS/polyiso → edge-seal with Gaps & Cracks or Big Gap Filler** — then respect **moisture** and **thermal-barrier** rules. Batts alone are a weak air seal; closed-cell spray foam is the pro continuous option when access or complexity wins. Buy sealants on Amazon if convenient; buy foam **board** at a home center when project panels are missing. Stack with [crawl vent covers](/blog/crawl-space-vent-covers-winter/), broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic](/blog/attic-insulation-approaches-when-to-call-pro/) work when those planes still leak. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+For US homes with an unfinished basement or crawl and bare rim / band joists, the practical DIY path is measure bays → air-seal the sill and penetrations → cut-to-fit XPS/polyiso → edge-seal with Gaps & Cracks or Big Gap Filler — then respect moisture and thermal-barrier rules. Batts alone are a weak air seal; closed-cell spray foam is the pro continuous option when access or complexity wins. Buy sealants on Amazon if convenient; buy foam board at a home center when project panels are missing. Stack with [crawl vent covers](/blog/crawl-space-vent-covers-winter/), broader [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic](/blog/attic-insulation-approaches-when-to-call-pro/) work when those planes still leak. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

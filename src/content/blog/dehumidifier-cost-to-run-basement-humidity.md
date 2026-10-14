@@ -1,6 +1,6 @@
 ---
 title: "Dehumidifier Cost to Run: Measure Basement Humidity First, Then Cut the kWh"
-description: "Bill-first US guide to dehumidifier electricity cost — measure kWh with a plug-in meter, the kWh × rate math, fix moisture sources before you buy, RH targets around 40–50%, honest DOE pint capacity vs marketing numbers, cool-basement auto-defrost, ENERGY STAR & continuous drain, a buyer decision tree, do-nots, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to dehumidifier electricity cost — measure kWh with a plug-in meter, the kWh × rate math, fix moisture sources before you buy, RH targets around 40–50%, honest DOE pint capacity vs marketing numbers, cool-basement auto-defrost, ENERGY STAR & continuous drain, a, do-nots, and verified Amazon shortlists."
 pubDate: 2026-10-08
 updatedDate: 2026-10-08
 faqs:
@@ -18,18 +18,17 @@ faqs:
     answer: "Continuous drain (hose to a floor drain, or a built-in pump up to a sink) is the bill-and-sanity winner for basements. A full bucket shuts the unit off, humidity climbs, then the compressor works harder to catch up. Gravity drain needs a downhill path; a pump unit or external condensate pump handles uphill drains. Check that the hose stays clear and cannot siphon back."
 ---
 
-A basement dehumidifier is one of the few appliances that can quietly become a **second refrigerator** on your bill: hundreds of watts, long runtimes, and a habit of leaving it on "continuous" until the bucket overflows or the season ends. It also does real work — cutting musty smells, protecting stored stuff, and lowering mold risk when humidity stays high. The bill-first move is not "buy the biggest ENERGY STAR unit." It is **measure the moisture, fix free sources, measure the kWh, then decide** whether a portable, a continuous drain, or nothing at all is the right spend.
+A basement dehumidifier is one of the few appliances that can quietly become a second refrigerator on your bill: hundreds of watts, long runtimes, and a habit of leaving it on "continuous" until the bucket overflows or the season ends. It also does real work — cutting musty smells, protecting stored stuff, and lowering mold risk when humidity stays high. The practical move is not "buy the biggest ENERGY STAR unit." It is measure the moisture, fix free sources, measure the kWh, then decide whether a portable, a continuous drain, or nothing at all is the right spend.
 
-This guide is **bill-first**: turn dehumidifier use into dollars with your own rate, size honestly under today's DOE pint rules, and only then shop. No guaranteed savings. A dehumidifier **adds** electricity; any cooling-bill offset is a maybe, not a promise.
+In this guide: turn dehumidifier use into dollars with your own rate, size honestly under today's DOE pint rules, and only then shop. A dehumidifier adds electricity; any cooling-bill offset is a maybe, not a promise.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Close siblings: [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) (the measuring tool this guide leans on), [rim / band joist insulation](/blog/rim-joist-band-joist-insulation-basement/) and [crawl space vent covers](/blog/crawl-space-vent-covers-winter/) (moisture and air paths under the floor), [furnace humidifier water panels](/blog/furnace-humidifier-water-panels-winter-comfort/) (the opposite season — adding moisture), and [refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/) (another always-on compressor load you should meter).
 
 ## The 60-second version
 
 - **Cost = kWh × your $/kWh.** Meter the dehumidifier for several days; don't guess from the nameplate alone.
 - **A dehumidifier adds kWh.** Comfort, mold risk, and *maybe* a slightly higher AC setpoint are the returns — not a free lunch.
 - **Fix moisture sources first.** Wet foundation, unvented dryer, steamy showers, open crawl vents in humid weather — drying air you keep wetting is expensive.
-- **Target roughly 40–50% RH** in living spaces (EPA: below 60%, ideally 30–50%). Basements often feel fine near **45–50%**.
+- **Target roughly 40–50% RH** in living spaces (EPA: below 60%, ideally 30–50%). Basements often feel fine near 45–50%.
 - **Trust today's DOE pint capacity**, not old "70-pint" stickers. ENERGY STAR's capacity table: old 50 ≈ new ~30; old 70 ≈ new ~40–45.
 - **Cool basements need auto-defrost.** Frost cycles pause dehumidifying and still use some power.
 - **Continuous drain beats bucket duty.** A stopped unit lets humidity rebound; catching up costs more kWh.
@@ -39,7 +38,7 @@ Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric
 
 ### Put a real hygrometer in the space
 
-Built-in humidistats on portable units are often several points off. A cheap digital hygrometer in the middle of the room (not on the cold concrete next to the unit) tells you whether you have a **60%+ problem**, a mild **55%** muggy feel, or a winter basement that's already dry.
+Built-in humidistats on portable units are often several points off. A cheap digital hygrometer in the middle of the room (not on the cold concrete next to the unit) tells you whether you have a 60%+ problem, a mild 55% muggy feel, or a winter basement that's already dry.
 
 Check morning and evening for a few days, and after rain. If RH sits under ~50% without a dehumidifier, you may not need one yet — fix drafts and water first and re-measure.
 
@@ -57,9 +56,9 @@ Monthly cost ≈ daily kWh × days you actually run × your $/kWh
 Season cost ≈ daily kWh × humid days in your climate × your $/kWh
 ```
 
-**Worked example:** 9.6 kWh over 72 hours ≈ **3.2 kWh per day**. At **$0.18/kWh**, that's about **$0.58 per day** — roughly **$17–18 for a 30-day humid stretch**. At 120 days of muggy weather: on the order of **$70** for that duty cycle. Year-round continuous run is a different (much larger) number.
+**Worked example:** 9.6 kWh over 72 hours ≈ 3.2 kWh per day. At $0.18/kWh, that's about $0.58 per day — roughly $17–18 for a 30-day humid stretch. At 120 days of muggy weather: on the order of $70 for that duty cycle. Year-round continuous run is a different (much larger) number.
 
-Use your bill's **all-in rate** (total electric charges ÷ total kWh). The U.S. average residential price was **18.31¢/kWh** in July 2026 (EIA, preliminary); yours may be far higher or lower. Treat 18.31¢ as an **example only**.
+Use your bill's all-in rate (total electric charges ÷ total kWh). The U.S. average residential price was 18.31¢/kWh in July 2026 (EIA, preliminary); yours may be far higher or lower. Treat 18.31¢ as an example only.
 
 ### Quick cost table (illustrative)
 
@@ -71,18 +70,18 @@ Use your bill's **all-in rate** (total electric charges ÷ total kWh). The U.S. 
 | 550 W (larger / older / hard duty) | 12 | 6.6 | $0.79 | $1.19 | $1.98 |
 | 400 W continuous-ish | 22 | 8.8 | $1.06 | $1.58 | $2.64 |
 
-*Nameplate watts × hours ≈ upper bound when the compressor is working hard. Real averaged watts are usually lower once RH nears the setpoint — **if** the humidistat works and you are not on continuous.*
+*Nameplate watts × hours ≈ upper bound when the compressor is working hard. Real averaged watts are usually lower once RH nears the setpoint — if the humidistat works and you are not on continuous.*
 
-## Honest framing: what a dehumidifier does to the bill
+## What a dehumidifier does to the bill
 
-| Claim you might hear | Bill-first reality |
+| Claim you might hear | Reality |
 |---|---|
-| "It'll pay for itself on the AC bill" | **Maybe a little, sometimes.** Drier air can feel cooler, so some people raise the thermostat 1–2°F. That is not guaranteed, and the dehumidifier's own kWh can erase the gain. Measure whole-home use if you care. |
-| "ENERGY STAR means cheap to run" | ENERGY STAR means **better liters of water per kWh** than a non-certified peer — not "free." Runtime still dominates cost. |
-| "Bigger pints = better" | Oversizing can short-cycle; undersizing runs forever. **Fix moisture sources** so you can buy the smaller honest size. |
-| "Leave it on continuous" | Continuous mode maximizes water removal **and** kWh. Use it to dry out after a flood or build-up, then switch to a setpoint. |
+| "It'll pay for itself on the AC bill" | Maybe a little, sometimes. Drier air can feel cooler, so some people raise the thermostat 1–2°F. That is not guaranteed, and the dehumidifier's own kWh can erase the gain. Measure whole-home use if you care. |
+| "ENERGY STAR means cheap to run" | ENERGY STAR means better liters of water per kWh than a non-certified peer — not "free." Runtime still dominates cost. |
+| "Bigger pints = better" | Oversizing can short-cycle; undersizing runs forever. Fix moisture sources so you can buy the smaller honest size. |
+| "Leave it on continuous" | Continuous mode maximizes water removal and kWh. Use it to dry out after a flood or build-up, then switch to a setpoint. |
 
-**Bottom line on savings:** treat the dehumidifier as a **comfort and moisture-control appliance that adds kWh**. If mold risk or ruined belongings are the issue, the electricity may still be worth it — just buy and operate with eyes open.
+**Bottom line on savings:** treat the dehumidifier as a comfort and moisture-control appliance that adds kWh. If mold risk or ruined belongings are the issue, the electricity may still be worth it — just buy and operate with eyes open.
 
 ## Step 2: Fix moisture sources before you feed the compressor
 
@@ -99,15 +98,15 @@ After you stop the water and obvious air washes, re-check the hygrometer for a f
 
 ## Step 3: RH targets that don't torture the compressor
 
-- **EPA mold guidance:** keep indoor RH **below 60%**, ideally **30–50%**.
-- **Practical basement target:** often **45–50% RH**. Going for 35% in a leaky, cool basement can mean near-continuous run and frost cycles.
+- **EPA mold guidance:** keep indoor RH below 60%, ideally 30–50%.
+- **Practical basement target:** often 45–50% RH. Going for 35% in a leaky, cool basement can mean near-continuous run and frost cycles.
 - **Winter upstairs:** dry heated air is a different problem — see [furnace humidifier water panels](/blog/furnace-humidifier-water-panels-winter-comfort/). Don't fight winter dryness with a basement dehumidifier left on a low setpoint "just in case."
 
-Set the dehumidifier a few points **below** your goal, confirm with the separate hygrometer after 24 hours, then ease off if the unit never stops.
+Set the dehumidifier a few points below your goal, confirm with the separate hygrometer after 24 hours, then ease off if the unit never stops.
 
 ## Step 4: Sizing honesty (DOE pints, not nostalgia)
 
-Since June 2019, DOE tests portable dehumidifiers at cooler conditions (~**65°F**) that look more like a basement. Capacity numbers **dropped** compared with the old 80°F test — even when the hardware is similar.
+Since June 2019, DOE tests portable dehumidifiers at cooler conditions (~65°F) that look more like a basement. Capacity numbers dropped compared with the old 80°F test — even when the hardware is similar.
 
 ENERGY STAR's rough conversion:
 
@@ -121,12 +120,12 @@ ENERGY STAR's rough conversion:
 
 | Situation after fixes | Direction |
 |---|---|
-| Mildly muggy finished basement, RH hangs ~55–60% | Often a **~20–30 pint (new)** ENERGY STAR portable |
-| Very wet unfinished basement, RH often 65%+ | Larger portable (**~30–50 pint new**) or pro whole-home discussion |
+| Mildly muggy finished basement, RH hangs ~55–60% | Often a ~20–30 pint (new) ENERGY STAR portable |
+| Very wet unfinished basement, RH often 65%+ | Larger portable (~30–50 pint new) or pro whole-home discussion |
 | Cool space that frosts cheap units | Auto-defrost mandatory; verify low-temp claims |
-| Drain is uphill / no floor drain | Prefer **built-in pump** or add a condensate pump |
+| Drain is uphill / no floor drain | Prefer built-in pump or add a condensate pump |
 
-Manufacturer "up to X,000 sq ft" claims assume a lot. Trust **pint capacity + your measured RH trend** more than square-footage marketing.
+Manufacturer "up to X,000 sq ft" claims assume a lot. Trust pint capacity + your measured RH trend more than square-footage marketing.
 
 ## Step 5: Features that actually change kWh and sanity
 
@@ -138,7 +137,7 @@ Manufacturer "up to X,000 sq ft" claims assume a lot. Trust **pint capacity + yo
 - **Washable filter:** clogged filters make the fan and compressor work harder; clean on the unit's schedule.
 - **Casters / handles:** you'll move it for cleaning and seasonal storage — plan for that.
 
-## Buyer decision tree
+## Which one should you buy?
 
 ```
 Hygrometer shows RH under ~50% most days after rain?
@@ -156,12 +155,12 @@ Hygrometer shows RH under ~50% most days after rain?
                   └─ Yes → Size for peak weeks; store dry in winter; don't leave continuous year-round.
 ```
 
-## Do-not list
+## What not to do
 
 - **Don't use a dehumidifier as a flood machine.** Standing water needs drainage and remediation; a portable is for air moisture.
 - **Don't seal flood vents or disable combustion air** to "help" the dehumidifier.
 - **Don't trust the bucket alone in a space you don't visit daily.** Overflow and shutoff rebound cost money and invite mold.
-- **Don't size from an old 70-pint memory** without checking the **new** DOE capacity.
+- **Don't size from an old 70-pint memory** without checking the new DOE capacity.
 - **Don't put the hygrometer on the cold unit or in the exhaust stream** and then chase a wrong reading.
 - **Don't run continuous forever** after the space is already at target RH.
 - **Don't ignore extension-cord and circuit limits.** Many portables want a dedicated grounded outlet; follow the manual (often no long light-duty cords).
@@ -170,7 +169,7 @@ Hygrometer shows RH under ~50% most days after rain?
 
 ## Seasonal runtime math (don't annualize a July problem)
 
-Many US basements only need serious dehumidification in **late spring through early fall**. Annualizing a peak-week meter reading as if it ran 365 days invents a crisis.
+Many US basements only need serious dehumidification in late spring through early fall. Annualizing a peak-week meter reading as if it ran 365 days invents a crisis.
 
 | Climate pattern | Typical run habit | How to estimate yearly kWh |
 |---|---|---|
@@ -179,7 +178,7 @@ Many US basements only need serious dehumidification in **late spring through ea
 | Cold-climate heating season | Often off or rare | unplug when hygrometer stays mid-40s |
 | Flood recovery / construction dry-out | Continuous for days–weeks | expect high kWh; temporary is OK |
 
-**Example:** 3.2 kWh/day × 120 humid days × $0.18 = about **$69** for the season. Same unit left continuous all year at 8 kWh/day would be fantasy budgeting for most houses — and a red flag that moisture sources are still winning.
+**Example:** 3.2 kWh/day × 120 humid days × $0.18 = about $69 for the season. Same unit left continuous all year at 8 kWh/day would be fantasy budgeting for most houses — and a red flag that moisture sources are still winning.
 
 Compare that seasonal cost to:
 
@@ -187,7 +186,7 @@ Compare that seasonal cost to:
 - A mold remediation invoice
 - Running a 1,500 W space heater "because the basement feels clammy" (see [space heater cost to run](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/))
 
-Electricity can be the cheaper problem to have — **if** you measured it.
+Electricity can be the cheaper problem to have — if you measured it.
 
 ## Where the dehumidifier sits (placement that wastes less kWh)
 
@@ -207,17 +206,17 @@ Closed basements with interior walls may need the unit in the wettest room with 
 
 ## ENERGY STAR and IEF without the brochure gloss
 
-Modern portable ratings use an **Integrated Energy Factor (IEF)** in liters of water removed per kWh, including energy used when the unit has cycled off. ENERGY STAR Version 5 criteria sit above the federal minimum IEF by capacity class — the point for shoppers is simpler:
+Modern portable ratings use an Integrated Energy Factor (IEF) in liters of water removed per kWh, including energy used when the unit has cycled off. ENERGY STAR Version 5 criteria sit above the federal minimum IEF by capacity class — the point for shoppers is simpler:
 
-1. Prefer **ENERGY STAR certified** when comparing similar pint sizes.
-2. Still **meter your runtime** — efficiency × hours = cost.
+1. Prefer ENERGY STAR certified when comparing similar pint sizes.
+2. Still meter your runtime — efficiency × hours = cost.
 3. Ignore "saves $1,000 a year" marketing lines unless your meter and rate say something in that neighborhood (they almost never will for a single portable).
 
-If two ENERGY STAR units are close in price, pick the one with the **drain path**, **defrost**, and **noise** you'll actually live with. An unused hose coiled in the box is a bill feature you paid for and skipped.
+If two ENERGY STAR units are close in price, pick the one with the drain path, defrost, and noise you'll actually live with. An unused hose coiled in the box is a bill feature you paid for and skipped.
 
 ## When replacement beats repair
 
-Portables fail: dead humidistats, cracked buckets, weak pumps, iced-to-death compressors. Bill-first replacement triggers:
+Portables fail: dead humidistats, cracked buckets, weak pumps, iced-to-death compressors. Replacement triggers:
 
 | Situation | Move |
 |---|---|
@@ -227,11 +226,11 @@ Portables fail: dead humidistats, cracked buckets, weak pumps, iced-to-death com
 | 10+ year-old non-ENERGY STAR, high measured kWh | Meter first; replace if daily kWh is ugly vs a new EFFICIENT unit of honest capacity |
 | Still under warranty | Use it — don't buy parallel hardware yet |
 
-Do **not** replace a working unit just because Amazon waved a bigger square-footage claim.
+Do not replace a working unit just because Amazon waved a bigger square-footage claim.
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions. A meter and hygrometer tell you where the money and moisture are going; savings (or justified spend) come from the changes you make. Prices and listings change; check the product page. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### Measure first
 
@@ -240,7 +239,7 @@ Do **not** replace a working unit just because Amazon waved a bigger square-foot
 
 ### ENERGY STAR portables (~30–50 pint class)
 
-Pint marketing still mixes **DOE basement-like ratings** with **hot/humid "max" numbers**. Read the capacity line carefully; prefer ENERGY STAR when choosing between similar models.
+Pint marketing still mixes DOE basement-like ratings with hot/humid "max" numbers. Read the capacity line carefully; prefer ENERGY STAR when choosing between similar models.
 
 - **Waykar 30-pint 2025 ENERGY STAR Most Efficient portable** — compact ENERGY STAR Most Efficient class unit with humidistat, auto-defrost, tank or included drain hose; listing capacity is framed around high-temp/high-RH test points — still verify the DOE/ENERGY STAR capacity that matches your basement: [View on Amazon](https://www.amazon.com/dp/B0DHCGC8RD/?tag=homebillcuts-20)
 - **Frigidaire 50-pint ENERGY STAR portable with Wi-Fi (FHDD5034Y1)** — larger-capacity ENERGY STAR portable with custom humidity control, continuous drain option, and washable filter; Wi-Fi is optional convenience, not a bill requirement: [View on Amazon](https://www.amazon.com/dp/B0FP1L6W89/?tag=homebillcuts-20)
@@ -254,7 +253,7 @@ Pint marketing still mixes **DOE basement-like ratings** with **hot/humid "max" 
 
 ## Troubleshooting
 
-| Symptom | Likely cause | Bill-first fix |
+| Symptom | Likely cause | Fix |
 |---|---|---|
 | Runs forever, RH barely drops | Open moisture source, undersized unit, wrong setpoint, dirty filter | Fix water/air leaks; clean filter; verify hygrometer; resize only after |
 | Bucket always full / unit off | No continuous drain; very wet space | Add gravity hose or pump; empty on a schedule until drain works |
@@ -263,12 +262,12 @@ Pint marketing still mixes **DOE basement-like ratings** with **hot/humid "max" 
 | Musty smell remains | Hidden mold/water, or RH sensors lying | Inspect for leaks; independent hygrometer; remediation if growth is visible |
 | Trips breaker / hot plug | Shared circuit, bad cord, failing unit | Dedicated outlet per manual; stop using damaged cords |
 
-## Honest limits
+## What this won't fix
 
 - **This appliance adds electricity.** Comfort and moisture control are the product; bill reduction is not automatic.
 - **AC setpoint offsets are situational.** Humid climates with central AC may see a small win; basements without AC overlap may see none.
 - **Capacity labels confuse on purpose.** Old vs new DOE tests and "max" vs rated pints are easy to mix up — read twice.
-- **Whole-home dehumidifiers** are a different (ducted, pro) product. This guide focuses on **portable** units most households actually buy.
+- **Whole-home dehumidifiers** are a different (ducted, pro) product. This guide focuses on portable units most households actually buy.
 - **We don't publish a guaranteed "$X/month savings"** figure. Your rate, climate, setpoint, and leakage dominate.
 
 ## Checklist: one weekend
@@ -329,4 +328,4 @@ Continuous drain (hose to a floor drain, or a built-in pump up to a sink) is the
 
 ## Bottom line
 
-Meter humidity and kWh before you throw pints at the problem. Fix water and air-moisture sources first, aim for roughly **40–50% RH** (often ~45–50% in basements), size with **today's DOE capacity**, prefer **ENERGY STAR** plus **auto-defrost** and **continuous drain**, and remember the honest part: a dehumidifier **adds** electricity in exchange for drier air — worth it when mold and comfort demand it, wasteful when the space is wet because of an unfixed leak.
+Meter humidity and kWh before you throw pints at the problem. Fix water and air-moisture sources first, aim for roughly 40–50% RH (often ~45–50% in basements), size with today's DOE capacity, prefer ENERGY STAR plus auto-defrost and continuous drain, and remember the honest part: a dehumidifier adds electricity in exchange for drier air — worth it when mold and comfort demand it, wasteful when the space is wet because of an unfixed leak.

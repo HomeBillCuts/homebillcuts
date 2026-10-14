@@ -1,6 +1,6 @@
 ---
 title: "Electric Kettle vs. Stove vs. Microwave: What Does It Really Cost to Boil Water?"
-description: "Bill-first US guide to boiling water cheaply: the physics floor (how much energy a cup of water actually needs), example cost math for an electric kettle, electric coil or induction stovetop, gas burner, and microwave, how to measure your own with a plug-in meter, the overfilling habit that wastes the most, keep-warm traps, honest payback, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to boiling water cheaply: the physics floor (how much energy a cup of water actually needs), example cost math for an electric kettle, electric coil or induction stovetop, gas burner, and microwave, how to measure your own with a plug-in meter, the overfilling habit that wastes the most, keep-warm traps, honest payback, and verified Amazon shortlists."
 pubDate: 2026-10-09
 updatedDate: 2026-10-09
 faqs:
@@ -18,20 +18,19 @@ faqs:
     answer: "Mostly for taste, not the bill. Heating water to 175°F for green tea instead of a full boil saves a little energy per cup, but the difference is a fraction of a cent. Buy a variable-temperature kettle if you drink tea or pour-over coffee and want the control; don't buy one expecting meaningful savings."
 ---
 
-Boiling water is one of the most repeated energy jobs in a kitchen: coffee, tea, oatmeal, instant noodles, pasta head starts. It's also one of the easiest places to see the physics of your electric bill. **The cheapest boil is the one sized to what you actually pour**, and the device you use matters less than people think — but it still matters. This guide is **bill-first**: start with how much energy water really needs, measure what your kettle, stove, or microwave uses, fix the free habits, and only then decide whether a new kettle earns counter space. No guaranteed savings.
+Boiling water is one of the most repeated energy jobs in a kitchen: coffee, tea, oatmeal, instant noodles, pasta head starts. It's also one of the easiest places to see the physics of your electric bill. The cheapest boil is the one sized to what you actually pour, and the device you use matters less than people think — but it still matters. In this guide: start with how much energy water really needs, measure what your kettle, stove, or microwave uses, fix the free habits, and only then decide whether a new kettle earns counter space.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Related: [air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) (the same "heat less, for less time" idea), [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/) (to measure your kettle), [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) (to see a 240 V range on its circuit), [refrigerator & freezer cost to run](/blog/refrigerator-freezer-cost-to-run-thermometer-coil-brush/), and the much bigger hot-water lever, your [water heater](/blog/electric-water-heater-timers-cut-standby/).
 
 ## The physics floor: how much energy does water actually need?
 
-Heating water takes a fixed amount of energy no matter what device you use: about **1 BTU per pound per °F**, or roughly **0.00116 kWh per liter per °C**.
+Heating water takes a fixed amount of energy no matter what device you use: about 1 BTU per pound per °F, or roughly 0.00116 kWh per liter per °C.
 
 - Tap water around 60°F (15.5°C) to boiling 212°F (100°C) is about an 85°C rise.
 - **1 liter:** ~0.1 kWh in theory.
 - **One 12 oz mug (~0.35 L):** ~0.035 kWh.
 - **A full 1.7 L kettle:** ~0.17 kWh.
 
-No device beats that floor. Everything else is **losses**: heat escaping around the pot, heating the burner itself, the microwave's power conversion, and water you boiled but didn't use.
+No device beats that floor. Everything else is losses: heat escaping around the pot, heating the burner itself, the microwave's power conversion, and water you boiled but didn't use.
 
 ## Example cost per liter (illustrative, $0.17/kWh)
 
@@ -45,11 +44,11 @@ Efficiencies below are rough, commonly cited ranges for boiling water; your own 
 | Microwave (mug or bowl) | ~50–65% | ~0.16–0.2 | ~3¢ |
 | Gas burner | ~30–40% (fuel → water) | ~0.25–0.33 kWh of gas (≈0.009–0.011 therm) | ~1–2¢ at $1.50/therm |
 
-Read the table honestly: the spread between the best and worst electric method is about **a cent per liter**. If you boil 2 liters a day, switching from a coil burner to a kettle is roughly **$3–6 a year**. That's real but small. **Overfilling** often costs more than device choice.
+Read the table honestly: the spread between the best and worst electric method is about a cent per liter. If you boil 2 liters a day, switching from a coil burner to a kettle is roughly $3–6 a year. That's real but small. Overfilling often costs more than device choice.
 
 Gas looks inefficient on paper because a flame wastes a lot of heat around the pot, but gas is often cheaper per unit of heat than electricity, so the dollar cost can still be competitive. Use your own bill's price per therm and per kWh. If you cook with gas, also keep the kitchen ventilated — burners release combustion byproducts into the room.
 
-## Measure first (~5 steps)
+## Check your home before you buy
 
 1. **Find your all-in rate.** Bill total for electricity ÷ kWh used (energy + delivery). Do the same per therm if you have gas.
 2. **Meter the kettle.** Plug the kettle base into a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/), reset it, boil exactly 1 liter (use a measuring cup), and read kWh. Repeat with a full kettle and a single mug.
@@ -69,7 +68,7 @@ Gas looks inefficient on paper because a flame wastes a lot of heat around the p
 
 ## When buying a kettle makes sense
 
-Buy one if you **boil water most days** and currently use a microwave or electric coil burner — and you'd value the speed anyway. On energy alone, a ~$25–40 kettle saving ~$3–6 a year takes a long time to pay back; speed, auto shut-off, and convenience are the real reasons. Skip it if you already have a working kettle (keep it and descale it), cook with induction, or rarely boil water.
+Buy one if you boil water most days and currently use a microwave or electric coil burner — and you'd value the speed anyway. On energy alone, a ~$25–40 kettle saving ~$3–6 a year takes a long time to pay back; speed, auto shut-off, and convenience are the real reasons. Skip it if you already have a working kettle (keep it and descale it), cook with induction, or rarely boil water.
 
 What to look for:
 
@@ -79,7 +78,7 @@ What to look for:
 - **Glass vs stainless.** Glass shows fill level and scale; stainless is tougher. Neither is meaningfully more efficient.
 - **Temperature control** is for tea and coffee quality, not your bill.
 
-## Verified Amazon shortlist
+## Our picks
 
 Prices change; check current listings. We list each item's wattage only where the listing states it.
 
@@ -97,7 +96,7 @@ Prices change; check current listings. We list each item's wattage only where th
 
 - P3 Kill A Watt P4400 plug-in electricity usage monitor: [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
-## Safety do-nots
+## Safety rules
 
 - **Don't microwave water in a sealed container**, and be careful with plain water in a very smooth mug: superheated water can erupt. Rest it or stir with a wooden stick first.
 - **Don't run a kettle without water** or above the max line.
@@ -105,7 +104,7 @@ Prices change; check current listings. We list each item's wattage only where th
 - **Keep cords away from counter edges** where kids or pets can pull a full kettle down.
 - **Don't leave a gas burner on unattended**, and use the range hood.
 
-## Honest limits
+## What this won't fix
 
 - **Boiling water is a small part of most bills.** Space heating, cooling, and your water heater are usually far bigger. See the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
 - **Efficiency figures are rough ranges.** Pot shape, lid, starting water temperature, and wattage all move them. Your meter reading wins.
@@ -122,4 +121,4 @@ Prices change; check current listings. We list each item's wattage only where th
 
 ## Bottom line
 
-The physics sets the floor; your habits set the bill. An electric kettle is usually the cheapest electric way to boil water, induction is close, coil burners and microwaves trail by about a cent per liter, and gas depends on your rates. **Boil only what you pour → lid on → keep-warm off → descale → buy a kettle with clear fill lines if you boil daily without one.** Then put your real effort into the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings.
+The physics sets the floor; your habits set the bill. An electric kettle is usually the cheapest electric way to boil water, induction is close, coil burners and microwaves trail by about a cent per liter, and gas depends on your rates. Boil only what you pour → lid on → keep-warm off → descale → buy a kettle with clear fill lines if you boil daily without one. Then put your real effort into the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)).

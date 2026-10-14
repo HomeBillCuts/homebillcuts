@@ -1,6 +1,6 @@
 ---
 title: "Refrigerator & Freezer Cost to Run: Measure It, Set the Right Temps, and Know When Replacement Pays"
-description: "Bill-first US guide to cutting refrigerator and freezer electricity cost — measure kWh with a plug-in meter and compare it to the EnergyGuide label, the kWh × rate math, FDA-safe temperatures checked with a real appliance thermometer, the dollar-bill gasket test, honest coil-cleaning evidence, garage and second-fridge math, chest vs upright freezers, when replacement pays back, a do-not list, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to cutting refrigerator and freezer electricity cost — measure kWh with a plug-in meter and compare it to the EnergyGuide label, the kWh × rate math, FDA-safe temperatures checked with a real appliance thermometer, the dollar-bill gasket test, honest coil-cleaning evidence, garage and second-fridge math, chest vs upright freezers, when replacement pays back, a do-not list, and verified Amazon shortlists."
 pubDate: 2026-10-07
 updatedDate: 2026-10-07
 faqs:
@@ -18,16 +18,15 @@ faqs:
     answer: "Usually. ENERGY STAR estimates a certified chest freezer at about 215 kWh and $30 a year versus about 395 kWh and $60 for a certified upright, because a top-opening lid lets less cold air spill out. ENERGY STAR also says manual-defrost freezers use about half the energy of automatic-defrost models, as long as you defrost before frost reaches a quarter inch. Uprights are easier to organize, so pick the one you'll actually keep full and closed."
 ---
 
-Your refrigerator is one of the few appliances in the house that never turns off. It runs every hour of every day, in summer and winter, and a second fridge or chest freezer in the garage doubles that. The good news: refrigerators are also one of the easiest loads to **measure** with a cheap plug-in meter, and the most common money leaks — a thermostat set colder than it needs to be, a door that doesn't seal, an old second fridge humming away in a hot garage — are cheap or free to fix.
+Your refrigerator is one of the few appliances in the house that never turns off. It runs every hour of every day, in summer and winter, and a second fridge or chest freezer in the garage doubles that. The good news: refrigerators are also one of the easiest loads to measure with a cheap plug-in meter, and the most common money leaks — a thermostat set colder than it needs to be, a door that doesn't seal, an old second fridge humming away in a hot garage — are cheap or free to fix.
 
-This guide is **bill-first**: measure what your fridge and freezer actually use, turn that into dollars with your own rate, fix the free settings, and only then decide whether a thermometer, a coil brush, a new gasket, or a new appliance is worth paying for. No guaranteed savings.
+In this guide: measure what your fridge and freezer actually use, turn that into dollars with your own rate, fix the free settings, and only then decide whether a thermometer, a coil brush, a new gasket, or a new appliance is worth paying for.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Close siblings: [Kill A Watt & plug-in energy meters](/blog/kill-a-watt-plug-in-energy-meter/) (the measuring tool this guide leans on), [best smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/) (and why your fridge never goes on one), [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) (if your fridge is hardwired or hard to reach), and [air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/) (the other kitchen energy question).
 
 ## The 60-second version
 
 - **Cost = kWh per year × your $/kWh.** Get the kWh from a 24–48 hour plug-in meter reading, not a guess.
-- **Set temperatures by thermometer, not by dial.** The FDA target is **40°F or below** in the fridge and **0°F** in the freezer; ENERGY STAR suggests **35–38°F** for the fridge. Colder than that just costs money.
+- **Set temperatures by thermometer, not by dial.** The FDA target is 40°F or below in the fridge and 0°F in the freezer; ENERGY STAR suggests 35–38°F for the fridge. Colder than that just costs money.
 - **Test the door seal with a dollar bill.** If it slides out easily, clean, adjust, or replace the gasket.
 - **Coil cleaning is maintenance, not magic.** It helps clogged units; field studies found small or no savings on average.
 - **The biggest lever is usually the second fridge.** Old, half-empty, in a hot or freezing garage — measure it, and if you can live without it, retire it.
@@ -35,7 +34,7 @@ Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric
 
 ## Step 1: Measure the fridge first (it's a 120 V plug — easy)
 
-A plug-in energy meter like the Kill A Watt is the right tool here. Fridges and freezers cycle: the compressor runs, stops, runs again, and many models add a defrost heater cycle every so often. A 10-second wattage reading tells you almost nothing. You want **accumulated kWh over a long window.**
+A plug-in energy meter like the Kill A Watt is the right tool here. Fridges and freezers cycle: the compressor runs, stops, runs again, and many models add a defrost heater cycle every so often. A 10-second wattage reading tells you almost nothing. You want accumulated kWh over a long window.
 
 1. **Plug the meter into the wall, and the fridge into the meter.** Pulling a fridge out is a two-person job on many models; protect the floor and don't kink the water line if it has one. If the outlet is buried behind cabinets, see the "can't reach the plug" row in the troubleshooting table.
 2. **Leave it for 24–48 hours of normal use.** Include normal door openings, a grocery run, and the ice maker if you use it. Longer is better.
@@ -46,18 +45,18 @@ kWh per year ≈ (kWh measured ÷ hours measured) × 8,760
 Yearly cost ≈ kWh per year × your $/kWh
 ```
 
-**Worked example:** 2.6 kWh over 48 hours = 0.054 kWh per hour × 8,760 ≈ **475 kWh a year**. At $0.18/kWh, that's about **$85 a year** — roughly $7 a month.
+**Worked example:** 2.6 kWh over 48 hours = 0.054 kWh per hour × 8,760 ≈ 475 kWh a year. At $0.18/kWh, that's about $85 a year — roughly $7 a month.
 
-Use your bill's **all-in rate** (total electric charges ÷ total kWh). The U.S. average residential price was **18.31¢/kWh** in July 2026 (EIA, preliminary); yours may be far higher or lower.
+Use your bill's all-in rate (total electric charges ÷ total kWh). The U.S. average residential price was 18.31¢/kWh in July 2026 (EIA, preliminary); yours may be far higher or lower.
 
 ### Compare to the yellow EnergyGuide label
 
-New refrigerators and freezers carry an FTC **EnergyGuide** label with an estimated **kWh per year**. If you still have it, or can find your model number's label or spec sheet online, compare:
+New refrigerators and freezers carry an FTC EnergyGuide label with an estimated kWh per year. If you still have it, or can find your model number's label or spec sheet online, compare:
 
 - **Measured close to the label?** The fridge is behaving normally. Your savings will come from settings and habits, not repairs.
 - **Measured well above the label?** Look for a bad gasket, a too-cold setting, a clogged condenser, a hot location, a broken door switch that leaves the light on, or a failing compressor.
 
-Two caveats keep this honest. The label's **dollar figure** uses a national average electricity price, not yours — the FTC says your cost depends on your utility rate and use. And field use doesn't always match the test lab: Lawrence Berkeley Laboratory's New York monitoring project found labels **overpredicted** real-world use of new fridges by about 13%, and a fridge in a hot kitchen or garage can easily run above its label. Treat a big gap — say 50% or more over the label — as a signal, and a small gap as noise.
+Two caveats keep this honest. The label's dollar figure uses a national average electricity price, not yours — the FTC says your cost depends on your utility rate and use. And field use doesn't always match the test lab: Lawrence Berkeley Laboratory's New York monitoring project found labels overpredicted real-world use of new fridges by about 13%, and a fridge in a hot kitchen or garage can easily run above its label. Treat a big gap — say 50% or more over the label — as a signal, and a small gap as noise.
 
 ### What it costs per year (do this math once)
 
@@ -71,21 +70,21 @@ Two caveats keep this honest. The label's **dollar figure** uses a national aver
 
 *Example rates only — swap in yours.*
 
-For context, ENERGY STAR estimates a certified **chest freezer** at about **215 kWh a year** and a certified **upright freezer** at about **395 kWh**. If your old garage freezer measures 1,000 kWh or more, it's in a different league.
+For context, ENERGY STAR estimates a certified chest freezer at about 215 kWh a year and a certified upright freezer at about 395 kWh. If your old garage freezer measures 1,000 kWh or more, it's in a different league.
 
 ## Step 2: Set the temperatures right (free, and food-safe)
 
-Most refrigerator dials are numbers or "colder/warmer," not degrees — and even digital displays can be off. The FDA puts it plainly: few refrigerator controls show actual temperatures, so use a freestanding **appliance thermometer**, one for the fridge and one for the freezer.
+Most refrigerator dials are numbers or "colder/warmer," not degrees — and even digital displays can be off. The FDA puts it plainly: few refrigerator controls show actual temperatures, so use a freestanding appliance thermometer, one for the fridge and one for the freezer.
 
 **Targets:**
 
-- **Refrigerator:** **40°F or below** (FDA and USDA). ENERGY STAR and DOE suggest **35–38°F**. Aiming for about 37°F gives you a safety margin without overcooling.
-- **Freezer:** **0°F** (FDA, USDA, ENERGY STAR).
+- **Refrigerator:** 40°F or below (FDA and USDA). ENERGY STAR and DOE suggest 35–38°F. Aiming for about 37°F gives you a safety margin without overcooling.
+- **Freezer:** 0°F (FDA, USDA, ENERGY STAR).
 
 **How to check (USDA's method):**
 
-1. Put a fridge thermometer **in a glass of water** in the **middle** of the refrigerator. Wait **5 to 8 hours.** If it isn't 38–40°F, adjust the control and check again after another 5–8 hours.
-2. Put a freezer thermometer **between frozen packages.** Wait 5–8 hours. If it isn't 0–2°F, adjust and recheck.
+1. Put a fridge thermometer in a glass of water in the middle of the refrigerator. Wait 5 to 8 hours. If it isn't 38–40°F, adjust the control and check again after another 5–8 hours.
+2. Put a freezer thermometer between frozen packages. Wait 5–8 hours. If it isn't 0–2°F, adjust and recheck.
 
 The glass of water smooths out the air-temperature swings you see every time the door opens or the compressor cycles. Make one change at a time; most refrigerators need hours to settle.
 
@@ -99,33 +98,33 @@ For a garage fridge, basement freezer, or anything full of expensive food, a wir
 
 ## Step 3: Test and fix the door seal (the dollar-bill test)
 
-The U.S. Department of Energy's test is simple: close the door on a piece of paper or a **dollar bill** so it's half in and half out. If you can pull it out easily, the latch may need adjusting, the seal may need replacing, or it may be time to consider a new unit. Do it in several spots around the door — top, bottom, both sides, and corners.
+The U.S. Department of Energy's test is simple: close the door on a piece of paper or a dollar bill so it's half in and half out. If you can pull it out easily, the latch may need adjusting, the seal may need replacing, or it may be time to consider a new unit. Do it in several spots around the door — top, bottom, both sides, and corners.
 
 If the bill slides out:
 
 1. **Clean the gasket.** Sticky spills and crumbs stop it seating. Warm soapy water and a soft cloth; dry it.
 2. **Check the door alignment and leveling.** Many refrigerators are designed to tilt slightly back so doors swing shut on their own. Your manual shows how to adjust the front leveling legs or rollers.
 3. **Look for tears, flattening, or a gasket that's pulled out of its channel.** Older gaskets can harden and stop sealing.
-4. **Replace it if it's damaged.** Gaskets are **model-specific.** Order by your exact model number (on the label inside the fresh-food compartment) from the manufacturer or a reputable appliance-parts supplier. On many models it's held by screws or pressed into a channel under the liner lip; follow the model's instructions. "Universal" cut-to-fit gaskets exist, but a model-matched part is the safer bet.
+4. **Replace it if it's damaged.** Gaskets are model-specific. Order by your exact model number (on the label inside the fresh-food compartment) from the manufacturer or a reputable appliance-parts supplier. On many models it's held by screws or pressed into a channel under the liner lip; follow the model's instructions. "Universal" cut-to-fit gaskets exist, but a model-matched part is the safer bet.
 
 ENERGY STAR's advice is the same in fewer words: make sure the seals around the doors are airtight, and if they aren't, replace them.
 
 ## Step 4: Clean the condenser coils (honest version)
 
-The condenser coils release the heat your fridge pulls out of the food compartment. When they're blanketed in dust and pet hair, the refrigerator has to work harder to shed that heat. ENERGY STAR and DOE both suggest keeping the coils clean on **older models** and leaving a few inches of space between the fridge and the wall.
+The condenser coils release the heat your fridge pulls out of the food compartment. When they're blanketed in dust and pet hair, the refrigerator has to work harder to shed that heat. ENERGY STAR and DOE both suggest keeping the coils clean on older models and leaving a few inches of space between the fridge and the wall.
 
 **What the measured evidence says:**
 
-- Lawrence Berkeley Laboratory's New York refrigerator monitoring project found **no measurable savings from maintenance for the group as a whole**. But of five units with **plugged** condensers — all with coils mounted on the bottom — **two used markedly less energy** after cleaning.
-- A Florida field study for DOE's Building America program measured roughly **3.5% weather-adjusted savings** from coil cleaning that **appeared to disappear** in a longer-term analysis.
+- Lawrence Berkeley Laboratory's New York refrigerator monitoring project found no measurable savings from maintenance for the group as a whole. But of five units with plugged condensers — all with coils mounted on the bottom — two used markedly less energy after cleaning.
+- A Florida field study for DOE's Building America program measured roughly 3.5% weather-adjusted savings from coil cleaning that appeared to disappear in a longer-term analysis.
 
-So: **clean coils that are visibly clogged**, especially bottom-mounted ones in homes with pets. It's cheap, it may help a struggling unit and its compressor, and it takes 20 minutes. Just don't expect it to show up as a big line on your bill. Many newer refrigerators have coils that are hard to reach or not exposed at all; if your manual doesn't describe cleaning them, don't force it.
+So: clean coils that are visibly clogged, especially bottom-mounted ones in homes with pets. It's cheap, it may help a struggling unit and its compressor, and it takes 20 minutes. Just don't expect it to show up as a big line on your bill. Many newer refrigerators have coils that are hard to reach or not exposed at all; if your manual doesn't describe cleaning them, don't force it.
 
 **How to do it safely:**
 
 1. **Unplug the refrigerator first.** (Food is fine for the few minutes this takes if you keep the doors closed.)
-2. Find the coils: **behind the bottom front grille** (the toe kick) on many models, or **on the back** on older ones. Check the manual.
-3. Remove the grille if needed. Use a **long, narrow coil brush** to loosen dust, and a vacuum crevice tool to pull it out. Work gently — don't bend fins or tubing, and keep away from the fan blade.
+2. Find the coils: behind the bottom front grille (the toe kick) on many models, or on the back on older ones. Check the manual.
+3. Remove the grille if needed. Use a long, narrow coil brush to loosen dust, and a vacuum crevice tool to pull it out. Work gently — don't bend fins or tubing, and keep away from the fan blade.
 4. Reinstall the grille, plug the fridge back in, and push it back with a few inches of clearance.
 5. If you're curious whether it mattered, run another 48-hour meter reading and compare.
 
@@ -134,24 +133,24 @@ How often? Many manufacturers suggest once or twice a year; more if you have she
 ## Step 5: Free habits that actually matter
 
 - **Keep the doors closed** and decide what you want before you open them. Teach kids the "stare into the fridge" rule.
-- **Cool leftovers fast, safely.** The FDA advises dividing large amounts into **shallow containers** for quicker cooling and refrigerating within 2 hours (1 hour above 90°F outside). Don't leave food out longer to "save energy."
+- **Cool leftovers fast, safely.** The FDA advises dividing large amounts into shallow containers for quicker cooling and refrigerating within 2 hours (1 hour above 90°F outside). Don't leave food out longer to "save energy."
 - **Cover liquids and foods.** DOE notes uncovered foods release moisture and make the compressor work harder.
 - **Keep it away from heat.** Not next to the oven, dishwasher, or a sunny window if you have the choice.
 - **Leave airflow room** behind and above it, and don't block the bottom front grille.
 - **Don't block the internal vents.** Many fridges move cold air from the freezer to the fresh-food section through vents. Jamming them with food causes warm spots and longer run times.
-- **Defrost manual-defrost freezers** before frost reaches **a quarter inch** (ENERGY STAR, DOE).
+- **Defrost manual-defrost freezers** before frost reaches a quarter inch (ENERGY STAR, DOE).
 - **Check the "energy saver" or anti-sweat switch** if your model has one. It controls small heaters that keep the door edges from sweating. Some manuals say to leave it on in humid weather to prevent condensation — follow yours.
 - **Consider the ice maker.** DOE notes models without an ice maker or dispenser use less energy. If you never use the ice maker, many models let you turn it off.
 
 ## Garage fridges and second freezers: the honest math
 
-This is where the real money usually hides. DOE's kitchen appliance guide says it bluntly: "Just say no to a second fridge." A second refrigerator in the basement or garage is often older and can cost **more than $100 a year** to run.
+This is where the real money usually hides. DOE's kitchen appliance guide says it bluntly: "Just say no to a second fridge." A second refrigerator in the basement or garage is often older and can cost more than $100 a year to run.
 
 ### Garage temperature matters in both directions
 
 - **Hot garages** make the compressor run longer to dump heat into already-hot air.
-- **Cold garages** can be worse for food. On many refrigerators the thermostat sits in the fresh-food side; when the garage is cold, the compressor barely runs, and the freezer can warm up even though the fridge feels fine. GE says it does **not recommend installing non-garage-ready refrigerators where temperatures go below 60°F**, and that operating at extremes can harm the compressor or sealed system (oil can thicken below 32°F and break down above 110°F). GE's **garage-ready** top-freezer models are rated for **38°F to 110°F**.
-- ENERGY STAR's freezer advice: unless you live in a mild climate, keep your freezer **indoors**, such as in a basement. Extreme temperatures are hard on the compressor.
+- **Cold garages** can be worse for food. On many refrigerators the thermostat sits in the fresh-food side; when the garage is cold, the compressor barely runs, and the freezer can warm up even though the fridge feels fine. GE says it does not recommend installing non-garage-ready refrigerators where temperatures go below 60°F, and that operating at extremes can harm the compressor or sealed system (oil can thicken below 32°F and break down above 110°F). GE's garage-ready top-freezer models are rated for 38°F to 110°F.
+- ENERGY STAR's freezer advice: unless you live in a mild climate, keep your freezer indoors, such as in a basement. Extreme temperatures are hard on the compressor.
 
 If your garage freezes in winter or bakes in summer, check your manual's ambient temperature range before you assume the fridge out there is safe for food. A wireless thermometer will show you what's actually happening in the freezer section.
 
@@ -161,12 +160,12 @@ Run the meter on the second unit for 48 hours. Then ask:
 
 | What the meter and your habits say | Best move | Why |
 |---|---|---|
-| Half empty, mostly drinks, 15+ years old | **Empty it, unplug it, recycle it** | Saves 100% of its kWh with zero spend |
-| Needed only for holidays or a few weeks a year | **Unplug and prop it open the rest of the year** | Prop the door so it doesn't grow mold; plug back in a day ahead |
-| Full and truly needed year-round | **Fix settings and gasket; consider a smaller efficient replacement** | ENERGY STAR: if you need a second fridge year-round, replace an old one with a certified model |
-| Freezer full of bulk meat or garden food | **Keep it; add an alarm thermometer; consider a chest freezer when it dies** | Food value dwarfs the electricity; chest models use less |
+| Half empty, mostly drinks, 15+ years old | Empty it, unplug it, recycle it | Saves 100% of its kWh with zero spend |
+| Needed only for holidays or a few weeks a year | Unplug and prop it open the rest of the year | Prop the door so it doesn't grow mold; plug back in a day ahead |
+| Full and truly needed year-round | Fix settings and gasket; consider a smaller efficient replacement | ENERGY STAR: if you need a second fridge year-round, replace an old one with a certified model |
+| Freezer full of bulk meat or garden food | Keep it; add an alarm thermometer; consider a chest freezer when it dies | Food value dwarfs the electricity; chest models use less |
 
-Many utilities and appliance retailers offer **pickup and recycling** for old refrigerators and freezers — DOE and ENERGY STAR both point to recycling rebates. Check your utility's site before you pay anyone to haul it away. Old refrigerators contain refrigerant and must be handled properly; don't dump one. Before any old fridge or freezer leaves your possession, **take the doors off or secure them** — children have been trapped in discarded refrigerators.
+Many utilities and appliance retailers offer pickup and recycling for old refrigerators and freezers — DOE and ENERGY STAR both point to recycling rebates. Check your utility's site before you pay anyone to haul it away. Old refrigerators contain refrigerant and must be handled properly; don't dump one. Before any old fridge or freezer leaves your possession, take the doors off or secure them — children have been trapped in discarded refrigerators.
 
 ## Chest vs upright freezer
 
@@ -177,11 +176,11 @@ Many utilities and appliance retailers offer **pickup and recycling** for old re
 | Defrost | Often manual | Often frost-free (automatic defrost) |
 | Best for | Bulk storage you don't dig into daily | Frequent access, limited floor space |
 
-ENERGY STAR also notes **manual-defrost** freezers use about **half the energy** of automatic-defrost models — but only if you actually defrost them before frost passes a quarter inch. If you know you won't, the frost-free model may be the more realistic choice. Either way, buy the **smallest size you'll keep reasonably full**; ENERGY STAR says larger units generally use more energy.
+ENERGY STAR also notes manual-defrost freezers use about half the energy of automatic-defrost models — but only if you actually defrost them before frost passes a quarter inch. If you know you won't, the frost-free model may be the more realistic choice. Either way, buy the smallest size you'll keep reasonably full; ENERGY STAR says larger units generally use more energy.
 
 ## When replacement pays back (and when it doesn't)
 
-ENERGY STAR says certified refrigerators are about **9% more efficient** than the federal minimum, that refrigerators **over 15 years old** could be costing you about **$95 more per year** to run, and that replacing and recycling an old fridge with a certified model saves about **$150 over the new fridge's 12-year lifetime**. DOE's kitchen guide puts an old refrigerator at up to **33% more** than the newest ENERGY STAR models. LBL's 1993 New York study measured **60% savings** when old in-home refrigerators were replaced with then-new models. The point: **the older and worse your measured number, the bigger the payoff.** A recent fridge leaves little to gain.
+ENERGY STAR says certified refrigerators are about 9% more efficient than the federal minimum, that refrigerators over 15 years old could be costing you about $95 more per year to run, and that replacing and recycling an old fridge with a certified model saves about $150 over the new fridge's 12-year lifetime. DOE's kitchen guide puts an old refrigerator at up to 33% more than the newest ENERGY STAR models. LBL's 1993 New York study measured 60% savings when old in-home refrigerators were replaced with then-new models. The point: the older and worse your measured number, the bigger the payoff. A recent fridge leaves little to gain.
 
 **Do the math with your measured kWh:**
 
@@ -194,13 +193,13 @@ Simple payback (years) = price of new fridge ÷ yearly saving
 |---|---|---|---|---|
 | 8-year-old kitchen fridge, working fine | 500 kWh | 420 kWh | ~$14/yr | Decades — don't replace for energy |
 | 18-year-old kitchen fridge | 900 kWh | 420 kWh | ~$86/yr | ~12 years — marginal unless it's failing |
-| 25-year-old garage fridge, half full | 1,300 kWh | — (retire it) | ~$234/yr | **Instant** — the cheapest upgrade is no fridge |
+| 25-year-old garage fridge, half full | 1,300 kWh | — (retire it) | ~$234/yr | Instant — the cheapest upgrade is no fridge |
 
 *Illustrative numbers. Remember labels can under- or overpredict real use; your measured number for the new unit may differ.*
 
-When replacement makes sense, ENERGY STAR and DOE point the same way: the most efficient full-size models are typically **16–20 cubic feet**, **top-freezer** models tend to use the least energy, and models without an ice maker or dispenser use less. Check for utility rebates and pickup programs before you buy.
+When replacement makes sense, ENERGY STAR and DOE point the same way: the most efficient full-size models are typically 16–20 cubic feet, top-freezer models tend to use the least energy, and models without an ice maker or dispenser use less. Check for utility rebates and pickup programs before you buy.
 
-## Do-not list
+## What not to do
 
 - **Don't unplug a refrigerator or freezer with food in it** to "save energy," and don't put food storage on a smart-plug schedule. Measure yes, cut power no. See our [smart plugs guide](/blog/best-smart-plugs-vampire-power/) for loads that do belong on a schedule.
 - **Don't set the fridge warmer than 40°F** or the freezer above 0°F to trim the bill.
@@ -212,9 +211,9 @@ When replacement makes sense, ENERGY STAR and DOE point the same way: the most e
 - **Don't park a non-garage-ready fridge** in a garage that drops below your manual's minimum ambient temperature.
 - **Don't send an old fridge or freezer to the curb with the doors on**, or dump it — recycle it properly.
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions. A thermometer or coil brush tells you where the money is going; savings come from the changes you make. Prices and listings change; check the product page. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### Measure kWh first: Kill A Watt P4400
 
@@ -241,7 +240,7 @@ A countertop display with one fridge sensor and one freezer sensor, min/max memo
 
 Best fit when the freezer is out of sight and you want a phone alert while you're away.
 
-- **GoveeLife WiFi Refrigerator Thermometer 2-pack with gateway (H5108)** — probe-style sensors with LCD displays, app alerts with an adjustable anti-false-alarm delay, two years of data export; the gateway uses **2.4 GHz Wi-Fi**. The listing notes the sensor itself doesn't sound an alarm — alerts come through the app. Route the thin probe cable so the door still seals: [View on Amazon](https://www.amazon.com/dp/B0CLB358BJ/?tag=homebillcuts-20)
+- **GoveeLife WiFi Refrigerator Thermometer 2-pack with gateway (H5108)** — probe-style sensors with LCD displays, app alerts with an adjustable anti-false-alarm delay, two years of data export; the gateway uses 2.4 GHz Wi-Fi. The listing notes the sensor itself doesn't sound an alarm — alerts come through the app. Route the thin probe cable so the door still seals: [View on Amazon](https://www.amazon.com/dp/B0CLB358BJ/?tag=homebillcuts-20)
 - **YoLink freezer thermometer/hygrometer kit (3 sensors + hub)** — the whole battery sensor sits inside the freezer (no cable through the gasket) and talks to its hub over YoLink's long-range LoRa radio rather than your Wi-Fi; text, email, or push alerts with custom thresholds. Rated −4°F to 129°F, so it covers a 0°F freezer but not deep-freeze settings below −4°F: [View on Amazon](https://www.amazon.com/dp/B0F245PNYH/?tag=homebillcuts-20)
 
 ### Condenser coil brush (for clogged coils, not miracles)
@@ -251,7 +250,7 @@ A long, narrow, bendable brush reaches under the toe-kick grille where a vacuum 
 - **GE PM14X51 genuine OEM coil cleaning brush** — long-handled, made for refrigerator and freezer condenser coils: [View on Amazon](https://www.amazon.com/dp/B00DZU954E/?tag=homebillcuts-20)
 - **Vanitek 26-inch flexible coil and lint brush (2-pack)** — bendable wire shaft; doubles as a dryer lint-trap brush (see our [dryer vent cleaning guide](/blog/dryer-vent-cleaning-kits-energy-fire-safety/)): [View on Amazon](https://www.amazon.com/dp/B097S2L212/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **Door gaskets.** They're model-specific. Order by your model number from the manufacturer or a reputable parts supplier, not from a generic search result.
 - **"Fridge energy saver" plug-in gadgets** that claim to cut a compressor's power use. If one actually worked, your meter would show it; we haven't seen evidence that they do.
@@ -271,7 +270,7 @@ A long, narrow, bendable brush reaches under the toe-kick grille where a vacuum 
 | Can't reach the plug for a meter | Built-in or cabinet-boxed outlet | Measure over a weekend when you pull it out to clean coils, or use a circuit monitor if the fridge has its own breaker — see [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) |
 | Bill high but fridge measures normal | Something else | Meter other 120 V suspects with the [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/); work the [priority checklist](/blog/lower-electric-bill-priority-checklist/) |
 
-## Honest limits
+## What this won't fix
 
 - **A fridge is usually a modest slice of the bill.** Heating, cooling, and water heating typically dwarf it. A second fridge, an old freezer, or a broken unit is where the noticeable money lives.
 - **Settings and habits save a little, steadily.** Expect a few dollars a year from a temperature fix, not a transformed bill.

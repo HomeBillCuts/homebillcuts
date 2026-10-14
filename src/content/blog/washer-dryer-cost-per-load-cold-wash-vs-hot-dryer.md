@@ -1,6 +1,6 @@
 ---
 title: "Washer and Dryer Cost Per Load: Cold vs Hot Wash, Electric vs Gas Dryer, and What Actually Moves Your Bill"
-description: "Bill-first US guide to laundry cost per load: hot water cost per gallon by water heater type, hot-water cost per load by washer type, electric vs gas vs heat pump dryer cost by rate, spin-speed and vent math, four worked household examples, an annual cost table by loads per week, time-of-use timing, a payback table, troubleshooting, how to measure the 120V washer with a Kill A Watt (and the 240V dryer without one), and a verified Amazon shortlist. No guaranteed savings."
+description: "US guide to laundry cost per load: hot water cost per gallon by water heater type, hot-water cost per load by washer type, electric vs gas vs heat pump dryer cost by rate, spin-speed and vent math, four worked household examples, an annual cost table by loads per week, time-of-use timing, a payback table, troubleshooting, how to measure the 120V washer with a Kill A Watt (and the 240V dryer without one), and a verified Amazon shortlist."
 pubDate: 2026-10-11
 updatedDate: 2026-10-13
 faqs:
@@ -26,31 +26,30 @@ faqs:
     answer: "It can. Lint buildup, a crushed foil duct or a stuck outdoor flap slows airflow, so clothes take longer to dry and the dryer runs more minutes per load. If a load that used to take 45 minutes now takes 70 or two cycles, a restricted vent is a prime suspect — and it's also a fire risk. Clean the lint filter every load and the full vent run at least yearly; replace crushed foil ducts with semi-rigid or rigid metal."
 ---
 
-Laundry is one of the easiest places to see real money because you do it every week. The honest question is **what one load costs on *your* bill** — and which settings actually change it. This guide is **bill-first**: per-load math by rate, where the energy really goes (hint: hot water and the dryer, not the washer motor), how to measure what you can, four worked households, and when buying anything makes sense. No guaranteed savings.
+Laundry is one of the easiest places to see real money because you do it every week. The honest question is what one load costs on *your* bill — and which settings actually change it. In this guide: per-load math by rate, where the energy really goes (hint: hot water and the dryer, not the washer motor), how to measure what you can, four worked households, and when buying anything makes sense.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Related: [indoor clothes drying racks](/blog/indoor-clothes-drying-racks-cut-dryer-cost/), [dryer vent cleaning kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/), [electric water heater timers](/blog/electric-water-heater-timers-cut-standby/), [heat pump water heater vs standard](/blog/heat-pump-water-heater-vs-standard/), [Emporia Vue vs Sense whole-home monitors](/blog/emporia-vue-vs-sense/), and [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/).
 
 ## The short version
 
 - **Washer motor:** pennies per load. Not where the money is.
-- **Hot water:** the real washer cost — and it shows up on your **water heater**, not the washer.
-- **Dryer:** usually the **single biggest laundry line item**, especially electric.
+- **Hot water:** the real washer cost — and it shows up on your water heater, not the washer.
+- **Dryer:** usually the single biggest laundry line item, especially electric.
 - **Cheapest wins, in order:** wash cold → max spin → clean lint filter and vent → air-dry some loads → shift to off-peak if you're on time-of-use → only then think about new machines.
 
 ## Where the energy in a load goes
 
-- **Washer motor and controls:** small — typically about **0.1–0.3 kWh per load** for a modern machine.
-- **Hot water for the wash:** the big washer cost. ENERGY STAR and DOE commonly cite roughly **90% of washer energy** going to heating water. A warm or hot load can draw several gallons of hot water from your water heater.
-- **Dryer:** typically the **largest single laundry cost**. Electric dryers commonly use about **2–5 kWh per load** depending on load size, spin, settings and vent condition.
-- **Optional extras:** "steam," "sanitize" and "allergen" cycles on many front-loaders use an **internal heater** inside the washer to push water hotter. That's extra electricity on top of whatever your water heater supplied.
+- **Washer motor and controls:** small — typically about 0.1–0.3 kWh per load for a modern machine.
+- **Hot water for the wash:** the big washer cost. ENERGY STAR and DOE commonly cite roughly 90% of washer energy going to heating water. A warm or hot load can draw several gallons of hot water from your water heater.
+- **Dryer:** typically the largest single laundry cost. Electric dryers commonly use about 2–5 kWh per load depending on load size, spin, settings and vent condition.
+- **Optional extras:** "steam," "sanitize" and "allergen" cycles on many front-loaders use an internal heater inside the washer to push water hotter. That's extra electricity on top of whatever your water heater supplied.
 
 ## Step 1: Find your rate
 
-Your effective electric rate = **total bill ÷ total kWh** (include delivery and fees). Gas rate = total gas bill ÷ therms. Use those, not the advertised supply rate. If you're on a **time-of-use** plan, write down the peak and off-peak prices separately — laundry is one of the easiest loads to shift.
+Your effective electric rate = total bill ÷ total kWh (include delivery and fees). Gas rate = total gas bill ÷ therms. Use those, not the advertised supply rate. If you're on a time-of-use plan, write down the peak and off-peak prices separately — laundry is one of the easiest loads to shift.
 
 ## Step 2: What one gallon of hot water costs
 
-Heating a gallon of water from about **50°F to 120°F** takes roughly 8.34 lb × 70°F ≈ **584 BTU**, or about **0.17 kWh**. Real water heaters lose some of that, so as planning numbers:
+Heating a gallon of water from about 50°F to 120°F takes roughly 8.34 lb × 70°F ≈ 584 BTU, or about 0.17 kWh. Real water heaters lose some of that, so as planning numbers:
 
 | Water heater type | Energy per hot gallon (approx.) | Cost per hot gallon |
 |---|---|---|
@@ -58,11 +57,11 @@ Heating a gallon of water from about **50°F to 120°F** takes roughly 8.34 lb �
 | Gas tank (~60% efficient overall) | ~0.0097 therm | ~$0.010 at $1.00 · ~$0.015 at $1.50 · ~$0.020 at $2.00/therm |
 | Heat pump water heater (UEF ~3.5) | ~0.05 kWh | ~$0.006 at $0.12 · ~$0.008 at $0.17 · ~$0.015 at $0.30 |
 
-Colder incoming water in winter (40°F in much of the north) raises these by about 15%. A higher tank setpoint raises them too — which is one reason **~120°F** is the usual recommendation.
+Colder incoming water in winter (40°F in much of the north) raises these by about 15%. A higher tank setpoint raises them too — which is one reason ~120°F is the usual recommendation.
 
 ## Step 3: Hot-water cost per load by washer type
 
-Hot gallons per load vary a lot by model, load size and cycle. These are **illustrative planning numbers**, not ratings:
+Hot gallons per load vary a lot by model, load size and cycle. These are illustrative planning numbers, not ratings:
 
 | Washer type and cycle | Hot gallons (approx.) | Electric WH at $0.17 | Gas WH at $1.50/therm | Heat pump WH at $0.17 |
 |---|---|---|---|---|
@@ -74,7 +73,7 @@ Hot gallons per load vary a lot by model, load size and cycle. These are **illus
 | Older agitator top-loader, warm | ~10 | ~$0.31 | ~$0.15 | ~$0.08 |
 | Older agitator top-loader, hot | ~18 | ~$0.56 | ~$0.26 | ~$0.15 |
 
-The takeaway: on an **electric water heater with an older top-loader**, every hot load can cost more than half a dollar *before* drying. On gas or a heat pump water heater, cold wash still saves money, just less.
+The takeaway: on an electric water heater with an older top-loader, every hot load can cost more than half a dollar *before* drying. On gas or a heat pump water heater, cold wash still saves money, just less.
 
 ## Step 4: Dryer cost per load by type and rate
 
@@ -85,7 +84,7 @@ The takeaway: on an **electric water heater with an older top-loader**, every ho
 | Electric, heavy towels / weak spin / restricted vent | ~4.5 kWh | ~$0.54 | ~$0.77 | ~$1.35 |
 | Heat pump dryer, typical load | ~1.3 kWh | ~$0.16 | ~$0.22 | ~$0.39 |
 
-**Gas dryer:** roughly **0.15–0.25 therm** of gas plus about **0.3 kWh** for the drum motor and controls. At $0.17/kWh that's about **$0.25 at $1.00/therm, $0.35 at $1.50, $0.45 at $2.00** per typical load.
+**Gas dryer:** roughly 0.15–0.25 therm of gas plus about 0.3 kWh for the drum motor and controls. At $0.17/kWh that's about $0.25 at $1.00/therm, $0.35 at $1.50, $0.45 at $2.00 per typical load.
 
 ## Step 5: Put it together — cost per load
 
@@ -100,7 +99,7 @@ The takeaway: on an **electric water heater with an older top-loader**, every ho
 
 These are illustrative ranges, not measurements of your machines.
 
-**Weekly example** (7 loads, $0.17/kWh, older top-loader, electric everything): hot wash + electric dry ≈ 7 × ($0.03 + $0.56 + $0.56) ≈ **$8.05/week, ~$420/year**. Cold wash + electric dry ≈ **$4.10/week**. Cold wash + air-dry half the loads ≈ **$2.20/week**. That's the real-money spread.
+**Weekly example** (7 loads, $0.17/kWh, older top-loader, electric everything): hot wash + electric dry ≈ 7 × ($0.03 + $0.56 + $0.56) ≈ $8.05/week, ~$420/year. Cold wash + electric dry ≈ $4.10/week. Cold wash + air-dry half the loads ≈ $2.20/week. That's the real-money spread.
 
 ## Annual laundry cost by loads per week
 
@@ -117,59 +116,59 @@ If you're in the bottom row with a big family, laundry is worth an evening of at
 
 ## Four worked household examples (illustrative)
 
-All examples assume a typical load, **$0.17/kWh** and **$1.50/therm** unless noted, and 52 weeks a year. Swap in your own rates, machines and loads.
+All examples assume a typical load, $0.17/kWh and $1.50/therm unless noted, and 52 weeks a year. Swap in your own rates, machines and loads.
 
 **1. Couple, 4 loads/week, front-loader, electric water heater, electric dryer, everything on warm.**
-- Now: 4 × ($0.03 motor + $0.12 warm water + $0.56 dryer) ≈ $2.84/week ≈ **$148/year**
-- Switch to cold: 4 × $0.59 ≈ $2.36/week ≈ **$123/year** (saves ~$25)
-- Cold + air-dry 2 of 4 loads: (4 × $0.03) + (2 × $0.56) ≈ $1.24/week ≈ **$64/year**
+- Now: 4 × ($0.03 motor + $0.12 warm water + $0.56 dryer) ≈ $2.84/week ≈ $148/year
+- Switch to cold: 4 × $0.59 ≈ $2.36/week ≈ $123/year (saves ~$25)
+- Cold + air-dry 2 of 4 loads: (4 × $0.03) + (2 × $0.56) ≈ $1.24/week ≈ $64/year
 - **Savings ≈ $84/year**, mostly from the rack (~$58/year of it), so a $27 rack pays back in about 6 months.
 
 **2. Family of four, 9 loads/week, older agitator top-loader, electric water heater, electric dryer, 5 hot + 4 warm loads.** The weaker spin leaves clothes wetter, so assume ~4 kWh per dryer load ($0.68).
-- Now: 5 × ($0.03 + $0.56 + $0.68) + 4 × ($0.03 + $0.31 + $0.68) ≈ $6.35 + $4.08 ≈ $10.43/week ≈ **$542/year**
-- All cold: 9 × ($0.03 + $0.68) ≈ $6.39/week ≈ **$332/year** (saves ~$210)
-- All cold + air-dry 3 loads/week: (6 × $0.71) + (3 × $0.03) ≈ $4.35/week ≈ **$226/year**
+- Now: 5 × ($0.03 + $0.56 + $0.68) + 4 × ($0.03 + $0.31 + $0.68) ≈ $6.35 + $4.08 ≈ $10.43/week ≈ $542/year
+- All cold: 9 × ($0.03 + $0.68) ≈ $6.39/week ≈ $332/year (saves ~$210)
+- All cold + air-dry 3 loads/week: (6 × $0.71) + (3 × $0.03) ≈ $4.35/week ≈ $226/year
 - **Savings ≈ $316/year** with no new machines. This is the household where a high-spin front-loader *is* worth pricing when the old washer dies.
 
 **3. Gas house, 7 loads/week, HE top-loader on warm, gas water heater, gas dryer.**
-- Now: 7 × ($0.03 + $0.09 warm water + $0.35 gas dry) ≈ $3.29/week ≈ **$171/year**
-- Cold: 7 × $0.38 ≈ $2.66/week ≈ **$138/year** (saves ~$33)
-- Cold + air-dry 2 loads/week: (5 × $0.38) + (2 × $0.03) ≈ $1.96/week ≈ **$102/year**
+- Now: 7 × ($0.03 + $0.09 warm water + $0.35 gas dry) ≈ $3.29/week ≈ $171/year
+- Cold: 7 × $0.38 ≈ $2.66/week ≈ $138/year (saves ~$33)
+- Cold + air-dry 2 loads/week: (5 × $0.38) + (2 × $0.03) ≈ $1.96/week ≈ $102/year
 - **Savings ≈ $69/year.** Smaller, because gas is cheap per unit of heat — don't expect electric-house numbers here.
 
 **4. High-rate all-electric home ($0.30/kWh), 6 loads/week, front-loader, 2 hot + 4 warm, electric dryer at 3.3 kWh.**
 - Per load at $0.30: motor ~$0.06, hot water ~$0.43 (hot) or ~$0.22 (warm), dryer ~$0.99
-- Now: 2 × ($0.06 + $0.43 + $0.99) + 4 × ($0.06 + $0.22 + $0.99) ≈ $2.96 + $5.08 ≈ $8.04/week ≈ **$418/year**
-- Cold + air-dry 3 loads/week: (6 × $0.06) + (3 × $0.99) ≈ $3.33/week ≈ **$173/year**
-- **Savings ≈ $245/year.** If the dryer is due anyway, a heat pump dryer (~$0.39/load here) would save about $0.60 per remaining dryer load — about **$94/year** at 3 loads/week.
+- Now: 2 × ($0.06 + $0.43 + $0.99) + 4 × ($0.06 + $0.22 + $0.99) ≈ $2.96 + $5.08 ≈ $8.04/week ≈ $418/year
+- Cold + air-dry 3 loads/week: (6 × $0.06) + (3 × $0.99) ≈ $3.33/week ≈ $173/year
+- **Savings ≈ $245/year.** If the dryer is due anyway, a heat pump dryer (~$0.39/load here) would save about $0.60 per remaining dryer load — about $94/year at 3 loads/week.
 
 ## Spin speed: the cheap dryer cut
 
-Dryer energy roughly tracks **how much water is left in the clothes**. An 8 lb load spun to about 65% remaining moisture (common for older top-loaders) holds ~5.2 lb of water; spun to about 45% (common for high-spin front-loaders) it holds ~3.6 lb — roughly **30% less water** to evaporate. That often shows up as noticeably shorter dry times.
+Dryer energy roughly tracks how much water is left in the clothes. An 8 lb load spun to about 65% remaining moisture (common for older top-loaders) holds ~5.2 lb of water; spun to about 45% (common for high-spin front-loaders) it holds ~3.6 lb — roughly 30% less water to evaporate. That often shows up as noticeably shorter dry times.
 
-- Use the **highest spin the fabric allows** (towels and jeans can take max spin).
-- Add an **extra spin** on heavy loads if your machine offers it — it costs a fraction of a cent in motor energy versus several cents of dryer time.
+- Use the highest spin the fabric allows (towels and jeans can take max spin).
+- Add an extra spin on heavy loads if your machine offers it — it costs a fraction of a cent in motor energy versus several cents of dryer time.
 - Don't overload: a packed drum spins and tumbles less effectively.
 
 ## Vent and lint: the hidden dryer tax
 
-A restricted vent makes the dryer run longer for the same load, and it's a fire risk. Illustrative math: if a clogged vent pushes a 3.3 kWh load to ~4.3 kWh, that's about **$0.17 more per load at $0.17/kWh** — about **$62/year at 7 loads a week**.
+A restricted vent makes the dryer run longer for the same load, and it's a fire risk. Illustrative math: if a clogged vent pushes a 3.3 kWh load to ~4.3 kWh, that's about $0.17 more per load at $0.17/kWh — about $62/year at 7 loads a week.
 
-- Clean the **lint filter every load**; wash it with soap and water every few months if fabric softener film builds up (hold it under the tap — if water pools instead of passing through, it's coated).
-- Brush the **full vent run** at least yearly with a [vent cleaning kit](/blog/dryer-vent-cleaning-kits-energy-fire-safety/); more often for long runs or big families.
-- Check the **outdoor flap** opens freely while the dryer runs.
-- Replace **white vinyl or crinkly foil** transition ducts with semi-rigid or rigid metal, as short and straight as practical.
+- Clean the lint filter every load; wash it with soap and water every few months if fabric softener film builds up (hold it under the tap — if water pools instead of passing through, it's coated).
+- Brush the full vent run at least yearly with a [vent cleaning kit](/blog/dryer-vent-cleaning-kits-energy-fire-safety/); more often for long runs or big families.
+- Check the outdoor flap opens freely while the dryer runs.
+- Replace white vinyl or crinkly foil transition ducts with semi-rigid or rigid metal, as short and straight as practical.
 
 ## Time-of-use: when you dry matters
 
-On a flat rate, time doesn't matter. On a time-of-use plan, a **3.3 kWh electric dryer load costs ~$1.32 at a $0.40 peak rate versus ~$0.40 at a $0.12 off-peak rate**. At 5 dryer loads a week, shifting all of them off-peak is worth about **$240/year** in that example. Hot washes on an electric water heater shift too, though the tank may reheat later anyway — a [water heater timer](/blog/electric-water-heater-timers-cut-standby/) helps there.
+On a flat rate, time doesn't matter. On a time-of-use plan, a 3.3 kWh electric dryer load costs ~$1.32 at a $0.40 peak rate versus ~$0.40 at a $0.12 off-peak rate. At 5 dryer loads a week, shifting all of them off-peak is worth about $240/year in that example. Hot washes on an electric water heater shift too, though the tank may reheat later anyway — a [water heater timer](/blog/electric-water-heater-timers-cut-standby/) helps there.
 
 Practical rules: start loads when you're home and awake, use the delay-start feature on the *washer* rather than leaving a dryer running unattended, and confirm your plan's exact windows on your bill.
 
 ## Step 6: Measure what you can
 
 1. **Washer (120V):** plug it into a [Kill A Watt P4400](/blog/kill-a-watt-plug-in-energy-meter/) (check the washer's amp rating is within the meter's 15A limit — washers with internal heaters may not be), run a normal cold load, read kWh. This is motor + controls only — the hot water shows up on your water heater, not here.
-2. **Electric dryer (240V):** you **can't** plug it into a Kill A Watt. Use your utility's **hourly usage graph** — run two or three loads in a quiet evening hour and compare to a normal hour — or a [whole-home monitor](/blog/emporia-vue-vs-sense/) with a circuit sensor on the dryer breaker. Nameplate watts × run time gives an upper bound.
+2. **Electric dryer (240V):** you can't plug it into a Kill A Watt. Use your utility's hourly usage graph — run two or three loads in a quiet evening hour and compare to a normal hour — or a [whole-home monitor](/blog/emporia-vue-vs-sense/) with a circuit sensor on the dryer breaker. Nameplate watts × run time gives an upper bound.
 3. **Hot water:** if you have an electric water heater, compare a day of hot-wash laundry with a cold-wash day in hourly data. The difference is the water-heating cost.
 4. **Dry time:** the cheapest meter is a kitchen timer. Write down minutes per load for a week, then again after cleaning the vent or adding max spin.
 
@@ -221,7 +220,7 @@ Prices change; check the product page. Savings depend on your rate and how many 
 | Hot water runs out after laundry | Hot washes plus showers back-to-back | Wash cold; don't raise the tank setpoint to compensate |
 | Kill A Watt shows odd or zero readings | Washer heater exceeds 15A, or meter on an extension cord | Plug directly into the outlet; skip metering heater cycles |
 
-## Buyer decision tree
+## Which one should you buy?
 
 1. **Never measured anything?** A Kill A Watt for the washer and your utility's hourly data for the dryer — find your real per-load number first.
 2. **Running the dryer for every load?** A drying rack is the cheapest big cut.
@@ -230,9 +229,9 @@ Prices change; check the product page. Savings depend on your rate and how many 
 5. **Want to see the 240V dryer and the rest of the house?** A [whole-home monitor](/blog/emporia-vue-vs-sense/) — a bigger purchase, worth it only if you'll act on the data across the whole house.
 6. **Machine failing anyway?** Then compare ENERGY STAR front-loaders and heat pump dryers — don't replace a working one just for energy.
 
-## Verified Amazon shortlist
+## Our picks
 
-We re-checked these listings on Amazon on 2026-10-13; specs and prices change, so confirm on the product page. We don't guarantee performance or savings.
+We re-checked these listings on Amazon on 2026-10-13; specs and prices change, so confirm on the product page.
 
 **Measure first**
 - P3 Kill A Watt P4400 (meter a 120V washer per load): [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
@@ -250,14 +249,13 @@ We re-checked these listings on Amazon on 2026-10-13; specs and prices change, s
 
 Amazon links may earn us a commission as an Amazon Associate at no extra cost to you ([disclosure](/disclosure/)).
 
-## Honest limits
+## What this won't fix
 
 - **Per-load figures are typical ranges**, not your machines; load size, spin, fabric and vent condition swing them a lot.
 - **Hot gallons per load vary by model and cycle**; check your washer's manual or ENERGY STAR listing if you want a better number.
 - **Hot water cost depends on your water heater** (electric, gas, heat pump), its setpoint and your incoming water temperature.
 - **A Kill A Watt can't meter a 240V dryer.**
 - **Air-drying indoors adds moisture** — fine in dry winter air, but watch humidity in a damp basement.
-- **We don't guarantee any savings.**
 
 ## Quick checklist
 
@@ -272,4 +270,4 @@ Amazon links may earn us a commission as an Amazon Associate at no extra cost to
 
 ## Bottom line
 
-**The washer motor costs pennies; hot water and the dryer are where the money is.** Wash cold, spin hard, keep the vent clean, air-dry what you can — that can roughly halve a typical household's laundry cost, and in a big electric household it can be worth $200–$300 a year. Then go after the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings.
+**The washer motor costs pennies; hot water and the dryer are where the money is.** Wash cold, spin hard, keep the vent clean, air-dry what you can — that can roughly halve a typical household's laundry cost, and in a big electric household it can be worth $200–$300 a year. Then go after the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)).

@@ -1,6 +1,6 @@
 ---
 title: "Electric Baseboard Heater Thermostats: Line-Voltage Controls That Aren't a Nest"
-description: "Bill-first US guide to 120/240V line-voltage thermostats for electric baseboard and wall heaters — measure poles and load first, mechanical vs electronic vs programmable vs Wi‑Fi, install troubleshooting, and Amazon shortlists. Nest/Ecobee are 24V — wrong family. No guaranteed savings."
+description: "US guide to 120/240V line-voltage thermostats for electric baseboard and wall heaters — measure poles and load first, mechanical vs electronic vs programmable vs Wi‑Fi, install troubleshooting, and Amazon shortlists. Nest/Ecobee are 24V — wrong family."
 pubDate: 2026-09-27
 updatedDate: 2026-09-27
 faqs:
@@ -18,11 +18,10 @@ faqs:
     answer: "Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 or Honeywell CT410B class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Sinopé TH1124WF class) if you will use the app. Always match amps, volts, and pole count first."
 ---
 
-A Nest Learning Thermostat will not save a leaky bedroom with **electric baseboard** if that Nest was never the right product. Most US smart thermostats are **24-volt** controls for furnaces and heat pumps. Hardwired baseboard, many wall heaters, and some radiant ceilings are **line voltage** — 120 or 240 volts switching real amp loads. This guide is **bill-first**: confirm voltage and pole count before you buy, size the thermostat to the heater watts on that circuit, pick mechanical vs electronic vs programmable vs Wi‑Fi line-voltage hardware, and install so the schedule (or dial) actually sticks — without inventing dollar savings.
+A Nest Learning Thermostat will not save a leaky bedroom with electric baseboard if that Nest was never the right product. Most US smart thermostats are 24-volt controls for furnaces and heat pumps. Hardwired baseboard, many wall heaters, and some radiant ceilings are line voltage — 120 or 240 volts switching real amp loads. In this guide: confirm voltage and pole count before you buy, size the thermostat to the heater watts on that circuit, pick mechanical vs electronic vs programmable vs Wi‑Fi line-voltage hardware, and install so the schedule (or dial) actually sticks — without inventing dollar savings.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). If your heat is forced-air or a heat pump on **24V** wiring, use [best smart thermostats 2026](/blog/best-smart-thermostats-2026/) and [install cost vs DIY](/blog/smart-thermostat-install-cost-vs-diy/) instead. Zone comfort after a whole-house setback lives in [oil-filled space heaters](/blog/oil-filled-space-heaters-zone-heating/) and [heated mattress pads](/blog/heated-mattress-pads-zone-heating/). This page is about **line-voltage thermostats for electric resistance heat** — not Nest/Ecobee swaps.
 
-## Honest framing: expensive heat, right control family
+## Expensive heat, right control family
 
 Electric baseboard and wall heaters convert nearly all their watts to heat in the room — which also means every unused degree is expensive when rates are high. A better thermostat helps when:
 
@@ -31,16 +30,16 @@ Electric baseboard and wall heaters convert nearly all their watts to heat in th
 - You will actually use setbacks, vacation modes, or app schedules — not just admire a backlight.
 - The existing control chatters, drifts 5–10°F, or never truly turns Off for summer.
 
-A thermostat does **less** when:
+A thermostat does less when:
 
 - The room leaks through doors, windows, or an attic hatch — seal first ([weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window film](/blog/window-insulation-kits-winter-drafts/), [attic stair covers](/blog/attic-stair-hatch-insulation-covers/)). Exterior-wall baseboards that cook the plaster more than the air may also want [radiator heat reflectors](/blog/radiator-heat-reflectors-exterior-walls/).
-- You buy a **24V Nest** for a **240V** baseboard circuit (wrong family; safety risk).
+- You buy a 24V Nest for a 240V baseboard circuit (wrong family; safety risk).
 - The heater itself is undersized, failing, or blocked by furniture.
 - You expect Wi‑Fi alone to cut a bill without changing setpoints.
 
-**We do not guarantee savings.** Manufacturer “up to X%” claims assume you use schedules and that your prior control was wasteful. Your climate, rates, envelope, and habits decide the bill. Treat the thermostat as a **control upgrade**, not magic.
+ Manufacturer “up to X%” claims assume you use schedules and that your prior control was wasteful. Your climate, rates, envelope, and habits decide the bill. Treat the thermostat as a control upgrade, not magic.
 
-## Measure-first walk: voltage, poles, and load (before you buy)
+## Check your home before you buy
 
 Do this once with the power off for photos, and with power on only if you know how to use a meter safely:
 
@@ -49,15 +48,15 @@ Do this once with the power off for photos, and with power on only if you know h
 3. **Kill the correct breaker and verify zero volts** — line-voltage mistakes hurt. If you cannot confidently find and test the breaker, hire an electrician.
 4. **Photograph the existing thermostat wiring** — count conductors. Note colors and which screws they land on. Do not rely on memory after the old unit is off the wall.
 5. **Single-pole vs double-pole** — two switched conductors often mean single-pole; four (two line, two load) often mean double-pole with positive Off. Match the replacement family unless an electrician redesigns the circuit.
-6. **Add up watts on that thermostat** — sum nameplate watts of every heater the thermostat controls. Convert: amps ≈ watts ÷ volts. The new thermostat’s amp rating must exceed the load (with margin). A 15A double-pole unit is **not** a drop-in for a 22A mechanical circuit full of baseboard.
+6. **Add up watts on that thermostat** — sum nameplate watts of every heater the thermostat controls. Convert: amps ≈ watts ÷ volts. The new thermostat’s amp rating must exceed the load (with margin). A 15A double-pole unit is not a drop-in for a 22A mechanical circuit full of baseboard.
 7. **Note 120 vs 208/240** — some electronics are 240/208-only; others cover 120/208/240. Buy the voltage the nameplate states.
 8. **Decide mechanical vs electronic vs programmable vs Wi‑Fi vs hire** — see the decision tree below. Renters: confirm lease rules before opening boxes.
 
-If mercury is in an old tilt thermostat, do **not** trash it in household garbage — follow local hazardous-waste rules.
+If mercury is in an old tilt thermostat, do not trash it in household garbage — follow local hazardous-waste rules.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize a line-voltage upgrade when
+### When a line-voltage upgrade is worth it
 
 1. **Electric resistance is your main heat** in one or more rooms and dials drift or stick On.
 2. **You will use setbacks** (workday, overnight, guest room) and currently cannot.
@@ -65,7 +64,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 4. **Summer Off matters** — double-pole positive Off is the usual ask.
 5. **A room feels 5–10°F off** from the dial marking and you keep bumping heat manually.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
 - **Do not install a 24V Nest/Ecobee/Amazon Smart thermostat on line-voltage baseboard wiring.**
 - **Do not work hot** — kill the breaker; verify with a meter.
@@ -75,7 +74,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 - **Do not toss mercury thermostats** in regular trash.
 - **Do not expect a thermostat to fix** a wide-open envelope or a failing heater element.
 
-## Buyer decision tree
+## Which one should you buy?
 
 | Your situation | Better path | Why |
 | --- | --- | --- |
@@ -88,9 +87,9 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 | Load above thermostat rating / messy box / aluminum | Hire a licensed electrician | Safety beats a $40 DIY save |
 | Only one cold room, rest of house is 24V HVAC | Seal + [oil-filled zone heat](/blog/oil-filled-space-heaters-zone-heating/) or fix the baseboard circuit properly | Don’t frankenstein Nest onto 240V |
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee savings. Confirm volts, poles, and amp rating against your heaters before ordering. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best simple single-pole mechanical: Cadet T521-W
 
@@ -120,7 +119,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 
 **Best for:** Degree-ish digital control and a backlight without learning a 7-day menu — 240/208V double-pole.
 
-**Watch-outs:** Often **15A** class — calculate watts. Not a Nest; not 24V.
+**Watch-outs:** Often 15A class — calculate watts. Not a Nest; not 24V.
 
 - Cadet TH114A-240D-B Electronic Double Pole: [View on Amazon](https://www.amazon.com/dp/B000NCWYNG/?tag=homebillcuts-20)
 
@@ -136,19 +135,19 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 
 **Best for:** 208/240V baseboard/convector/fan-forced resistive loads that need real schedules and a quiet electronic switch — common “LineVoltPRO” pick.
 
-**Watch-outs:** Typically **15A / ~3600W @ 240V** — not for oversized multi-heater legs. Programming has a learning curve. Not Wi‑Fi.
+**Watch-outs:** Typically 15A / ~3600W @ 240V — not for oversized multi-heater legs. Programming has a learning curve. Not Wi‑Fi.
 
 - Honeywell TL8230A1003 7-Day Programmable Line-Volt: [View on Amazon](https://www.amazon.com/dp/B008HOT7O6/?tag=homebillcuts-20)
 
 ### 7) Best Wi‑Fi line-voltage option: Sinopé TH1124WF
 
-**Best for:** App schedules, Alexa/HomeKit-style ecosystems, and remote setbacks on electric baseboard — when the watt rating fits (TH1124WF class often up to **4000W @ 240V**).
+**Best for:** App schedules, Alexa/HomeKit-style ecosystems, and remote setbacks on electric baseboard — when the watt rating fits (TH1124WF class often up to 4000W @ 240V).
 
 **Watch-outs:** 2.4 GHz Wi‑Fi quirks; verify 2-wire vs 4-wire install; not a substitute for an electrician on scary boxes. Still line-voltage — not a Nest.
 
 - Sinopé TH1124WF Smart Wi‑Fi Line-Voltage Thermostat: [View on Amazon](https://www.amazon.com/dp/B0897Z15CB/?tag=homebillcuts-20)
 
-## Install troubleshooting
+## Troubleshooting
 
 | Symptom | Likely cause | What to try |
 | --- | --- | --- |
@@ -161,7 +160,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 | “Nest compatible” listing confusion | Marketplace wording for 24V kits | Ignore; re-check voltage — baseboard needs line-voltage SKU |
 | Amp rating too low | Too many heaters on one thermostat | Split circuits or higher-rated control with electrician |
 
-## Honest limits (what a line-voltage thermostat will not fix)
+## What this won't fix
 
 - A Nest-shaped hole in your shopping cart when the wiring is 240V — buy the right family.
 - Wide door gaps, single-pane glass, or an open attic stair ([weatherization guides](/blog/best-weatherstripping-draft-stoppers/)).
@@ -170,7 +169,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 - Medical vulnerability to cold — keep safe backup heat and working detectors.
 - Guaranteed bill cuts from an app screenshot.
 
-## Post-setup checklist + habits
+## After you set it up
 
 1. Label the breaker that feeds each thermostat.
 2. Confirm Off / Standby works before heating season ends.
@@ -181,7 +180,7 @@ If mercury is in an old tilt thermostat, do **not** trash it in household garbag
 7. Log one billing cycle of comfort vs prior winter habits — not as a guaranteed savings proof, as a reality check.
 8. Schedule electrician help for aluminum wiring, shared multi-heater legs over amp limits, or any mystery voltage.
 
-### Habits that multiply the upgrade
+### Habits that help
 
 - Set back unused bedrooms aggressively; heat the room you’re in.
 - Pair with [HVAC filter](/blog/hvac-air-filters-merv-efficiency/) discipline if you also have forced-air.
@@ -201,7 +200,7 @@ Single-pole (usually 2 wires) switches one hot leg and often leaves a small stan
 
 ### Will a programmable line-voltage thermostat actually cut my electric bill?
 
-It can when you run real setbacks in unused rooms and hold sensible occupied setpoints — electric resistance heat is expensive per kWh. Savings scale with your rates, climate, how leaky the room is, and whether you actually use the schedule. We do not guarantee a percentage or dollar cut. Seal drafts and fix filters first when those are the bigger leaks.
+It can when you run real setbacks in unused rooms and hold sensible occupied setpoints — electric resistance heat is expensive per kWh. Savings scale with your rates, climate, how leaky the room is, and whether you actually use the schedule. Seal drafts and fix filters first when those are the bigger leaks.
 
 ### How do I know if my thermostat is line voltage?
 
@@ -231,4 +230,4 @@ Want cheapest like-for-like replacement and simple always-on comfort: mechanical
 
 ## Bottom line
 
-If your heat is **electric baseboard or line-voltage wall heat**, shop **line-voltage thermostats** — not Nest. Confirm **volts, pole count, and amp load**, then pick **mechanical**, **electronic**, **programmable**, or **Wi‑Fi line-voltage** hardware that matches the box. Use schedules and setbacks if you buy programmable; seal the room so those setbacks are livable. Hire an electrician when voltage, aluminum wiring, or load math is unclear. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). For 24V forced-air systems, return to [smart thermostats 2026](/blog/best-smart-thermostats-2026/); for the broader order of operations, see [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
+If your heat is electric baseboard or line-voltage wall heat, shop line-voltage thermostats — not Nest. Confirm volts, pole count, and amp load, then pick mechanical, electronic, programmable, or Wi‑Fi line-voltage hardware that matches the box. Use schedules and setbacks if you buy programmable; seal the room so those setbacks are livable. Hire an electrician when voltage, aluminum wiring, or load math is unclear. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). For 24V forced-air systems, return to [smart thermostats 2026](/blog/best-smart-thermostats-2026/); for the broader order of operations, see [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/).

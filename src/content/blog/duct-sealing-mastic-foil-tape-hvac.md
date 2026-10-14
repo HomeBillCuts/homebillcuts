@@ -1,6 +1,6 @@
 ---
 title: "DIY HVAC Duct Sealing: Mastic + UL 181 Foil Tape (Not Cloth Tape)"
-description: "Bill-first US guide to sealing leaky HVAC ducts with water-based mastic and UL 181 foil tape — measure-first leak walk, situation priorities + do-nots (no cloth duct tape; asbestos stop; combustion/CO; never seal dryer or combustion air), buyer tree vs Aeroseal/pro, install troubleshooting, and Amazon shortlists. No guaranteed dollar savings."
+description: "US guide to sealing leaky HVAC ducts with water-based mastic and UL 181 foil tape — leak walk, when to call Aeroseal or a pro, install troubleshooting, and Amazon shortlists."
 pubDate: 2026-10-04
 updatedDate: 2026-10-04
 faqs:
@@ -18,61 +18,60 @@ faqs:
     answer: "A one-gallon tub of water-based mastic plus a roll of UL 181 foil tape and a roll of adhesive fiberglass mesh covers many weekend basement/crawl boot-and-joint jobs; larger trunk campaigns or attic runs may need a second gallon and more mesh. Coverage depends on joint length and how thick you brush (manufacturers often target roughly 20-mil wet film on brushed joints). Buy mesh for gaps you cannot bridge with tape alone. Keep a chip brush and disposable gloves in the cart — leftover gray mastic is normal; drying time before insulating or burying ducts matters more than emptying the pail."
 ---
 
-Leaky **HVAC ducts** dump heated (or cooled) air into attics, crawlspaces, and garages — then the furnace or air handler runs longer to keep rooms comfortable. **Water-based duct mastic** plus **UL 181–listed foil / mastik tape** (not cloth “duck” tape) is the durable DIY fix for **accessible** boots, plenums, takeoffs, and trunk joints. This guide is **bill-first**: walk and find leaks before you buy, respect asbestos / combustion / dryer-vent limits, pick DIY mastic vs skip vs pro Aeroseal with a decision tree, install and troubleshoot, and stay honest about limits. No guaranteed percent savings.
+Leaky HVAC ducts dump heated (or cooled) air into attics, crawlspaces, and garages — then the furnace or air handler runs longer to keep rooms comfortable. Water-based duct mastic plus UL 181–listed foil / mastik tape (not cloth “duck” tape) is the durable DIY fix for accessible boots, plenums, takeoffs, and trunk joints. In this guide: walk and find leaks before you buy, respect asbestos / combustion / dryer-vent limits, pick DIY mastic vs skip vs pro Aeroseal with a decision tree, install and troubleshoot, and stay honest about limits.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Same-HVAC siblings: [HVAC air filters](/blog/hvac-air-filters-merv-efficiency/), [register booster fans for cold rooms](/blog/register-booster-fans-cold-rooms/), [furnace humidifier water panels](/blog/furnace-humidifier-water-panels-winter-comfort/), [dryer vent cleaning](/blog/dryer-vent-cleaning-kits-energy-fire-safety/). Envelope stack: [air sealing (caulk & foam)](/blog/air-sealing-caulk-foam-outlet-gaskets/), [rim / band joist insulation](/blog/rim-joist-band-joist-insulation-basement/), [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/), [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/), [crawl space vent covers](/blog/crawl-space-vent-covers-winter/), [weatherstripping](/blog/best-weatherstripping-draft-stoppers/). This page is **duct sealing with mastic + listed foil tape** — not filter shopping, not a booster fan, and not permission to mash dampers shut.
 
-## Honest framing: seal the holes that steal conditioned air
+## Seal the holes that steal conditioned air
 
-Duct sealing is not “more insulation.” It is **keeping supply air in the duct** and **keeping attic/garage air out of the return** so your existing equipment delivers heat where people live.
+Duct sealing is not “more insulation.” It is keeping supply air in the duct and keeping attic/garage air out of the return so your existing equipment delivers heat where people live.
 
 **Sealing helps most when:**
 
-- You have **forced-air** ducts you can see in an unfinished basement, crawl, garage, or attic.
+- You have forced-air ducts you can see in an unfinished basement, crawl, garage, or attic.
 - Rooms far from the furnace stay cold while closer registers blast — or the system runs long with weak delivery ([booster fans](/blog/register-booster-fans-cold-rooms/) move air; sealed leaks help the air exist).
-- You can see **separated joints**, crushed flex ends, missing or peeling tape, or daylight at boots and plenums.
+- You can see separated joints, crushed flex ends, missing or peeling tape, or daylight at boots and plenums.
 - You’ve already handled basics on the [checklist](/blog/lower-electric-bill-priority-checklist/) (setpoints, clean [filter](/blog/hvac-air-filters-merv-efficiency/), obvious door drafts).
-- Leaks dump into **unconditioned** space (attic, vented crawl, attached garage) rather than only into conditioned rooms.
+- Leaks dump into unconditioned space (attic, vented crawl, attached garage) rather than only into conditioned rooms.
 
 **Sealing helps less (or the wrong thing) when:**
 
-- Ducts are already **mastic-sealed or Aerosealed** and dry.
-- Almost all leakage is **inside finished walls/ceilings** with no safe access.
+- Ducts are already mastic-sealed or Aerosealed and dry.
+- Almost all leakage is inside finished walls/ceilings with no safe access.
 - **Asbestos-suspect** wrap or crumbling old insulation is present — stop; hire a pro.
-- You would block **dryer vents**, bath/range exhaust, or **combustion make-up air**.
-- You treat cloth duct tape as a seal, or you **wedge dampers closed** and call that sealing.
+- You would block dryer vents, bath/range exhaust, or combustion make-up air.
+- You treat cloth duct tape as a seal, or you wedge dampers closed and call that sealing.
 - Bigger envelope leaks (attic hatch, rim joist, doors) still dominate runtime.
 
-**Honest framing:** Building-science and utility programs often flag duct leakage as high-leverage when ducts run through unconditioned space. Treat that as motivation to **inspect, measure, and seal safely** — not as a promised 20–30% bill cut for your address. Climate, rates, duct location, and remaining envelope leaks decide the outcome. We do **not** guarantee savings.
+**The reality:** Building-science and utility programs often flag duct leakage as high-leverage when ducts run through unconditioned space. Treat that as motivation to inspect, measure, and seal safely — not as a promised 20–30% bill cut for your address. Climate, rates, duct location, and remaining envelope leaks decide the outcome.
 
 ## Product types at a glance
 
 | Type | Best when | Limitations |
 | --- | --- | --- |
-| **Water-based duct mastic** (Hardcast Flex-Grip / Versa-Grip, RCD #9–class) | Accessible metal joints, boots, plenums, takeoffs; brushed over mesh on gaps | Needs clean, dry metal; cure time before burying; messy; not for dryer vents or combustion openings |
-| **UL 181A-P / UL 181B-FX foil or mastik tape** (Nashua 324A, Foil-Grip 1402, Venture 1580–class) | Clean seams, flex-to-collar connections, finishing layers per listing | Won’t bridge big gaps alone; cloth duck tape is **not** a substitute |
-| **Fiberglass mesh / scrim** (RCD Glasscoat–class adhesive mesh) | Gaps, holes, and irregular joints under a mastic coat | Drywall-only FibaTape is a last-resort stand-in — prefer duct-rated Glasscoat-class mesh |
-| **Pro aerosol (Aeroseal) / home-performance seal** | Extensive hidden leakage; measured duct-blaster goals | Cost; hire qualified crew; still pair with accessible mastic where you can see joints |
-| **Skip / already sealed** | Visible joints already mastic’d; no access; asbestos stop; budget better on envelope | Put money into [filters](/blog/hvac-air-filters-merv-efficiency/), [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), or [attic](/blog/attic-insulation-approaches-when-to-call-pro/) |
+| Water-based duct mastic (Hardcast Flex-Grip / Versa-Grip, RCD #9–class) | Accessible metal joints, boots, plenums, takeoffs; brushed over mesh on gaps | Needs clean, dry metal; cure time before burying; messy; not for dryer vents or combustion openings |
+| UL 181A-P / UL 181B-FX foil or mastik tape (Nashua 324A, Foil-Grip 1402, Venture 1580–class) | Clean seams, flex-to-collar connections, finishing layers per listing | Won’t bridge big gaps alone; cloth duck tape is not a substitute |
+| Fiberglass mesh / scrim (RCD Glasscoat–class adhesive mesh) | Gaps, holes, and irregular joints under a mastic coat | Drywall-only FibaTape is a last-resort stand-in — prefer duct-rated Glasscoat-class mesh |
+| Pro aerosol (Aeroseal) / home-performance seal | Extensive hidden leakage; measured duct-blaster goals | Cost; hire qualified crew; still pair with accessible mastic where you can see joints |
+| Skip / already sealed | Visible joints already mastic’d; no access; asbestos stop; budget better on envelope | Put money into [filters](/blog/hvac-air-filters-merv-efficiency/), [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), or [attic](/blog/attic-insulation-approaches-when-to-call-pro/) |
 
-**Rule of thumb:** accessible boot/plenum/joint → **mastic + mesh + listed foil**; already sealed / no access → **skip**; extensive hidden ducts → **pro Aeroseal / home-performance**; cloth tape → **never as the seal**.
+**Rule of thumb:** accessible boot/plenum/joint → mastic + mesh + listed foil; already sealed / no access → skip; extensive hidden ducts → pro Aeroseal / home-performance; cloth tape → never as the seal.
 
-## Measure-first leak walk: find leaks before you buy (~8 steps)
+## Check your home before you buy
 
-Ordering a gallon of gray paste before you know where air escapes is how you get sticky returns and a half-sealed trunk. Do this once **before** you buy:
+Ordering a gallon of gray paste before you know where air escapes is how you get sticky returns and a half-sealed trunk. Do this once before you buy:
 
 1. **Confirm forced-air access** — unfinished basement, crawl, garage, or attic where you can reach trunks, boots, and the air-handler cabinet with light, PPE, and safe footing. Finished ceilings with no duct access → DIY mastic path is usually closed; consider pro testing.
-2. **Power and safety first** — shut off power to the furnace/air handler at the switch or breaker before you lean on cabinets or pull panels. Note gas valve location. If wrappers look like old asbestos paper, crumbling gray/white cloth, or suspect tape on vintage ducts — **stop**; do not scrape or mastic; hire qualified help.
+2. **Power and safety first** — shut off power to the furnace/air handler at the switch or breaker before you lean on cabinets or pull panels. Note gas valve location. If wrappers look like old asbestos paper, crumbling gray/white cloth, or suspect tape on vintage ducts — stop; do not scrape or mastic; hire qualified help.
 3. **Walk every accessible trunk and boot (system off)** — look for separated transverse joints, longitudinal seams, takeoff collars, boot-to-duct connections, crushed or disconnected flex, missing screws, and daylight. Photograph each leak class.
 4. **Check the air handler / plenum** — cabinet seams, filter door gasket, supply and return plenum joints, and the first few feet of trunk often leak more than far branches. Do not block intentional combustion-air openings in the mechanical room.
 5. **Run the blower and smoke-test seams** — restore power briefly with a clean [filter](/blog/hvac-air-filters-merv-efficiency/) in place. With doors closed as usual, move incense, tissue, or a [smoke/fog pencil](https://www.amazon.com/dp/B07XL4VGQ3/?tag=homebillcuts-20) along joints. Smoke pulled in (return leaks) or blown out (supply leaks) marks work. Then power off again before sealing.
 6. **Prioritize by location** — supply leaks into attic / vented crawl / garage waste heat; large return leaks pull dirty, hot, or cold air and can worsen comfort and IAQ. Room-to-room leaks inside conditioned space matter less for the bill.
-7. **Measure gap size and joint length** — hairline seams vs ¼″+ gaps vs missing chunks. Gaps need **mesh under mastic**; clean seams may take listed foil/mastik tape plus a mastic skim. Estimate linear feet so one gallon and one mesh roll is enough — or plan a second trip.
+7. **Measure gap size and joint length** — hairline seams vs ¼″+ gaps vs missing chunks. Gaps need mesh under mastic; clean seams may take listed foil/mastik tape plus a mastic skim. Estimate linear feet so one gallon and one mesh roll is enough — or plan a second trip.
 8. **Decide DIY vs skip vs pro** — countable accessible leaks, clear metal, no asbestos → mastic + listed foil DIY. Already sealed or zero access → skip. Hidden runs / whole-system leakage goal / unsafe crawl → Aeroseal or home-performance pro. Never “seal” by closing dampers hard or taping dryer vents shut.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest comfort + bill leverage)
+### Do these first
 
 1. **Disconnected or crushed flex at boots** in attic or crawl — often the loudest failure mode.
 2. **Plenum and first-trunk joints** at the air handler — high pressure, high consequence.
@@ -80,61 +79,61 @@ Ordering a gallon of gray paste before you know where air escapes is how you get
 4. **Large return leaks** pulling attic or garage air (dusty filters, weird smells, weak rooms).
 5. Pair with a clean filter and open, balanced dampers — sealing does not excuse a clogged filter or a closed bedroom damper you forgot.
 
-### Lower priority / skip for now
+### These can wait
 
 - Cosmetic seams inside a fully conditioned basement you already live in, when attic trunks still roar.
 - Chasing every pin-hole while the attic hatch, rim joist, and exterior doors still whistle ([air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), [rim joist](/blog/rim-joist-band-joist-insulation-basement/)).
 - Buying Aeroseal marketing before a simple boot reconnect you can see with a headlamp.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
-- **Do not use cloth duct tape as a duct seal** — it fails; use water-based mastic and/or **UL 181–listed** foil/mastik tape.
+- **Do not use cloth duct tape as a duct seal** — it fails; use water-based mastic and/or UL 181–listed foil/mastik tape.
 - **Asbestos-suspect wrap or insulation** → stop; do not disturb; hire a pro.
 - **Do not seal dryer vents**, range hoods, bath fans, or other exhaust paths — different job ([dryer vent cleaning](/blog/dryer-vent-cleaning-kits-energy-fire-safety/)).
-- **Do not seal intentional combustion make-up air** or starve mechanical-room returns in a way that creates **CO** risk — keep detectors current; when unsure, hire HVAC.
+- **Do not seal intentional combustion make-up air** or starve mechanical-room returns in a way that creates CO risk — keep detectors current; when unsure, hire HVAC.
 - **Do not mash dampers closed** and call it sealing — balancing ≠ sealing.
 - **Do not work live** — power equipment off when sealing at cabinets and spinning blowers.
 - **Do not invent guaranteed % savings** — utilities and ads love round numbers; your house is not a lab.
 - **Do not bury wet mastic** under insulation before it skins/cures per the label.
 
-## Buyer decision tree (DIY mastic+foil vs skip vs pro)
+## Which one should you buy?
 
 Walk the tree in order:
 
 1. **Asbestos-suspect material, unsafe access, or active CO / combustion worry?**  
-   → **Stop / hire a qualified pro.** Do not DIY mastic over suspect wrap.
+   → Stop / hire a qualified pro. Do not DIY mastic over suspect wrap.
 
 2. **Ducts already fully mastic-sealed or recently Aerosealed and dry?**  
-   → **Skip.** Put budget into [filters](/blog/hvac-air-filters-merv-efficiency/), [envelope air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), or [attic](/blog/attic-insulation-approaches-when-to-call-pro/).
+   → Skip. Put budget into [filters](/blog/hvac-air-filters-merv-efficiency/), [envelope air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), or [attic](/blog/attic-insulation-approaches-when-to-call-pro/).
 
 3. **Can you see and reach boots, plenums, and trunk joints safely?**  
-   → **Yes** → DIY **water-based mastic** + **fiberglass mesh** on gaps + **UL 181 foil/mastik tape** on clean seams and flex collars.  
-   → **No** (finished ceilings, buried runs) → **pro duct sealing / Aeroseal / home-performance** if a test shows large leakage; otherwise skip DIY paste.
+   → Yes → DIY water-based mastic + fiberglass mesh on gaps + UL 181 foil/mastik tape on clean seams and flex collars.  
+   → No (finished ceilings, buried runs) → pro duct sealing / Aeroseal / home-performance if a test shows large leakage; otherwise skip DIY paste.
 
 4. **Is leakage mostly a few visible joints vs whole-house hidden ductwork?**  
-   → Few visible joints → **DIY weekend**.  
-   → Extensive hidden network + comfort still poor after visible seals → **pro**.
+   → Few visible joints → DIY weekend.  
+   → Extensive hidden network + comfort still poor after visible seals → pro.
 
 5. **Cold far room after sealing?**  
-   → Sealing helps delivery; a [register booster](/blog/register-booster-fans-cold-rooms/) only after filter + dampers + obvious duct leaks are handled — boosters **move** air, they don’t create heat.
+   → Sealing helps delivery; a [register booster](/blog/register-booster-fans-cold-rooms/) only after filter + dampers + obvious duct leaks are handled — boosters move air, they don’t create heat.
 
 6. **Still unsure after the smoke walk?**  
    → Seal the worst accessible supply leaks into unconditioned space first (one gallon + mesh + foil), live a cold week, then decide on pro testing.
 
-## Size / material notes (verify before checkout)
+## Sizes and specs
 
 | Need | What to buy | Notes |
 | --- | --- | --- |
-| **Mastic** | 1 gal water-based duct sealant (Flex-Grip 550 gray or Versa-Grip 102 white) | Brushable; indoor/outdoor ratings vary by product — read the pail. Home-center mastic is fine when Amazon stock is thin. |
-| **Foil / mastik tape** | UL 181A-P and/or UL 181B-FX listed (Nashua 324A 2.5″×60 yd class) | Printed listing marks help inspectors. Not cloth duck tape. |
-| **Mesh** | Adhesive fiberglass scrim ~3″ (RCD Glasscoat–class) | Bridge gaps under mastic. Drywall FibaTape is a last-resort stand-in only — say so if you use it. |
-| **Brush** | Cheap disposable chip brushes | Mastic ruins nice brushes; buy a pack. |
-| **Leak finding** | Incense, tissue, or smoke/fog pencil + LED headlamp | Headlamp frees both hands in crawls. |
-| **PPE** | Disposable gloves, eye protection | Water-based still stains clothes and skin. |
+| Mastic | 1 gal water-based duct sealant (Flex-Grip 550 gray or Versa-Grip 102 white) | Brushable; indoor/outdoor ratings vary by product — read the pail. Home-center mastic is fine when Amazon stock is thin. |
+| Foil / mastik tape | UL 181A-P and/or UL 181B-FX listed (Nashua 324A 2.5″×60 yd class) | Printed listing marks help inspectors. Not cloth duck tape. |
+| Mesh | Adhesive fiberglass scrim ~3″ (RCD Glasscoat–class) | Bridge gaps under mastic. Drywall FibaTape is a last-resort stand-in only — say so if you use it. |
+| Brush | Cheap disposable chip brushes | Mastic ruins nice brushes; buy a pack. |
+| Leak finding | Incense, tissue, or smoke/fog pencil + LED headlamp | Headlamp frees both hands in crawls. |
+| PPE | Disposable gloves, eye protection | Water-based still stains clothes and skin. |
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions, leak-free ducts, or CO safety. Confirm UL listings, access, asbestos risk, and combustion-air limits before you buy. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best primary mastic: Hardcast Flex-Grip 550 (1 gal gray)
 
@@ -150,7 +149,7 @@ Walk the tree in order:
 
 ### 3) Best UL 181 foil tape: Nashua 324A (2.5″ × 60 yd)
 
-**Why it makes the list:** Nashua 324A is the classic **UL 181A-P / UL 181B-FX** printed foil tape for rigid and flex duct sealing per listing. Use on clean, dry seams and flex collars — not as a bridge over big holes (use mastic + mesh there).
+**Why it makes the list:** Nashua 324A is the classic UL 181A-P / UL 181B-FX printed foil tape for rigid and flex duct sealing per listing. Use on clean, dry seams and flex collars — not as a bridge over big holes (use mastic + mesh there).
 
 - Nashua 324A cold-weather premium foil tape, 2.5″ × 60 yd (UL 181A-P & B-FX): [View on Amazon](https://www.amazon.com/dp/B0149I0QJ8/?tag=homebillcuts-20)
 
@@ -179,20 +178,20 @@ Walk the tree in order:
 - Pro Grade 2″ chip brushes, 96-pack: [View on Amazon](https://www.amazon.com/dp/B07KVMHRGL/?tag=homebillcuts-20)
 - Energizer Hard Case LED headlamp: [View on Amazon](https://www.amazon.com/dp/B07XVXSCL5/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **Cloth duct tape** — the anti-pattern; it is not a UL 181 duct seal.
 - **RCD #7 (B00BPPXLHI)** — legitimate mastic family, but the gallon listing was unavailable at publish time; Flex-Grip / Versa-Grip cover the DIY pail need.
 - **Sparse or unverified foil SKUs** — we kept Nashua 324A and Foil-Grip 1402 as primary verified foil/mastik options.
 - **Invented ASINs** or “guaranteed 20–30% savings” claims.
 
-## Install / troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
 | Tape peels in a week | Cloth duck tape, dirty/oily metal, or cold damp surface | Remove failed cloth tape; clean metal; use mastic and/or UL 181 foil on dry substrate |
 | Mastic cracks over a gap | Bridged a hole with paste alone | Embed Glasscoat-class mesh, then overcoat mastic to recommended thickness |
-| Flex still leaks at collar | Hose clamp loose; tape only on insulation jacket | Seal the **inner liner** to the metal collar per flex instructions; clamp; mastic/mesh as needed; listed foil finish |
+| Flex still leaks at collar | Hose clamp loose; tape only on insulation jacket | Seal the inner liner to the metal collar per flex instructions; clamp; mastic/mesh as needed; listed foil finish |
 | Room still cold after sealing | Damper closed; dirty filter; envelope leak; duct too small | Open dampers; change [filter](/blog/hvac-air-filters-merv-efficiency/); seal room drafts; consider [booster](/blog/register-booster-fans-cold-rooms/) only after airflow basics |
 | Dusty returns / attic smell | Return leak pulling attic/garage air | Seal return joints and filter-door gasket; don’t leave filter slot open |
 | Equipment short-cycles or CO alarm | Blocked combustion air / return path changes | Undo sealed make-up openings; hire HVAC; treat alarms as urgent |
@@ -200,25 +199,25 @@ Walk the tree in order:
 
 **Basic install rhythm:** power off → clean metal → mesh over gaps → brush mastic (≈20-mil wet film class per many labels) → listed foil on seams/flex as allowed → cure → restore power → re-smoke-test.
 
-## Honest limits (what duct mastic will not fix)
+## What this won't fix
 
-- A **wrong-size or dirty filter**, failed blower, or mischarged AC.
+- A wrong-size or dirty filter, failed blower, or mischarged AC.
 - **Envelope leaks** at doors, attic hatches, rim joists, and can lights ([air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/), [rim joist](/blog/rim-joist-band-joist-insulation-basement/)).
 - **Undersized ducts** or closed dampers masquerading as “leaks.”
 - **Asbestos**, structural rot, or mold in the crawl — remediation first.
 - **Guaranteed bill percentages** from any Amazon gallon.
-- Comfort in a room that needs **zone heat** strategy ([oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/)) while the house sets back — sealing helps delivery; it doesn’t invent BTUs.
+- Comfort in a room that needs zone heat strategy ([oil-filled heaters](/blog/oil-filled-space-heaters-zone-heating/)) while the house sets back — sealing helps delivery; it doesn’t invent BTUs.
 
-## Post-setup checklist + habits
+## After you set it up
 
 1. Label the air-handler disconnect and keep a photo of sealed joints in your bill folder.
 2. Re-check the worst former leaks with smoke after the first cold week.
 3. Change filters on a real schedule ([filter guide](/blog/hvac-air-filters-merv-efficiency/)).
-4. Keep dryer vents clean and **unsealed** as intentional exhaust ([dryer vent kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/)).
+4. Keep dryer vents clean and unsealed as intentional exhaust ([dryer vent kits](/blog/dryer-vent-cleaning-kits-energy-fire-safety/)).
 5. Test CO detectors; never ignore new odors or soot after sealing near combustion appliances.
-6. Compare **same-season** kWh if you can — not one mild week vs a polar vortex.
+6. Compare same-season kWh if you can — not one mild week vs a polar vortex.
 
-### Habits that multiply (or replace) a mastic purchase
+### Habits that help
 
 - Setpoints and schedules on the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
 - Door and sash sealing with [weatherstripping](/blog/best-weatherstripping-draft-stoppers/).
@@ -229,7 +228,7 @@ Walk the tree in order:
 
 ### Will sealing HVAC ducts lower my heating bill?
 
-It can help when supply or return ducts leak conditioned air into attics, crawlspaces, garages, or wall cavities instead of rooms — the furnace runs longer to deliver the same comfort. We do not guarantee a dollar or percentage cut. Impact scales with how leaky and where the ducts are, climate, rates, whether the ducts sit in unconditioned space, filter and equipment condition, and whether bigger envelope leaks still dominate.
+It can help when supply or return ducts leak conditioned air into attics, crawlspaces, garages, or wall cavities instead of rooms — the furnace runs longer to deliver the same comfort. Impact scales with how leaky and where the ducts are, climate, rates, whether the ducts sit in unconditioned space, filter and equipment condition, and whether bigger envelope leaks still dominate.
 
 ### Mastic vs UL 181 foil tape vs cloth duct tape — which should I use?
 
@@ -270,4 +269,4 @@ A one-gallon tub of water-based mastic plus a roll of UL 181 foil tape and a rol
 
 ## Bottom line
 
-For US homes with **accessible forced-air ducts** leaking into attics, crawls, or garages, the bill-first DIY path is **measure and smoke-test → power off → mesh gaps → brush water-based mastic → finish with UL 181 foil/mastik tape** — never cloth duck tape, never over asbestos-suspect wrap, never sealing dryer vents or combustion air. Hire **Aeroseal / home-performance** when leakage is extensive and hidden. Stack with [filters](/blog/hvac-air-filters-merv-efficiency/), [envelope air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic](/blog/attic-insulation-approaches-when-to-call-pro/) work when those still dominate runtime. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+For US homes with accessible forced-air ducts leaking into attics, crawls, or garages, the practical DIY path is measure and smoke-test → power off → mesh gaps → brush water-based mastic → finish with UL 181 foil/mastik tape — never cloth duck tape, never over asbestos-suspect wrap, never sealing dryer vents or combustion air. Hire Aeroseal / home-performance when leakage is extensive and hidden. Stack with [filters](/blog/hvac-air-filters-merv-efficiency/), [envelope air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/), and [attic](/blog/attic-insulation-approaches-when-to-call-pro/) work when those still dominate runtime. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

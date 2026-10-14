@@ -1,6 +1,6 @@
 ---
 title: "Slow Cooker vs. Instant Pot vs. Oven: What Does a Pot Roast or Chili Really Cost to Cook?"
-description: "Bill-first US guide to fall comfort-food cooking costs: example kWh and dollar math for a slow cooker on low and high, an electric pressure cooker, an electric oven braise, and a gas stovetop simmer, how to measure your own with a plug-in meter, the habits that matter more than the appliance, food-safety rules, honest payback, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to fall comfort-food cooking costs: example kWh and dollar math for a slow cooker on low and high, an electric pressure cooker, an electric oven braise, and a gas stovetop simmer, how to measure your own with a plug-in meter, the habits that matter more than the appliance, food-safety rules, honest payback, and verified Amazon shortlists."
 pubDate: 2026-10-09
 updatedDate: 2026-10-09
 faqs:
@@ -18,9 +18,8 @@ faqs:
     answer: "Rarely on energy alone. If you braise in the oven once a week, switching to a slow cooker or pressure cooker might save on the order of 20–50 cents per meal, or roughly $10–25 a year — a $60–100 appliance takes years to pay back on electricity alone. The real value is convenience, a cooler kitchen, and not running a big oven for one pot. Buy one because you will use it often, not because of the bill."
 ---
 
-October is chili, stew, and pot-roast season — and it's when people start asking whether the slow cooker, the Instant Pot, or the oven is the cheap way to cook a big pot of food. This guide is **bill-first**: start with your rate, measure one real cook, fix the free habits, and only then decide whether an appliance earns counter space. The honest answer up front: **the appliance gap is cents per meal**, and an oven used once for a single pot is the most wasteful common choice. No guaranteed savings.
+October is chili, stew, and pot-roast season — and it's when people start asking whether the slow cooker, the Instant Pot, or the oven is the cheap way to cook a big pot of food. In this guide: start with your rate, measure one real cook, fix the free habits, and only then decide whether an appliance earns counter space. The honest answer up front: the appliance gap is cents per meal, and an oven used once for a single pot is the most wasteful common choice.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Related: [air fryer & toaster oven vs full oven](/blog/air-fryer-toaster-oven-vs-oven-energy-cost/), [electric kettle vs stove vs microwave](/blog/electric-kettle-vs-stove-microwave-cost-to-boil-water/), [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/) (to measure your cooker), [Emporia Vue vs Sense](/blog/emporia-vue-vs-sense/) (to see a 240 V oven on its circuit), and the much bigger levers on your bill like [space heating](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/) and your [water heater](/blog/electric-water-heater-timers-cut-standby/).
 
 ## Why the appliances differ
 
@@ -43,11 +42,11 @@ These are rough, commonly observed ranges for a 4–6 quart batch. Your applianc
 | Electric oven braise at 300–325°F | ~3 h + preheat | ~2–4 | ~34–68¢ |
 | Gas stovetop, lidded Dutch oven on low | ~2–3 h | ~0.02–0.05 therm | ~3–8¢ at $1.50/therm |
 
-Read the table honestly: switching one weekly oven braise to a slow cooker or pressure cooker is roughly **$10–25 a year**. Real, but small. If you run the oven anyway (baking bread, roasting vegetables), adding the stew pot to the same session costs very little extra — **batching beats appliance shopping**.
+Read the table honestly: switching one weekly oven braise to a slow cooker or pressure cooker is roughly $10–25 a year. Real, but small. If you run the oven anyway (baking bread, roasting vegetables), adding the stew pot to the same session costs very little extra — batching beats appliance shopping.
 
 Gas looks cheap here because a low simmer needs little heat and gas often costs less per unit of heat. Use your own price per therm, and run the range hood — burners release combustion byproducts into the room.
 
-## Measure first (~5 steps)
+## Check your home before you buy
 
 1. **Find your all-in rate.** Bill total for electricity ÷ kWh used (energy + delivery). Do the same per therm if you have gas.
 2. **Meter one slow-cooker or pressure-cooker cook.** Plug it into a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/), reset it, cook your usual recipe, and read total kWh at the end (include any warm time you normally use).
@@ -79,7 +78,7 @@ Gas looks cheap here because a low simmer needs little heat and gas often costs 
 - **You cook for one or two:** a 3-quart mini pressure cooker uses less counter space and heats less mass.
 - **You already own a Dutch oven and gas or induction:** you probably don't need anything new.
 
-## Verified Amazon shortlist
+## Our picks
 
 Prices and availability change; check current listings. We picked long-running, widely reviewed models — not the cheapest or the fanciest.
 
@@ -97,14 +96,14 @@ Prices and availability change; check current listings. We picked long-running, 
 
 - P3 Kill A Watt P4400 plug-in electricity usage monitor: [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 
-## Safety do-nots
+## Safety rules
 
 - **Don't run a slow cooker or pressure cooker on an extension cord or power strip.** Plug directly into a wall outlet.
 - **Keep cords and the appliance away from counter edges** and off the stovetop.
 - **Don't leave a gas burner unattended**, and use the hood.
 - **Don't put a cold stoneware crock onto a hot base or into a hot oven**; sudden temperature changes can crack it.
 
-## Honest limits
+## What this won't fix
 
 - **Cooking is a small slice of most bills.** Space heating, cooling, and water heating are usually far larger. See the [priority checklist](/blog/lower-electric-bill-priority-checklist/).
 - **Ranges above are rough.** Wattage, recipe size, and how much the element cycles move them a lot. Your meter reading wins.
@@ -121,4 +120,4 @@ Prices and availability change; check current listings. We picked long-running, 
 
 ## Bottom line
 
-A pressure cooker usually uses the least electricity per pot, a slow cooker is close behind, and a single-pot oven braise costs the most — but the gap is **cents per meal**. **Measure one cook → batch the oven → lid on, no peeking → skip long warm holds → buy a cooker only if you'll use it often.** Then put real effort into the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings.
+A pressure cooker usually uses the least electricity per pot, a slow cooker is close behind, and a single-pot oven braise costs the most — but the gap is cents per meal. Measure one cook → batch the oven → lid on, no peeking → skip long warm holds → buy a cooker only if you'll use it often. Then put real effort into the bigger moves on [Start Here](/start-here/). Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)).

@@ -1,6 +1,6 @@
 ---
 title: "Thermal Camera vs. Infrared Thermometer: Find Your Home's Drafts Before You Buy Fixes"
-description: "Bill-first US guide to a DIY draft and heat-loss hunt — when a $20 infrared thermometer is enough, when a phone thermal camera earns its price, the 20°F temperature-difference rule, the exhaust-fan depressurization trick (and the combustion-appliance safety step), emissivity and shiny-surface traps, reading cold streaks vs missing insulation vs moisture, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to a DIY draft and heat-loss hunt — when a $20 infrared thermometer is enough, when a phone thermal camera earns its price, the 20°F temperature-difference rule, the exhaust-fan depressurization trick (and the combustion-appliance safety step), emissivity and shiny-surface traps, reading cold streaks vs missing insulation vs moisture, and verified Amazon shortlists."
 pubDate: 2026-10-06
 updatedDate: 2026-10-06
 faqs:
@@ -18,21 +18,20 @@ faqs:
     answer: "No. A professional assessment typically pairs a calibrated blower door, which measures how leaky the whole house is, with an infrared scan and combustion-safety tests, and gives you a prioritized report. The DOE puts typical professional assessments around $250–$600 or more, and many utilities offer discounted or rebated audits. A DIY scan is a good first pass for obvious leaks and a way to check your own work, but it can't measure total air leakage or test gas appliances for backdrafting."
 ---
 
-You can feel the draft at the front door. What you can't feel is the cold air sliding in behind the baseboard, the empty stud bay that never got insulation, or the attic hatch quietly dumping heat all night. A **DIY draft hunt** finds those before you spend money on fixes, so the caulk, foam, and weatherstripping go where they actually matter. This guide is **bill-first**: start with the cheapest tool that answers your question (often an incense stick and a $20 infrared thermometer), upgrade to a thermal camera only if you need to see whole walls and ceilings, and remember the tool saves nothing on its own — the sealing afterward does. No guaranteed savings.
+You can feel the draft at the front door. What you can't feel is the cold air sliding in behind the baseboard, the empty stud bay that never got insulation, or the attic hatch quietly dumping heat all night. A DIY draft hunt finds those before you spend money on fixes, so the caulk, foam, and weatherstripping go where they actually matter. In this guide: start with the cheapest tool that answers your question (often an incense stick and a $20 infrared thermometer), upgrade to a thermal camera only if you need to see whole walls and ceilings, and remember the tool saves nothing on its own — the sealing afterward does.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). This page is the **finding** step; the fixing guides are its siblings: [air sealing with caulk, foam, and outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/), [weatherstripping and door draft stoppers](/blog/best-weatherstripping-draft-stoppers/), [attic stair and hatch covers](/blog/attic-stair-hatch-insulation-covers/), [recessed light covers](/blog/recessed-light-covers-attic-air-sealing/), [rim joist insulation](/blog/rim-joist-band-joist-insulation-basement/), [DIY duct sealing](/blog/duct-sealing-mastic-foil-tape-hvac/), and [attic insulation](/blog/attic-insulation-approaches-when-to-call-pro/). Measuring **electricity** use by appliance is a different tool — see [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/).
 
-## Honest framing: the tool finds problems; the fixes save money
+## The tool finds problems; the fixes save money
 
 A thermal camera is one of the most satisfying gadgets you can point at a house. That's exactly why it's easy to overbuy. Three honest points before you shop:
 
-**1. The savings are in the sealing, not the scanning.** The U.S. Department of Energy says caulking, sealing, and weatherstripping uncontrolled air leaks can save **10%–20%** on heating and cooling bills ([DOE Energy Saver Guide](https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf)). That's a broad range for typical leaky homes, not a promise for yours. A camera that leads you to seal the right ten spots is worth more than one that sits in a drawer.
+**1. The savings are in the sealing, not the scanning.** The U.S. Department of Energy says caulking, sealing, and weatherstripping uncontrolled air leaks can save 10%–20% on heating and cooling bills ([DOE Energy Saver Guide](https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf)). That's a broad range for typical leaky homes, not a promise for yours. A camera that leads you to seal the right ten spots is worth more than one that sits in a drawer.
 
 **2. Free methods find a lot.** DOE's own DIY checklist uses incense or a smoke candle, a flashlight at night with a partner outside, and the paper-in-the-door test ([DOE Consumer Guide to Home Energy Assessments](https://www.energy.gov/sites/default/files/2021-08/ES-Home%20Energy%20Assessments_080221.pdf)). If you have obvious drafts you can already feel, you may not need any gadget.
 
-**3. A DIY scan isn't a professional audit.** Pros pair a calibrated **blower door** (which measures how leaky the whole house is) with an infrared scan and combustion-safety tests. DOE puts typical professional assessments at roughly **$250–$600 or more**, and many contractors discount them if you hire them for the work. Check your utility first — many run discounted or rebated audit programs, and some public libraries and utility programs lend thermal cameras or energy kits.
+**3. A DIY scan isn't a professional audit.** Pros pair a calibrated blower door (which measures how leaky the whole house is) with an infrared scan and combustion-safety tests. DOE puts typical professional assessments at roughly $250–$600 or more, and many contractors discount them if you hire them for the work. Check your utility first — many run discounted or rebated audit programs, and some public libraries and utility programs lend thermal cameras or energy kits.
 
-So the decision isn't "which camera is best." It's: **what do you need to see, and what's the cheapest tool that shows it?**
+So the decision isn't "which camera is best." It's: what do you need to see, and what's the cheapest tool that shows it?
 
 ## Which tool answers which question
 
@@ -45,28 +44,28 @@ So the decision isn't "which camera is best." It's: **what do you need to see, a
 | Which supply duct in the ceiling is leaking or uninsulated? | Thermal camera | Pro duct leakage test |
 | Did my sealing work actually fix it? | Same tool, same conditions, before and after | — |
 | How leaky is the house overall? | Nothing DIY measures this | Pro blower door test |
-| Is a breaker, outlet, or plug running hot? | IR thermometer or camera **to notice only** | Licensed electrician |
+| Is a breaker, outlet, or plug running hot? | IR thermometer or camera to notice only | Licensed electrician |
 
 ## Infrared thermometer vs. thermal camera vs. "leak detector": how they work
 
-All three read **infrared energy** coming off a surface and turn it into a temperature. The difference is how much they show you at once.
+All three read infrared energy coming off a surface and turn it into a temperature. The difference is how much they show you at once.
 
-- **Infrared spot thermometer ("temperature gun").** Reads the average temperature of one circle. The size of that circle depends on the **distance-to-spot (D:S) ratio**: at 12:1, standing 12 inches away measures roughly a 1-inch circle; from 6 feet it's about a 6-inch circle. The laser marks the center, not the edge. Great for sweeping along a baseboard and watching for a sudden drop; slow for scanning a whole wall.
+- **Infrared spot thermometer ("temperature gun").** Reads the average temperature of one circle. The size of that circle depends on the distance-to-spot (D:S) ratio: at 12:1, standing 12 inches away measures roughly a 1-inch circle; from 6 feet it's about a 6-inch circle. The laser marks the center, not the edge. Great for sweeping along a baseboard and watching for a sudden drop; slow for scanning a whole wall.
 - **Color-light "thermal leak detector."** Basically a spot thermometer with an LED that turns blue or red when the reading moves away from a reference you set on a normal wall. Easier for beginners to read at a glance; same one-spot limitation.
 - **Thermal camera.** Shows thousands of spot readings at once as a color image, so patterns pop out: a dark rectangle where insulation is missing, a cold fan spreading out from an outlet, a warm stripe along a duct. Phone-attachment cameras plug into a USB-C (or older Lightning/Android) port and use an app; handheld units have their own screen.
 
-**Resolution, honestly.** Thermal camera listings often quote an upscaled "super resolution." The number that matters most is the **native sensor resolution** (for example, 80×60 or 256×192). Higher native resolution means you can stand farther back and still see a single stud bay or outlet clearly. For home envelope work, 256×192 native is comfortably enough; 80×60 native works but you'll need to stand closer and look harder.
+**Resolution, honestly.** Thermal camera listings often quote an upscaled "super resolution." The number that matters most is the native sensor resolution (for example, 80×60 or 256×192). Higher native resolution means you can stand farther back and still see a single stud bay or outlet clearly. For home envelope work, 256×192 native is comfortably enough; 80×60 native works but you'll need to stand closer and look harder.
 
-## Measure first: run a fair before-and-after (~8 steps)
+## Check your home before you buy
 
 The point of a scan is a list of fixes ranked by how bad they look — and a second scan later to prove the fixes worked. Make both scans comparable.
 
-1. **Pick the weather.** Aim for at least a **20°F difference** between inside and outside — a cold night or early morning in heating season. The industry's thermography standard for insulation inspections calls for a minimum 20°F difference across the building envelope ([RESNET infrared standard presentation](https://www1.resnet.us/conference/2008/presentations/Parker-Infrared_Scanning_Tech.pdf)); smaller differences make everything look similar. In hot climates, scan on a hot afternoon with the AC running and look for **warm** streaks instead.
+1. **Pick the weather.** Aim for at least a 20°F difference between inside and outside — a cold night or early morning in heating season. The industry's thermography standard for insulation inspections calls for a minimum 20°F difference across the building envelope ([RESNET infrared standard presentation](https://www1.resnet.us/conference/2008/presentations/Parker-Infrared_Scanning_Tech.pdf)); smaller differences make everything look similar. In hot climates, scan on a hot afternoon with the AC running and look for warm streaks instead.
 2. **Kill the sun.** Wait until walls haven't had direct sun for several hours (night is ideal). Sun-warmed siding or a window's afternoon heat will hide what you're looking for.
 3. **Scan from inside.** Interior scans are generally more reliable, because warm air doesn't always exit a wall where it entered and wind cools exterior surfaces unevenly.
 4. **Clear the walls.** Pull furniture a couple of feet off exterior walls, open curtains and blinds, and let surfaces settle for 15–30 minutes.
 5. **Write a baseline.** Note indoor and outdoor temperature, thermostat setting, wind, and time. Take a reading on a normal interior wall far from windows — that's your "normal" reference.
-6. **Depressurize (optional but powerful).** Close all exterior windows and doors and the fireplace damper. **Turn off combustion appliances first** — gas or oil furnace, gas water heater, and anything with a flame — then turn on every exhaust fan that blows outside (bath fans, range hood). This is the simple version DOE describes; it pulls outdoor air in through the gaps so cold streaks and smoke movement are much easier to see. **Never** do this with a fireplace, wood stove, or pellet stove burning, and turn the appliances back on when you finish.
+6. **Depressurize (optional but powerful).** Close all exterior windows and doors and the fireplace damper. Turn off combustion appliances first — gas or oil furnace, gas water heater, and anything with a flame — then turn on every exhaust fan that blows outside (bath fans, range hood). This is the simple version DOE describes; it pulls outdoor air in through the gaps so cold streaks and smoke movement are much easier to see. Never do this with a fireplace, wood stove, or pellet stove burning, and turn the appliances back on when you finish.
 7. **Walk the usual suspects.** Use the list in the next section. Take a photo (or write the reading) at every spot that's noticeably colder than your reference, and mark it with a sticky note.
 8. **Re-scan after fixing.** Same time of night, similar outdoor temperature, same thermostat setting. The goal isn't a perfect color image; it's that the cold streaks shrink or disappear.
 
@@ -97,16 +96,16 @@ A thermal image shows surface temperature, not "air leak" or "insulation." You h
 | Feathery or fan-shaped cold streaks from an outlet, trim edge, or corner | Air leak | Gets stronger when depressurized; incense smoke moves there |
 | Sharp-edged cold rectangle filling a whole stud bay | Missing or slumped insulation | Doesn't change much with exhaust fans on |
 | Regular thin vertical lines every 16 or 24 inches | Studs (wood conducts heat more than insulation) | Normal; matches stud spacing |
-| Cold patch on a ceiling below a bathroom or near the roof, **with stains or soft drywall** | Possible moisture — wet surfaces read cool too | Check with a moisture meter or call a pro; fix the water first |
+| Cold patch on a ceiling below a bathroom or near the roof, with stains or soft drywall | Possible moisture — wet surfaces read cool too | Check with a moisture meter or call a pro; fix the water first |
 | Cold ring around a can light | Air bypass into the attic | Feel for airflow; smoke test |
 | Warm stripe across a ceiling in winter | Supply duct (normal) or a leaky duct | Brighter blotches at joints suggest leaks |
 | Uniformly colder window glass | Normal — glass is a weak insulator, and IR tools can't read through glass reliably | Compare frames and edges, not glass |
 
 **Rule of thumb:** if the cold spot grows or sharpens when you turn on the exhaust fans, it's mostly air leakage — which is usually the cheapest thing to fix.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest bill leverage)
+### Do these first
 
 - **Electric resistance, propane, or oil heat** — every leak you seal saves more per degree than with gas or a heat pump in mild weather.
 - **Top-floor ceilings and the attic hatch** — warm air rises and leaks out up there, and that stack effect pulls cold air in through low leaks to replace it.
@@ -114,95 +113,95 @@ A thermal image shows surface temperature, not "air leak" or "insulation." You h
 - **Before an insulation or window job** — a scan shows whether walls or the attic is the bigger problem and gives you pictures to share with contractors.
 - **After a DIY sealing weekend** — confirm the work instead of guessing.
 
-### Lower priority / skip for now
+### These can wait
 
 - **Brand-new or recently air-sealed homes** — less to find.
 - **Leaks you can already feel** — just seal them; you don't need a camera to confirm a whistling door.
 - **Mild-climate homes with small heating and cooling bills** — the tool may cost more than the fixes save.
 - **Buying a $300+ handheld for a one-time check** — look for a library or utility loaner, a pro audit, or a cheaper phone attachment first.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
 - **Don't depressurize with combustion appliances running.** Running exhaust fans in a tight house can pull flue gases back down a gas water heater or furnace vent (backdrafting). Turn them off first, as DOE instructs, and never do it with a fire burning. Keep working CO alarms on every level.
 - **Don't open the electrical panel or outlet boxes to chase a hot spot.** If a breaker, outlet, switch, or plug reads noticeably hot, stop using that circuit and call a licensed electrician.
 - **Don't trust readings on shiny surfaces.** Bare metal, foil tape, aluminum frames, and mirrors reflect other temperatures. Put a piece of masking tape on the spot and read the tape.
 - **Don't aim at people or pets for "fever" readings.** These are non-medical tools.
-- **Don't disturb suspected asbestos** (old pipe wrap, vermiculite attic fill, some old duct wrap) or seal over **combustion air vents, weep holes, or required ventilation** you find during the walk.
+- **Don't disturb suspected asbestos** (old pipe wrap, vermiculite attic fill, some old duct wrap) or seal over combustion air vents, weep holes, or required ventilation you find during the walk.
 - **Don't point the laser at eyes** — including in reflections off windows.
 - **Don't cut open walls** based on a single image. Confirm with smoke, a second scan, or a pro.
 
-## Buyer decision tree (incense vs. IR thermometer vs. leak detector vs. thermal camera vs. pro)
+## Which one should you buy?
 
 1. **Do you already know where the drafts are?** → Skip the gadget. Buy sealing supplies.
-2. **Just want to confirm air movement at specific spots?** → Incense stick (free) or a **smoke pen** — with depressurization if you can do it safely.
-3. **Want numbers along baseboards, outlets, and trim on a tight budget?** → **Infrared spot thermometer** ($20–$30). Pick one with a laser and a decent D:S ratio (10:1 or 12:1).
-4. **Want "red or blue" at a glance with less interpretation?** → **Color-light thermal leak detector.** Same physics as a thermometer, friendlier display.
-5. **Want to see whole walls and ceilings — missing insulation, ceiling bypasses, duct runs — or show a contractor?** → **Phone thermal camera.** Match it to your phone's port (USB-C iPhone 15 and newer, older Lightning iPhone, or Android with OTG support) and check app compatibility before buying.
-6. **Don't want to tie up your phone, or will you use it often (attic, crawl space, electrical, HVAC)?** → **Handheld thermal camera** with its own screen.
-7. **Want total house leakage, a prioritized list, and combustion-safety tests?** → **Professional energy assessment** with a calibrated blower door. Check utility rebates first.
+2. **Just want to confirm air movement at specific spots?** → Incense stick (free) or a smoke pen — with depressurization if you can do it safely.
+3. **Want numbers along baseboards, outlets, and trim on a tight budget?** → Infrared spot thermometer ($20–$30). Pick one with a laser and a decent D:S ratio (10:1 or 12:1).
+4. **Want "red or blue" at a glance with less interpretation?** → Color-light thermal leak detector. Same physics as a thermometer, friendlier display.
+5. **Want to see whole walls and ceilings — missing insulation, ceiling bypasses, duct runs — or show a contractor?** → Phone thermal camera. Match it to your phone's port (USB-C iPhone 15 and newer, older Lightning iPhone, or Android with OTG support) and check app compatibility before buying.
+6. **Don't want to tie up your phone, or will you use it often (attic, crawl space, electrical, HVAC)?** → Handheld thermal camera with its own screen.
+7. **Want total house leakage, a prioritized list, and combustion-safety tests?** → Professional energy assessment with a calibrated blower door. Check utility rebates first.
 
-## Spec notes (verify before checkout)
+## Sizes and specs
 
 | Spec | What it means | What to look for |
 | --- | --- | --- |
-| **Distance-to-spot (D:S)** (thermometers) | Spot size vs distance | 10:1 or 12:1 is fine for rooms; stand within a few feet |
-| **Emissivity** | How the tool assumes a surface emits heat | Fixed 0.95 is fine for drywall/wood; adjustable helps on odd surfaces |
-| **Native IR resolution** (cameras) | Real sensor pixels | Use this, not the upscaled number; 256×192 is comfortable for home use |
-| **Thermal sensitivity (NETD, mK)** | Smallest difference it can show | Lower is better; ~40–70 mK is typical in this price range |
-| **Phone connector + app** | Phone attachments only | Exact port match and current app support for your phone's OS |
-| **Accuracy** | Absolute temperature error | Usually ±2–3°C (about ±4–5°F); fine for comparing spots, not lab work |
-| **Image blending** | Overlays the visible photo on the thermal image | Helps you see *where* a cold spot is |
-| **Return window** | Phone attachments can have compatibility hiccups | Test with your phone the day it arrives |
+| Distance-to-spot (D:S) (thermometers) | Spot size vs distance | 10:1 or 12:1 is fine for rooms; stand within a few feet |
+| Emissivity | How the tool assumes a surface emits heat | Fixed 0.95 is fine for drywall/wood; adjustable helps on odd surfaces |
+| Native IR resolution (cameras) | Real sensor pixels | Use this, not the upscaled number; 256×192 is comfortable for home use |
+| Thermal sensitivity (NETD, mK) | Smallest difference it can show | Lower is better; ~40–70 mK is typical in this price range |
+| Phone connector + app | Phone attachments only | Exact port match and current app support for your phone's OS |
+| Accuracy | Absolute temperature error | Usually ±2–3°C (about ±4–5°F); fine for comparing spots, not lab work |
+| Image blending | Overlays the visible photo on the thermal image | Helps you see *where* a cold spot is |
+| Return window | Phone attachments can have compatibility hiccups | Test with your phone the day it arrives |
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions or comfort results. Confirm phone compatibility, specs, and the return window before you buy. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Best budget pick: Etekcity Lasergrip 1080 infrared thermometer
 
-**Why it makes the list:** A long-running, widely reviewed spot thermometer with a 12:1 distance-to-spot ratio and **adjustable emissivity (0.1–1.0)**, so you can correct for surfaces that aren't painted drywall. For a baseboard-and-outlet sweep it does most of what a beginner needs. Remember the laser marks the center of the spot, not its size.
+**Why it makes the list:** A long-running, widely reviewed spot thermometer with a 12:1 distance-to-spot ratio and adjustable emissivity (0.1–1.0), so you can correct for surfaces that aren't painted drywall. For a baseboard-and-outlet sweep it does most of what a beginner needs. Remember the laser marks the center of the spot, not its size.
 
 - Etekcity Lasergrip 1080 Infrared Thermometer (-58°F to 1130°F): [View on Amazon](https://www.amazon.com/dp/B00DMI632G/?tag=homebillcuts-20)
 
 ### 2) Simple, sturdy pick: Klein Tools IR1 infrared thermometer
 
-**Why it makes the list:** A no-fuss trade-tool thermometer with a 10:1 ratio, targeting laser, auto-hold, and **fixed 0.95 emissivity** — a good match for drywall, wood, and painted trim, with nothing to set. Not the choice for shiny metal (use the tape trick).
+**Why it makes the list:** A no-fuss trade-tool thermometer with a 10:1 ratio, targeting laser, auto-hold, and fixed 0.95 emissivity — a good match for drywall, wood, and painted trim, with nothing to set. Not the choice for shiny metal (use the tape trick).
 
 - Klein Tools IR1 Infrared Thermometer with Targeting Laser: [View on Amazon](https://www.amazon.com/dp/B0873T6SGR/?tag=homebillcuts-20)
 
 ### 3) Easiest to read: BLACK+DECKER TLD100 thermal leak detector
 
-**Why it makes the list:** You set a reference on a normal wall and the light turns **blue for colder, red for warmer** as you sweep — the friendliest option for someone who doesn't want to read numbers. It's still a one-spot tool. (The listing's "save up to 20%" is the manufacturer's claim, not ours; the savings come from what you seal.)
+**Why it makes the list:** You set a reference on a normal wall and the light turns blue for colder, red for warmer as you sweep — the friendliest option for someone who doesn't want to read numbers. It's still a one-spot tool. (The listing's "save up to 20%" is the manufacturer's claim, not ours; the savings come from what you seal.)
 
 - BLACK+DECKER Thermal Leak Detector (TLD100): [View on Amazon](https://www.amazon.com/dp/B0044R87BE/?tag=homebillcuts-20)
 
 ### 4) Best-value phone thermal camera (Android): TOPDON TC001
 
-**Why it makes the list:** **256×192 native** thermal resolution (upscaled to 512×384 in the app), point/line/area readings, and image fusion with your phone camera — plenty of detail to see missing insulation in a stud bay or cold streaks in a ceiling. **Android only, and your phone must support USB OTG** (and the upscaling feature on some models); check before buying. Review scores are mixed, so test it the day it arrives.
+**Why it makes the list:** 256×192 native thermal resolution (upscaled to 512×384 in the app), point/line/area readings, and image fusion with your phone camera — plenty of detail to see missing insulation in a stud bay or cold streaks in a ceiling. Android only, and your phone must support USB OTG (and the upscaling feature on some models); check before buying. Review scores are mixed, so test it the day it arrives.
 
 - TOPDON TC001 Thermal Imaging Camera for Android: [View on Amazon](https://www.amazon.com/dp/B0B7LMB22Q/?tag=homebillcuts-20)
 
 ### 5) For USB-C iPhones (and Android): TOPDON TC002C Duo
 
-**Why it makes the list:** The same **256×192 native** class of sensor, listed as working with USB-C iPhones and iPads as well as Android, with 25 Hz refresh and listed 40 mK sensitivity. The listing notes some exceptions (it isn't Mac-compatible, and it flags some newer Android versions), so confirm your exact phone.
+**Why it makes the list:** The same 256×192 native class of sensor, listed as working with USB-C iPhones and iPads as well as Android, with 25 Hz refresh and listed 40 mK sensitivity. The listing notes some exceptions (it isn't Mac-compatible, and it flags some newer Android versions), so confirm your exact phone.
 
 - TOPDON TC002C Duo Thermal Imaging Camera for USB-C iPhone / iPad / Android: [View on Amazon](https://www.amazon.com/dp/B0F8MZVFBJ/?tag=homebillcuts-20)
 
-**Brand-name alternative:** FLIR ONE for USB-C iPhones (iPhone 15 and newer). Lower **80×60 native** resolution (upscaled to 240×180), but FLIR's MSX edge overlay and in-app home inspection guide make images easy to read up close: [View on Amazon](https://www.amazon.com/dp/B0DPXX7P5M/?tag=homebillcuts-20). If you have a Lightning iPhone, check FLIR's Lightning version instead.
+**Brand-name alternative:** FLIR ONE for USB-C iPhones (iPhone 15 and newer). Lower 80×60 native resolution (upscaled to 240×180), but FLIR's MSX edge overlay and in-app home inspection guide make images easy to read up close: [View on Amazon](https://www.amazon.com/dp/B0DPXX7P5M/?tag=homebillcuts-20). If you have a Lightning iPhone, check FLIR's Lightning version instead.
 
 ### 6) If you'd rather not use your phone: TOPDON TC004 handheld
 
-**Why it makes the list:** A standalone camera with a 3.5-inch screen, **256×192 native** resolution, laser pointer, built-in light, 64 GB storage, and IP54 / drop-rated body — worth it if you'll also use it for attics, crawl spaces, HVAC, or electrical checks and don't want to plug in a phone. Overkill for a one-time draft hunt.
+**Why it makes the list:** A standalone camera with a 3.5-inch screen, 256×192 native resolution, laser pointer, built-in light, 64 GB storage, and IP54 / drop-rated body — worth it if you'll also use it for attics, crawl spaces, HVAC, or electrical checks and don't want to plug in a phone. Overkill for a one-time draft hunt.
 
 - TOPDON TC004 3.5" Handheld Thermal Imaging Camera: [View on Amazon](https://www.amazon.com/dp/B0BRK4SGD2/?tag=homebillcuts-20)
 
 ### 7) Confirm the leak: smoke pen
 
-**Why it makes the list:** A thin, dense stream of white smoke that you can start and stop, so you can see exactly which edge of a trim board or outlet is leaking — the confirmation step for whatever the thermometer or camera flags. It burns a wick, so treat it like incense: **not near gas appliances or combustible gases**, never unattended, and keep it away from smoke alarms you don't want to trip.
+**Why it makes the list:** A thin, dense stream of white smoke that you can start and stop, so you can see exactly which edge of a trim board or outlet is leaking — the confirmation step for whatever the thermometer or camera flags. It burns a wick, so treat it like incense: not near gas appliances or combustible gases, never unattended, and keep it away from smoke alarms you don't want to trip.
 
 - Smoke Pen (6 wicks, about 3 hours total): [View on Amazon](https://www.amazon.com/dp/B00788GC6S/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **Cheap "thermal" cameras without a stated native resolution** — if a listing only shows an upscaled number, assume the sensor is small.
 - **Tiny 32×32 or similar sensors** marketed for home inspection — too coarse for stud bays from across a room.
@@ -210,7 +209,7 @@ A thermal image shows surface temperature, not "air leak" or "insulation." You h
 - **Refrigerant and gas "leak detectors"** — different tools for different jobs; a gas smell means leave and call your gas utility.
 - **Invented ASINs** or "save $X per year" claims.
 
-## Setup / troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
@@ -225,7 +224,7 @@ A thermal image shows surface temperature, not "air leak" or "insulation." You h
 | Smoke alarm goes off during smoke test | Smoke drifted into the sensor | Keep smoke short and low; ventilate afterward |
 | Combustion appliance smell or flame issue after fans | Possible backdraft | Turn off fans, ventilate, and have the appliance checked; confirm CO alarms work |
 
-## Honest limits (what a DIY scan won't tell you)
+## What this won't fix
 
 - **It won't measure total leakage.** Only a blower door test gives you a number you can compare before and after.
 - **It won't test combustion safety.** Backdrafting and CO checks are pro work.
@@ -246,7 +245,7 @@ A thermal image shows surface temperature, not "air leak" or "insulation." You h
 - [ ] Hot breakers, outlets, or plugs (if any) referred to an electrician
 - [ ] Second scan on a similar night after sealing
 
-### Habits that multiply the savings
+### Habits that help
 
 - **Seal the top and bottom first** — attic bypasses and the rim joist drive the stack effect.
 - **Re-scan each fall** before heating season; caulk cracks and weatherstripping wears out.
@@ -302,4 +301,4 @@ No. A professional assessment typically pairs a calibrated blower door, which me
 
 ## Bottom line
 
-Find the leaks before you buy the fixes, and use the cheapest tool that answers your question. **Pick a cold night (20°F+ difference) → scan from inside → combustion appliances off, exhaust fans on → sweep the attic hatch, ceilings, outlets, baseboards, trim, rim joist, and ducts → sort leaks from missing insulation and moisture → seal → re-scan.** An incense stick and a $20–$30 infrared thermometer handle most homes; a phone thermal camera is worth it when you need to see whole walls and ceilings or show a contractor. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+Find the leaks before you buy the fixes, and use the cheapest tool that answers your question. Pick a cold night (20°F+ difference) → scan from inside → combustion appliances off, exhaust fans on → sweep the attic hatch, ceilings, outlets, baseboards, trim, rim joist, and ducts → sort leaks from missing insulation and moisture → seal → re-scan. An incense stick and a $20–$30 infrared thermometer handle most homes; a phone thermal camera is worth it when you need to see whole walls and ceilings or show a contractor. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

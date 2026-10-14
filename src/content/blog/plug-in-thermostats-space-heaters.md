@@ -1,6 +1,6 @@
 ---
 title: "Plug-In Thermostats for Space Heaters: Stop the Dial Overshoot (and Wasted kWh)"
-description: "Bill-first US guide to plug-in thermostat outlets for 1,500 W space heaters — why a heater's built-in dial overshoots, how to measure kWh with a Kill A Watt, the 15 A / 1,800 W rating rule, sensor placement, which heaters restart after a power cut (mechanical vs digital), the no-power-strip rule, troubleshooting, and verified Amazon shortlists. No guaranteed savings."
+description: "US guide to plug-in thermostat outlets for 1,500 W space heaters — why a heater's built-in dial overshoots, how to measure kWh with a Kill A Watt, the 15 A / 1,800 W rating rule, sensor placement, which heaters restart after a power cut (mechanical vs digital), the no-power-strip rule, troubleshooting, and verified Amazon shortlists."
 pubDate: 2026-10-06
 updatedDate: 2026-10-06
 faqs:
@@ -18,75 +18,74 @@ faqs:
     answer: "Not quite. A basic smart plug switches on a schedule or from an app, but it doesn't measure room temperature unless you pair it with a separate sensor and an automation that depends on Wi-Fi or a hub. A Wi-Fi plug-in thermostat combines the outlet, a local temperature sensor, and an app, so it typically keeps holding the setpoint even if the internet drops. Either way, the device must be rated for the heater's full load, and many heater manuals warn against plugging into anything but a wall outlet — check yours first."
 ---
 
-A 1,500 W space heater has one blunt problem: its built-in "thermostat" is often a dial with no degrees on it, sensing air a few inches from a hot heating element. So the room overshoots, you turn it down, it gets cold, you turn it to High — and the Kill A Watt shows more kWh than the comfort you got. A **plug-in thermostat** (also sold as a thermostat outlet or temperature controller outlet) sits between the wall and the heater, reads room air where you are, and cuts power at a real setpoint. This guide is **bill-first**: measure what the heater uses now, buy a controller rated for the load, check your heater will actually restart, place the sensor well, and — the part that creates real savings — lower the central heat while you zone-heat. No guaranteed percent savings.
+A 1,500 W space heater has one blunt problem: its built-in "thermostat" is often a dial with no degrees on it, sensing air a few inches from a hot heating element. So the room overshoots, you turn it down, it gets cold, you turn it to High — and the Kill A Watt shows more kWh than the comfort you got. A plug-in thermostat (also sold as a thermostat outlet or temperature controller outlet) sits between the wall and the heater, reads room air where you are, and cuts power at a real setpoint. In this guide: measure what the heater uses now, buy a controller rated for the load, check your heater will actually restart, place the sensor well, and — the part that creates real savings — lower the central heat while you zone-heat.
 
-Prefer the ranked path? Start with the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). Close siblings: [oil-filled space heaters](/blog/oil-filled-space-heaters-zone-heating/) (picking the heater), [Kill A Watt plug-in meters](/blog/kill-a-watt-plug-in-energy-meter/) (measuring it), [under-desk heaters & foot warmers](/blog/under-desk-heaters-foot-warmers-home-office/) (lower-watt personal heat), [electric baseboard / line-voltage thermostats](/blog/electric-baseboard-heater-thermostats-line-voltage/) (the hardwired version of this idea), and [smart thermostats](/blog/best-smart-thermostats-2026/) (scheduling the whole-house setback). This page is **plug-in thermostat controllers for 120 V portable heaters** — not a heater review and not freeze-protection outlets for heat tape (see [pipe freeze heat tape](/blog/pipe-freeze-heat-tape-protection/) for those).
 
-## Honest framing: two separate savings, one much bigger
+## Two separate savings, one much bigger
 
 There are two ways a plug-in thermostat touches your bill, and it helps to keep them apart.
 
 **1. Less overshoot from the heater itself (small, real, measurable).** Many inexpensive heaters use a simple thermostat inside the cabinet. It sees air warmed by the heater, has a wide on/off swing, and its dial is labeled 1–6 or "low to high" instead of degrees. People compensate by running the heater on High or nudging the dial up. A controller that reads room air at seated height and shuts off at, say, 68°F can cut the hours the heater spends warming the room past what you wanted. How much depends entirely on how badly your heater overshoots — some modern digital heaters already hold temperature reasonably well, and for them the gain may be close to nothing.
 
-**2. The central-heat setback the space heater makes possible (bigger, but only if you do it).** A space heater is a zone heater. It saves money only when you turn the **whole-house** thermostat down and heat just the room you're in. The U.S. Department of Energy says that turning your thermostat back 7–10°F for 8 hours a day can save as much as 10% a year on heating ([DOE](https://www.energy.gov/indianenergy/articles/six-simple-steps-save-energy-and-money-winter)) — that's the furnace or heat pump side, not the space heater. Plugged in on top of your old setpoint, a 1,500 W heater with the world's best controller is still an added load.
+**2. The central-heat setback the space heater makes possible (bigger, but only if you do it).** A space heater is a zone heater. It saves money only when you turn the whole-house thermostat down and heat just the room you're in. The U.S. Department of Energy says that turning your thermostat back 7–10°F for 8 hours a day can save as much as 10% a year on heating ([DOE](https://www.energy.gov/indianenergy/articles/six-simple-steps-save-energy-and-money-winter)) — that's the furnace or heat pump side, not the space heater. Plugged in on top of your old setpoint, a 1,500 W heater with the world's best controller is still an added load.
 
 Three things decide whether it's worth doing:
 
-- **What heats the rest of the house.** Electric resistance, propane, or oil make a whole-house setback worth more. A heat pump in mild weather is already relatively cheap heat; plugging in resistance heat can cost **more** per unit of warmth than letting the heat pump run.
+- **What heats the rest of the house.** Electric resistance, propane, or oil make a whole-house setback worth more. A heat pump in mild weather is already relatively cheap heat; plugging in resistance heat can cost more per unit of warmth than letting the heat pump run.
 - **How much the heater runs.** A heater used an hour a day isn't worth a controller for bill reasons. One running every evening and overnight in a bedroom or office is.
 - **Whether the room holds heat.** If the heater runs nonstop because of drafts, a thermostat will just agree with you that it's cold. Seal first: [weatherstripping](/blog/best-weatherstripping-draft-stoppers/), [window kits](/blog/window-insulation-kits-winter-drafts/), [outlet gaskets](/blog/air-sealing-caulk-foam-outlet-gaskets/).
 
-## Measure first: what does your heater use now? (~6 steps)
+## Check your home before you buy
 
 Do this before you buy a controller, so you'll know whether it did anything.
 
-1. **Read the heater label.** Most US portable electric heaters max out around **1,500 W** on High (~12.5 A at 120 V). Many have 600–900 W low settings. Write down the watts for the setting you actually use.
+1. **Read the heater label.** Most US portable electric heaters max out around 1,500 W on High (~12.5 A at 120 V). Many have 600–900 W low settings. Write down the watts for the setting you actually use.
 2. **Find your all-in rate.** Total electric charges ÷ total kWh on a recent bill (energy plus delivery), not just the energy line.
 3. **Meter a normal night.** Plug the heater into a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/) (directly in the wall, heater directly into the meter) and run it the way you normally do for one evening or night. Read kWh and hours.
 4. **Check the comfort side.** Put an indoor thermometer at seated or bed height across the room. Note how high it climbs and how low it drops. A wide swing (for example, 64°F to 74°F) is the overshoot this guide targets.
 5. **Repeat with a controller** on a night with similar outdoor temperatures, holding the temperature you actually wanted. Compare kWh per hour of use, not just totals.
 6. **Check the central side.** Look at your furnace/heat-pump runtime or the bill for the weeks you held a lower whole-house setpoint. That's where most of the money is.
 
-**Example math only (not a promise):** a 1,500 W heater that's actually heating 70% of an 8-hour evening uses 1.5 kW × 8 h × 0.7 = **8.4 kWh** — about **$1.43** at $0.17/kWh. If a controller holding a steady 68°F cuts the heater's on-time to 50% of those hours, that's **6.0 kWh (~$1.02)**, roughly **$0.41 a night**. Those duty-cycle numbers are invented for the arithmetic; your Kill A Watt reading replaces them. If your heater already cycles well, the difference may be near zero.
+**Example math only (not a promise):** a 1,500 W heater that's actually heating 70% of an 8-hour evening uses 1.5 kW × 8 h × 0.7 = 8.4 kWh — about $1.43 at $0.17/kWh. If a controller holding a steady 68°F cuts the heater's on-time to 50% of those hours, that's 6.0 kWh (~$1.02), roughly $0.41 a night. Those duty-cycle numbers are invented for the arithmetic; your Kill A Watt reading replaces them. If your heater already cycles well, the difference may be near zero.
 
 ## How plug-in thermostats work (and the types you'll see)
 
-A plug-in thermostat is a switched outlet with a temperature sensor. In **heating mode** it turns the outlet on when the sensed temperature falls below your setpoint and off when it rises above it. Most add a few practical features:
+A plug-in thermostat is a switched outlet with a temperature sensor. In heating mode it turns the outlet on when the sensed temperature falls below your setpoint and off when it rises above it. Most add a few practical features:
 
 - **Differential (hysteresis):** how far the temperature must drift before it switches. Too tight and it short-cycles; too wide and you feel the swing. Many digital units let you set it; dial units have a fixed swing.
 - **Calibration offset:** lets you match the controller to a separate thermometer.
 - **Power-loss memory:** keeps your settings after an outage (check the listing).
-- **Heat vs cool mode:** the same box often runs fans and air conditioners in cooling mode. **Setting a heater on cooling mode is the classic mistake** — it runs the heater when the room is warm.
+- **Heat vs cool mode:** the same box often runs fans and air conditioners in cooling mode. Setting a heater on cooling mode is the classic mistake — it runs the heater when the room is warm.
 
 | Type | How it senses | Best for | Watch-outs |
 | --- | --- | --- | --- |
-| **Dial plug-in thermostat** | Built-in sensor in the plug body | Simplest setup, one room, set-and-forget | Senses air at the outlet (often low, near the floor); coarse dial; fixed swing |
-| **Digital controller with probe** | Sensor on a cord (often ~5 ft) | Putting the sensor at seated height, calibration, precise setpoints | Probe cord must be routed away from the heater; more buttons to learn |
-| **Wireless remote-sensor thermostat** | Sensor inside a handheld/tabletop remote | Bedrooms and offices where you want it "right here" | Remote batteries; keep within range; confirm the outlet's amp rating |
-| **Wi-Fi controller** | Probe plus app | Checking room temp remotely, alarms, schedules | App quality varies; must still be rated 15 A for heaters |
-| **Smart plug + separate sensor** | Automation via app/hub | People already running a smart-home hub | Depends on Wi-Fi/hub; no temperature control if the link drops; heater manual may prohibit |
-| **Freeze-protection "thermo cube"** | Fixed on/off temps near freezing | Heat tape, well houses, pump enclosures | Not for room comfort — fixed setpoints near freezing |
+| Dial plug-in thermostat | Built-in sensor in the plug body | Simplest setup, one room, set-and-forget | Senses air at the outlet (often low, near the floor); coarse dial; fixed swing |
+| Digital controller with probe | Sensor on a cord (often ~5 ft) | Putting the sensor at seated height, calibration, precise setpoints | Probe cord must be routed away from the heater; more buttons to learn |
+| Wireless remote-sensor thermostat | Sensor inside a handheld/tabletop remote | Bedrooms and offices where you want it "right here" | Remote batteries; keep within range; confirm the outlet's amp rating |
+| Wi-Fi controller | Probe plus app | Checking room temp remotely, alarms, schedules | App quality varies; must still be rated 15 A for heaters |
+| Smart plug + separate sensor | Automation via app/hub | People already running a smart-home hub | Depends on Wi-Fi/hub; no temperature control if the link drops; heater manual may prohibit |
+| Freeze-protection "thermo cube" | Fixed on/off temps near freezing | Heat tape, well houses, pump enclosures | Not for room comfort — fixed setpoints near freezing |
 
 ## Which heaters work with a plug-in thermostat?
 
-This is where most returns come from. The thermostat can only **cut and restore power**. Your heater has to start heating again on its own when power comes back.
+This is where most returns come from. The thermostat can only cut and restore power. Your heater has to start heating again on its own when power comes back.
 
-- **Usually compatible:** heaters with **mechanical controls** — rotary knobs, rocker switches, dial thermostats. Many oil-filled radiators and basic fan/ceramic heaters work this way. Set the heater's own thermostat to its highest setting (or the setting you want as a ceiling) and let the plug-in controller decide on/off.
-- **Often not compatible:** heaters with **digital touch panels** or soft-power buttons that wake up in standby after a power cut. They'll sit dark until someone presses a button. Some digital heaters remember their last mode; many don't.
+- **Usually compatible:** heaters with mechanical controls — rotary knobs, rocker switches, dial thermostats. Many oil-filled radiators and basic fan/ceramic heaters work this way. Set the heater's own thermostat to its highest setting (or the setting you want as a ceiling) and let the plug-in controller decide on/off.
+- **Often not compatible:** heaters with digital touch panels or soft-power buttons that wake up in standby after a power cut. They'll sit dark until someone presses a button. Some digital heaters remember their last mode; many don't.
 - **Leave the heater's safety features alone.** Tip-over switches, overheat cutouts, and the heater's own thermostat still protect the heater. A plug-in thermostat adds control; it never replaces those.
 
 **The 30-second restart test (do it before buying a controller):** turn the heater on and set it to heat, unplug it from the wall, wait a few seconds, plug it back in. If it resumes heating without a button press, it should work with a plug-in thermostat. If it comes back in standby, it won't — no controller fixes that.
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest bill leverage)
+### Do these first
 
 - **A bedroom or office heater that runs for hours every day** with a mechanical dial — the classic overshoot case.
 - **You're already doing zone heating** with a lower whole-house setpoint, and the heated room swings hot and cold.
 - **Expensive central heat** (electric resistance, propane, oil) where the space heater is how you make a deep setback livable.
 - **A heater that people leave on High** because the dial is unreadable.
 
-### Lower priority / skip for now
+### These can wait
 
 - **Your heater already has a decent digital thermostat** that holds within a degree or two — measure first; the gain may be minimal.
 - **Occasional use** — a controller won't pay back on an hour a day.
@@ -94,16 +93,16 @@ This is where most returns come from. The thermostat can only **cut and restore 
 - **The room is drafty enough that the heater never satisfies.** Seal first; see [door draft stoppers](/blog/best-weatherstripping-draft-stoppers/) and [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/).
 - **Low-watt personal heat** (foot mats, heated throws) — they draw 90–235 W; see [under-desk heaters](/blog/under-desk-heaters-foot-warmers-home-office/) instead.
 
-### Do-not list (safety + wasted money)
+### What not to do
 
-- **Do not** use a controller rated below the heater's draw. A **1,500 W heater needs a controller rated 15 A / 1,800 W** for heating loads. Controllers rated around 1,000–1,100 W (common reptile/brewing models) are **not** for space heaters on High.
+- **Do not** use a controller rated below the heater's draw. A 1,500 W heater needs a controller rated 15 A / 1,800 W for heating loads. Controllers rated around 1,000–1,100 W (common reptile/brewing models) are not for space heaters on High.
 - **Do not** put a power strip, extension cord, or "outlet multiplier" anywhere in the chain. Wall outlet → thermostat → heater. ESFI's guidance: plug space heaters directly into a wall outlet; extension cords and power strips can overheat ([ESFI](https://www.esfi.org/space-heater-safety/)).
 - **Do not** ignore your heater's manual. If it says to plug only into a wall outlet, follow it — even a well-rated controller adds a connection.
 - **Do not** keep using a setup where the plug, the controller, or the outlet feels hot, discolors, or smells. Loose or worn receptacles heat up under a 12.5 A load; have the outlet checked.
 - **Do not** share the circuit with other big loads (a second heater, a hair dryer, a kettle). A 1,500 W heater uses most of a 15 A circuit by itself.
-- **Do not** treat automation as permission to leave a heater **unattended**. ESFI advises never leaving a space heater unattended and keeping it at least three feet from anything that can burn. Follow your heater's manual on sleep and away use.
+- **Do not** treat automation as permission to leave a heater unattended. ESFI advises never leaving a space heater unattended and keeping it at least three feet from anything that can burn. Follow your heater's manual on sleep and away use.
 - **Do not** run the probe cord across or touching the heater, or tape the sensor to the heater.
-- **Do not** leave the controller in **cooling mode** with a heater attached.
+- **Do not** leave the controller in cooling mode with a heater attached.
 - **Do not** use plug-in controllers on hardwired 240 V baseboard heat — that's a [line-voltage thermostat](/blog/electric-baseboard-heater-thermostats-line-voltage/) job.
 - **Do not** use one in bathrooms or wet areas unless the controller and heater are both rated for that location.
 
@@ -120,7 +119,7 @@ The controller only knows the temperature at its sensor. Put it where you want t
 
 Dial-type thermostats with the sensor built into the plug body sense air right at the outlet. If your outlet is low behind furniture or near the heater, a probe or remote-sensor model will usually behave better.
 
-## Buyer decision tree (dial vs probe vs remote sensor vs Wi-Fi vs skip)
+## Which one should you buy?
 
 1. **Will you lower the central heat while you use the space heater?**
    - No → the controller can trim overshoot, but expect small or no bill change. Consider skipping.
@@ -130,28 +129,28 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
    - Yes → continue.
 3. **What does the heater draw?** Read the label. 1,500 W (or anything above ~1,000 W) → only 15 A / 1,800 W heating-rated controllers.
 4. **Where do you want the temperature right?**
-   - Near the outlet is fine, simplest possible → **dial plug-in thermostat**.
-   - At your desk or bed, a few feet from the outlet → **probe controller** or **wireless remote-sensor** model.
-5. **Do you want to check or change it from your phone?** Yes → **Wi-Fi controller** (still 15 A rated). No → skip the app.
+   - Near the outlet is fine, simplest possible → dial plug-in thermostat.
+   - At your desk or bed, a few feet from the outlet → probe controller or wireless remote-sensor model.
+5. **Do you want to check or change it from your phone?** Yes → Wi-Fi controller (still 15 A rated). No → skip the app.
 6. **Still unsure?** Start with a Kill A Watt and an indoor thermometer for one week. If the room swings 5°F or more and the heater runs on High, a controller is worth trying.
 
-## Spec notes (verify before checkout)
+## Sizes and specs
 
 | Item | What to check | Why it matters |
 | --- | --- | --- |
-| **Amp / watt rating** | 15 A / 1,800 W (or higher) for heating; read the label and manual, not just the title | A 1,500 W heater pulls ~12.5 A |
-| **Safety listing** | ETL/UL or similar on the product or listing | Basic third-party testing |
-| **Heating mode** | Explicit heat mode (many units do heat and cool) | Wrong mode = heater runs when warm |
-| **Sensor type** | Built-in vs probe vs remote | Decides where you can measure |
-| **Probe/remote reach** | Cord length or wireless range | Gets the sensor to seated height |
-| **Differential** | Adjustable or fixed | Comfort swing vs short-cycling |
-| **Calibration** | Offset setting | Matches your thermometer |
-| **Power-loss memory** | Keeps settings after outage | Avoids surprise behavior |
-| **Plug style** | Pass-through body vs short cord | Fit at the outlet; doesn't block the second receptacle |
+| Amp / watt rating | 15 A / 1,800 W (or higher) for heating; read the label and manual, not just the title | A 1,500 W heater pulls ~12.5 A |
+| Safety listing | ETL/UL or similar on the product or listing | Basic third-party testing |
+| Heating mode | Explicit heat mode (many units do heat and cool) | Wrong mode = heater runs when warm |
+| Sensor type | Built-in vs probe vs remote | Decides where you can measure |
+| Probe/remote reach | Cord length or wireless range | Gets the sensor to seated height |
+| Differential | Adjustable or fixed | Comfort swing vs short-cycling |
+| Calibration | Offset setting | Matches your thermometer |
+| Power-loss memory | Keeps settings after outage | Avoids surprise behavior |
+| Plug style | Pass-through body vs short cord | Fit at the outlet; doesn't block the second receptacle |
 
-## Amazon shortlist (verified)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Links use tag `homebillcuts-20`. We do not guarantee bill reductions or comfort results. Confirm the amp/watt rating, heating mode, and your heater's manual before you buy. See our [Disclosure](/disclosure/) page.
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 ### 1) Simplest dial pick: EconoHome adjustable plug-in thermostat (15 A / 1,875 W)
 
@@ -173,7 +172,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 
 ### 4) Best Wi-Fi pick: INKBIRD Wi-Fi plug-in thermostat (15 A / 1,800 W)
 
-**Why it makes the list:** App monitoring and adjustment, high/low temperature alarms, calibration, and power-off memory, at a listed 1,800 W / 15 A — useful if you want to check the room from another room or get an alert when it drops. Smaller review base than the others, so check the return window. Note: this is **not** the older ITC-308 (see below).
+**Why it makes the list:** App monitoring and adjustment, high/low temperature alarms, calibration, and power-off memory, at a listed 1,800 W / 15 A — useful if you want to check the room from another room or get an alert when it drops. Smaller review base than the others, so check the return window. Note: this is not the older ITC-308 (see below).
 
 - INKBIRD Plug-in Thermostat Wi-Fi, 1800 W 15 A: [View on Amazon](https://www.amazon.com/dp/B0DRVH2RYG/?tag=homebillcuts-20)
 
@@ -198,7 +197,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 - De'Longhi oil-filled radiant heater with mechanical controls, 1,500 W: [View on Amazon](https://www.amazon.com/dp/B01CE70E3E/?tag=homebillcuts-20)
 - PELONIS oil-filled radiator, dual knobs, 1,500 W (budget): [View on Amazon](https://www.amazon.com/dp/B08NBHV5F5/?tag=homebillcuts-20)
 
-### What we omitted on purpose
+### What we left out
 
 - **The original Inkbird ITC-308 and similar reptile/brewing controllers rated around 1,000–1,100 W.** Great for heat mats and fermentation chambers; under-rated for a 1,500 W space heater on High. Check every controller's heating load rating.
 - **Cooling-only controllers** (attic-fan and ventilation thermostats) — they can't run a heater correctly.
@@ -206,7 +205,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 - **Generic dial thermostats without a clearly stated amp rating** on the listing.
 - **Invented ASINs** or "save $X per year" claims.
 
-## Setup / troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
@@ -221,7 +220,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 | Settings lost after an outage | No power-loss memory | Re-set, or choose a model with memory |
 | Bill went up | Central heat never moved | Lower the whole-house setpoint on a schedule; meter the heater |
 
-## Honest limits (what a plug-in thermostat won't fix)
+## What this won't fix
 
 - **It won't make resistance heat cheap.** A kWh of space-heater heat costs the same with or without a controller; the controller only cuts wasted hours. (It's also the same kWh whether the heater is ceramic, infrared, or oil-filled — see [space heater cost to run by type](/blog/space-heater-cost-to-run-ceramic-vs-infrared-vs-oil-filled/).)
 - **It won't help without a central setback** — that's where the meaningful money is.
@@ -230,7 +229,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 - **It doesn't make unattended use safe.** Automation isn't supervision; follow your heater manual and basic fire safety.
 - **No universal number.** Your heater's overshoot, rates, climate, and hours vary too much for honest "you'll save $X" claims.
 
-## Post-setup checklist + habits
+## After you set it up
 
 - [ ] Heater wattage and your all-in rate written down
 - [ ] Baseline Kill A Watt reading for a normal night, plus thermometer swing
@@ -242,7 +241,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 - [ ] Whole-house thermostat lowered on a schedule while you zone-heat
 - [ ] Second Kill A Watt reading on a similar-weather night
 
-### Habits that multiply the savings
+### Habits that help
 
 - **Pick a number and leave it.** A steady 67–68°F at your chair beats chasing the dial.
 - **Close the door** of the heated room so you heat one room, not the hallway.
@@ -299,4 +298,4 @@ Not quite. A basic smart plug switches on a schedule or from an app, but it does
 
 ## Bottom line
 
-A plug-in thermostat is a cheap way to make a dial-controlled space heater hold a real temperature instead of overshooting — but it trims waste at the margin; the real savings come from **lowering the central heat** while you zone-heat. **Meter the heater → run the restart test → buy a 15 A / 1,800 W heating-rated controller → wall outlet only, no strips or cords → sensor at seated height, calibrated → set the whole-house setback.** Skip it if your heater already holds temperature well or you rarely use it. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). No guaranteed savings — return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.
+A plug-in thermostat is a cheap way to make a dial-controlled space heater hold a real temperature instead of overshooting — but it trims waste at the margin; the real savings come from lowering the central heat while you zone-heat. Meter the heater → run the restart test → buy a 15 A / 1,800 W heating-rated controller → wall outlet only, no strips or cords → sensor at seated height, calibrated → set the whole-house setback. Skip it if your heater already holds temperature well or you rarely use it. Amazon links may earn a commission as an Associate ([disclosure](/disclosure/)). Return to [Start Here](/start-here/) or the [priority checklist](/blog/lower-electric-bill-priority-checklist/) for order of operations.

@@ -1,6 +1,6 @@
 ---
 title: "Do LED Bulbs Actually Save Money? A Wattage Swap Guide"
-description: "Bill-first LED wattage swap guide for US homes — when LEDs move the bill, measure-first house walk, situation priorities, buyer decision tree, lumen cheat table, troubleshooting, and a verified Amazon shortlist. No guaranteed savings."
+description: "LED wattage swap guide for US homes — when LEDs move the bill, house walk, lumen cheat table, troubleshooting, and a verified Amazon shortlist."
 pubDate: 2026-09-07
 updatedDate: 2026-09-24
 faqs:
@@ -18,59 +18,59 @@ faqs:
     answer: "No. Once a low-watt dumb LED is in a high-hour socket, the bill math is mostly done. Smart bulbs shine for schedules, scenes, and remote control—useful if humans leave lights on, not as a substitute for swapping remaining inefficient lamps first."
 ---
 
-LED bulbs are one of the easiest efficiency upgrades left in many US homes — but **easy** is not the same as **will transform your electric bill**. Lighting is often a smaller slice of household kWh than HVAC or water heating. This guide is **bill-first**: when LED swaps actually move the bill, the measure-first house walk, situation priorities and do-not list, buyer decision tree (A19 vs BR30 vs candelabra vs outdoor vs smart vs skip), lumen/wattage cheat table, install troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
+LED bulbs are one of the easiest efficiency upgrades left in many US homes — but easy is not the same as will transform your electric bill. Lighting is often a smaller slice of household kWh than HVAC or water heating. In this guide: when LED swaps actually move the bill, the measure-first house walk, situation priorities and do-not list, buyer decision tree (A19 vs BR30 vs candelabra vs outdoor vs smart vs skip), lumen/wattage cheat table, install troubleshooting, and a verified Amazon shortlist — without inventing dollar savings.
 
 If you’re prioritizing actions for this billing cycle, keep the [priority checklist](/blog/lower-electric-bill-priority-checklist/) above any shopping cart. New visitors: [Start Here](/start-here/). Envelope leaks and HVAC habits still usually outrank lighting — see [weatherstripping](/blog/best-weatherstripping-draft-stoppers/) and [HVAC filters](/blog/hvac-air-filters-merv-efficiency/) if the house fights every setpoint. Prove lighting (or anything else) with a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/), [smart plugs](/blog/best-smart-plugs-vampire-power/), or a [whole-home monitor](/blog/emporia-vue-vs-sense/) when you want numbers instead of guesses.
 
 ## When LED swaps move the bill (and when they don’t)
 
-Think of lighting energy as **watts × hours**. An LED cuts the watts for the same light; it does nothing for a socket you almost never flip on. Bill leverage appears when you retire **high-hour inefficient lamps** — not when you fill a cart with 5000K daylight multipacks for bedrooms you already LED’d years ago.
+Think of lighting energy as watts × hours. An LED cuts the watts for the same light; it does nothing for a socket you almost never flip on. Bill leverage appears when you retire high-hour inefficient lamps — not when you fill a cart with 5000K daylight multipacks for bedrooms you already LED’d years ago.
 
 LEDs help most when:
 
-- You still have **incandescent, halogen torchieres, or old CFLs** in rooms that run **hours every day** (kitchen, living, office, porch left on for safety, garage shop).
-- You can match **lumens** and **form factor** so the new lamp is actually used (not returned because it looks harsh or won’t dim).
-- You’re replacing **failing / flickering early LEDs** that drive people to leave brighter inefficient lamps on longer.
+- You still have incandescent, halogen torchieres, or old CFLs in rooms that run hours every day (kitchen, living, office, porch left on for safety, garage shop).
+- You can match lumens and form factor so the new lamp is actually used (not returned because it looks harsh or won’t dim).
+- You’re replacing failing / flickering early LEDs that drive people to leave brighter inefficient lamps on longer.
 - A porch light sits on all night — a few watts of outdoor-rated LED (or dusk-to-dawn where that fits) beats leaving a 60W incandescent on until dawn.
 
 They help less — or barely move the bill — when:
 
-- Most sockets are **already decent LEDs** that match color and don’t flicker.
-- Remaining inefficient bulbs live in **guest closets**, decorative fixtures you almost never switch on, or rooms you visit twice a week.
+- Most sockets are already decent LEDs that match color and don’t flicker.
+- Remaining inefficient bulbs live in guest closets, decorative fixtures you almost never switch on, or rooms you visit twice a week.
 - **HVAC dominates** your kWh (hot summers, cold winters, electric resistance heat) — setpoints, filters, and air sealing still outrank lighting multipacks.
-- You’re tempted to **replace working LEDs** with “ultra-efficient” packs for a few watts — keep the good lamps; spend the Saturday on the checklist.
+- You’re tempted to replace working LEDs with “ultra-efficient” packs for a few watts — keep the good lamps; spend the Saturday on the checklist.
 
-**Honest framing:** We do **not** claim a fixed annual dollar savings. Your rate ($/kWh), hours of use, and how many inefficient bulbs remain decide the math. A perfect LED house still loses to a stuck heat-pump aux strip or a drafty attic hatch on whole-bill impact.
+**The reality:** We do not claim a fixed annual dollar savings. Your rate ($/kWh), hours of use, and how many inefficient bulbs remain decide the math. A perfect LED house still loses to a stuck heat-pump aux strip or a drafty attic hatch on whole-bill impact.
 
 ### Quick payback math (fill in your numbers)
 
 Use this once for a high-hour socket so expectations stay honest:
 
-1. Note **old watts** and **new watts** from the packages (or meter a fixture cluster if you have a plug-in meter).
-2. Estimate **hours per day** the light is actually on.
+1. Note old watts and new watts from the packages (or meter a fixture cluster if you have a plug-in meter).
+2. Estimate hours per day the light is actually on.
 3. Rough yearly kWh saved: `(old W − new W) × hours/day × 365 ÷ 1000`.
-4. Multiply by **your** $/kWh from the bill — not a national average graphic.
+4. Multiply by your $/kWh from the bill — not a national average graphic.
 
 Example shape only: a 60W lamp replaced by a 9W LED at 4 hours/day is about `51 × 4 × 365 ÷ 1000 ≈ 74 kWh/year`. At $0.16/kWh that’s roughly ~$12/year for *that one socket* — fine, but not a reason to ignore a stuck heat-pump aux strip or a drafty attic hatch. Scale by how many high-hour sockets remain; don’t invent a whole-house graphic from one kitchen can.
 
-## Measure first: walk the house before you buy a 24-pack
+## Check your home before you buy
 
 Gadgets before a 10-minute walk is how you end up with a closet full of 5000K garage bulbs for the bedrooms. Spend ten minutes with a notepad before you click “Buy.”
 
 1. **Existing bulb watts / type** — Read the stamp on remaining lamps: incandescent, halogen, CFL, or LED. Note watts where printed. A socket already at ~8–12W LED is usually done for bill math.
-2. **Lumens (or honest brightness feel)** — If the package is gone, note whether the room feels dim, OK, or harsh. Target roughly **800 lm** for classic “60W” feel, **~450 lm** for “40W,” **~1100 lm** for “75W,” **~1600 lm** for “100W” — then confirm on the new package.
+2. **Lumens (or honest brightness feel)** — If the package is gone, note whether the room feels dim, OK, or harsh. Target roughly 800 lm for classic “60W” feel, ~450 lm for “40W,” ~1100 lm for “75W,” ~1600 lm for “100W” — then confirm on the new package.
 3. **Hours-on** — Which fixtures run every evening or all day? Kitchen, living, office, porch, garage shop first. Closets and guest rooms last.
 4. **Fixture / form factor** — A19 medium base, BR30 / BR40 cans, candelabra (E12), GU10/MR16, globe, outdoor wet-rated. Don’t buy one multipack shape for every hole.
-5. **Dimmer compatibility** — Wall dimmers? Need bulbs labeled **dimmable**, and often an LED-rated dimmer if a whole room flickers. Non-dimmable bulk packs on a dimmer circuit = regret.
+5. **Dimmer compatibility** — Wall dimmers? Need bulbs labeled dimmable, and often an LED-rated dimmer if a whole room flickers. Non-dimmable bulk packs on a dimmer circuit = regret.
 6. **Color temperature needs** — Soft white (~2700–3000K) for living/bedrooms; neutral (~3000–3500K) for kitchens/baths; daylight (~4000–5000K) for garage/utility only unless you truly want that look.
 7. **Enclosure / location rating** — Enclosed globes, damp/wet outdoor fixtures, IC-rated cans. Indoor-only A19s die early outdoors or in sealed globes not rated for enclosed use.
 8. **Specialty gotchas** — 3-way lamps, photocells, motion sensors, low-voltage transformers, pin bases. Measure before you assume an A19 multipack fits.
 
 Write “room / old type+W / hours / base / dimmer? / CCT / enclosed or outdoor?” on a sticky before Amazon. If you want proof lighting is (or isn’t) a big slice of kWh, a [whole-home monitor](/blog/emporia-vue-vs-sense/) or a cheap [plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) on a lamp cluster beats guessing. After high-hour lamps are done, hunt always-on electronics with [smart plugs for vampire power](/blog/best-smart-plugs-vampire-power/).
 
-## Situation priorities + do-not list
+## What to do first
 
-### Prioritize (biggest hours × watts leverage)
+### Do these first
 
 - **Kitchen ceilings, under-cabinet, and main living lamps** still on incandescent/halogen — longest daily runtime in many homes.
 - **Home office / schoolwork spaces** with daytime hours — task lamps beat blasting every can if the goal is usable light, not a glowing ceiling.
@@ -78,7 +78,7 @@ Write “room / old type+W / hours / base / dimmer? / CCT / enclosed or outdoor?
 - **Garage shop / basement work lights** — long DIY sessions; daylight multipacks belong *here*, not in bedrooms.
 - **Failing LEDs that flicker or buzz** — swap so people stop “solving” it by leaving brighter inefficient lamps on.
 
-### Lower priority / skip for now
+### These can wait
 
 - Guest-room closets opened twice a year.
 - Decorative fixtures you almost never switch on.
@@ -86,7 +86,7 @@ Write “room / old type+W / hours / base / dimmer? / CCT / enclosed or outdoor?
 - Specialty bases you haven’t measured (pin bases, low-voltage transformers) until you confirm voltage and form factor.
 - Replacing working soft-white LEDs with “newer” packs for marketing watts.
 
-### Do-not list (safety + bill misuse)
+### What not to do
 
 - **Do not put indoor-only bulbs in wet/outdoor fixtures** — use damp/wet-rated lamps; water + wrong rating = early death or worse.
 - **Do not ignore enclosed-fixture ratings** — bulbs not rated for enclosed globes overheat and fail early.
@@ -100,49 +100,49 @@ Write “room / old type+W / hours / base / dimmer? / CCT / enclosed or outdoor?
 
 If any do-not item matches your plan, pause the cart — the wrong bulb in the wrong fixture is comfort spend with no bill story.
 
-## Buyer decision tree (A19 vs BR30 vs candelabra vs outdoor vs smart vs skip)
+## Which one should you buy?
 
 Use this after the measure-first walk — not instead of it.
 
 1. **Socket already has a decent LED** (right color, no flicker, roughly enough lumens)?  
-   - Yes → **Skip / keep**. Move to the next high-hour inefficient socket.  
+   - Yes → Skip / keep. Move to the next high-hour inefficient socket.  
    - No → continue.
 2. **Standard A19 / E26, soft-white preferred, no dimmer?**  
    - → Everyday ENERGY STAR soft-white multipack (~800 lm). Ultra-efficient packs (~5W near 800–850 lm) help when many high-hour sockets remain.
 3. **Fixtures on wall dimmers?**  
-   - → Explicitly **dimmable** A19 (warm-glow styles often behave better). Budget for an LED-rated dimmer if a whole room flickers after a quality dimmable bulb.
+   - → Explicitly dimmable A19 (warm-glow styles often behave better). Budget for an LED-rated dimmer if a whole room flickers after a quality dimmable bulb.
 4. **Recessed cans / flood-style fixtures?**  
-   - → Correct **BR30** (or BR40) form factor; outdoor/enclosed rating when the fixture needs it — not an indoor A19 jammed in a can. Soft white for living spaces; daylight high-output for tall ceilings / task cans.
+   - → Correct BR30 (or BR40) form factor; outdoor/enclosed rating when the fixture needs it — not an indoor A19 jammed in a can. Soft white for living spaces; daylight high-output for tall ceilings / task cans.
 5. **Chandelier, sconce, or ceiling-fan candelabra (E12)?**  
-   - → **Candelabra / A15 E12** pack matched to shape and dimmable needs — don’t force an A19 into a chandelier arm.
+   - → Candelabra / A15 E12 pack matched to shape and dimmable needs — don’t force an A19 into a chandelier arm.
 6. **Outdoor porch / entry left on for safety?**  
-   - → Outdoor-rated lamp; consider **dusk-to-dawn** A19 if you want auto on/off without a separate photocell. Keep indoor-only bulbs indoors.
+   - → Outdoor-rated lamp; consider dusk-to-dawn A19 if you want auto on/off without a separate photocell. Keep indoor-only bulbs indoors.
 7. **Garage, laundry, unfinished basement only?**  
-   - → Bulk **daylight** multipack can be fine; keep it off dimmer circuits and out of living rooms unless you truly want 5000K.
+   - → Bulk daylight multipack can be fine; keep it off dimmer circuits and out of living rooms unless you truly want 5000K.
 8. **Tempted by smart bulbs for “savings”?**  
    - → Buy dumb LEDs first for bill math. Smart bulbs are for schedules, scenes, and remote control. A schedule can help if humans leave lights on — it does not beat a 5–9W dumb LED already in the socket. If the problem is standby AV gear, that’s [smart plugs](/blog/best-smart-plugs-vampire-power/), not Hue.
 9. **Specialty (3-way, GU10/MR16, low-voltage)?**  
    - → Confirm voltage and base before buying; when unsure, measure twice or hire — wrong low-voltage LED on a magnetic transformer is a common failure mode.
 
-Still unsure? Photograph the fixture and the old bulb base, note dimmer/enclosed/outdoor, and choose the shortest path that matches **hours + form factor**, not the biggest multipack on the page.
+Still unsure? Photograph the fixture and the old bulb base, note dimmer/enclosed/outdoor, and choose the shortest path that matches hours + form factor, not the biggest multipack on the page.
 
 
 ## Form factor quick picks (before the cart)
 
 | Need | Typical form | Notes |
 | --- | --- | --- |
-| Table / ceiling everyday | **A19** E26 | Soft white ~800 lm for classic 60W feel |
-| Recessed 5" cans | **BR30** | Soft white living; daylight for tall/task cans |
-| Larger cans / floods | **BR40** | Measure aperture — don’t assume BR30 |
-| Chandelier / fan kit | **E12** candelabra / A15 | Shape matters when the bulb shows |
-| Porch left on overnight | Outdoor-rated **A19** (± dusk-to-dawn) | Indoor-only bulbs fail early outdoors |
-| Garage / laundry bulk | Daylight **A19** multipack | Keep off dimmers and out of bedrooms |
+| Table / ceiling everyday | A19 E26 | Soft white ~800 lm for classic 60W feel |
+| Recessed 5" cans | BR30 | Soft white living; daylight for tall/task cans |
+| Larger cans / floods | BR40 | Measure aperture — don’t assume BR30 |
+| Chandelier / fan kit | E12 candelabra / A15 | Shape matters when the bulb shows |
+| Porch left on overnight | Outdoor-rated A19 (± dusk-to-dawn) | Indoor-only bulbs fail early outdoors |
+| Garage / laundry bulk | Daylight A19 multipack | Keep off dimmers and out of bedrooms |
 
-If the fixture shows the bulb (clear glass chandelier, vintage cage), match **shape and CCT** so you don’t hate the room and leave brighter lights on longer.
+If the fixture shows the bulb (clear glass chandelier, vintage cage), match shape and CCT so you don’t hate the room and leave brighter lights on longer.
 
 ## Wattage / lumen cheat table (shop lumens)
 
-Incandescent wattage was a rough proxy for brightness. With LEDs, shop **lumens** (light output) and **CCT / CRI** (color), then confirm wattage is low. These are **standard equivalences**, not dollar forecasts.
+Incandescent wattage was a rough proxy for brightness. With LEDs, shop lumens (light output) and CCT / CRI (color), then confirm wattage is low. These are standard equivalences, not dollar forecasts.
 
 | Old incandescent (approx.) | Target LED lumens | Typical LED wattage range |
 | --- | --- | --- |
@@ -151,7 +151,7 @@ Incandescent wattage was a rough proxy for brightness. With LEDs, shop **lumens*
 | 75W | ~1100 lm | ~11–15W |
 | 100W | ~1600 lm | ~15–20W |
 
-Always read the package: a “60W replacement” should land near **800 lumens**, not merely say “60W” in big type while delivering a dim 450 lm lamp. Ultra-efficient listings that claim ~5W near ~850 lm are real products from major brands — still verify **your** package before you buy a closet full.
+Always read the package: a “60W replacement” should land near 800 lumens, not merely say “60W” in big type while delivering a dim 450 lm lamp. Ultra-efficient listings that claim ~5W near ~850 lm are real products from major brands — still verify your package before you buy a closet full.
 
 ### Color temperature quick picks
 
@@ -159,9 +159,9 @@ Always read the package: a “60W replacement” should land near **800 lumens**
 - **3000K–3500K:** Neutral warm for kitchens and baths.
 - **4000K+:** Cooler task / garage / utility — fine if you like it; jarring if you don’t.
 
-Prefer **CRI 80+** (90+ nicer for kitchens and makeup lighting). Skip mystery no-name bulbs that omit lumens and CRI.
+Prefer CRI 80+ (90+ nicer for kitchens and makeup lighting). Skip mystery no-name bulbs that omit lumens and CRI.
 
-## Install / use troubleshooting table
+## Troubleshooting
 
 | Symptom | Likely cause | What to try |
 | --- | --- | --- |
@@ -177,7 +177,7 @@ Prefer **CRI 80+** (90+ nicer for kitchens and makeup lighting). Skip mystery no
 
 ## Fixture and dimmer gotchas (safety)
 
-> **Safety notes:** Kill power at the switch or breaker before opening fixtures. Don’t exceed fixture wattage **and** follow LED-specific enclosure ratings (IC-rated cans, enclosed globes). Use damp/wet-rated lamps outdoors. For GU10/MR16 and pin bases, confirm voltage (line vs. low-voltage transformer). Mis-matched dimmers cause flicker, buzz, or early failure — use LED-compatible dimmers and check the bulb’s dimmable label. Recessed can retrofits must maintain fire/IC ratings; when unsure, use listed retrofit kits or hire an electrician.
+> **Safety notes:** Kill power at the switch or breaker before opening fixtures. Don’t exceed fixture wattage and follow LED-specific enclosure ratings (IC-rated cans, enclosed globes). Use damp/wet-rated lamps outdoors. For GU10/MR16 and pin bases, confirm voltage (line vs. low-voltage transformer). Mis-matched dimmers cause flicker, buzz, or early failure — use LED-compatible dimmers and check the bulb’s dimmable label. Recessed can retrofits must maintain fire/IC ratings; when unsure, use listed retrofit kits or hire an electrician.
 
 Other practical gotchas:
 
@@ -187,9 +187,9 @@ Other practical gotchas:
 - **Candelabra / globe aesthetics:** Match shape if the fixture shows the bulb — don’t force an A19 into a chandelier arm.
 - **Heat and summer bills:** Incandescent heat is waste indoors in cooling season; LEDs cut that waste. In heating season, that heat was never an efficient furnace substitute — fix setpoints with a sane [thermostat strategy](/blog/best-smart-thermostats-2026/) instead of keeping hot lamps on purpose.
 
-## Amazon shortlist (verified ASINs)
+## Our picks
 
-> **Affiliate disclosure:** As an Amazon Associate I earn from qualifying purchases. Some links below are affiliate links (including Amazon). We may earn a commission if you buy — at no extra cost to you. We do not guarantee bill reductions. Full details: [Disclosure](/disclosure/).
+> We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
 Match form factor and dimmable/outdoor needs from your measure-first walk. Keep working LEDs that already fit.
 
@@ -220,7 +220,7 @@ Match form factor and dimmable/outdoor needs from your measure-first walk. Keep 
 
 ### Best for candelabra / ceiling-fan E12: soft-white A15
 
-**Best for:** Chandeliers, sconces, and ceiling-fan light kits that take an **E12 candelabra** base — not a standard A19.
+**Best for:** Chandeliers, sconces, and ceiling-fan light kits that take an E12 candelabra base — not a standard A19.
 
 **Watch-outs:** Confirm E12 vs E26 before you buy. Check dimmable needs against your switch. Compact A15 shape still has to clear the glass; measure if the fixture is tight.
 
@@ -238,7 +238,7 @@ Match form factor and dimmable/outdoor needs from your measure-first walk. Keep 
 
 **Best for:** Unfinished spaces where you want crisp 5000K task light and a low cost-per-bulb. Fine for laundry, garage, workshop.
 
-**Watch-outs:** **Non-dimmable** on many bulk daylight packs — keep them off dimmer circuits. Do not force 5000K into living rooms and then blame LEDs for “feeling cold.”
+**Watch-outs:** Non-dimmable on many bulk daylight packs — keep them off dimmer circuits. Do not force 5000K into living rooms and then blame LEDs for “feeling cold.”
 
 - Feit A19 24-pack 5000K daylight: [View on Amazon](https://www.amazon.com/dp/B09HK5KGC3/?tag=homebillcuts-20)
 
@@ -251,7 +251,7 @@ Match form factor and dimmable/outdoor needs from your measure-first walk. Keep 
 - After sockets are done, cut standby clusters with [smart plugs](/blog/best-smart-plugs-vampire-power/) — a warm AV rack can dwarf a nightlight.
 - Prove odd loads with a [Kill A Watt](/blog/kill-a-watt-plug-in-energy-meter/) or [Emporia / Sense](/blog/emporia-vue-vs-sense/) before you buy another gadget.
 
-## What we won’t claim
+## What we can't promise
 
 - Fake “save $200/year from one 8-pack” graphics without your hours and rates
 - That LEDs replace the need for HVAC maintenance or sane [thermostat](/blog/best-smart-thermostats-2026/) schedules
@@ -272,4 +272,4 @@ Match form factor and dimmable/outdoor needs from your measure-first walk. Keep 
 
 ## Bottom line
 
-Yes — **LEDs save money versus leaving incandescents and halogens in high-hour sockets**, especially when you match lumens, buy the right form factor, and keep daylight bulk packs in utility spaces. No — they rarely outperform fixing setpoints, filters, and air leaks on a percentage-of-bill basis, and they won’t rewrite a bill that’s already mostly LED. Walk the house first, use the lumen table, follow the decision tree (including **skip** when the socket is already fine), and keep expectations honest. Continue with [Start Here](/start-here/) for what to tackle next.
+Yes — LEDs save money versus leaving incandescents and halogens in high-hour sockets, especially when you match lumens, buy the right form factor, and keep daylight bulk packs in utility spaces. No — they rarely outperform fixing setpoints, filters, and air leaks on a percentage-of-bill basis, and they won’t rewrite a bill that’s already mostly LED. Walk the house first, use the lumen table, follow the decision tree (including skip when the socket is already fine), and keep expectations honest. Continue with [Start Here](/start-here/) for what to tackle next.
