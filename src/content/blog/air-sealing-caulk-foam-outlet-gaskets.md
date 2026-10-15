@@ -149,8 +149,8 @@ Recheck after a week of humidity swings. Pair with the free habits in the [elect
 
 **Watch-outs:** Interior-partition outlets rarely move the bill. Keep foam *behind* the plate — not packed into the box on terminations. Kill power at the breaker if you’re unsure.
 
-- NRG outlet + switch draft-stopper gasket pack (16 outlet / 8 switch): [View on Amazon](https://www.amazon.com/dp/B002TIHKZE/?tag=homebillcuts-20)
-- NRG economy two-pack (32 outlet / 16 switch): [View on Amazon](https://www.amazon.com/dp/B017KZFTK8/?tag=homebillcuts-20)
+- Frost King OS12H outlet and switch sealer multi-pack: [View on Amazon](https://www.amazon.com/dp/B002T45UF0/?tag=homebillcuts-20)
+- Bulk foam gasket pack (64 outlet / 32 switch) for whole-house jobs: [View on Amazon](https://www.amazon.com/dp/B07L16C1DB/?tag=homebillcuts-20)
 - Multi-size foam plate gasket assortment (30 pcs, mixed gang styles): [View on Amazon](https://www.amazon.com/dp/B09M887XX9/?tag=homebillcuts-20)
 
 ### Best everyday caulk: DAP Alex Plus (squeeze tube)
@@ -167,7 +167,7 @@ Recheck after a week of humidity swings. Pair with the free habits in the [elect
 
 **Watch-outs:** Not for delicate window/door frames (use Window & Door foam below). Light trigger pulls; foam keeps expanding after you stop. Wear gloves and eye protection. Keep away from box interiors and combustion-air paths.
 
-- Great Stuff Gaps & Cracks 12 oz straw cans (3-pack): [View on Amazon](https://www.amazon.com/dp/B0BK94Z3XH/?tag=homebillcuts-20)
+- Great Stuff Gaps & Cracks 12 oz straw cans (case of 12): [View on Amazon](https://www.amazon.com/dp/B00CC2DNJY/?tag=homebillcuts-20)
 
 ### Best foam for window/door rough openings: Great Stuff Window & Door
 
@@ -175,7 +175,7 @@ Recheck after a week of humidity swings. Pair with the free habits in the [elect
 
 **Watch-outs:** Follow label fill guidance — “low pressure” is not “infinite fill.” Trim cured foam carefully. For rough openings only — not for stuffing behind outlet plates.
 
-- Great Stuff Window & Door 16 oz Quick Stop straw (2-pack): [View on Amazon](https://www.amazon.com/dp/B01J4FCBDK/?tag=homebillcuts-20)
+- Great Stuff Window & Door 12 oz straw cans (8-pack): [View on Amazon](https://www.amazon.com/dp/B071LGTR3P/?tag=homebillcuts-20)
 
 ### Best depth control before caulk: closed-cell backer rod
 

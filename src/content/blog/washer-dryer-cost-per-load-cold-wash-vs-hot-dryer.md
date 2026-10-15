@@ -240,7 +240,7 @@ We re-checked these listings on Amazon on 2026-10-13; specs and prices change, s
 **Skip the dryer for some loads**
 - Honey-Can-Do Heavy-Duty Gullwing Clothes Drying Rack (air-dry loads instead of running the dryer): [View on Amazon](https://www.amazon.com/dp/B00383O2UU/?tag=homebillcuts-20)
 - Honey-Can-Do Oversized Collapsible Clothes Drying Rack, 35″ (bigger loads, folds flat): [View on Amazon](https://www.amazon.com/dp/B0924X7ZYJ/?tag=homebillcuts-20)
-- Amazon Basics Foldable Portable Clothes Drying Rack (small-space option): [View on Amazon](https://www.amazon.com/dp/B00H7P1GPO/?tag=homebillcuts-20)
+- Amazon Basics Foldable Portable Metal Clothes Drying Rack (small-space option): [View on Amazon](https://www.amazon.com/dp/B00H7P1G7C/?tag=homebillcuts-20)
 - TempPro TP50 Hygrometer (watch indoor humidity if you air-dry inside): [View on Amazon](https://www.amazon.com/dp/B01H1R0K68/?tag=homebillcuts-20)
 
 **Shorter dryer cycles**

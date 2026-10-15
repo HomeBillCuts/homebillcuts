@@ -64,7 +64,7 @@ Ordering a gallon of gray paste before you know where air escapes is how you get
 2. **Power and safety first** — shut off power to the furnace/air handler at the switch or breaker before you lean on cabinets or pull panels. Note gas valve location. If wrappers look like old asbestos paper, crumbling gray/white cloth, or suspect tape on vintage ducts — stop; do not scrape or mastic; hire qualified help.
 3. **Walk every accessible trunk and boot (system off)** — look for separated transverse joints, longitudinal seams, takeoff collars, boot-to-duct connections, crushed or disconnected flex, missing screws, and daylight. Photograph each leak class.
 4. **Check the air handler / plenum** — cabinet seams, filter door gasket, supply and return plenum joints, and the first few feet of trunk often leak more than far branches. Do not block intentional combustion-air openings in the mechanical room.
-5. **Run the blower and smoke-test seams** — restore power briefly with a clean [filter](/blog/hvac-air-filters-merv-efficiency/) in place. With doors closed as usual, move incense, tissue, or a [smoke/fog pencil](https://www.amazon.com/dp/B07XL4VGQ3/?tag=homebillcuts-20) along joints. Smoke pulled in (return leaks) or blown out (supply leaks) marks work. Then power off again before sealing.
+5. **Run the blower and smoke-test seams** — restore power briefly with a clean [filter](/blog/hvac-air-filters-merv-efficiency/) in place. With doors closed as usual, move incense, tissue, or a [smoke/fog pencil](https://www.amazon.com/dp/B0CQW2L237/?tag=homebillcuts-20) along joints. Smoke pulled in (return leaks) or blown out (supply leaks) marks work. Then power off again before sealing.
 6. **Prioritize by location** — supply leaks into attic / vented crawl / garage waste heat; large return leaks pull dirty, hot, or cold air and can worsen comfort and IAQ. Room-to-room leaks inside conditioned space matter less for the bill.
 7. **Measure gap size and joint length** — hairline seams vs ¼″+ gaps vs missing chunks. Gaps need mesh under mastic; clean seams may take listed foil/mastik tape plus a mastic skim. Estimate linear feet so one gallon and one mesh roll is enough — or plan a second trip.
 8. **Decide DIY vs skip vs pro** — countable accessible leaks, clear metal, no asbestos → mastic + listed foil DIY. Already sealed or zero access → skip. Hidden runs / whole-system leakage goal / unsafe crawl → Aeroseal or home-performance pro. Never “seal” by closing dampers hard or taping dryer vents shut.
@@ -165,11 +165,11 @@ Walk the tree in order:
 
 - RCD Corporation Glasscoat adhesive-backed fiberglass mesh, 3″ × 180′: [View on Amazon](https://www.amazon.com/dp/B01AYAX2UA/?tag=homebillcuts-20)
 
-### 6) Optional leak finder: Smoke Pencil ONE fog pen
+### 6) Optional leak finder: Regin smoke pen
 
 **Why it makes the list:** A handheld smoke/fog pencil makes return vs supply leak direction obvious along seams when the blower runs. Incense sticks work too if you already have them — don’t buy gear you won’t use.
 
-- Smoke Pencil ONE air-leak detection hazer / fog pen: [View on Amazon](https://www.amazon.com/dp/B07XL4VGQ3/?tag=homebillcuts-20)
+- Regin S220 smoke pen with 3 wicks (about 30 minutes of smoke per wick): [View on Amazon](https://www.amazon.com/dp/B0CQW2L237/?tag=homebillcuts-20)
 
 ### 7) Optional install helpers: chip brushes + LED headlamp
 

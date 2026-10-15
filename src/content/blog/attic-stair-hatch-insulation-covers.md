@@ -2,7 +2,7 @@
 title: "Attic Stair & Hatch Insulation Covers: Stop the Biggest Ceiling Leak"
 description: "Attic stair & hatch cover guide — rigid box vs zipper tent vs DIY hatch, install troubleshooting, and Amazon shortlists."
 pubDate: 2026-09-12
-updatedDate: 2026-09-21
+updatedDate: 2026-10-15
 faqs:
   - question: "Will an attic stair cover lower my heating bill?"
     answer: "It can help because pull-down stairs and thin hatches are often large ceiling bypasses between living space and a vented attic. Sealing and insulating the access can cut draft and HVAC runtime in leaky homes, but we do not guarantee a dollar cut. Impact scales with climate, rates, how open the panel was, and whether the rest of the attic floor is already sealed."
@@ -108,8 +108,8 @@ Use this before you cart three kits:
 2. **Pull-down stairs, cold climate, rare attic trips, and ≥ ~13″ clearance above the folded ladder?** → Rigid Battic-style box sized exactly to the rough opening (22×54 or 25×54 — not interchangeable).
 3. **Pull-down stairs but you go into the attic often?** → Zippered attic tent so you don’t lift a rigid box every trip. Prefer brand tents (Attic Tent) when the size matches; budget foil tents for cost-sensitive 25×54 openings if you’ll staple carefully.
 4. **Clearance above the folded ladder is tight (< ~10–11″)?** → Low-profile zipper tent (e.g. Attic Tent AT-1 22×54×7 class) — don’t force a 13″ rigid box under a truss.
-5. **Rough opening is 22–22.5″ class?** → Shop 22×54 kits only (Battic Better, Attic Tent AT-3 / AT-1). A 25×54 kit will not fit.
-6. **Rough opening is 25–25.5″ class?** → Shop 25×54 kits (Battic R-50, DGSL / foil / Miloo 25×54×11). A 22×54 kit will leave a gap.
+5. **Rough opening is 22–22.5″ class?** → Shop 22×54 kits only (Battic Better, Attic Tent AT-1). A 25×54 kit will not fit.
+6. **Rough opening is 25–25.5″ class?** → Shop 25×54 kits (DGSL / foil / Miloo 25×54×11). A 22×54 kit will leave a gap.
 7. **Empty attic floor, major duct leaks, or ice dams dominate?** → Cover the hatch *and* prioritize [attic insulation / call-pro guidance](/blog/attic-insulation-approaches-when-to-call-pro/) plus [air sealing](/blog/air-sealing-caulk-foam-outlet-gaskets/) — the stair cover alone won’t fix an empty ceiling.
 8. **Rotten framing, damaged/knob-and-tube wiring, active moisture, or combustion-air conflicts?** → Call a pro. Don’t staple a tent over a structural or safety problem.
 9. **Stairs already sealed well?** → Stop shopping. Put the budget into doors, filters, or attic depth instead ([checklist](/blog/lower-electric-bill-priority-checklist/)).
@@ -137,14 +137,6 @@ Recheck after the first cold week — feel for drafts at the trim with incense o
 
 > We earn a commission if you buy through these Amazon links, at no extra cost to you. Check size and fit on the listing before you order.
 
-### Best high-R rigid kit (25×54): Battic Door R-50
-
-**Best for:** Homes with a 25″-class pull-down stair rough opening that want a contractor-favorite rigid box plus high insulation value for cold climates and rare attic trips.
-
-**Watch-outs:** Confirm your hinged panel / rough opening matches 25×54 (not 22×54). Needs attic clearance for the ~13″-class box depth. Follow the kit’s gasket seating so the seal isn’t cocked on the frame. Dry-fit before packing insulation so the ladder still folds.
-
-- Battic Door 25×54 R-50 Attic Pull-Down Stair Cover: [View on Amazon](https://www.amazon.com/dp/B0096Q3PQK/?tag=homebillcuts-20)
-
 ### Best rigid kit for narrower stairs (22×54): Battic Door Better kit
 
 **Best for:** The common 22–22.5″ × 54″ rough opening when you want the rigid box + gasket + reflective shield pattern (add insulation per kit instructions if not included) and you rarely climb up.
@@ -152,14 +144,6 @@ Recheck after the first cold week — feel for drafts at the trim with incense o
 **Watch-outs:** Bigger 25×54 kits will not fit smaller stairs — measure the hinged plywood door and rough opening against the listing. Depth is roughly 13″ class. Repair soft framing before trusting the gasket.
 
 - Battic Door 22×54 Better Attic Stair Cover: [View on Amazon](https://www.amazon.com/dp/B00NXGW2WM/?tag=homebillcuts-20)
-
-### Best brand zipper tent (taller): Attic Tent AT-3
-
-**Best for:** Frequent attic access on 22×54 stairs where a zippered fabric/foil tent is easier than lifting a rigid box; 22×54×13 profile when you have the height.
-
-**Watch-outs:** Staple the flange carefully for an air seal; leave the zipper fully closed when idle. Verify height clearance above the folded ladder. Label the living-room side so guests reseat the zipper.
-
-- Attic Tent AT-3 22×54×13: [View on Amazon](https://www.amazon.com/dp/B004V43O22/?tag=homebillcuts-20)
 
 ### Best low-profile zipper tent: Attic Tent AT-1
 
@@ -176,7 +160,6 @@ Recheck after the first cold week — feel for drafts at the trim with incense o
 **Watch-outs:** R-value claims vary; treat these as air + radiant barriers more than Battic-level insulated boxes. Check recent reviews for zipper durability. Staple into framing, not fluffy insulation alone.
 
 - DGSL Attic Stairway Insulation Cover 25×54×11: [View on Amazon](https://www.amazon.com/dp/B07WZYVGKY/?tag=homebillcuts-20)
-- Zippered foil attic stair cover 25×54×11 (R~15 class): [View on Amazon](https://www.amazon.com/dp/B09XML315B/?tag=homebillcuts-20)
 - Miloo attic door insulation cover 25×54×11: [View on Amazon](https://www.amazon.com/dp/B07JVB5C1Z/?tag=homebillcuts-20)
 
 ### Simple hatch (no pull-down stair): weatherstrip the stop

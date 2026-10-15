@@ -160,7 +160,7 @@ Recheck after a week of seasonal humidity swings; retighten sweep screws. Combin
 
 **Watch-outs:** Snakes don’t seal side jambs; they’re a partial fix. Don’t use them as an excuse to ignore a missing sweep on a door you own and can service. Keep clear of wet entries where fabric mildews and away from space heaters.
 
-- Draft stopper / door snake: [View on Amazon](https://www.amazon.com/dp/B09W2NZGDQ/?tag=homebillcuts-20)
+- Weighted under-door draft stopper, 32″ (trim-free; check your door width): [View on Amazon](https://www.amazon.com/dp/B09ZPL7Q38/?tag=homebillcuts-20)
 - Removable rope caulk (seasonal): [View on Amazon](https://www.amazon.com/dp/B000LNODSQ/?tag=homebillcuts-20)
 
 ### Best for door and window perimeters: V-strip / spring bronze or quality silicone kerf weatherstrip
@@ -177,8 +177,7 @@ Recheck after a week of seasonal humidity swings; retighten sweep screws. Combin
 
 **Watch-outs:** Installation quality dominates product marketing. Flashing and sealing the rough opening matter more than a brand slogan. This is no longer a “this month, $20” project — prioritize only after kits fail or the door is clearly failed. Verify handing, jamb depth, and rough opening before any buy.
 
-- Example insulated fiberglass prehung entry (36″×80″, left-hand inswing — verify handing, jamb depth, and rough opening before buy): [Ohana Depot fiberglass prehung on Amazon](https://www.amazon.com/dp/B0DBSNCXBB/?tag=homebillcuts-20)
-- Alternate steel insulated-core prehung example (34″×80″ RH inswing — measure; sizes differ): [National Door Company on Amazon](https://www.amazon.com/dp/B0BDPKCBZS/?tag=homebillcuts-20)
+- Example steel prehung entry door with insulated glass (34″×80″, right-hand inswing, 9-lite; measure the rough opening, sizes differ): [National Door Company on Amazon](https://www.amazon.com/dp/B00ZFRPCSS/?tag=homebillcuts-20)
 
 Hiring a pro for flashing and structural fit is often cheaper than a DIY miss on the weather barrier. For seasonal *window* drafts, see [window insulation kits](/blog/window-insulation-kits-winter-drafts/). For night coverage on cold glass after edges are sealed, see [thermal curtains](/blog/thermal-blackout-curtains-energy-savings/).
 

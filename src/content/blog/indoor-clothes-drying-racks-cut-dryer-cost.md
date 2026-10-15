@@ -128,7 +128,7 @@ Already machine-drying long cycles? A clogged vent stretches every load. Clean i
 
 **Why it makes the list:** A simple, inexpensive collapsible rack (about 29.5″ wide) with a very large review base. Good for testing the habit with a few loads a week before you commit floor space to a gullwing.
 
-- Amazon Basics Foldable Portable Clothes Drying Rack, 14.5″ D × 29.5″ W: [View on Amazon](https://www.amazon.com/dp/B00H7P1GPO/?tag=homebillcuts-20)
+- Amazon Basics Foldable Portable Metal Clothes Drying Rack: [View on Amazon](https://www.amazon.com/dp/B00H7P1G7C/?tag=homebillcuts-20)
 
 ### 3) Best oversized collapsible: Honey-Can-Do Oversized Collapsible Rack (35″, 50 lb)
 

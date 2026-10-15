@@ -148,7 +148,7 @@ Full hybrid tanks are often bought via big-box, plumbing supply, or utility-prog
 
 **Watch-outs:** Match tank volume to water heater size and local code. Set the air charge to your static cold-water pressure *before* connecting. Support the tank; follow orientation guidance. Hire a pro if you’re unsure.
 
-- Falcon-style 2.1 gal potable expansion tank (verify sizing for your heater): [View on Amazon](https://www.amazon.com/dp/B078C63QRW/?tag=homebillcuts-20)
+- EASYFLEX 2.1 gal stainless thermal expansion tank, 3/4″ MNPT (verify sizing for your heater): [View on Amazon](https://www.amazon.com/dp/B0D326TQ47/?tag=homebillcuts-20)
 
 ### Water heater drain pan (measure diameter first)
 
@@ -172,7 +172,7 @@ Full hybrid tanks are often bought via big-box, plumbing supply, or utility-prog
 
 **Watch-outs:** Match ID to pipe OD; seal seams; foam alone doesn’t freeze-proof outdoor wet lines in hard freezes (see [pipe freeze guide](/blog/pipe-freeze-heat-tape-protection/) if freeze risk remains).
 
-- Frost King pre-slit tubular polyethylene foam pipe insulation, 3/8″ wall, 6 ft (verify diameter fit): [View on Amazon](https://www.amazon.com/dp/B000BQN4EM/?tag=homebillcuts-20)
+- Foam King pre-slit foam pipe insulation tubes, 12-pack (check the inside diameter against your pipe): [View on Amazon](https://www.amazon.com/dp/B09MYLWN6N/?tag=homebillcuts-20)
 
 ### Prove 120 V peripheral loads only (not the 240 V tank)
 

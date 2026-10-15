@@ -164,7 +164,7 @@ Walk the tree in order:
 
 **Watch-outs:** Match ID to the pipe. Never roof de-icing cable on water pipes if you add heat tape later.
 
-- Frost King Pre-Slit Tubular Polyethylene Foam Pipe Insulation: [View on Amazon](https://www.amazon.com/dp/B000BQN4EM/?tag=homebillcuts-20)
+- Foam King pre-slit foam pipe insulation tubes, 12-pack (check the inside diameter against your pipe): [View on Amazon](https://www.amazon.com/dp/B09MYLWN6N/?tag=homebillcuts-20)
 
 ### What we left out
 

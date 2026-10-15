@@ -217,7 +217,7 @@ After the cable is secured per instructions, wrap with non-combustible foil-back
 
 **Watch-outs:** Match ID to pipe OD; seal seams; foam alone is not a substitute for cable in hard-freeze outdoor air on wet lines.
 
-- Frost King Pre-Slit Tubular Polyethylene Foam Pipe Insulation, 3/8″ wall, 6 ft: [View on Amazon](https://www.amazon.com/dp/B000BQN4EM/?tag=homebillcuts-20)
+- Foam King pre-slit foam pipe insulation tubes, 12-pack (check the inside diameter against your pipe): [View on Amazon](https://www.amazon.com/dp/B09MYLWN6N/?tag=homebillcuts-20)
 
 #### Best portable GFCI plug when the receptacle isn’t GFCI: Leviton right-angle GFCI plug
 
@@ -225,7 +225,7 @@ After the cable is secured per instructions, wrap with non-combustible foil-back
 
 **Watch-outs:** Not a substitute for a properly installed GFCI receptacle on a wet circuit; keep the device dry and follow the cable maker’s outlet requirements; renters/owners should still prefer a fixed GFCI outlet where practical.
 
-- Leviton 16694 15 A Right-Angle GFCI Plug: [View on Amazon](https://www.amazon.com/dp/B00HRF32FQ/?tag=homebillcuts-20)
+- Leviton 16693 15 A right-angle GFCI plug (auto-reset): [View on Amazon](https://www.amazon.com/dp/B0037NXKY0/?tag=homebillcuts-20)
 
 ## Install habits that keep freeze protection from becoming bill waste
 

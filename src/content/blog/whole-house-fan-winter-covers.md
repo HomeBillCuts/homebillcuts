@@ -123,15 +123,7 @@ Walk the tree in order:
 
 - Battic Door Whole House Fan / Attic Fan Shutter Seal (fits up to 36″×48″): [View on Amazon](https://www.amazon.com/dp/B000IFTAZS/?tag=homebillcuts-20)
 
-### 2) Best large shutter seal: Battic Door LARGE (fits up to ~48″×60″)
-
-**Best for:** Oversized ceiling shutters that outgrow the small kit — same trim-to-fit foam approach at a larger envelope.
-
-**Watch-outs:** Still trim — 48×60 is a max, not your cut size. Ladder for high halls. Medium ~48×48 needs often mean Home Depot MDSS, not the wrong Amazon size.
-
-- Battic Door LARGE Whole House Fan Winter Cover (fits up to 48″×60″): [View on Amazon](https://www.amazon.com/dp/B0096Q9TN8/?tag=homebillcuts-20)
-
-### 3) Best budget multilayer ~39″ trim-to-fit: Chiligent 3-layer foam/foil + Velcro
+### 2) Best budget multilayer ~39″ trim-to-fit: Chiligent 3-layer foam/foil + Velcro
 
 **Best for:** Households that want a lower-cost foam + foil stack with Velcro attachment, will measure carefully, and will peel the cover every spring (and before any fan use).
 
@@ -139,7 +131,7 @@ Walk the tree in order:
 
 - Chiligent 3-Layer Attic / Whole-House Fan Cover (~39″×39″ trim-to-fit, Velcro): [View on Amazon](https://www.amazon.com/dp/B0F8NS5QM1/?tag=homebillcuts-20)
 
-### 4) Best oversized budget sheet: Klmnop attic fan cover (~39″×55″) with Velcro
+### 3) Best oversized budget sheet: Klmnop attic fan cover (~39″×55″) with Velcro
 
 **Best for:** Wider grilles that need more than a square ~39″ sheet but don’t justify (or stock) a Battic large — trim-to-fit multilayer with Velcro.
 
@@ -147,7 +139,7 @@ Walk the tree in order:
 
 - Klmnop Attic Fan Winter Cover (~39″×55″ trim-to-fit, Velcro): [View on Amazon](https://www.amazon.com/dp/B0FHW9GGXZ/?tag=homebillcuts-20)
 
-### 5) Best DIY attic radiant / reflective layer: Reflectix roll
+### 4) Best DIY attic radiant / reflective layer: Reflectix roll
 
 **Best for:** Building or upgrading an attic-side seal — rigid foam box from the home center, then a Reflectix radiant layer or taped reflective skin where product clearances allow. Same Reflectix family used elsewhere on this site for radiant barrier DIY.
 

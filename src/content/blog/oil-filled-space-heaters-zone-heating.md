@@ -132,7 +132,7 @@ Use this as a quick filter — then buy only what your own checks support.
    - Durable all-winter build + timer → premium De’Longhi Dragon (TRD40615T).  
    - ComfortTemp-style bedroom/office → EW7707CM.  
    - Remote + digital ECO/timer/child lock → Pelonis ECO remote or Dreo digital (8-fin for larger closed rooms).  
-   - Lowest cost to *test* the habit → budget dual-knob Pelonis, upgrade controls later if it sticks.
+   - Lowest cost to *test* the habit → a simple De’Longhi dial model, upgrade controls later if it sticks.
 6. **Open floor plan / failed furnace / chronic envelope?**  
    - One 1500 W unit won’t fix it → skip “whole house” claims; pro envelope/HVAC + [priority checklist](/blog/lower-electric-bill-priority-checklist/).
 7. **Outlet, clearance, tip-over, and manual OK?**  
@@ -203,14 +203,6 @@ If it smells of burning plastic, leaks oil, or the cord is damaged — unplug an
 
 - De’Longhi EW7707CM Oil-Filled Radiator Heater: [View on Amazon](https://www.amazon.com/dp/B000TGDGLU/?tag=homebillcuts-20)
 
-### Best budget dual-knob workhorse: Pelonis 1500W (PHO15A2AGW)
-
-**Best for:** Simple 600 / 900 / 1500 W dials, tip-over + overheat protection, casters — low-cost way to test whether zone heating fits before spending premium money.
-
-**Watch-outs:** Analog controls are less precise than digital ECO. Same 3-foot clearance rule. If the habit sticks, step up to remote/ECO later rather than stacking a second heater.
-
-- Pelonis Oil-Filled Radiator, 1500W Dual Knobs (white): [View on Amazon](https://www.amazon.com/dp/B08NBHV5F5/?tag=homebillcuts-20)
-
 ### Best digital Pelonis with remote + ECO: Pelonis 1500W ECO remote model
 
 **Best for:** Remote, 24-hour timer, child lock, and ECO that modulates from a digital setpoint — still quiet oil-filled one-room heat.
@@ -229,11 +221,11 @@ If it smells of burning plastic, leaks oil, or the cord is damaged — unplug an
 
 ### Best high-dissipation Dreo 8-fin option: Dreo 1500W 8-fin radiator
 
-**Best for:** Slightly larger occupied rooms where more fin area helps distribution; remote + ECO + digital thermostat — still one closed room, not an open floor plan.
+**Best for:** Slightly larger occupied rooms where more fin area helps distribution; ECO mode and a digital thermostat that holds 1°F steps — still one closed room, not an open floor plan.
 
 **Watch-outs:** Bigger footprint and weight. Still one circuit’s heat — seal first if the room never holds temperature.
 
-- Dreo Oil-Filled Radiator Heater, 1500W 8-Fin with Remote: [View on Amazon](https://www.amazon.com/dp/B0C7GNJGR3/?tag=homebillcuts-20)
+- Dreo 1500W 8-fin oil-filled radiator (ECO mode, digital thermostat): [View on Amazon](https://www.amazon.com/dp/B0CQ2918KX/?tag=homebillcuts-20)
 
 ## What to do before you buy another heater
 

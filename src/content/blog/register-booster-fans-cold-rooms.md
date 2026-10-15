@@ -142,14 +142,6 @@ Be skeptical of headline CFM and “up to 300%” claims. Real rooms have grille
 
 - AC Infinity AIRTAP T4 Bronze, 4″×12″ Register Booster: [View on Amazon](https://www.amazon.com/dp/B07H8R7X2M/?tag=homebillcuts-20)
 
-### 5) Best HC500 size adapter: Suncourt HC5PL1-W adaptor plate
-
-**Best for:** Pairing an HC500 Flush Fit with larger openings (4×12, 6×10, 6×12 class) when you already like the Flush Fit form factor.
-
-**Watch-outs:** This is a plate, not a fan. Confirm compatibility with your HC500 color/model. If your opening is large and you want maximum simplicity, the HC600 path may be cleaner than adapter math.
-
-- Suncourt HC5PL1-W Flush Fit Adaptor Plate (2-pack): [View on Amazon](https://www.amazon.com/dp/B009AXHR22/?tag=homebillcuts-20)
-
 ## Troubleshooting
 
 | Symptom | Likely cause | What to try |

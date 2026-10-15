@@ -152,7 +152,6 @@ Foam board for a whole basement perimeter is usually a home-center FOAMULAR / XP
 
 **Watch-outs:** Minimal-expanding vs “big gap” formulas differ; use light trigger pulls; trim cured foam; gloves and eye PPE; not for filling an entire bay like spray foam.
 
-- Great Stuff Gaps & Cracks 12 oz straw cans (3-pack): [View on Amazon](https://www.amazon.com/dp/B0BK94Z3XH/?tag=homebillcuts-20)
 
 ### 2) Best larger-void foam: GREAT STUFF Big Gap Filler (8-pack)
 

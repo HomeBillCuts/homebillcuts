@@ -203,29 +203,21 @@ If the pad smells of burning, has hot spots, or the controller errors — unplug
 
 - Sunbeam Quilted Heated Mattress Pad, Full: [View on Amazon](https://www.amazon.com/dp/B07RF6L6G4/?tag=homebillcuts-20)
 
-### Best low-voltage Queen (dual control): SoftHeat Safe & Warm
+### Best dual-control Queen pad with a long guarantee: Bwarm
 
-**Best for:** Sleepers who specifically want SoftHeat’s low-voltage DC approach, micro-thin wires, and dual zones on Queen (and larger SoftHeat sizes).
+**Best for:** Couples who run hot and cold. Each side gets its own controller with 9 heat settings and a 1–12 hour auto-off, and the 18″ deep pocket fits most thicker mattresses.
 
-**Watch-outs:** Confirm the power-supply brick placement and dual-controller layout on your bed. Low-voltage is a safety/design choice — still follow all bedding rules.
+**Watch-outs:** It’s a standard wired pad, not a low-voltage design, so follow every bedding rule on the tag. Check your mattress depth before ordering.
 
-- SoftHeat Low-Voltage Heated Mattress Pad, Queen (dual control): [View on Amazon](https://www.amazon.com/dp/B07PQNRB13/?tag=homebillcuts-20)
+- Bwarm heated mattress pad, Queen, dual control: [View on Amazon](https://www.amazon.com/dp/B0CHYF4CFB/?tag=homebillcuts-20)
 
-### Best low-voltage Full: SoftHeat Safe & Warm (Full)
+### Best electric blanket alternative (Queen): Sunbeam Royal Ultra Fleece
 
-**Best for:** Full-size beds that want SoftHeat’s low-voltage pad with micro-thin wires and auto shut-off — single controller on Full in this listing.
-
-**Watch-outs:** If two people share a Full and fight over temperature, step up to a Queen dual-control pad instead of running the house warmer.
-
-- SoftHeat Low-Voltage Heated Mattress Pad, Full: [View on Amazon](https://www.amazon.com/dp/B07PSVL3MD/?tag=homebillcuts-20)
-
-### Best electric blanket alternative (Queen dual): Sunbeam Royal Ultra Fleece
-
-**Best for:** Preferring a top-layer heated blanket with dual digital controllers and selectable 1–12 hour auto shut-off — secondary to a mattress pad for most overnight strategies.
+**Best for:** Preferring a top-layer heated blanket with a backlit digital controller, 12 heat settings, and selectable 1–12 hour auto shut-off — secondary to a mattress pad for most overnight strategies.
 
 **Watch-outs:** Don’t tightly fold heated areas. Avoid sandwiching the blanket under multiple heavy comforters against manufacturer guidance. Pads are still the cleaner overnight default for most beds.
 
-- Sunbeam Royal Ultra Fleece Heated Blanket, Queen, dual control: [View on Amazon](https://www.amazon.com/dp/B0CQ9THRQ6/?tag=homebillcuts-20)
+- Sunbeam Royal Ultra Fleece Heated Blanket, Queen (burgundy): [View on Amazon](https://www.amazon.com/dp/B0D2DPBHJZ/?tag=homebillcuts-20)
 
 ## Sizing & dual-control notes
 

@@ -138,13 +138,13 @@ If edges still leak after a solid hang, fix door/sash daylight with [weatherstri
 
 - Sun Zero Columbia thermal blackout 2-pack: [View on Amazon](https://www.amazon.com/dp/B089TYQ8LJ/?tag=homebillcuts-20)
 
-### Best heavier “extreme” blackout weave: Sun Zero Harding (2-pack)
+### Best heavier theater-grade blackout: Sun Zero Nordic (2-pack)
 
 **Why it makes the list:** Thicker thermal-blackout build aimed at total light block and noise reduction — useful for bedrooms that also feel cold at the glass.
 
-**Watch-outs:** Heavier fabric needs a stronger rod. Recheck dimensions (many SKUs are 52″ × 96″) before buying for short windows.
+**Watch-outs:** Heavier fabric needs a stronger rod. Recheck the panel width and length on the listing before buying for short windows.
 
-- Sun Zero Harding thermal extreme blackout 2-pack: [View on Amazon](https://www.amazon.com/dp/B0898F29ZK/?tag=homebillcuts-20)
+- Sun Zero Nordic theater-grade blackout 2-pack: [View on Amazon](https://www.amazon.com/dp/B0C5GGS816/?tag=homebillcuts-20)
 
 ### Best single-panel back-tab option: Sun Zero Cyrus
 

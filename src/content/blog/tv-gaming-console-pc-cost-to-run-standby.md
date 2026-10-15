@@ -183,7 +183,6 @@ We checked these listings exist on Amazon as of October 2026; specs and prices c
 - P3 Kill A Watt P4400 plug-in electricity usage monitor (meter your entertainment center or desk for a week): [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - Smart Strip ECG-7MVR energy-saving surge protector with autoswitching (TV-controlled cluster shutoff; check the listing for which outlets are control, switched, and always-on): [View on Amazon](https://www.amazon.com/dp/B0058DHO1W/?tag=homebillcuts-20)
 - Kasa Smart Wi-Fi Power Strip HS300 (6 individually controlled outlets, per-outlet energy monitoring, 3 USB, 15 A total): [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
-- Kasa KP115 energy-monitoring slim smart plug (one offender on a schedule, watts in the app): [View on Amazon](https://www.amazon.com/dp/B08LZWBTR6/?tag=homebillcuts-20)
 - Kasa Matter KP125M energy-monitoring smart plug, 2-pack (if you use Apple Home / mixed ecosystems): [View on Amazon](https://www.amazon.com/dp/B0BYGRLRS1/?tag=homebillcuts-20)
 - Emporia energy-monitoring Wi-Fi smart plug (budget single-outlet option with timers): [View on Amazon](https://www.amazon.com/dp/B0CLVTKYQ9/?tag=homebillcuts-20)
 

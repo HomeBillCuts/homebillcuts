@@ -130,29 +130,21 @@ When in doubt, photograph the model label and the old panel stamp before you cli
 
 - AprilAire 10 Water Panel for models 110, 220, 500, 500A, 500M, 550, 550A, 558 (pack of 2): [View on Amazon](https://www.amazon.com/dp/B00RYWR604/?tag=homebillcuts-20)
 
-### 5) Portable path (no whole-house unit): Honeywell cool moisture humidifier
+### 5) Portable path (no whole-house unit): Honeywell HCM350B cool moisture humidifier
 
-**Best for:** Apartments, homes without a furnace humidifier, or targeting one medium bedroom/living room with evaporative (wick) moisture — paired with a hygrometer.
+**Best for:** Apartments, homes without a furnace humidifier, or one medium bedroom or living room that needs evaporative (wick) moisture. Pair it with a hygrometer so you know when to stop.
 
-**Watch-outs:** Empty, rinse, and dry on the maker’s schedule; replace wick filters; keep off bare wood finishes that hate spills; never ignore white dust / mineral buildup on hard water — distilled or filtered water can reduce mess. This is room-scale comfort, not a whole-house duct solution.
-
-- Honeywell cool moisture / germ-free cool mist humidifier (medium room, ~1 gallon tank, white): [View on Amazon](https://www.amazon.com/dp/B00Y4KR6HC/?tag=homebillcuts-20)
-
-### 6) Optional portable alternate color: Honeywell HCM350B (black)
-
-**Best for:** Same cool-moisture job when you prefer the black HCM350B face and the listing matches your room size needs.
-
-**Watch-outs:** Same cleaning and filter discipline as the white unit. Confirm tank size and room coverage on the listing before you treat “black” as a different capacity.
+**Watch-outs:** Empty, rinse, and dry it on Honeywell’s schedule and replace the wick. Keep it off bare wood finishes. This is room-scale comfort, not a whole-house duct fix.
 
 - Honeywell HCM350B cool moisture humidifier (black): [View on Amazon](https://www.amazon.com/dp/B00FJTVHKO/?tag=homebillcuts-20)
 
-### 7) Optional portable wick refill (aftermarket — disclose)
+### 6) Wick refill for the portable: Honeywell Filter A
 
-**Best for:** Keeping a Honeywell cool-moisture unit outputting after the wick loads with minerals — only if your model takes Filter A / HAC-504AW-style pads.
+**Best for:** Keeping a Honeywell cool-moisture unit putting out moisture once the wick loads up with minerals. Filter A fits the HCM-350 family.
 
-**Watch-outs:** The listing below is Home Care Products brand (compatible / aftermarket), not Honeywell OEM packaging. Confirm fit for your exact model, check stock (these go unavailable), and prefer OEM if you want factory branding. Replace on the humidifier’s filter schedule — a clogged wick is a quiet paperweight.
+**Watch-outs:** Check your model number against the listing before you order. A crusty, stiff wick barely humidifies, so swap it on the filter schedule rather than waiting for the room to feel dry.
 
-- Home Care Products compatible filter for Honeywell HAC-504AW-style Filter A (1-pack): [View on Amazon](https://www.amazon.com/dp/B0813PL9P7/?tag=homebillcuts-20)
+- Honeywell Replacement Wicking Filter A (1-pack, genuine Honeywell): [View on Amazon](https://www.amazon.com/dp/B07V4T5477/?tag=homebillcuts-20)
 
 ### What we left out
 

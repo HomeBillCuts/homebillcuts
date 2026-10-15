@@ -182,14 +182,6 @@ Match kit length to the run you measured. Pair any brush purchase with a metal t
 
 - Holikme 40 Feet Dryer Vent Cleaner Kit: [View on Amazon](https://www.amazon.com/dp/B088GR7DM8/?tag=homebillcuts-20)
 
-### Best starter combo (brush + vacuum): Holikme 15 ft + vacuum attachment
-
-**Best for:** Shorter transitions and lint-screen / immediate duct cleaning when you want a vacuum hose adapter in the same box.
-
-**Watch-outs:** 15 ft won’t cover a long concealed vent — pair with a longer brush kit or a pro if the outdoor hood is far.
-
-- Holikme Dryer Vent Cleaner Kit (15 ft brush + vacuum attachment): [View on Amazon](https://www.amazon.com/dp/B0967Y47YR/?tag=homebillcuts-20)
-
 ### Best vacuum-hose add-on: Holikme dryer vent vacuum attachment
 
 **Best for:** Households that already have a brush kit (or a shop vac) and need a flexible vacuum adapter for the dryer outlet and near-vent lint.
@@ -197,22 +189,6 @@ Match kit length to the run you measured. Pair any brush purchase with a metal t
 **Watch-outs:** Fit varies by vacuum nozzle — check adapter sizing on the listing. Vacuuming alone won’t clear a packed 20 ft chase; use brushes for deep lint.
 
 - Holikme Upgrade Dryer Vent Vacuum Hose Attachment: [View on Amazon](https://www.amazon.com/dp/B08QMJ6KPB/?tag=homebillcuts-20)
-
-### Best “one order” bundle: Holikme 3-pack (40 ft + vac + lint brush)
-
-**Best for:** First-time cleaners who want the long brush, vacuum attachment, and a hand lint brush in one purchase.
-
-**Watch-outs:** Still replace crushed foil duct afterward. Bundles don’t include UL transition duct — budget a metal kit separately if what’s behind the dryer is junk.
-
-- Holikme 3-Pack Dryer Vent Cleaner Kit: [View on Amazon](https://www.amazon.com/dp/B096KFQL11/?tag=homebillcuts-20)
-
-### Best UL-minded transition duct upgrade: Builder’s Best SAF-T elbow kit
-
-**Best for:** Replacing crushed foil with a UL-listed semi-rigid metal transition plus a close elbow for tight dryer-to-wall gaps; includes steel clamps on this kit.
-
-**Watch-outs:** Measure clearance behind the dryer before ordering an elbow kit. Keep the run as short and straight as practical; cut excess rather than coiling it.
-
-- Builder’s Best SAF-T Single Elbow Dryer Vent Duct Kit (4″ × 8′): [View on Amazon](https://www.amazon.com/dp/B09GHK3F4Y/?tag=homebillcuts-20)
 
 ### Best simple semi-rigid hose + clamps: Builder’s Best V220
 

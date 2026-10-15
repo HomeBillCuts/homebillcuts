@@ -327,7 +327,7 @@ For ranked picks and feature detail, see [best smart thermostats for 2026](/blog
 ### Room sensors (uneven homes, bad thermostat location)
 
 - **ecobee Smart Thermostat Premium (with SmartSensor)** — occupancy-aware room sensing, geofencing, and runtime reports that make the A/B test and heat pump aux checks easier: [View on Amazon](https://www.amazon.com/dp/B09XXS48P8/?tag=homebillcuts-20)
-- **Honeywell Home T9 with 1 Smart Room Sensor** — room-priority sensing and smart recovery; confirm heat pump configuration options for your system: [View on Amazon](https://www.amazon.com/dp/B07N849J21/?tag=homebillcuts-20)
+- **Honeywell Home T9 (sensor-ready)** — room-priority sensing once you add Smart Room Sensors and smart recovery; confirm heat pump configuration options for your system: [View on Amazon](https://www.amazon.com/dp/B07N83WK9T/?tag=homebillcuts-20)
 
 ### Learning thermostat
 

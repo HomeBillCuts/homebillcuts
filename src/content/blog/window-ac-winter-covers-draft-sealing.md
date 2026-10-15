@@ -135,15 +135,7 @@ When in doubt, measure twice — oversized outdoor bags flap in wind; undersized
 
 - Frost King AC2H Outside Window AC Cover (18″ × 27″ × 16″ class, up to ~10k BTU): [View on Amazon](https://www.amazon.com/dp/B0000DH4JK/?tag=homebillcuts-20)
 
-### 4) Best outdoor mid BTU: Frost King AC3H
-
-**Best for:** Roughly 10,000–15,000 BTU units with deeper outdoor protrusion than the AC2H bag.
-
-**Watch-outs:** Confirm depth with a tape measure; BTU bands are a starting point, not a substitute for chassis depth.
-
-- Frost King AC3H Outside Window AC Cover (18″ × 27″ × 22″ class): [View on Amazon](https://www.amazon.com/dp/B002FYEPQY/?tag=homebillcuts-20)
-
-### 5) Best outdoor large / deep chassis: Frost King AC5H
+### 4) Best outdoor large / deep chassis: Frost King AC5H
 
 **Best for:** Higher-BTU or deeper outdoor chassis (~15,000 BTU and up class).
 
@@ -151,7 +143,7 @@ When in doubt, measure twice — oversized outdoor bags flap in wind; undersized
 
 - Frost King AC5H Outside Window AC Cover (20″ × 28″ × 30″ class): [View on Amazon](https://www.amazon.com/dp/B0000DH4LM/?tag=homebillcuts-20)
 
-### 6) Best year-round wing seal: foam side-panel kit
+### 5) Best year-round wing seal: foam side-panel kit
 
 **Best for:** Replacing leaky accordion side covers so conditioned air stops leaking around the chassis — often higher bill leverage than a cover alone.
 

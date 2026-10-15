@@ -158,17 +158,9 @@ At 120V, 15A ≈ 1,800W theoretical. Real continuous loads should stay well unde
 
 - Kasa smart power strip (HS300): [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 
-### Best for measurement nerds: energy-monitoring smart plug
+### Best for measuring and automating: Matter energy-monitoring plug (2-pack)
 
-**Why it makes the list:** Shows real idle watts in the app so you can prove whether a device is worth cutting nightly. Great teaching tool for kids and roommates.
-
-**Watch-outs:** Meter accuracy varies; use it for relative decisions, not utility-grade billing. Monitoring doesn’t save energy until you act on it.
-
-- Kasa energy-monitoring slim plug (KP115): [View on Amazon](https://www.amazon.com/dp/B08LZWBTR6/?tag=homebillcuts-20)
-
-### Best measure + automate combo: Matter energy-monitoring plug (multi-pack)
-
-**Why it makes the list:** When you’ve already decided a load deserves a nightly cutoff *and* you want ongoing watt readouts without moving a Kill A Watt around. Matter support helps if you live in a mixed-ecosystem house — still verify your hub/app before you buy.
+**Why it makes the list:** Shows real idle watts in the app so you can prove whether a device is worth cutting nightly. Also useful when you’ve already decided a load deserves a nightly cutoff *and* you want ongoing watt readouts without moving a Kill A Watt around. Matter support helps if you live in a mixed-ecosystem house — still verify your hub/app before you buy.
 
 **Watch-outs:** Same amp rules as every other plug. Matter does not make a plug safe for heaters. Confirm 2.4 GHz commissioning requirements for your specific model.
 
@@ -180,7 +172,7 @@ At 120V, 15A ≈ 1,800W theoretical. Real continuous loads should stay well unde
 
 **Watch-outs:** Humans forget — that’s the only reason to automate. Still respect the strip’s amp rating and don’t daisy-chain.
 
-- Heavy-duty switched power strip: [View on Amazon](https://www.amazon.com/dp/B004UCUIE2/?tag=homebillcuts-20)
+- Tripp Lite 6SP heavy-duty metal power strip with on/off switch (6 outlets, 6 ft cord): [View on Amazon](https://www.amazon.com/dp/B000V58T0C/?tag=homebillcuts-20)
 
 ### Optional: outdoor-rated smart plug (décor / lights only)
 

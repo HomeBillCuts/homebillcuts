@@ -155,7 +155,7 @@ When in doubt, photograph the bib with a tape measure on spout length and buy on
 
 **Watch-outs:** Match inner diameter to the pipe (copper vs iron size charts on the listing). Pair with sealing drafts that wash across the run. If freeze risk remains after insulation, use listed [pipe heat tape](/blog/pipe-freeze-heat-tape-protection/) — never roof de-icing cable.
 
-- Frost King Pre-Slit Tubular Polyethylene Foam Pipe Insulation: [View on Amazon](https://www.amazon.com/dp/B000BQN4EM/?tag=homebillcuts-20)
+- Foam King pre-slit foam pipe insulation tubes, 12-pack (check the inside diameter against your pipe): [View on Amazon](https://www.amazon.com/dp/B09MYLWN6N/?tag=homebillcuts-20)
 
 ### What we left out
 

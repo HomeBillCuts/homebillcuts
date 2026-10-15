@@ -160,14 +160,6 @@ Recheck after the first cold week — feel for drafts at the hatch and look at e
 
 **Scope note:** Full-attic material volume is often cheaper and less crushed via local big-box or insulation supplier delivery. Use Amazon for PPE, baffles, hatch kits, weatherseal, and small top-up rolls when the ASIN matches what you measured. Verify width, facing, and coverage on the listing before checkout — stock rotates.
 
-### Best DIY top-up for many open attics: unfaced R-30 fiberglass roll
-
-**Best for:** Open attic floors where joists are accessible and you need a labeled R-30 unfaced top-up (often laid perpendicular over existing fill). Confirm 15″ vs 23″ width against your framing.
-
-**Watch-outs:** Shipping bulky insulation via parcel can be awkward; local pickup is often smarter for full attics. Never compress batts to “fit.” Keep insulation out of soffit channels — install baffles first. Unfaced avoids adding a second vapor retarder in the wrong place in many US attic top-ups — follow local code/climate guidance.
-
-- Owens Corning–style R-30 unfaced roll, 15″ × 25′ class (~31.25 sq ft): [View on Amazon](https://www.amazon.com/dp/B0044FZOTO/?tag=homebillcuts-20)
-
 ### Best before you bury the eaves: rafter / soffit baffles
 
 **Best for:** Preserving intake airflow so new batts or blown fill don’t choke soffit vents — critical for roof health and eave performance.
@@ -190,7 +182,7 @@ Recheck after the first cold week — feel for drafts at the hatch and look at e
 
 **Watch-outs:** Clean-shaven seal matters for disposable respirators. N95s are for certain particles — not for gases, spray-foam isocyanates, or asbestos abatement. If you suspect asbestos/vermiculite, stop and get pros. Replace when damaged, soiled, or breathing resistance rises.
 
-- 3M 8210 N95 particulate respirator (20-pack class): [View on Amazon](https://www.amazon.com/dp/B002OJB8AQ/?tag=homebillcuts-20)
+- 3M 8210 N95 particulate respirator, 20-pack: [View on Amazon](https://www.amazon.com/dp/B008MCUZZS/?tag=homebillcuts-20)
 
 ### Best companion before adding depth: hatch / door weatherseal
 
@@ -206,9 +198,8 @@ Recheck after the first cold week — feel for drafts at the hatch and look at e
 
 **Watch-outs:** Full sizing, clearance, and troubleshooting live in the [attic stair & hatch guide](/blog/attic-stair-hatch-insulation-covers/).
 
-- Battic Door 25×54 R-50 stair cover: [View on Amazon](https://www.amazon.com/dp/B0096Q3PQK/?tag=homebillcuts-20)
 - Battic Door 22×54 Better stair cover: [View on Amazon](https://www.amazon.com/dp/B00NXGW2WM/?tag=homebillcuts-20)
-- Attic Tent AT-3 22×54×13 zipper tent: [View on Amazon](https://www.amazon.com/dp/B004V43O22/?tag=homebillcuts-20)
+- DGSL zippered attic stair cover 25×54×11: [View on Amazon](https://www.amazon.com/dp/B07WZYVGKY/?tag=homebillcuts-20)
 
 ### Blown cellulose / mineral wool / spray foam
 

@@ -178,7 +178,7 @@ Walk the tree in order:
 
 **Watch-outs:** Keep spray foam off lamps, thermal protectors, and the can body. Use fire-rated intumescent caulk at the cover skirt, not Gaps & Cracks as a lamp tomb. Low-expansion Window & Door foam is for rough openings, not recessed lights.
 
-- Great Stuff Gaps & Cracks 12 oz straw cans (3-pack): [View on Amazon](https://www.amazon.com/dp/B0BK94Z3XH/?tag=homebillcuts-20)
+- Great Stuff Gaps & Cracks 12 oz straw cans (case of 12): [View on Amazon](https://www.amazon.com/dp/B00CC2DNJY/?tag=homebillcuts-20)
 
 ### What we left out
 

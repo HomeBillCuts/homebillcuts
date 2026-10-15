@@ -180,7 +180,7 @@ Before checkout:
 
 **Watch-outs:** App quality varies by model generation — buy the current firmware-supported SKU. Contractor markup can erase “savings” if you’re only upgrading for app features you won’t use.
 
-- Honeywell Home T9: [View on Amazon](https://www.amazon.com/dp/B07N849J21/?tag=homebillcuts-20)
+- Honeywell Home T9: [View on Amazon](https://www.amazon.com/dp/B07N83WK9T/?tag=homebillcuts-20)
 
 > These are shortlist *categories*, not lab-tested rankings with fabricated kWh deltas. Model numbers change — verify 2026 compatibility sheets and your wiring photos before ordering.
 

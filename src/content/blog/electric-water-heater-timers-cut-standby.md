@@ -120,7 +120,7 @@ These are heavy-duty timers / switches aimed at pool pumps, water heaters, and s
 
 **Watch-outs:** Electrician install; match breaker and wire size; program enough reheat before occupied hours. Confirm the listing for your voltage and pole configuration.
 
-- GE Heavy-Duty 7-Day Digital Box Timer, model 46537: [View on Amazon](https://www.amazon.com/dp/B0B6T1HW7T/?tag=homebillcuts-20)
+- GE Heavy-Duty 7-Day Digital Box Timer, model 46537: [View on Amazon](https://www.amazon.com/dp/B07TVKSDD4/?tag=homebillcuts-20)
 
 ### 2) Best known TORK digital: NSi TORK DTU40
 
@@ -136,7 +136,7 @@ These are heavy-duty timers / switches aimed at pool pumps, water heaters, and s
 
 **Watch-outs:** Follow the manual’s breaker guidance; verify terminals, knockouts, and outdoor rating for your mount location. Cheap is not “skip the electrician.”
 
-- Suraielec 40A 7-Day Digital Box Timer: [View on Amazon](https://www.amazon.com/dp/B0B6J68MCG/?tag=homebillcuts-20)
+- SURAIELEC 40A digital box timer (7-day repeat, up to 20 on/off programs): [View on Amazon](https://www.amazon.com/dp/B08VS3Z2CG/?tag=homebillcuts-20)
 
 ### 4) Best Wi‑Fi outdoor box: DEWENWILS 40A Wi‑Fi timer
 
@@ -152,7 +152,7 @@ These are heavy-duty timers / switches aimed at pool pumps, water heaters, and s
 
 **Watch-outs:** Neutral required; confirm 100–240V / 40A suitability against the nameplate and breaker; Wi‑Fi coverage at the mechanical room; still not a toy smart plug.
 
-- 40Amp Smart Water Heater Switch (Wi‑Fi, neutral required): [View on Amazon](https://www.amazon.com/dp/B0BVW864H8/?tag=homebillcuts-20)
+- 40 Amp smart water heater switch (Wi‑Fi, 8000 W, neutral required): [View on Amazon](https://www.amazon.com/dp/B0G2BNFTPJ/?tag=homebillcuts-20)
 
 ### What we left out
 

@@ -215,7 +215,7 @@ Pick one path once you know your wiring — then open the listing and re-check t
 - Nest-style learning thermostat: [View on Amazon](https://www.amazon.com/dp/B0D5BGST5N/?tag=homebillcuts-20)
 - Budget / Alexa-friendly smart thermostat: [View on Amazon](https://www.amazon.com/dp/B08J4C8871/?tag=homebillcuts-20)
 - Ecobee-style sensor thermostat: [View on Amazon](https://www.amazon.com/dp/B09XXS48P8/?tag=homebillcuts-20)
-- Honeywell Home T9 with room sensor: [View on Amazon](https://www.amazon.com/dp/B07N849J21/?tag=homebillcuts-20)
+- Honeywell Home T9 (room sensors sold separately): [View on Amazon](https://www.amazon.com/dp/B07N83WK9T/?tag=homebillcuts-20)
 
 Compare feature tradeoffs in the [buyer’s guide](/blog/best-smart-thermostats-2026/) before you click.
 
@@ -234,7 +234,7 @@ Trim kits do not cut kWh. Buy them so the install looks finished and you actuall
 ### Optional test tools (safety screening / measurement — not required for every DIY)
 
 - Fluke 1AC II non-contact voltage tester (line-voltage screening; not a 24V control-circuit meter): [View on Amazon](https://www.amazon.com/dp/B000EJ332O/?tag=homebillcuts-20)
-- Klein Tools MM300-class digital multimeter (manual-ranging; for careful AC voltage checks per the manual — hire if unsure): [View on Amazon](https://www.amazon.com/dp/B018O18VUW/?tag=homebillcuts-20)
+- Klein Tools MM325 manual-ranging digital multimeter (for careful AC voltage checks per the manual; hire help if unsure): [View on Amazon](https://www.amazon.com/dp/B0B57L9FNL/?tag=homebillcuts-20)
 
 ## Post-install checklist that can move kWh
 

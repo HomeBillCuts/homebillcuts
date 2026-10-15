@@ -2,12 +2,12 @@
 title: "Emporia Vue vs Sense: Which Home Energy Monitor Is Worth It?"
 description: "Emporia Vue vs Sense guide — measure utility data and plug loads first, decide circuit clamps vs detection, install troubleshooting, and Amazon shortlists."
 pubDate: 2026-09-05
-updatedDate: 2026-09-20
+updatedDate: 2026-10-15
 faqs:
   - question: "Will an Emporia Vue or Sense monitor lower my electric bill?"
     answer: "Not by itself. Monitors show what is driving kWh; behavior change and repairs cut the bill. They help when you will look at the data weekly and act—bad pump schedules, heat-strip runtime, mystery spikes. If you ignore the app, the hardware is just another cost."
   - question: "Should I choose Emporia Vue or Sense?"
-    answer: "Pick Vue-style monitoring when you want clamp-accurate breaker-level kWh (EV, HVAC stages, shop subpanels) and will map circuits. Pick Sense when you want mains-clamp device inferences with fewer CTs and are okay verifying detections. Neither replaces weatherization or sane thermostat habits."
+    answer: "Pick Vue-style monitoring when you want clamp-accurate breaker-level kWh (EV, HVAC stages, shop subpanels) and will map circuits. Sense used to be the pick for mains-clamp device detection with fewer clamps, but it stopped selling new monitors at the end of 2025, so for a new purchase Emporia Vue is the realistic choice. Neither replaces weatherization or sane thermostat habits."
   - question: "Do I need an electrician to install a home energy monitor?"
     answer: "Often yes. Both products clamp inside the service panel. If you are not qualified for live/load-side panel work, hire an electrician. Budget hardware plus labor, optional sensors, and your time to label circuits or verify detections."
   - question: "Should I buy a panel monitor before a plug-in meter?"
@@ -17,6 +17,8 @@ faqs:
 ---
 
 Whole-home energy monitors promise to show *what* is driving your electric bill. Two names come up constantly: Emporia Vue and Sense. Look at your utility data and plug loads before you open the panel. Then choose circuit clamps or device detection for the question you actually have, and install the monitor so its numbers stay trustworthy.
+
+One change since we first wrote this: Sense stopped selling new monitors at the end of 2025 and now focuses on software built into utility smart meters. Owners still get support, so the Sense sections below are mainly for people who already have one. If you’re buying today, Emporia Vue is the realistic whole-home pick.
 
 Monitors don’t save kWh by themselves. Behavior change and repairs do. If you need the action order first, read the [priority checklist](/blog/lower-electric-bill-priority-checklist/) and [Start Here](/start-here/). A [$30 plug-in meter](/blog/kill-a-watt-plug-in-energy-meter/) or [monitoring smart plugs](/blog/best-smart-plugs-vampire-power/) often answer a single-appliance mystery cheaper than a panel kit. Pair monitoring with a realistic [smart thermostat](/blog/best-smart-thermostats-2026/) schedule only after you’ve fixed obvious waste.
 
@@ -217,13 +219,9 @@ Compare that total to one billing cycle of waste you’re trying to find. If you
 
 - Emporia Vue kit (current generation): [View on Amazon](https://www.amazon.com/dp/B0C79TVH4Y/?tag=homebillcuts-20)
 
-### 2) Sense energy monitor kit — detection-first
+### 2) Sense — only if you already own one
 
-**Why it makes the list:** Stronger “what just turned on?” story with fewer CTs. Good when household engagement matters and you’re willing to verify detections.
-
-**Watch-outs:** Not accounting-grade per breaker. Similar loads can confuse the model; check current app tiers/features at purchase time.
-
-- Sense energy monitor kit: [View on Amazon](https://www.amazon.com/dp/B09W2ZYD1R/?tag=homebillcuts-20)
+Sense stopped selling its standalone monitor at the end of 2025 ([Sense’s announcement](https://sense.com/consumer-blog/looking-ahead-the-next-chapter-for-sense/)). Existing monitors still get app and firmware support, so if one is already in your panel, keep using it and verify its detections against the circuits you care about. We don’t link a new Sense kit because there isn’t a reliable new one to buy, and resale prices are often marked up.
 
 ### 3) Start cheaper: plug-in meter + monitoring plugs
 
@@ -271,7 +269,7 @@ Not by itself. Monitors show what is driving kWh; behavior change and repairs cu
 
 ### Should I choose Emporia Vue or Sense?
 
-Pick Vue-style monitoring when you want clamp-accurate breaker-level kWh (EV, HVAC stages, shop subpanels) and will map circuits. Pick Sense when you want mains-clamp device inferences with fewer CTs and are okay verifying detections. Neither replaces weatherization or sane thermostat habits.
+Pick Vue-style monitoring when you want clamp-accurate breaker-level kWh (EV, HVAC stages, shop subpanels) and will map circuits. Sense used to be the pick for mains-clamp device detection with fewer clamps, but it stopped selling new monitors at the end of 2025, so for a new purchase Emporia Vue is the realistic choice. Neither replaces weatherization or sane thermostat habits.
 
 ### Do I need an electrician to install a home energy monitor?
 

@@ -125,7 +125,7 @@ Useful *after* free/cheap steps:
 
 - **LED bulbs** for remaining high-use sockets — [View on Amazon](https://www.amazon.com/dp/B0DVWMMK17/?tag=homebillcuts-20)
 - **Door sweep / weatherstrip kit** — [View on Amazon](https://www.amazon.com/dp/B000UOC8OM/?tag=homebillcuts-20)
-- **Outlet / switch foam gaskets** — [View on Amazon](https://www.amazon.com/dp/B002TIHKZE/?tag=homebillcuts-20)
+- **Outlet / switch foam gaskets** — [View on Amazon](https://www.amazon.com/dp/B002T45UF0/?tag=homebillcuts-20)
 - **Kill-a-watt style plug meter** ([full guide](/blog/kill-a-watt-plug-in-energy-meter/)) — [View on Amazon](https://www.amazon.com/dp/B00009MDBU/?tag=homebillcuts-20)
 - **Smart power strip** for AV setups — [View on Amazon](https://www.amazon.com/dp/B07G95FFN3/?tag=homebillcuts-20)
 - **Foam pipe insulation** for exposed hot runs — [View on Amazon](https://www.amazon.com/dp/B0CJXFLQV5/?tag=homebillcuts-20)

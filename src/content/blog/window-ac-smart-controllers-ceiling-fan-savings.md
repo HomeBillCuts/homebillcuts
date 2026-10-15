@@ -136,7 +136,7 @@ Use this after you've checked your home, not instead of it.
 3. **You want basic schedules + geofencing + temp triggers at the lower controller price?**  
    - → Sensibo Sky class — strong default for renters and one-controller-per-AC setups.
 4. **You specifically want on-device buttons so every tweak doesn’t need unlocking a phone?**  
-   - → Cielo Breez Plus class — thermostat-like local UI plus Wi‑Fi automation.
+   - → Cielo Breez Max class — thermostat-like local display plus Wi‑Fi automation.
 5. **You want air-quality sensing on the same device and will use those readings?**  
    - → Sensibo Air PRO — only if you’ll use AQ features; otherwise you’re paying for sensors you ignore. Still only saves energy if automations cut hours.
 6. **Comfort issue is occupied-room feel, and you’ll raise cooling setpoint (or ease winter heat) with air movement?**  
@@ -188,13 +188,13 @@ Match control type (IR vs 24V), empty-home hours, and whether you’ll actually 
 
 - Sensibo Air PRO: [View on Amazon](https://www.amazon.com/dp/B0B12ZBHLZ/?tag=homebillcuts-20)
 
-### Strong alternative with on-device controls: Cielo Breez Plus
+### Strong alternative with an on-device display: Cielo Breez Max
 
 **Best for:** Thermostat-like on-device UI plus Wi‑Fi automation for IR ACs — useful if you don’t want every adjustment to require unlocking a phone. Supports common voice assistants.
 
 **Watch-outs:** Still IR-limited. Place carefully; hardwiring options exist but most people use the included adapter — follow the manual and hire help for any 24V work you’re not qualified to do.
 
-- Cielo Breez Plus: [View on Amazon](https://www.amazon.com/dp/B07MPG1Y23/?tag=homebillcuts-20)
+- Cielo Breez Max: [View on Amazon](https://www.amazon.com/dp/B0C7VMZ9FG/?tag=homebillcuts-20)
 
 ### Seal the window AC before the Wi‑Fi brick: foam side panels
 

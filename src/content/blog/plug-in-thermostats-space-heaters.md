@@ -195,7 +195,7 @@ Dial-type thermostats with the sensor built into the plug body sense air right a
 **Why they make the list:** Oil-filled radiators with knob controls are a common match for plug-in thermostats because the knobs stay where you left them when power returns. Still run the 30-second restart test on arrival. Full heater comparison: [oil-filled space heaters](/blog/oil-filled-space-heaters-zone-heating/).
 
 - De'Longhi oil-filled radiant heater with mechanical controls, 1,500 W: [View on Amazon](https://www.amazon.com/dp/B01CE70E3E/?tag=homebillcuts-20)
-- PELONIS oil-filled radiator, dual knobs, 1,500 W (budget): [View on Amazon](https://www.amazon.com/dp/B08NBHV5F5/?tag=homebillcuts-20)
+- De’Longhi EW7707CM oil-filled radiator with dial controls, 1,500 W: [View on Amazon](https://www.amazon.com/dp/B000TGDGLU/?tag=homebillcuts-20)
 
 ### What we left out
 

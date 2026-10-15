@@ -251,7 +251,7 @@ We checked these listings exist on Amazon at the time of writing; specs and pric
 
 **Humidifiers**
 
-- Honeywell HCM-350 Cool Moisture evaporative humidifier, medium room, 1.1 gal tank, wick filter + UV (about 60 W per Honeywell): [View on Amazon](https://www.amazon.com/dp/B00Y4KR6HC/?tag=homebillcuts-20)
+- Honeywell HCM350B Cool Moisture evaporative humidifier (black version of the HCM-350; medium room, 1.1 gal tank, wick filter + UV, about 60 W per Honeywell): [View on Amazon](https://www.amazon.com/dp/B00FJTVHKO/?tag=homebillcuts-20)
 - Pure Enrichment MistAire ultrasonic cool mist humidifier (small tabletop unit, auto shut-off, up to ~250 sq ft): [View on Amazon](https://www.amazon.com/dp/B013IJPTFK/?tag=homebillcuts-20)
 - Levoit Classic300 ultrasonic top-fill humidifier, 6 L tank (bigger bedroom or office; plan on low-mineral water if your tap water is hard): [View on Amazon](https://www.amazon.com/dp/B09WQJZ7ZN/?tag=homebillcuts-20)
 - Honeywell top-fill tower cool-moisture humidifier with digital humidistat (wick-based; uses Honeywell wick filter T — confirm the model on the page): [View on Amazon](https://www.amazon.com/dp/B077H19VJ6/?tag=homebillcuts-20)

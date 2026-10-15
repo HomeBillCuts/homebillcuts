@@ -2,7 +2,7 @@
 title: "Electric Baseboard Heater Thermostats: Line-Voltage Controls That Aren't a Nest"
 description: "US guide to 120/240V line-voltage thermostats for electric baseboard and wall heaters — measure poles and load first, mechanical vs electronic vs programmable vs Wi‑Fi, install troubleshooting, and Amazon shortlists. Nest/Ecobee are 24V — wrong family."
 pubDate: 2026-09-27
-updatedDate: 2026-09-27
+updatedDate: 2026-10-15
 faqs:
   - question: "Can I put a Nest or Ecobee on electric baseboard heat?"
     answer: "Almost never. Nest, Ecobee, and most Amazon Smart thermostats are 24-volt HVAC controls for furnaces and heat pumps. Electric baseboard and many wall heaters are line-voltage (120 or 240 volts) and need a line-voltage thermostat rated for that load. Wiring a 24V Nest into line voltage can destroy the thermostat and create a shock/fire hazard. Confirm voltage before you buy."
@@ -15,7 +15,7 @@ faqs:
   - question: "Should I hire an electrician to replace a baseboard thermostat?"
     answer: "Yes if you are unsure about voltage, pole count, amp ratings, aluminum wiring, crowded boxes, or local permit rules. Line-voltage work is ordinary for electricians and cheap insurance compared with a miswired 240V circuit. DIY is reasonable only when you can kill the correct breaker, verify zero volts, match wire-for-wire, and stay within the new thermostat's amp/watt rating."
   - question: "Mechanical dial or digital programmable — which should I buy?"
-    answer: "Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 or Honeywell CT410B class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Sinopé TH1124WF class) if you will use the app. Always match amps, volts, and pole count first."
+    answer: "Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Mysa LITE class) if you will use the app. Always match amps, volts, and pole count first."
 ---
 
 A Nest Learning Thermostat will not save a leaky bedroom with electric baseboard if that Nest was never the right product. Most US smart thermostats are 24-volt controls for furnaces and heat pumps. Hardwired baseboard, many wall heaters, and some radiant ceilings are line voltage — 120 or 240 volts switching real amp loads. Check the voltage and number of poles before you buy, size the thermostat to the heaters on that circuit, and choose mechanical, electronic, programmable or Wi-Fi.
@@ -80,10 +80,10 @@ If mercury is in an old tilt thermostat, do not trash it in household garbage �
 | --- | --- | --- |
 | 24V furnace / heat pump terminals (R, C, W, Y…) | [Smart thermostats 2026](/blog/best-smart-thermostats-2026/) | Wrong article if you are here by mistake |
 | Want cheapest like-for-like dial, 2-wire | Cadet T521-W class single-pole mechanical | Simple, high amp rating on many SKUs |
-| Want positive Off, 4-wire | Cadet T522-W or Honeywell CT410B class double-pole mechanical | Breaks both legs; summer Off |
+| Want positive Off, 4-wire | Cadet T522-W class double-pole mechanical | Breaks both legs; summer Off |
 | Want accurate digital, no schedule | Cadet TH114A-240D-B class electronic DP | Backlit setpoint without programming hassle |
 | Want 7-day setbacks on 240V baseboard | Honeywell TL8230A1003 class programmable DP | Schedules without needing Wi‑Fi |
-| Want app / Alexa / HomeKit on line voltage | Sinopé TH1124WF class Wi‑Fi line-voltage | Verify watt ceiling (e.g. 4000W @ 240V) |
+| Want app / Alexa / HomeKit on line voltage | Mysa LITE class Wi‑Fi line-voltage | Verify watt ceiling (e.g. 3,800 W @ 240 V) and neutral |
 | Load above thermostat rating / messy box / aluminum | Hire a licensed electrician | Safety beats a $40 DIY save |
 | Only one cold room, rest of house is 24V HVAC | Seal + [oil-filled zone heat](/blog/oil-filled-space-heaters-zone-heating/) or fix the baseboard circuit properly | Don’t frankenstein Nest onto 240V |
 
@@ -99,21 +99,21 @@ If mercury is in an old tilt thermostat, do not trash it in household garbage �
 
 - Cadet T521-W Single Pole Mechanical (22A, 120/208/240V): [View on Amazon](https://www.amazon.com/dp/B07F7F4DDK/?tag=homebillcuts-20)
 
-### 2) Best mechanical double-pole / positive Off: Cadet T522-W
+### 2) Best mechanical double-pole / positive Off: Cadet double-pole (T522-W class)
 
-**Best for:** 4-wire boxes that need both legs broken and a true Off for summer.
+**Best for:** 4-wire boxes that need both legs broken and a true Off for summer. Rated 22A, with a 40–80°F dial.
 
-**Watch-outs:** Still a mechanical comfort band (often several degrees). Verify listing stock/pricing.
+**Watch-outs:** Still a mechanical comfort band (the listing says 3–6°F). Verify listing stock/pricing.
 
-- Cadet T522-W Double Pole Mechanical (22A): [View on Amazon](https://www.amazon.com/dp/B07F7FDSM6/?tag=homebillcuts-20)
+- Cadet double-pole mechanical line-voltage thermostat (22A, positive Off): [View on Amazon](https://www.amazon.com/dp/B07FTVGXGM/?tag=homebillcuts-20)
 
-### 3) Best widely available DP mechanical: Honeywell Home CT410B
+### 3) Best higher-amp DP mechanical: Dr. Infrared DR-001
 
-**Best for:** Common 4-wire baseboard replacements with a simple dial and double-line break / positive Off.
+**Best for:** Bigger 4-wire baseboard or wall-heater circuits where 22A feels tight. The listing rates it up to 28A (about 6,720 W at 240 V) with double terminals for a positive Off.
 
-**Watch-outs:** Mechanical accuracy varies; not a schedule device. Dispose of mercury predecessors properly.
+**Watch-outs:** Mechanical dial, so expect a few degrees of swing. Size it to your heater and breaker, not the biggest number on the box.
 
-- Honeywell Home CT410B Manual Line-Volt Thermostat: [View on Amazon](https://www.amazon.com/dp/B000TKFQF0/?tag=homebillcuts-20)
+- Dr. Infrared DR-001 4-wire line-voltage wall thermostat (single or double pole): [View on Amazon](https://www.amazon.com/dp/B07VQNVXNZ/?tag=homebillcuts-20)
 
 ### 4) Best electronic non-programmable DP: Cadet TH114A-240D-B
 
@@ -123,13 +123,13 @@ If mercury is in an old tilt thermostat, do not trash it in household garbage �
 
 - Cadet TH114A-240D-B Electronic Double Pole: [View on Amazon](https://www.amazon.com/dp/B000NCWYNG/?tag=homebillcuts-20)
 
-### 5) Best single-pole programmable: Cadet TH106
+### 5) Best two-wire programmable: Stelpro ST302P
 
-**Best for:** 2-wire line-voltage rooms that want 7-day schedules without Wi‑Fi.
+**Best for:** 2-wire line-voltage rooms with baseboard or convector heat that want a weekly schedule without Wi‑Fi. It holds the room within about 1°F and runs four events on weekdays, two on weekends.
 
-**Watch-outs:** Confirm amp rating vs load; set baseboard vs fan cycle per instructions. Stock can be thin.
+**Watch-outs:** Rated 3000 W at 240 V (2600 W at 208 V, 1500 W at 120 V), so add up the heater watts. Not for fan-forced heaters; Stelpro sells a separate FF model for those.
 
-- Cadet TH106 Programmable Single Pole: [View on Amazon](https://www.amazon.com/dp/B07F7QVGZT/?tag=homebillcuts-20)
+- Stelpro ST302P programmable line-voltage thermostat (3000 W): [View on Amazon](https://www.amazon.com/dp/B0CYQ99VHZ/?tag=homebillcuts-20)
 
 ### 6) Best mainstream programmable double-pole: Honeywell TL8230A1003
 
@@ -139,13 +139,13 @@ If mercury is in an old tilt thermostat, do not trash it in household garbage �
 
 - Honeywell TL8230A1003 7-Day Programmable Line-Volt: [View on Amazon](https://www.amazon.com/dp/B008HOT7O6/?tag=homebillcuts-20)
 
-### 7) Best Wi‑Fi line-voltage option: Sinopé TH1124WF
+### 7) Best Wi‑Fi line-voltage option: Mysa LITE
 
-**Best for:** App schedules, Alexa/HomeKit-style ecosystems, and remote setbacks on electric baseboard — when the watt rating fits (TH1124WF class often up to 4000W @ 240V).
+**Best for:** App schedules, geofencing, and Alexa / HomeKit / Google control on electric baseboard, convector, or fan-forced heat, with no subscription. Rated up to 1,900 W at 120 V or 3,800 W at 240 V.
 
-**Watch-outs:** 2.4 GHz Wi‑Fi quirks; verify 2-wire vs 4-wire install; not a substitute for an electrician on scary boxes. Still line-voltage — not a Nest.
+**Watch-outs:** It needs 4 wires including a neutral or a second line, so it won’t work on a two-wire switch loop; run Mysa’s compatibility checker first. 2.4 GHz Wi‑Fi only. Still line voltage, not a Nest.
 
-- Sinopé TH1124WF Smart Wi‑Fi Line-Voltage Thermostat: [View on Amazon](https://www.amazon.com/dp/B0897Z15CB/?tag=homebillcuts-20)
+- Mysa Smart Thermostat LITE for electric baseboard heaters: [View on Amazon](https://www.amazon.com/dp/B0F5BVD9FM/?tag=homebillcuts-20)
 
 ## Troubleshooting
 
@@ -156,7 +156,7 @@ If mercury is in an old tilt thermostat, do not trash it in household garbage �
 | Heat never shuts off | Welded mechanical contacts; miswired line/load; failed electronic | Replace thermostat; confirm line vs load; electrician if stuck On |
 | Room swings 5–10°F | Mechanical band; sensor near draft/sun; oversized heater | Move to electronic; fix drafts; avoid mounting over the heater |
 | New digital clicks loudly | Normal relay on some units; fan-forced long cycle | Check model cycle setting; consider quieter triac designs |
-| Wi‑Fi won’t join | 5 GHz-only SSID; captive portal; distance | 2.4 GHz setup; closer AP; follow Sinopé/Neviweb docs |
+| Wi‑Fi won’t join | 5 GHz-only SSID; captive portal; distance | 2.4 GHz setup; closer AP; follow the maker’s app setup steps |
 | “Nest compatible” listing confusion | Marketplace wording for 24V kits | Ignore; re-check voltage — baseboard needs line-voltage SKU |
 | Amp rating too low | Too many heaters on one thermostat | Split circuits or higher-rated control with electrician |
 
@@ -212,7 +212,7 @@ Yes if you are unsure about voltage, pole count, amp ratings, aluminum wiring, c
 
 ### Mechanical dial or digital programmable — which should I buy?
 
-Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 or Honeywell CT410B class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Sinopé TH1124WF class) if you will use the app. Always match amps, volts, and pole count first.
+Want cheapest like-for-like replacement and simple always-on comfort: mechanical single- or double-pole (Cadet T521/T522 class). Want degree-accurate control without schedules: electronic non-programmable. Want nightly/weekday setbacks on baseboard: programmable double-pole (Honeywell TL8230 class) or a verified Wi‑Fi line-voltage unit (Mysa LITE class) if you will use the app. Always match amps, volts, and pole count first.
 
 ## Related reading
 

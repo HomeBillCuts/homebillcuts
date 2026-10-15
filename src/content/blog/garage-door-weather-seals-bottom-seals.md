@@ -193,7 +193,7 @@ If the door is off-track, cables are frayed, or the opener struggles, fix the do
 
 **Watch-outs:** Vinyl can stiffen in cold; paint only if the product allows. Replace brittle old stop entirely rather than patching gaps with tape.
 
-- M-D Building Products 3822 Vinyl Garage Door Top and Sides Seal, 30 ft, White: [View on Amazon](https://www.amazon.com/dp/B08W4FHHM7/?tag=homebillcuts-20)
+- M-D Building Products garage door top and sides seal, 30 ft, white: [View on Amazon](https://www.amazon.com/dp/B0009F86SE/?tag=homebillcuts-20)
 
 ### Best long side & top kit for doubles: Elvone 36 ft
 

@@ -152,8 +152,8 @@ Best fit if you want one setting to change: Heat Pump Balance set to *Balanced* 
 
 Best fit for Honeywell/Resideo households and contractor installs. Resideo's installer menus include backup heat lockout using a wired outdoor sensor or internet weather. The T10 Pro is the contractor-oriented model with a RedLINK room sensor; the T9 is the retail smart model with Smart Room sensor support. Confirm your model's ISU list includes the lockout you want.
 
-- Honeywell Home T9 Smart Thermostat: [View on Amazon](https://www.amazon.com/dp/B07N849J21/?tag=homebillcuts-20)
-- Honeywell Home T10 Pro Smart Thermostat with RedLINK (THX321WFS2001W): [View on Amazon](https://www.amazon.com/dp/B07P97FWKN/?tag=homebillcuts-20)
+- Honeywell Home T9 Smart Thermostat: [View on Amazon](https://www.amazon.com/dp/B07N83WK9T/?tag=homebillcuts-20)
+- Honeywell Home T10+ Pro with RedLINK 3.0 (THX321WFS3001W, the current version of the T10 Pro): [View on Amazon](https://www.amazon.com/dp/B0F3W97MD8/?tag=homebillcuts-20)
 
 ### Add an outdoor sensor to a compatible Honeywell: C7089U1006
 
