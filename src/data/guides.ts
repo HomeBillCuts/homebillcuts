@@ -25,6 +25,7 @@ import heating6 from '../assets/photos/heating6.jpg';
 import heating7 from '../assets/photos/heating7.jpg';
 import heating8 from '../assets/photos/heating8.jpg';
 import heating9 from '../assets/photos/heating9.jpg';
+import water2 from '../assets/photos/water2.jpg';
 
 const extra: Partial<Record<CategoryId, { photo: ImageMetadata; alt: string }[]>> = {
   heating: [
@@ -76,6 +77,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'heated-mattress-pads-zone-heating': { category: 'heating', dek: 'Warm the bed instead of the house and drop the overnight thermostat.' },
   'holiday-lights-cost-to-run-led-vs-incandescent-timers': { category: 'electricity', dek: 'Four example displays, from about $1 to $90 a season, plus timers and outdoor safety.' },
   'humidifier-cost-to-run-ultrasonic-vs-evaporative-vs-warm-mist': { category: 'electricity', dek: 'Cool-mist models look cheap to run, but part of their cost shows up on the furnace bill.' },
+  'hot-tub-cost-to-run-winter-cover-thermal-blanket': { category: 'water', dek: 'A tired cover is the usual reason a winter hot tub bill jumps. Here is how to check it and what to fix first.' },
   'hvac-air-filters-merv-efficiency': { category: 'heating', dek: 'Which MERV rating your system can handle, and when a thick filter hurts airflow.' },
   'indoor-clothes-drying-racks-cut-dryer-cost': { category: 'laundry', dek: 'Figure out what a dryer load costs, then air-dry without making the house damp.' },
   'insulate-hot-water-pipes-water-heater-jacket': { category: 'water', dek: 'Foam sleeves on the first few feet of pipe, and when an old tank still needs a jacket.' },
@@ -109,6 +111,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
 };
 
 const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'hot-tub-cost-to-run-winter-cover-thermal-blanket': { photo: water2, alt: "A round outdoor hot tub with a wooden surround in a leafy garden" },
   'best-smart-thermostats-2026': { photo: heating4, alt: "A person holding a smart thermostat showing the room temperature" },
   'duct-sealing-mastic-foil-tape-hvac': { photo: heating10, alt: "Workers installing a section of sheet-metal ductwork" },
   'electric-baseboard-heater-thermostats-line-voltage': { photo: heating8, alt: "A white electric baseboard heater with a built-in dial thermostat" },

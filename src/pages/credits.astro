@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import credits from '../data/credits.json';
-const labelOf = (k: string) => (k.startsWith('heating') ? 'Heating & Cooling' : labels[k] ?? k);
+const labelOf = (k: string) => labels[k] ?? labels[k.replace(/\d+$/, '')] ?? k;
 const labels: Record<string, string> = { hero: 'Homepage', drafts: 'Drafts & Sealing', heating: 'Heating & Cooling', insulation: 'Insulation', water: 'Water Heating', electricity: 'Appliances & Electricity', kitchen: 'Kitchen', laundry: 'Laundry', heating2: 'Heating & Cooling', heating3: 'Heating & Cooling', drafts2: 'Drafts & Sealing', electricity2: 'Appliances & Electricity' };
 ---
 <BaseLayout title="Photo credits" description="Credits and licenses for the photos used on HomeBillCuts." canonicalPath="/credits/">
