@@ -1,8 +1,8 @@
 ---
-title: "Rim Joist Insulation for Basements: Foam Board + Air Seal"
-description: "US guide to rim / band joist insulation in unfinished basements and crawlspaces — bay walk, cut-to-fit XPS/polyiso + Great Stuff edge seal vs batts vs closed-cell spray foam, moisture and thermal-barrier honesty, install troubleshooting, and Amazon shortlists."
+title: "Rim Joist Insulation: Foam Board and Air Seal for Basements"
+description: "Cut foam board to fit each basement rim-joist bay and seal the edges with spray foam—when batts fall short and moisture rules matter."
 pubDate: 2026-09-30
-updatedDate: 2026-09-30
+updatedDate: 2026-10-14
 faqs:
   - question: "Will rim joist insulation lower my heating bill?"
     answer: "It can help when the band/rim joist and sill plate are bare wood and air leaks at the foundation–floor junction dump cold into joist bays under living spaces. Air-sealing edges and adding foam board or closed-cell foam reduces stack-effect leakage and cold floors above. We do not guarantee a dollar or percentage cut. Impact scales with how leaky those bays were, climate, rates, whether floors above are already insulated, and whether bigger envelope leaks still dominate."
