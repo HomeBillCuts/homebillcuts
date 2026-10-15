@@ -1,8 +1,8 @@
 ---
-title: "Insulate Hot Water Pipes (and When a Water Heater Jacket Helps)"
-description: "Measure-first guide to foam pipe insulation and electric tank jackets — pipe OD vs foam ID, safety, troubleshooting, and Amazon shortlists."
+title: "Insulate Hot Water Pipes (and When a Tank Jacket Helps)"
+description: "Foam sleeves on the first few feet of hot pipe, and when an old electric tank still needs a jacket—how to match OD to foam ID safely."
 pubDate: 2026-09-10
-updatedDate: 2026-09-22
+updatedDate: 2026-10-14
 faqs:
   - question: "Will insulating hot water pipes lower my electric bill?"
     answer: "It can when hot lines run through cold basements, crawlspaces, garages, or long unconditioned runs so the tank reheats less between draws. Short pipes already inside living space help less. Insulation slows cool-down—it doesn’t create instant hot water. We don’t guarantee a dollar cut."
