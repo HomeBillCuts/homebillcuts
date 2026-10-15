@@ -68,7 +68,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'electric-kettle-vs-stove-microwave-cost-to-boil-water': { category: 'kitchen', dek: 'A liter costs about 2¢ in a kettle. Overfilling and reboiling cost more than which device you use.' },
   'electric-water-heater-timers-cut-standby': { category: 'water', dek: 'When a timer on an electric tank helps, and when your schedule makes it pointless.' },
   'emporia-vue-vs-sense': { category: 'electricity', dek: 'Two whole-home energy monitors compared: install, accuracy and what you learn from each.' },
-  'fireplace-chimney-draft-blockers': { category: 'drafts', dek: 'An unused fireplace can pull warm air up the flue all winter. Plug it safely.' },
+  'fireplace-chimney-draft-blockers': { category: 'drafts', dek: 'Cold air from an unused fireplace is usually a leaky damper. Here is how to plug it safely.' },
   'furnace-humidifier-water-panels-winter-comfort': { category: 'heating', dek: 'Replace the right water panel and dry winter air feels warmer at the same setting.' },
   'garage-door-weather-seals-bottom-seals': { category: 'drafts', dek: 'Bottom seals and perimeter strips for attached garages that leak cold into the house.' },
   'heat-pump-aux-heat-high-bill-thermostat-settings': { category: 'heating', dek: 'Backup heat strips are expensive. These thermostat settings keep them from kicking in early.' },
