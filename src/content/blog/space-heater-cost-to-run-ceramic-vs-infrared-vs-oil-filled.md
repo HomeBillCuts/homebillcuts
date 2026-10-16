@@ -148,7 +148,7 @@ Measure with the Kill A Watt to know whether a change actually used fewer kWh.
 Space heaters start home fires every winter when clearance and cord rules slip. Before you plug one in:
 
 - **Do not** use an extension cord or power strip. Plug the heater directly into a wall outlet. ESFI's guidance is the same: plug space heaters directly into the wall; extension cords and power strips can overheat ([ESFI](https://www.esfi.org/space-heater-safety/)).
-- **Do not** put anything within 3 feet of the heater — curtains, bedding, sofas, clothes, papers, boxes, or pet beds. Never dry clothes or towels on a heater.
+- **Do not** put anything within 3 feet of the heater — curtains, bedding, sofas, clothes, papers, boxes, or pet beds. Never dry clothes or towels on a heater. If the heater is there to keep a pet warm, a low-watt [heated pet bed](/blog/heated-pet-bed-water-bowl-cost-to-run/) is safer and costs a small fraction as much to run.
 - **Do not** buy a heater without tip-over shutoff and overheat protection.
 - **Do not** buy an unlisted heater. Look for a mark from a nationally recognized testing lab — UL, ETL (Intertek), or CSA — on the product label, not just the listing.
 - **Do not** leave a heater running unattended, or in a room where you're sleeping, unless its manual explicitly allows it and you've accepted the risk. In particular, keep ceramic and quartz heaters well away from beds and bedding.

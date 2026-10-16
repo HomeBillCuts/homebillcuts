@@ -189,6 +189,8 @@ Point a ceiling heater's louvers at your bench, not the middle of the floor. A r
 
 If something in the garage can't freeze, like a laundry sink, a water heater or latex paint, set the thermostat to the lowest setting that protects it, often around 40°F, instead of a comfortable temperature. Pipe heat tape on just the exposed lines may be cheaper than heating the room. See our [pipe heat tape guide](/blog/pipe-freeze-heat-tape-protection/).
 
+If the heater is only running overnight because a dog or cat sleeps out there, heat the bed instead of the room. A 40-watt heated pad costs about 16¢ a day at $0.17/kWh even if it never shuts off. Our [heated pet bed guide](/blog/heated-pet-bed-water-bowl-cost-to-run/) has the numbers and picks.
+
 ## Wiring and safety basics
 
 - Most 5,000 to 5,600-watt heaters need a dedicated 240-volt, 30-amp circuit. 7,500-watt units usually need 40 amps.

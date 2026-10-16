@@ -28,6 +28,7 @@ import heating7 from '../assets/photos/heating7.jpg';
 import heating8 from '../assets/photos/heating8.jpg';
 import heating9 from '../assets/photos/heating9.jpg';
 import water2 from '../assets/photos/water2.jpg';
+import electricity3 from '../assets/photos/electricity3.jpg';
 
 const extra: Partial<Record<CategoryId, { photo: ImageMetadata; alt: string }[]>> = {
   heating: [
@@ -78,6 +79,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'heat-pump-aux-heat-high-bill-thermostat-settings': { category: 'heating', dek: 'Backup heat strips are expensive. These thermostat settings keep them from kicking in early.' },
   'heat-pump-water-heater-vs-standard': { category: 'water', dek: 'A heat pump water heater costs more up front. Here is how to tell if it pays back in your home.' },
   'heated-mattress-pads-zone-heating': { category: 'heating', dek: 'Warm the bed instead of the house and drop the overnight thermostat.' },
+  'heated-pet-bed-water-bowl-cost-to-run': { category: 'electricity', dek: 'A heated pet bed runs on 4 to 60 watts. Here is what beds, bowls and bird baths cost per month.' },
   'holiday-lights-cost-to-run-led-vs-incandescent-timers': { category: 'electricity', dek: 'Four example displays, from about $1 to $90 a season, plus timers and outdoor safety.' },
   'humidifier-cost-to-run-ultrasonic-vs-evaporative-vs-warm-mist': { category: 'electricity', dek: 'Cool-mist models look cheap to run, but part of their cost shows up on the furnace bill.' },
   'hot-tub-cost-to-run-winter-cover-thermal-blanket': { category: 'water', dek: 'A tired cover is the usual reason a winter hot tub bill jumps. Here is how to check it and what to fix first.' },
@@ -115,6 +117,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
 };
 
 const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'heated-pet-bed-water-bowl-cost-to-run': { photo: electricity3, alt: "A brindle dog curled up asleep in a round, fur-lined pet bed" },
   'roof-heat-cable-cost-to-run-ice-dams': { photo: insulation2, alt: "A heat cable clipped in a zigzag along the shingles above a white gutter" },
   'garage-heater-cost-to-run-electric-vs-propane': { photo: heating24, alt: "The inside of a white steel single-car garage door with its tracks and hinges" },
   'hot-tub-cost-to-run-winter-cover-thermal-blanket': { photo: water2, alt: "A round outdoor hot tub with a wooden surround in a leafy garden" },
