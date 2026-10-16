@@ -36,7 +36,7 @@ Attic floor insulation sits between conditioned living space and a typically ven
 **Insulation helps less when:**
 
 - The attic is already near recommended R-value for your climate and evenly covered.
-- Moisture, ice dams, or roof leaks need fixing first — burying problems with fluff makes them worse.
+- Moisture, ice dams, or roof leaks need fixing first — burying problems with fluff makes them worse. Ice dams are usually a sign of warm air leaking into the attic; our [roof heat cable guide](/blog/roof-heat-cable-cost-to-run-ice-dams/) explains why sealing those leaks beats running cable all winter.
 - Your HVAC is failing, undersized, or poorly charged — insulation won’t fix mechanical defects.
 - You skip air sealing and only top-dress batts over major bypasses.
 - The “hole” is really the pull-down stair or thin hatch — a [stair/hatch cover](/blog/attic-stair-hatch-insulation-covers/) may beat a pallet of batts alone.

@@ -2,6 +2,7 @@ import hero from '../assets/photos/hero.jpg';
 import drafts from '../assets/photos/drafts.jpg';
 import heating from '../assets/photos/heating.jpg';
 import insulation from '../assets/photos/insulation.jpg';
+import insulation2 from '../assets/photos/insulation2.jpg';
 import water from '../assets/photos/water.jpg';
 import electricity from '../assets/photos/electricity.jpg';
 import kitchen from '../assets/photos/kitchen.jpg';
@@ -96,6 +97,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'refrigerator-freezer-cost-to-run-thermometer-coil-brush': { category: 'kitchen', dek: 'Measure your fridge, set the right temperatures and test the door seal. Coil cleaning matters less than you think.' },
   'register-booster-fans-cold-rooms': { category: 'heating', dek: 'A booster fan moves more warm air to a cold room. It cannot create heat that is not there.' },
   'rim-joist-band-joist-insulation-basement': { category: 'insulation', dek: 'Cut foam board to fit each bay along the basement rim and seal the edges with spray foam.' },
+  'roof-heat-cable-cost-to-run-ice-dams': { category: 'insulation', dek: 'A 100-foot cable costs about $2 a day to run. When it is worth it, and the attic fixes that stop ice dams for good.' },
   'sliding-glass-door-draft-sealing-winter': { category: 'drafts', dek: 'Weatherstrip, shrink film or a heavy curtain for the patio door that lets winter in.' },
   'slow-cooker-vs-instant-pot-vs-oven-cost-to-run': { category: 'kitchen', dek: 'What a pot of chili or a roast costs to cook each way, with food-safety notes.' },
   'smart-thermostat-install-cost-vs-diy': { category: 'heating', dek: 'What a pro charges, what a C-wire is and when installing it yourself is fine.' },
@@ -113,6 +115,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
 };
 
 const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'roof-heat-cable-cost-to-run-ice-dams': { photo: insulation2, alt: "A heat cable clipped in a zigzag along the shingles above a white gutter" },
   'garage-heater-cost-to-run-electric-vs-propane': { photo: heating24, alt: "The inside of a white steel single-car garage door with its tracks and hinges" },
   'hot-tub-cost-to-run-winter-cover-thermal-blanket': { photo: water2, alt: "A round outdoor hot tub with a wooden surround in a leafy garden" },
   'best-smart-thermostats-2026': { photo: heating4, alt: "A person holding a smart thermostat showing the room temperature" },

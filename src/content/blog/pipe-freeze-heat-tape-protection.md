@@ -64,7 +64,7 @@ If pipes are already frozen solid, follow safe thaw practices or call a plumber 
 
 ### What not to do
 
-- **Never use roof / gutter de-icing cable on water pipes.** Different product class, different listing, different install rules.
+- **Never use roof / gutter de-icing cable on water pipes.** Different product class, different listing, different install rules. If ice dams are your problem, see our [roof heat cable guide](/blog/roof-heat-cable-cost-to-run-ice-dams/).
 - **Do not overlap or cross constant-wattage thermostat kits** (Frost King HC-style and similar). Spiral only if *that* label allows — many require straight runs along the pipe.
 - **Do not assume “self-regulating” means ignore the manual.** Spiral and limited overlap are allowed only as *your* label specifies.
 - **Prefer GFCI** — plug into a GFCI outlet or use a GFCI-protected circuit / listed GFCI plug. Don’t run cords through standing water.
