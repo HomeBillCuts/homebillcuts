@@ -262,6 +262,7 @@ Do both if both leak — but if you can only do one evening, close the biggest c
 - [Fireplace & chimney draft blockers](/blog/fireplace-chimney-draft-blockers/) — idle flues that steal heat
 - [Attic stair & hatch insulation covers](/blog/attic-stair-hatch-insulation-covers/) — other big envelope holes
 - [Priority checklist](/blog/lower-electric-bill-priority-checklist/) — cheap sealing before heating upgrades
+- [Garage heater cost to run](/blog/garage-heater-cost-to-run-electric-vs-propane/) — what heating the garage costs once the door is sealed
 
 ## Bottom line
 

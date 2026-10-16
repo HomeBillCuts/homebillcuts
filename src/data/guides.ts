@@ -19,6 +19,7 @@ import heating19 from '../assets/photos/heating19.jpg';
 import heating20 from '../assets/photos/heating20.jpg';
 import heating22 from '../assets/photos/heating22.jpg';
 import heating23 from '../assets/photos/heating23.jpg';
+import heating24 from '../assets/photos/heating24.jpg';
 import heating4 from '../assets/photos/heating4.jpg';
 import heating5 from '../assets/photos/heating5.jpg';
 import heating6 from '../assets/photos/heating6.jpg';
@@ -72,6 +73,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'fireplace-chimney-draft-blockers': { category: 'drafts', dek: 'Cold air from an unused fireplace is usually a leaky damper. Here is how to plug it safely.' },
   'furnace-humidifier-water-panels-winter-comfort': { category: 'heating', dek: 'Replace the right water panel and dry winter air feels warmer at the same setting.' },
   'garage-door-weather-seals-bottom-seals': { category: 'drafts', dek: 'Bottom seals and perimeter strips for attached garages that leak cold into the house.' },
+  'garage-heater-cost-to-run-electric-vs-propane': { category: 'heating', dek: 'What an hour of garage heat costs with electric, propane or a heat pump, and the door fixes to do first.' },
   'heat-pump-aux-heat-high-bill-thermostat-settings': { category: 'heating', dek: 'Backup heat strips are expensive. These thermostat settings keep them from kicking in early.' },
   'heat-pump-water-heater-vs-standard': { category: 'water', dek: 'A heat pump water heater costs more up front. Here is how to tell if it pays back in your home.' },
   'heated-mattress-pads-zone-heating': { category: 'heating', dek: 'Warm the bed instead of the house and drop the overnight thermostat.' },
@@ -111,6 +113,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
 };
 
 const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'garage-heater-cost-to-run-electric-vs-propane': { photo: heating24, alt: "The inside of a white steel single-car garage door with its tracks and hinges" },
   'hot-tub-cost-to-run-winter-cover-thermal-blanket': { photo: water2, alt: "A round outdoor hot tub with a wooden surround in a leafy garden" },
   'best-smart-thermostats-2026': { photo: heating4, alt: "A person holding a smart thermostat showing the room temperature" },
   'duct-sealing-mastic-foil-tape-hvac': { photo: heating10, alt: "Workers installing a section of sheet-metal ductwork" },
