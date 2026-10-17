@@ -177,6 +177,8 @@ These are worked examples with round numbers, not measurements. Your climate, in
 
 Most garages don't need to be heated when nobody is in them. Turn the heater on 30 to 60 minutes before you start, and turn it off or way down when you're done. A heater with a timer or Wi-Fi control makes that easy.
 
+If the main reason you heat the garage is so the car starts on cold mornings, a block heater on an outdoor timer does that for pennies a day. Our [block heater guide](/blog/engine-block-heater-cost-to-run-timer/) has the cost per morning and the timer setup.
+
 ### Pick a setpoint you'll actually work at
 
 The difference between 55°F and 65°F in a garage is big, because the gap to the outdoors is already large and the walls leak heat quickly. Dress for the work and keep the garage cooler than your house. Our [setback math guide](/blog/thermostat-setback-savings-math-per-degree/) explains why every degree of gap counts.

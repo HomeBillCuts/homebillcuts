@@ -29,6 +29,7 @@ import heating8 from '../assets/photos/heating8.jpg';
 import heating9 from '../assets/photos/heating9.jpg';
 import water2 from '../assets/photos/water2.jpg';
 import electricity3 from '../assets/photos/electricity3.jpg';
+import electricity4 from '../assets/photos/electricity4.jpg';
 
 const extra: Partial<Record<CategoryId, { photo: ImageMetadata; alt: string }[]>> = {
   heating: [
@@ -71,6 +72,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
   'electric-fireplace-cost-to-run-heat-vs-flame-only': { category: 'heating', dek: 'Heat mode runs about 26¢ an hour. The flame effect alone costs almost nothing.' },
   'electric-kettle-vs-stove-microwave-cost-to-boil-water': { category: 'kitchen', dek: 'A liter costs about 2¢ in a kettle. Overfilling and reboiling cost more than which device you use.' },
   'electric-water-heater-timers-cut-standby': { category: 'water', dek: 'When a timer on an electric tank helps, and when your schedule makes it pointless.' },
+  'engine-block-heater-cost-to-run-timer': { category: 'electricity', dek: 'Two hours of plugging in warms most engines. A timer cuts a winter of block heater power by about 80 percent.' },
   'emporia-vue-vs-sense': { category: 'electricity', dek: 'Two whole-home energy monitors compared: install, accuracy and what you learn from each.' },
   'fireplace-chimney-draft-blockers': { category: 'drafts', dek: 'Cold air from an unused fireplace is usually a leaky damper. Here is how to plug it safely.' },
   'furnace-humidifier-water-panels-winter-comfort': { category: 'heating', dek: 'Replace the right water panel and dry winter air feels warmer at the same setting.' },
@@ -117,6 +119,7 @@ export const guides: Record<string, { category: CategoryId; dek: string }> = {
 };
 
 const photoFor: Record<string, { photo: ImageMetadata; alt: string }> = {
+  'engine-block-heater-cost-to-run-timer': { photo: electricity4, alt: "A snow-covered SUV parked outside an apartment block with a power cord running from a wooden post to its front end" },
   'heated-pet-bed-water-bowl-cost-to-run': { photo: electricity3, alt: "A brindle dog curled up asleep in a round, fur-lined pet bed" },
   'roof-heat-cable-cost-to-run-ice-dams': { photo: insulation2, alt: "A heat cable clipped in a zigzag along the shingles above a white gutter" },
   'garage-heater-cost-to-run-electric-vs-propane': { photo: heating24, alt: "The inside of a white steel single-car garage door with its tracks and hinges" },

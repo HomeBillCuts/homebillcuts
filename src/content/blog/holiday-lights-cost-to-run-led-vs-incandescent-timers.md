@@ -150,6 +150,8 @@ For most displays, photocell + countdown or an outdoor smart plug with a sunset 
 
 **Split the display.** If you have inflatables plus strings, two timers (or a two-outlet smart plug controlled separately) lets you run the fans for fewer hours than the lights, as in display D.
 
+Once the decorations come down, a heavy-duty outdoor timer is just as useful for a car's engine block heater. See our [block heater guide](/blog/engine-block-heater-cost-to-run-timer/) for how long to run one.
+
 ## Time-of-use: holiday lights run during peak
 
 Many time-of-use plans charge the most in the late afternoon and early evening — often until about 8 or 9 pm — exactly when holiday lights are on. Check your plan's exact windows on your bill or utility account.
